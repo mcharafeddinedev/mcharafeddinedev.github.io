@@ -1,7 +1,7 @@
 # mcharafeddine.github.io
 Personal Website
 
-## Projects
+# Projects
 ## Project 1
 - Description
 - Links
