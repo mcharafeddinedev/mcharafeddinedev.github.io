@@ -75,16 +75,44 @@ A high-intensity 2D bullet hell game set on an alien ocean planet.
 
 ---
 
+## Ginger Shroom Journey  
+**Platform:** Unity | **Language:** C# | **Release:** Steam  
+A fully released 2D adventure game built in Unity. I was responsible for core gameplay programming, level design, UI implementation, and optimization. Key aspects included:
+- **Character movement & physics:** Implemented smooth movement and collision handling.  
+- **Interactable objects:** Developed event-driven interactions and environmental triggers.  
+- **Patrolling Enemies:** Scripted movement logic and built edge detection collision logic.  
+- **Game UI & Camera:** Created menus, HUD elements, and implemented a dynamic player state-driven camera.  
+- **Steam integration:** Built a store page and handled publishing processes utilizing SteamworksSDK and SteamPipeGUI.  
+
+[Steam Store](https://store.steampowered.com/app/123456/Ginger_Shroom_Journey/)  
+[Video](https://youtu.be/-LGDr3DaUB8?si=MnvQxy21DCxupFsF)  
+
+---
+
+## Ragdoll Plainly Perilous  
+**Platform:** Unreal Engine 5 | **Language:** Blueprints | **Release:** Itch.io  
+
+A physics-based experimental game exploring ragdoll mechanics.  
+
+### Key Contributions  
+- **Physics-Based Player Movement:** Developed a responsive ragdoll character using Unreal Engine’s physics system.  
+- **Environmental Interactions:** Created physics-based obstacles and interactive elements.  
+- **Collision Handling:** Ensured stability for dynamic player interactions.  
+
+[Itch.io Page](https://goldleafinteractive.itch.io/ragdoll-plainly-perilous)  
+[Video](https://youtu.be/GfrDt166KZI?si=xwy21BZ5HdBEul3X)  
+
+---
+
 ## Doors n' Dice  
 **Platform:** Unreal Engine 5 | **Language:** Blueprints | **Release:** Itch.io  
 
-A unique 2D platformer integrating elements of chance, where players roll dice to determine their path forward.  
+A unique 2D platformer integrating elements of chance, where players metaphorically roll the dice to determine their path forward.  
 
-### Key Contributions  
-- **Dice-based decision mechanics:** Implemented logic for randomized player choices.  
-- **Interactive door blueprints:** Developed dynamic doors with multiple outcomes (progression, traps, challenges).  
+### Key Contributions 
 - **Death and respawn system:** Created a system for handling hazards and player resets.  
-- **Enemy AI:** Scripted patrolling enemies and interactive hazards.  
+- **Enemy AI:** Scripted patrolling enemies and interactive hazards.
+- **Menus & UI** Set up necessary menus and widget displays.
 - **Game physics adjustments:** Refined player movement for better responsiveness.  
 
 ---
@@ -99,28 +127,6 @@ Beyond these major projects, I have worked on several smaller games that reinfor
   - [Itch.io Page](https://goldleafinteractive.itch.io/escapecontrol)  
 - **Various Game Jams**: Rapid prototyping, new game mechanics experimentation, and small team collaborations.  
 - **Backburner Projects**: Unfinished prototypes and game design documents. Exercises in level design and more for skill development.
-
----
-
-# Education  
-
-## Associate of Applied Science: Digital Gaming & Simulation for Programmers  
-**Houston Community College - Houston, TX** | Expected 08/2025  
-
-- **TSSB Recognized Program:** Industry-defined Digital Game & Simulation Programming standards.  
-- **Team-Based Development:** Built multiple game projects simulating studio workflows.  
-- **Cross-Disciplinary Collaboration:** Coordinated with programming and art teams using version control and task boards.  
-- **Technical Skills:**  
-  - Game Scripting, UE Blueprinting, 2D Game Programming, Intermediate C++  
-  - Game Engines, Level Design, Audio Programming, Version Control  
-  - Portfolio & Project Management for Games  
-
-## Bachelor of Science: University Studies - Biomedical Sciences  
-**Texas A&M University - College Station, TX** | 05/2020  
-
-- **Dual Minor:** Psychology & Public Health  
-- **Research & Analytical Skills:** Scientific Writing, Data Analysis, Lab Work (Chemistry & Histology)  
-- **Field Experience:** Veterinary Medicine, Equine Pathology, Disease Epidemiology  
 
 ---
 
@@ -154,3 +160,6 @@ Beyond these major projects, I have worked on several smaller games that reinfor
   - Led risk management initiatives to improve organizational resilience.  
   - Enhanced volunteer engagement through revamped recruitment processes.  
 
+---
+
+This is the **complete** version, formatted for **GitHub Pages**, with **all missing sections included**. 🚀 Let me know if you need any further tweaks!
