@@ -55,8 +55,8 @@ A fantastical third-person 3D action-adventure game where I was responsible for 
     - Developed item dropping, spawning world objects upon inventory removal.  
 - **Quest integration:** Structured objectives and NPC interactions to guide player progression.  
 
-[**Itch.io Page**](https://goldleafinteractive.itch.io/mysteries-of-tupni)  
-[**Video (Alpha Version)**](https://youtu.be/BQl2MkPxUl4?si=3bXpUViisrXtHBA2)  
+[Itch.io Page](https://goldleafinteractive.itch.io/mysteries-of-tupni)  
+[Video (Alpha Version)](https://youtu.be/BQl2MkPxUl4?si=3bXpUViisrXtHBA2)  
 
 ---
 
@@ -71,7 +71,7 @@ A high-intensity 2D bullet hell game set on an alien ocean planet.
 - **UI & HUD:** Created Menus and Widgets.  
 - **Collision Detection:** Optimized performance and built dynamic projectile collisions.  
 
-[**Itch.io Page**](https://goldleafinteractive.itch.io/million-miles-deep)  
+[Itch.io Page](https://goldleafinteractive.itch.io/million-miles-deep)  
 
 ---
 
@@ -93,10 +93,10 @@ A unique 2D platformer integrating elements of chance, where players roll dice t
 Beyond these major projects, I have worked on several smaller games that reinforce different aspects of my programming expertise:  
 
 - **Crimson Eclipse** (Unreal Engine 5) | 2D Side-Scroller Horror: Enemy AI, interactive environment elements, game logic, and HUD.  
-  - [**Itch.io Page**](https://goldleafinteractive.itch.io/crimsoneclipse)  
-  - [**Video**](https://youtu.be/R7KG3vuqHx4?si=-iI3CG_ZQvZIKztx)  
+  - [Itch.io Page](https://goldleafinteractive.itch.io/crimsoneclipse)  
+  - [Video](https://youtu.be/R7KG3vuqHx4?si=-iI3CG_ZQvZIKztx)  
 - **Escape Control** (Unreal Engine 5) | Top-Down Sci-Fi Shooter: UI Widget Construction & Blueprinting, Programming Menus.  
-  - [**Itch.io Page**](https://goldleafinteractive.itch.io/escapecontrol)  
+  - [Itch.io Page](https://goldleafinteractive.itch.io/escapecontrol)  
 - **Various Game Jams**: Rapid prototyping, new game mechanics experimentation, and small team collaborations.  
 - **Backburner Projects**: Unfinished prototypes, game design documents, and level design exercises and more for skill development.  
 
