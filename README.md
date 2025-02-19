@@ -1,5 +1,6 @@
-# mcharafeddine.github.io
+# mcharafeddinedev.github.io
 Personal Websites + Portfolio
+- [GitHub](https://github.com/mcharafeddinedev)
 - [Itch.io](goldleafinteractive.itch.io)
 - [LinkedIn](www.linkedin.com/in/marwan-charafeddine-213065155)
 
