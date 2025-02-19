@@ -129,32 +129,32 @@ These projects exhibit my technical knowledge in Unreal Engine 5 and Unity, with
 # Work History
 
 ## Scheduler/Coordinator  
-- Complete Digestive Disease Care - TX | 03/2023 - Present  
+- **Complete Digestive Disease Care - Houston, TX** | 03/2023 - Present  
   • Manage travel logistics, scheduling flights and accommodations for a board-certified gastroenterologist across multiple cities.  
   • Act as primary liaison for travel and scheduling, resolving last-minute changes efficiently.  
   • Maintain an organized scheduling system, balancing locum assignments and hospital rotations.  
   • Optimize travel arrangements and streamline expense tracking with the finance department.
 
 ## Independent Game Developer  
-- Self - Houston, TX | 11/2023 - Present  
+- **Self - Houston, TX** | 11/2023 - Present  
   • Design and implement game levels with intentional mechanics and interactive elements.  
-  • Develop prototypes using C#, C++, and Unreal Engine Blueprints.  
-  • Successfully launched a Unity-based project on Steam, integrating SteamPipeGUI and Steamworks SDK.  
+  • Develop prototypes using C#, C++, and Unreal Engine Blueprints.    
   • Create intuitive tutorial systems to onboard players and reinforce core mechanics.  
-  • Establish design documentation, task management systems, and structured workflows for small project teams.  
+  • Establish design documentation, task management systems, and structured workflows for small project teams.
+  • Successfully launched a Unity-based project on Steam, integrating SteamPipeGUI and Steamworks SDK. 
 
 ## Risk Management/Event Logistics Officer  
-- Student Organization - College Station, TX | 01/2016 - 08/2019  
+- **Student Organization - College Station, TX** | 01/2016 - 08/2019  
   • Coordinated logistics and risk management for up to 10 major events annually.  
   • Optimized venue layouts to enhance attendee flow and maximize space utilization.  
   • Developed comprehensive contingency plans to ensure seamless event execution.  
   • Strengthened teamwork and communication skills while collaborating with diverse teams.  
 
 ## Internal Judiciary Board Member  
-- Student Organization - College Station, TX | 01/2017 - 01/2018  
+- **Student Organization - College Station, TX** | 01/2017 - 01/2018  
   • Served on the chapter’s Judiciary Board, enforcing organizational policies and handling disciplinary matters.  
   • Facilitated discussions and conflict resolution, ensuring fair decision-making processes.  
   • Led risk management initiatives to improve organizational resilience.  
-  • Enhanced volunteer engagement through a revamped recruitment process.  
+  • Enhanced volunteer engagement through revamped recruitment processes.  
   • Fostered collaboration among board members, strengthening internal communication and governance.  
 
