@@ -138,10 +138,10 @@ These projects exhibit my technical knowledge in Unreal Engine 5 and Unity, with
 ## Independent Game Developer  
 - **Self - Houston, TX** | 11/2023 - Present  
   • Design and implement game levels with intentional mechanics and interactive elements.  
-  • Develop prototypes using C#, C++, and Unreal Engine Blueprints.    
+  • Develop prototypes using C#, C++, and Unreal Engine Blueprints.  
   • Create intuitive tutorial systems to onboard players and reinforce core mechanics.  
-  • Establish design documentation, task management systems, and structured workflows for small project teams.
-  • Successfully launched a Unity-based project on Steam, integrating SteamPipeGUI and Steamworks SDK. 
+  • Establish design documentation, task management systems, and structured workflows for small project teams.  
+  • Successfully launched a Unity-based project on Steam, integrating SteamPipeGUI and Steamworks SDK.  
 
 ## Risk Management/Event Logistics Officer  
 - **Student Organization - College Station, TX** | 01/2016 - 08/2019  
