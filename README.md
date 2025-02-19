@@ -98,7 +98,7 @@ Beyond these major projects, I have worked on several smaller games that reinfor
 - **Escape Control** (Unreal Engine 5) | Top-Down Sci-Fi Shooter: UI Widget Construction & Blueprinting, Programming Menus.  
   - [Itch.io Page](https://goldleafinteractive.itch.io/escapecontrol)  
 - **Various Game Jams**: Rapid prototyping, new game mechanics experimentation, and small team collaborations.  
-- **Backburner Projects**: Unfinished prototypes, game design documents, and level design exercises and more for skill development.  
+- **Backburner Projects**: Unfinished prototypes and game design documents. Exercises in level design and more for skill development.
 
 ---
 
