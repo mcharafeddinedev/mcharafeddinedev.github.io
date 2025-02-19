@@ -1,19 +1,9 @@
 # mcharafeddinedev.github.io
-My Links
+Other Sites
 - [Itch.io](https://goldleafinteractive.itch.io)
 - [LinkedIn](https://www.linkedin.com/in/marwan-charafeddine-213065155)
 
 # Projects
-
-## Mysteries of Tupni
-**Platform:** Unreal Engine 5 | **Language:** Blueprints | **Release:** Itch.io  
-A third-person action-adventure dungeon crawler where I led level design and programming efforts. My contributions included:
-- **Level design & environment scripting:** Created modular level layouts and interactive elements.
-- **Combat system:** Implemented player attacks, enemy AI, and damage mechanics.
-- **Game progression:** Designed quest triggers, scripted cutscenes, and integrated dialogue systems.
-- **Inventory system:** Developed a functional inventory with item pickups, weapon switching, and consumable tracking.
-  
-[Itch.io Page](https://goldleafinteractive.itch.io/mysteries-of-tupni)
 
 ## Ginger Shroom Journey
 **Platform:** Unity | **Language:** C# | **Release:** Steam  
@@ -44,6 +34,26 @@ A high-intensity 2D bullet hell game set on an alien ocean planet. My programmin
   
 [Itch.io Page](https://goldleafinteractive.itch.io/million-miles-deep)
 
+## Mysteries of Tupni
+**Platform:** Unreal Engine 5 | **Language:** Blueprints | **Release:** Itch.io  
+A third-person action-adventure dungeon crawler where I was responsible for level design and various programming tasks. My contributions included:
+
+- **Level design & environment setup:** Created and structured key game environments, including dungeon layouts and interactive elements.
+- **Interactive objects:** Designed and scripted interactables with widget displays, doors, and chests.
+- **Inventory system:** Developed an interactive inventory system based on integrating:
+  - **Item data structures:** Designed a structured inventory system using Unreal Engine's Data Tables to define item properties, such as item names, descriptions, stackability, and icons.
+  - **UI integration:** Built inventory widgets that support:
+    - **Drag-and-drop functionality** for moving items between slots.
+    - **Tooltips** for detailed item information on hover.
+    - **Filtering and sorting** based on item types (weapons, consumables, quest items).
+    - **Persistent Inventory** across different game levels/environments.
+  - **Item interaction mechanics:**
+    - Implemented item pickup logic using trace detection and interaction events.
+    - Designed item usage logic, supporting consumables, equippables, and stackable resources.
+    - Worked on item dropping functionality, spawning world objects upon inventory removal.
+- **Quest integration:** Structured objectives and NPC interactions to guide player progression.
+
+[Itch.io Page](https://goldleafinteractive.itch.io/mysteries-of-tupni)
 
 ## Doors n' Dice
 **Platform:** Unreal Engine 5 | **Language:** Blueprints | **Release:** Itch.io  
@@ -65,7 +75,29 @@ These projects exhibit my technical knowledge in Unreal Engine 5 and Unity, with
 
 
 # Education
-- Some University
+
+## Associate of Applied Science: Digital Gaming & Simulation for Programmers  
+**Houston Community College - Houston, TX** | Expected in 08/2025  
+- **National Society of Leadership & Success (NSLS) Member**  
+- **Texas Skill Standards (TSSB) Recognized Program** – Industry-defined skill standards for Digital Game & Simulation Programming  
+- **Team-Based Game Development** – Built multiple game projects simulating small-scale studio workflows  
+- **Cross-Disciplinary Collaboration** – Coordinated between programming and art departments using online communication and task boards  
+- **Relevant Coursework:**  
+  - Game Design & Creation, Game Scripting, UE Blueprinting, 2D Game Programming  
+  - Intermediate C++, Interactive Audio, Applied Mathematics  
+- **Professional Development:**  
+  - Game Engines, Level Design, Audio Programming, Version Control  
+  - Project Development, Portfolio & Project Management for Games
+  - Technical Writing, Logging, and Documentation  
+- **Academic Achievement:**  
+  - Dean's List Fall '24  
+  - 3.8 Cumulative GPA  
+
+## Bachelor of Science: University Studies - Biomedical Sciences  
+**Texas A&M University - College Station, TX** | 05/2020  
+- **Dual Minor:** Psychology + Public Health  
+- **Analytical & Research Skills:** Scientific Writing, Data Analysis, Lab Work (Chemistry & Histology)  
+- **Field Work Experience:** Veterinary Medicine, Equine Pathology, Environmental and Population Health, Disease Epidemiology
 
 # Work History
 - Work place 1
