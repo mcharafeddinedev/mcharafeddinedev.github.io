@@ -159,7 +159,3 @@ Beyond these major projects, I have worked on several smaller games that reinfor
   - Facilitated discussions, ensuring fair decision-making processes.  
   - Led risk management initiatives to improve organizational resilience.  
   - Enhanced volunteer engagement through revamped recruitment processes.  
-
----
-
-This is the **complete** version, formatted for **GitHub Pages**, with **all missing sections included**. 🚀 Let me know if you need any further tweaks!
