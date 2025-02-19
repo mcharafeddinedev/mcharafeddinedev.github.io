@@ -1,4 +1,9 @@
-# Welcome!
+# Welcome to my website!
+
+Hey there! I'm Marwan, a games programmer and developer. I'm passionate about designing immersive experiences and gameplay mechanics--my work focuses on player interactions, AI behaviors, UI design and programming, and level scripting. Whether it’s building complex systems in **Unreal Engine 5 and Unity**, scripting AI behaviors, or crafting dynamic environments, I love solving the challenges that bring games to life. 
+
+This website is a collection of my projects, technical breakdowns, and development insights.
+Take a look around, and feel free to reach out!
 
 ## Other Sites  
 - [Itch.io](https://goldleafinteractive.itch.io)  
@@ -6,7 +11,7 @@
 
 ---
 
-# Projects  
+# Project Experience
 
 ## Void Knights  
 **Platform:** Unreal Engine 5 | **Language:** Blueprints | **Status:** In Development  
@@ -118,12 +123,12 @@ A unique 2D platformer integrating elements of chance, where players metaphorica
 ---
 
 ## Additional Projects  
-Beyond these major projects, I have worked on several smaller games that reinforce different aspects of my programming expertise:  
+Beyond those listed previously, I have also worked on several smaller projects that reinforce different aspects of my programming expertise:
 
-- **Crimson Eclipse** (Unreal Engine 5) | 2D Side-Scroller Horror: Enemy AI, interactive environment elements, game logic, and HUD.  
-  - [Itch.io Page](https://goldleafinteractive.itch.io/crimson-eclipse)  
-  - [Video](https://youtu.be/R7KG3vuqHx4?si=-iI3CG_ZQvZIKztx)  
-- **Escape Control** (Unreal Engine 5) | Top-Down Sci-Fi Shooter: UI Widget Construction & Blueprinting, Programming Menus.  
+- **Crimson Eclipse** (Unreal Engine 5) | 2D Side-Scroller Horror: Enemy AI, interactive environment elements, game logic, and HUD.
+  - [Itch.io Page](https://goldleafinteractive.itch.io/crimson-eclipse)
+  - [Video](https://youtu.be/R7KG3vuqHx4?si=-iI3CG_ZQvZIKztx)
+- **Escape Control** (Unreal Engine 5) | Top-Down Sci-Fi Shooter: UI Widget Construction & Blueprinting, Programming Menus.
   - [Itch.io Page](https://goldleafinteractive.itch.io/escape-control)  
 - **Various Game Jams**: Rapid prototyping, new game mechanics experimentation, and small team collaborations.  
 - **Backburner Projects**: Unfinished prototypes and game design documents. Exercises in level design and more for skill development.
@@ -133,14 +138,14 @@ Beyond these major projects, I have worked on several smaller games that reinfor
 # Work History  
 
 ## Scheduler/Coordinator  
-- **Complete Digestive Disease Care - TX** | 03/2023 - Present  
+- **Complete Digestive Disease Care - TX** | 03/2023 - Present
   - Manage travel logistics, scheduling flights and accommodations for a board-certified gastroenterologist.  
-  - Act as primary liaison for travel and scheduling, resolving last-minute changes efficiently.  
+  - Act as primary liaison for travel and scheduling, resolving last-minute changes efficiently, if necessary.  
   - Maintain an organized scheduling system, balancing locum assignments and hospital rotations.  
-  - Optimize travel arrangements and streamline expense tracking.  
+  - Optimize travel arrangements and streamline expense tracking.
 
 ## Independent Game Developer  
-- **Self - Houston, TX** | 11/2023 - Present  
+- **Self - Houston, TX** | 11/2023 - Present
   - Design and implement game levels with interactive mechanics.  
   - Develop prototypes using C#, C++, and Unreal Engine Blueprints.  
   - Create tutorial systems for player onboarding and mechanics reinforcement.  
@@ -148,13 +153,13 @@ Beyond these major projects, I have worked on several smaller games that reinfor
   - Published a Unity-based project on Steam using **Steamworks SDK**.  
 
 ## Risk Management/Event Logistics Officer  
-- **Student Organization - College Station, TX** | 01/2016 - 08/2019  
+- **Student Organization - College Station, TX** | 01/2016 - 08/2019
   - Coordinated logistics and risk management for up to 10 major events annually.  
   - Optimized venue layouts to enhance attendee flow and maximize space utilization.  
   - Developed comprehensive contingency plans to ensure seamless event execution.  
 
 ## Internal Judiciary Board Member  
-- **Student Organization - College Station, TX** | 01/2017 - 01/2018  
+- **Student Organization - College Station, TX** | 01/2017 - 01/2018
   - Enforced organizational policies and handled disciplinary matters.  
   - Facilitated discussions, ensuring fair decision-making processes.  
   - Led risk management initiatives to improve organizational resilience.  
