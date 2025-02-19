@@ -11,10 +11,10 @@
 ## Void Knights  
 **Platform:** Unreal Engine 5 | **Language:** Blueprints | **Status:** In Development  
 
-Void Knights is a third-person, 3D turn-based RPG project inspired by the **Persona** series, focusing on dual-world exploration, psychic abilities, and interactive storytelling. My programming work is centered on two core gameplay systems: **Psychic Abilities** and **Exploration & Interaction**.  
+Void Knights is a third-person, 3D turn-based RPG project inspired by the *Persona* series, focusing on dual-world exploration, psychic abilities, and interactive storytelling. My programming work is centered on two core gameplay systems: 'Psychic Abilities' and 'Exploration & Interaction'.  
 
 ### Key Contributions  
-- **Void Entrance Mechanic:** Developing a world-shifting mechanic allowing players to transition between **Reality** and the **Void Verse** to solve puzzles or reveal hidden paths.  
+- **Void Entrance Mechanic:** Developing a world-shifting mechanic allowing players to transition between *Reality* and the *Void Verse* to solve puzzles or reveal hidden paths.  
   - Environment dynamically shifts between worlds.  
   - Some objects or enemies may only exist in one realm, requiring strategic shifting.  
   - System is energy-based, preventing excessive use.  
