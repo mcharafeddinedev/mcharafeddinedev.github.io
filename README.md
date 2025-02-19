@@ -140,7 +140,7 @@ Beyond these major projects, I have worked on several smaller games that reinfor
   - Optimize travel arrangements and streamline expense tracking.  
 
 ## Independent Game Developer  
-- **Self - Houston, TX**| 11/2023 - Present  
+- **Self - Houston, TX** | 11/2023 - Present  
   - Design and implement game levels with interactive mechanics.  
   - Develop prototypes using C#, C++, and Unreal Engine Blueprints.  
   - Create tutorial systems for player onboarding and mechanics reinforcement.  
