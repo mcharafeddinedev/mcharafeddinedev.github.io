@@ -5,34 +5,28 @@ Other Sites
 
 # Projects
 
-## Ginger Shroom Journey
-**Platform:** Unity | **Language:** C# | **Release:** Steam  
-Ginger Shroom Journey is a fully released 2D adventure game built in Unity. I was responsible for core gameplay programming, level design, UI implementation, and optimization. Key contributions include:
-- **Character movement & physics:** Implemented smooth movement and collision handling.
-- **Interactable objects:** Developed event-driven interactions and environmental triggers.
-- **Game UI:** Created menus, HUD elements, and polished UI interactions.
-- **Steam integration:** Handled publishing processes and store presence.
-  
-[Steam Store](https://store.steampowered.com/app/123456/Ginger_Shroom_Journey/)
 
-## Ragdoll Plainly Perilous
-**Platform:** Unreal Engine 5 | **Language:** Blueprints | **Release:** Itch.io  
-A physics-based experimental game exploring ragdoll mechanics. My technical contributions include:
-- **Player Movement Through Physics Simulation:** Created a responsive ragdoll character using Unreal’s physics system.
-- **Environmental Interactions:** Developed physics-based obstacles and triggers.
-- **Collision Handling:** Ensured stability in interactions between objects and the player.
-  
-[Itch.io Page](https://goldleafinteractive.itch.io/ragdoll-plainly-perilous)
+## Void Knights
+**Platform:** Unreal Engine 5 | **Language:** Blueprints | **In Development**  
+Void Knights is a third-person, turn-based RPG project inspired by the **Persona** series, focusing on dual-world exploration, psychic abilities, and interactive storytelling. My programming work is centered on two core gameplay systems: **Psychic Abilities** and **Exploration & Interaction**. Key contributions include:
 
-## Million Miles Deep
-**Platform:** Unreal Engine 5 | **Language:** Blueprints | **Release:** Itch.io  
-A high-intensity 2D bullet hell game set on an alien ocean planet. My programming work included:
-- **Enemy AI:** Designed enemy movement patterns and attack behaviors.
-- **Projectile mechanics:** Implemented shooting logic and projectile lifespan handling.
-- **UI & HUD:** Created Menus and Widgets.
-- **Collision detection:** Optimized performance.
-  
-[Itch.io Page](https://goldleafinteractive.itch.io/million-miles-deep)
+- **Void Entrance Mechanic:** Developing a world-shifting mechanic allowing players to transition between **Reality** and the **Void Verse** to solve puzzles or reveal hidden paths.
+  - Environment dynamically shifts between worlds.
+  - Some objects or enemies may only exist in one realm, requiring strategic shifting.
+  - System is energy-based, preventing excessive use.
+- **Object Manipulation Mechanic:** Telekinesis-based object interaction with engine physics for environmental puzzles and combat.
+  - Players can lift, move, and throw objects with psychic abilities.
+  - Physics-based interactions ensure objects behave naturally.
+- **Exploration & Interactive World Systems:** Developing mechanics that enhance environmental interactions and puzzle-solving.
+  - Players interact with doors, switches, destructible barriers, and world elements.
+  - Some interactions change depending on the active world (Reality vs. Void Verse).
+  - Designed puzzles require players to shift between worlds for progression.
+- **NPC AI & Dialogue System:** Working on interactive NPCs with branching conversations and dynamic behaviors.
+  - NPCs follow set behaviors, patrols, and schedules.
+  - Dialogue system supports branching choices affecting interactions.
+  - Some NPCs provide quests, lore, and tracked narrative progression.
+
+Void Knights is currently in active development, with further refinements to AI, world interactions, and puzzle mechanics planned for future iterations.
 
 ## Mysteries of Tupni
 **Platform:** Unreal Engine 5 | **Language:** Blueprints | **Release:** Itch.io  
@@ -55,6 +49,36 @@ A third-person action-adventure dungeon crawler where I was responsible for leve
 
 [Itch.io Page](https://goldleafinteractive.itch.io/mysteries-of-tupni)
 
+## Ginger Shroom Journey
+**Platform:** Unity | **Language:** C# | **Release:** Steam  
+Ginger Shroom Journey is a fully released 2D adventure game built in Unity. This was my first release of a solo project. I was responsible for core gameplay programming, level design, UI implementation, and optimization. Key aspects included:
+- **Character movement & physics:** Implemented smooth movement and collision handling.
+- **Interactable objects:** Developed event-driven interactions and environmental triggers.
+- **Patrolling Enemies** Scripted movement logic and built edge detection collision logic.
+- **Game UI & Camera:** Created menus, HUD elements, and implemented a dynamic player state-driven camera.
+- **Steam integration:** Built a store page and handled publishing processes utilizing SteamworksSDK and SteamPipeGUI.
+  
+[Steam Store](https://store.steampowered.com/app/123456/Ginger_Shroom_Journey/)
+
+## Ragdoll Plainly Perilous
+**Platform:** Unreal Engine 5 | **Language:** Blueprints | **Release:** Itch.io  
+A physics-based experimental game exploring ragdoll mechanics. My technical contributions include:
+- **Player Movement Through Physics Simulation:** Created a responsive ragdoll character using Unreal’s physics system.
+- **Environmental Interactions:** Developed physics-based obstacles and triggers.
+- **Collision Handling:** Ensured stability in interactions between objects and the player.
+  
+[Itch.io Page](https://goldleafinteractive.itch.io/ragdoll-plainly-perilous)
+
+## Million Miles Deep
+**Platform:** Unreal Engine 5 | **Language:** Blueprints | **Release:** Itch.io  
+A high-intensity 2D bullet hell game set on an alien ocean planet. My programming work included:
+- **Enemy AI:** Designed enemy movement patterns and attack behaviors.
+- **Projectile mechanics:** Implemented shooting logic and projectile lifespan handling.
+- **UI & HUD:** Created Menus and Widgets.
+- **Collision detection:** Optimized performance and built dynamic collisions for projectiles, capable of spawning new projectiles.
+  
+[Itch.io Page](https://goldleafinteractive.itch.io/million-miles-deep)
+
 ## Doors n' Dice
 **Platform:** Unreal Engine 5 | **Language:** Blueprints | **Release:** Itch.io  
 A unique 2D platformer integrating elements of chance, where players roll dice to determine their path forward. My technical work involved:
@@ -69,34 +93,33 @@ Beyond these major projects, I have worked on several smaller games that reinfor
 
 - **Crimson Eclipse** (Unreal Engine 5 | 2D Side-Scroller Horror): Implemented enemy AI, interactive environment elements, game logic, and dynamic HUD elements.
 - **Escape Control** (Unreal Engine 5 | Top-Down Sci-Fi Shooter): UI Widget Construction & Blueprinting, Programming Menus.
-- **Various Game Jams**: Participated in rapid prototyping cycles, experimented with new game mechanics, and collaborated on diverse projects with small to medium sized teams (3-10 people).
+- **Various Game Jams**: Participated in rapid prototyping cycles, experimented with new game mechanics, and collaborated on diverse projects with small to medium sized teams.
+- **Backburner Projects**: Like some others in the game development space, I've always got some project, a level, or even just a game idea on a document that I've had to leave behind or postpone indefinitely.
+  - Level design projects, unfinished prototypes, released prototypes, game design documents
+  - These projects usually function as learning experiences for me to either learn new gameplay programming skills, engine skills, or both.
 
-These projects exhibit my technical knowledge in Unreal Engine 5 and Unity, with exceptional skills in Blueprints, C#, game mechanics programming, UI development, and level design.
+These projects exhibit my technical knowledge in Unreal Engine 5 and Unity, with exceptional skills in Blueprints, UI development, level design, C#, and game mechanics programming.
 
 
 # Education
 
 ## Associate of Applied Science: Digital Gaming & Simulation for Programmers  
 **Houston Community College - Houston, TX** | Expected in 08/2025  
-- **National Society of Leadership & Success (NSLS) Member**  
 - **Texas Skill Standards (TSSB) Recognized Program** – Industry-defined skill standards for Digital Game & Simulation Programming  
-- **Team-Based Game Development** – Built multiple game projects simulating small-scale studio workflows  
+- **Team-Based Game Development** – Built many game projects simulating small-scale studio workflows  
 - **Cross-Disciplinary Collaboration** – Coordinated between programming and art departments using online communication and task boards  
 - **Relevant Coursework:**  
   - Game Design & Creation, Game Scripting, UE Blueprinting, 2D Game Programming  
   - Intermediate C++, Interactive Audio, Applied Mathematics  
 - **Professional Development:**  
-  - Game Engines, Level Design, Audio Programming, Version Control  
+  - Game Engines, Level Design, Audio Programming, Version Control 
   - Project Development, Portfolio & Project Management for Games
-  - Technical Writing, Logging, and Documentation  
-- **Academic Achievement:**  
-  - Dean's List Fall '24  
-  - 3.8 Cumulative GPA  
+  - Technical Writing, Logging, and Documentation
 
 ## Bachelor of Science: University Studies - Biomedical Sciences  
 **Texas A&M University - College Station, TX** | 05/2020  
 - **Dual Minor:** Psychology + Public Health  
-- **Analytical & Research Skills:** Scientific Writing, Data Analysis, Lab Work (Chemistry & Histology)  
+- **Analytical & Research Skills:** Scientific Writing, Data Analysis, Lab Work (Chemistry & Histology) 
 - **Field Work Experience:** Veterinary Medicine, Equine Pathology, Environmental and Population Health, Disease Epidemiology
 
 # Work History
