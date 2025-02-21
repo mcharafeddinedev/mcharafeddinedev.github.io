@@ -10,15 +10,15 @@ Hey there! I'm Marwan, a games programmer and developer. I'm passionate about de
 This website is a collection of my projects, technical breakdowns, and development insights.
 Take a look around, and feel free to reach out!
 
-## Other Sites  
-- [Itch.io](https://goldleafinteractive.itch.io)  
-- [LinkedIn](https://www.linkedin.com/in/marwan-charafeddine-213065155)  
+## Site Navigation 
+- [Projects](projects.md)  
+- [Work History](work-history.md)
 
 ---
 
-## Navigation  
-- [Projects](projects.md)  
-- [Work History](work-history.md)
+## Other Sites  
+- [Itch.io](https://goldleafinteractive.itch.io)  
+- [LinkedIn](https://www.linkedin.com/in/marwan-charafeddine-213065155)  
 
 ---
 
