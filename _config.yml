@@ -9,12 +9,12 @@ description: |
 theme: jekyll-theme-midnight
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
-  - jekyll-remote-theme # Add this line to enable themes
+  - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
 
-# Define the site's pages
+# Define the site's navigation
 navbar:
   - name: "Home"
     link: "/"
@@ -24,3 +24,4 @@ navbar:
     link: "/work-history"
 
 show_downloads: false
+
