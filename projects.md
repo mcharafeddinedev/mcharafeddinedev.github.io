@@ -1,3 +1,10 @@
+---
+
+layout:default
+title: Projects
+
+---
+
 # Project Experience
 
 ## Void Knights  
@@ -119,3 +126,5 @@ Beyond those listed previously, I have also worked on several smaller projects t
   - [Itch.io Page](https://goldleafinteractive.itch.io/escape-control)  
 - **Various Game Jams**: Rapid prototyping, new game mechanics experimentation, and small team collaborations.  
 - **Backburner Projects**: Unfinished prototypes and game design documents. Exercises in level design and more for skill development.
+
+  [Back to Home](index.md)
