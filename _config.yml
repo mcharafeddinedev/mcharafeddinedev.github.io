@@ -4,7 +4,23 @@ description: |
   Game Scripting & Programming |
   Independent Game Developer
   mcharafeddinedev@gmail.com
-#show_downloads: true
+
+# Navigation bar setup
+theme: jekyll-theme-midnight
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-remote-theme # Add this line to enable themes
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Define the site's pages
+navbar:
+  - name: "Home"
+    link: "/"
+  - name: "Projects"
+    link: "/projects"
+  - name: "Work History"
+    link: "/work-history"
+
+show_downloads: false
