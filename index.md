@@ -16,6 +16,12 @@ Take a look around, and feel free to reach out!
 
 ---
 
+## Navigation  
+- [Projects](projects.md)  
+- [Work History](work-history.md)
+
+---
+
 ## Recent Project(s)
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=GfrDt166KZI" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/https://www.youtube.com/watch?v=GfrDt166KZI" frameborder="0" allowfullscreen></iframe>
