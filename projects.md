@@ -127,4 +127,6 @@ Beyond those listed previously, I have also worked on several smaller projects t
 - **Various Game Jams**: Rapid prototyping, new game mechanics experimentation, and small team collaborations.  
 - **Backburner Projects**: Unfinished prototypes and game design documents. Exercises in level design and more for skill development.
 
+  ---
+
   [Back to Home](index.md)
