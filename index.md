@@ -17,9 +17,6 @@ This website is a collection of my projects, technical breakdowns, and developme
 Take a look around, and feel free to reach out!
 
 
-
-![Alt text](docs/assets/revisedLogoForGitHubPages.png)
-
 ---
 
 
