@@ -1,4 +1,5 @@
 # Work History  
+---
 
 ### Scheduler/Coordinator  
 - **Complete Digestive Disease Care - TX** | 03/2023 - Present
