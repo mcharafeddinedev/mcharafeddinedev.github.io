@@ -18,6 +18,8 @@ Take a look around, and feel free to reach out!
 
 
 
+![Alt text](docs/assets/revisedLogoForGitHubPages.png)
+
 ---
 
 
