@@ -13,6 +13,8 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
+
+include: ["assets/css/custom.css"]
   
 # Define the site's navigation
 navbar:
