@@ -1,0 +1,23 @@
+@keyframes typewriter {
+    from {
+        width: 0;
+    }
+    to {
+        width: 100%;
+    }
+}
+
+@keyframes blink {
+    50% {
+        border-color: transparent;
+    }
+}
+
+.typing-effect {
+    display: inline-block;
+    white-space: nowrap;
+    overflow: hidden;
+    border-right: 3px solid #00ff00; /* Green hacker-style cursor */
+    width: 0;
+    animation: typewriter 2s steps(40, end) forwards, blink 0.75s step-end infinite;
+}
