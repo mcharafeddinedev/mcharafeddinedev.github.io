@@ -1,8 +1,11 @@
+<link rel="stylesheet" href="assets/css/custom.css">
 ---
 layout: default
 title: Home
 ---
   
+<h1 class="typing-effect">Welcome to my website!</h1>
+
 # Welcome to my website!
 
 
