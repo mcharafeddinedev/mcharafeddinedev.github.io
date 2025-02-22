@@ -131,7 +131,7 @@ Beyond those listed previously, I have also worked on several smaller projects t
 
   ---
 
-  ![Alt text](docs/assets/revisedLogoForGitHubPages.png)
+  [![Alt text](docs/assets/revisedLogoForGitHubPages.png)](https://goldleafinteractive.itch.io)
 
   ---
 
