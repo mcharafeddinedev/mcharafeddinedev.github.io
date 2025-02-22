@@ -21,3 +21,28 @@
     width: 0;
     animation: typewriter 2s steps(40, end) forwards, blink 0.75s step-end infinite;
 }
+
+@keyframes pop {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.2);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+a {
+    display: inline-block;
+    transition: color 0.3s ease-in-out;
+}
+
+a:hover {
+    color: #00ff00; /* Matches Hacker Theme's green */
+}
+
+a:active {
+    animation: pop 0.3s ease-in-out;
+}
