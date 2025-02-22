@@ -106,7 +106,7 @@ A physics-based experimental game exploring ragdoll mechanics.
 ## Doors n' Dice  
 **Platform:** Unreal Engine 5 | **Language:** Blueprints | **Release:** Itch.io  
 
-A unique 2D platformer integrating elements of chance, where players metaphorically roll the dice to determine their path forward.  
+A unique 2D platformer integrating elements of chance, where players take a chance on different doors to determine their path forward.  
 
 ### Key Contributions 
 - **Death and respawn system:** Created a system for handling hazards and player resets.  
