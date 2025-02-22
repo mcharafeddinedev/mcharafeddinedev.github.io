@@ -32,8 +32,4 @@ Take a look around, and feel free to reach out!
 ## Recent Project(s)
 
 
-<iframe width="560" height="315" src="https://youtube.com/embed/GfrDt166KZI" frameborder="0" allowfullscreen>
-
----
-
-</iframe><iframe width="560" height="315" src="https://youtube.com/embed/Z-7c43uqa5s" frameborder="0" allowfullscreen>
+<iframe width="560" height="315" src="https://youtube.com/embed/GfrDt166KZI" frameborder="0" allowfullscreen> </iframe><iframe width="560" height="315" src="https://youtube.com/embed/Z-7c43uqa5s" frameborder="0" allowfullscreen>
