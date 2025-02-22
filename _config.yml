@@ -3,7 +3,7 @@ logo: "docs/assets/revisedLogoForGitHubPages.png"
 description: |
   Game Scripting & Programming |
   Independent Game Developer |
-  mcharafeddinedev@gmail.com |
+  mcharafeddinedev@gmail.com 
 
 # Navigation bar setup
 theme: jekyll-theme-hacker
@@ -13,8 +13,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
-
-include: ["assets/css/custom.css"]
   
 # Define the site's navigation
 navbar:
