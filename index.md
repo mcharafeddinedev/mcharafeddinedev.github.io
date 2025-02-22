@@ -2,8 +2,6 @@
 layout: default
 title: Home
 ---
-
-<div align="center">
   
 # Welcome to my website!
 
@@ -39,5 +37,3 @@ Take a look around, and feel free to reach out!
 ---
 
 </iframe><iframe width="560" height="315" src="https://youtube.com/embed/Z-7c43uqa5s" frameborder="0" allowfullscreen>
-
-</div>
