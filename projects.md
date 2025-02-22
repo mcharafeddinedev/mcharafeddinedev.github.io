@@ -131,4 +131,8 @@ Beyond those listed previously, I have also worked on several smaller projects t
 
   ---
 
+  ![Alt text](docs/assets/revisedLogoForGitHubPages.png)
+
+  ---
+
   [Back to Home](index.md)
