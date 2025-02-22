@@ -14,7 +14,7 @@
   - Develop prototypes using C#, C++, and Unreal Engine Blueprints.  
   - Create tutorial systems for player onboarding and mechanics reinforcement.  
   - Manage documentation, task tracking, and structured workflows for small project teams.
-  - Published several Unreal Engine 5 games on itch.io, mostly collaborative team projects
+  - Published several Unreal Engine 5 games on itch.io, mostly collaborative team projects.
   - Published a Unity-based C# project on Steam using **Steamworks SDK** and **SteamPipeGUI**.  
 
 ## Leadership Positions
