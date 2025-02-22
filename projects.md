@@ -7,6 +7,8 @@ title: Projects
 
 # Project Experience
 
+---
+
 ## Void Knights  
 **Platform:** Unreal Engine 5 | **Language:** Blueprints | **Status:** In Development  
 
