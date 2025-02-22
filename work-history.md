@@ -13,8 +13,9 @@
   - Design and implement game levels with interactive mechanics.  
   - Develop prototypes using C#, C++, and Unreal Engine Blueprints.  
   - Create tutorial systems for player onboarding and mechanics reinforcement.  
-  - Manage documentation, task tracking, and structured workflows for small project teams.  
-  - Published a Unity-based project on Steam using **Steamworks SDK**.  
+  - Manage documentation, task tracking, and structured workflows for small project teams.
+  - Published several Unreal Engine 5 games on itch.io, mostly collaborative team projects
+  - Published a Unity-based C# project on Steam using **Steamworks SDK** and **SteamPipeGUI**.  
 
 ## Leadership Positions
 
