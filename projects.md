@@ -35,6 +35,28 @@ Void Knights is currently in active development, with further refinements to AI,
 
 ---
 
+## Unnamed Project
+### **2D Renderer & Game Development with Odin & Sokol**  
+**Platform:** No Engine - Windows/WebGL/MacOS | **Language:** Odin | **Status:** In Development   
+
+This project is my deep dive into **engine-free 2D game development**, using the **Odin programming language** and **Sokol** for rendering. The foundation comes from **Randy.gg’s** 2D renderer, which provides a minimalist but powerful system for handling sprites, text, and basic transformations. My goal is to **understand, extend, and build on top of it** to create a game from scratch—without relying on traditional engines like Unity or Unreal.  
+
+Right now, I’m focused on:  
+- **Learning the inner workings of the 2D renderer** and how low-level graphics programming ties everything together.  
+- **Expanding and modifying the framework** to better suit game development.  
+- **Experimenting with gameplay mechanics**, input handling, and overall game structure.  
+- **Keeping everything modular and efficient**, so it scales well as a full project.  
+
+**Next Steps**  
+- Adding **collision, physics, and animation** from scratch.  
+- Expanding the renderer’s capabilities with **new visual effects**.  
+- Prototyping a **small but polished 2D game** inside this framework.  
+- Optimizing rendering and performance for better efficiency.  
+
+This is as much a **learning experience as it is a passion project**—building something without a game engine forces me to really understand **graphics programming, memory management, and game architecture** at a lower level, and what kind of processes go on behind the scenes in a game engine. The goal is to end up with a **game that not only plays well but is built with full control over every system.**  
+
+---
+
 ## Mysteries of Tupni  
 **Platform:** Unreal Engine 5 | **Language:** Blueprints | **Release:** Itch.io  
 
