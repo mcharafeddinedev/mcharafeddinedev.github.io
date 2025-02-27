@@ -4,12 +4,12 @@ layout: default
 title: Home
 
 ---
-
+ 
 # Welcome to my website!
 
 ### Site Navigation Links
 
-[My Projects](projects.md)  --  [Work History](work-history.md)  --  [Blog](blog.md)
+[My Projects](projects.md)  --  [Work History](work-history.md)  --  [My Library](mylib.md) -- [Blog](blog.md)
 
 Hey there! I'm Marwan, a games programmer and developer. I'm passionate about building immersive experiences and gameplay mechanics. Whether it’s setting up complex systems in Unreal Engine 5 and Unity, scripting AI behaviors, or crafting dynamic environments, I love solving the challenges that bring games to life.
 
