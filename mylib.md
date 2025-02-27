@@ -1,9 +1,3 @@
---
-
-layout: default
-title: My Library
-
---
 
 # In My Library
 
