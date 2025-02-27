@@ -22,6 +22,10 @@ navbar:
     link: "/projects"
   - name: "Work History"
     link: "/work-history"
+  - name: "My Library"
+    link: "/lib"
+  - name: "Blog"
+  - link: "/blog"
 
 show_downloads: false
 
