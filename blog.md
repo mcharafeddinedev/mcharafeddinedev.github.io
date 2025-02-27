@@ -1,4 +1,9 @@
+--
 
+layout: default
+title: Blog
+
+--
 
 
 # 02-21-25
