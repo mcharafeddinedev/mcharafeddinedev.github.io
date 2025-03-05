@@ -1,6 +1,6 @@
 # In My Library 
 
-## Text Resources
+## Resources
   - **Unreal Engine 5 Game Development with C++ Scripting** - 1st Edition | Zhenyu George Li
   - **Blueprints Visual Scripting for Unreal Engine 5** - 3rd Edition | Marcus Romero & Brenden Sewell
   - **Multiplayer Game Development with Unreal Engine 5** - 1st Edition | Marco Secchi
