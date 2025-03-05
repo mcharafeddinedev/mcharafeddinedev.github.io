@@ -15,7 +15,18 @@
   - Create tutorial systems for player onboarding and mechanics reinforcement.  
   - Manage documentation, task tracking, and structured workflows for small project teams.
   - Published several Unreal Engine 5 games on itch.io, mostly collaborative team projects.
-  - Published a Unity-based C# project on Steam using **Steamworks SDK** and **SteamPipeGUI**.  
+  - Published a Unity-based C# project on Steam using **Steamworks SDK** and **SteamPipeGUI**.
+ 
+### E-Commerce Business Owner
+- **Self - Houston, TX** | 08/2022 - 03/2023
+  - Ran an online shop built in conjunction with third party fulfillment companies, providing a print-on-demand (POD) product system.
+ 
+### Content Creation & Video Production
+- **Self - TX** | 08/2019 - 03/2023
+  - Content production, video editing, and social media management for live game streaming spanning the use of many softwares and applications, including but not limited to:
+    - YouTube, TikTok, Instagram, Twitch, Mixer, OBS Studio, StreamLabs OBS, and DaVinci Resolve
+   
+---
 
 ## Leadership Positions
 
