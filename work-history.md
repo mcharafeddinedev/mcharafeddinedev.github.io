@@ -9,7 +9,7 @@
   - Optimize travel arrangements and streamline expense tracking.
 
 ### Independent Game Developer  
-- **Self - Houston, TX** | 04/2024 - Present
+- **Self - Houston, TX**  | 04/2024 - Present
   - Design and implement game levels with interactive mechanics.  
   - Develop prototypes using C#, C++, and Unreal Engine Blueprints.  
   - Create tutorial systems for player onboarding and mechanics reinforcement.  
@@ -22,7 +22,7 @@
   - Ran an online shop built in conjunction with third party fulfillment companies, providing a print-on-demand (POD) product system.
  
 ### Content Creation & Video Production
-- **Self - TX** | 08/2019 - 03/2023
+- **Self - TX** | 08/2019 - 03/2023 
   - Content production, video editing, and social media management for live game streaming spanning the use of many softwares and applications, including but not limited to:
     - YouTube, TikTok, Instagram, Twitch, Mixer, OBS Studio, StreamLabs OBS, and DaVinci Resolve
    
