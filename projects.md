@@ -147,7 +147,6 @@ Beyond those listed previously, I have also worked on several smaller projects t
   - [Itch.io Page](https://goldleafinteractive.itch.io/crimson-eclipse)
   - [Video](https://youtu.be/R7KG3vuqHx4?si=-iI3CG_ZQvZIKztx)
 - **Escape Control** (Unreal Engine 5) | Top-Down Sci-Fi Shooter: UI Widget Construction & Blueprinting, Programming Menus.
-  - [Itch.io Page](https://goldleafinteractive.itch.io/escape-control)  
 - **Various Game Jams**: Rapid prototyping, new game mechanics experimentation, and small team collaborations.  
 - **Backburner Projects**: Unfinished prototypes and game design documents. Exercises in level design and more for skill development.
 
