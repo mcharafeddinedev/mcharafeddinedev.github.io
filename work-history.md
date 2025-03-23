@@ -8,7 +8,7 @@
   - Maintain an organized scheduling system, balancing locum assignments and hospital rotations.  
   - Optimize travel arrangements and streamline expense tracking.
 
-### Independent Game Developer  
+### Game Dev Student 
 - **Self - Houston, TX**  | 04/2024 - Present
   - Design and implement game levels with interactive mechanics.  
   - Develop prototypes using C#, C++, and Unreal Engine Blueprints.  
