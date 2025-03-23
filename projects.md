@@ -23,15 +23,13 @@ Void Knights is a third-person, 3D turn-based RPG project inspired by the *Perso
   - Players can lift, move, and throw objects with psychic abilities.  
   - Physics-based interactions ensure objects behave naturally.  
 - **Exploration & Interactive World Systems:** Developing mechanics that enhance environmental interactions and puzzle-solving.  
-  - Players interact with doors, switches, destructible barriers, and world elements.  
+  - Players interact with doors, switches, and other world elements.  
   - Some interactions change depending on the active world (Reality vs. Void Verse).  
   - Designed puzzles require players to shift between worlds for progression.  
 - **NPC AI & Dialogue System:** Working on interactive NPCs with branching conversations and dynamic behaviors.  
-  - NPCs follow set behaviors, patrols, and schedules.  
-  - Dialogue system supports branching choices affecting interactions.  
-  - Some NPCs provide quests, lore, and tracked narrative progression.  
+  - NPCs follow set behaviors and patrols.
 
-Void Knights is currently in active development, with further refinements to AI, world interactions, and puzzle mechanics planned for future iterations.  
+Void Knights is currently in active development from a small indie studio level team of artists, designers, and programmers.
 
 ---
 
