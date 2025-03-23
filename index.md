@@ -18,8 +18,8 @@ Take a look around, and feel free to reach out!
 
 ### Other Sites
 
-- [Itch.io](https://goldleafinteractive.itch.io)  
-- [LinkedIn](https://www.linkedin.com/in/marwan-charafeddine-213065155)  
+- [My Itch.io Page](https://goldleafinteractive.itch.io)  
+- [My LinkedIn Page](https://www.linkedin.com/in/marwan-charafeddine-213065155)  
 
 ---
 
