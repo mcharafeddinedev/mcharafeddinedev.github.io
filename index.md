@@ -4,10 +4,6 @@ layout: default
 title: Home
 
 ---
- 
-# Welcome to my website!
-
-### Site Navigation Links
 
 [My Projects](projects.md)  --  [My Library](mylib.md)  --  [Work History](work-history.md) -- [Blog](blog.md)
 
