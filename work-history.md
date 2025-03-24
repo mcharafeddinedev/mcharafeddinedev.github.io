@@ -31,13 +31,13 @@
 ## Leadership Positions
 
 ### Risk Management/Event Logistics Officer  
-- **Student Organization - College Station, TX** | 01/2016 - 08/2019
+- **Kappa Sigma - College Station, TX** | 01/2016 - 08/2019
   - Coordinated logistics and risk management for up to 10 major events annually.  
   - Optimized venue layouts to enhance attendee flow and maximize space utilization.  
   - Developed comprehensive contingency plans to ensure seamless event execution.  
 
 ### Internal Judiciary Board Member  
-- **Student Organization - College Station, TX** | 01/2017 - 01/2018
+- **Kappa Sigma - College Station, TX** | 01/2017 - 01/2018
   - Enforced organizational policies and handled disciplinary matters.  
   - Facilitated discussions, ensuring fair decision-making processes.  
   - Led risk management initiatives to improve organizational resilience.  
