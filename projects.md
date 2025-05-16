@@ -12,26 +12,27 @@ title: Projects
 ## Void Knights  
 **Platform:** Unreal Engine 5 | **Language:** Blueprints | **Prototype:** Itch.io  
 
-Void Knights is a third-person, 3D turn-based RPG project inspired by the *Persona* series, focusing on dual-world exploration, psychic abilities, and interactive storytelling. My programming work is centered on two core gameplay systems: 'Psychic Abilities' and 'Exploration & Interaction'.  
+Void Knights is a third-person turn-based RPG project inspired by the *Persona* series, focusing on dual-world exploration, psychic abilities, and interactive storytelling. My programming work is centered on two core gameplay systems: 'Psychic Abilities' and 'Exploration & Interaction'.
 
 ### Key Contributions  
 - **Void Entrance Mechanic:** Developing a world-shifting mechanic allowing players to transition between *Reality* and the *Void Verse* to solve puzzles or reveal hidden paths.  
   - Environment dynamically shifts between worlds.  
   - Some objects or enemies may only exist in one realm, requiring strategic shifting.  
-  - System is energy-based, preventing excessive use.  
 - **Object Manipulation Mechanic:** Telekinesis-based object interaction with engine physics for environmental puzzles and combat.  
   - Players can lift, move, and throw objects with psychic abilities.  
-  - Physics-based interactions ensure objects behave naturally.  
+  - Physics-based interactions using vector math and line traces ensure that targeted objects behave as intended.  
 - **Exploration & Interactive World Systems:** Developing mechanics that enhance environmental interactions and puzzle-solving.  
   - Players interact with doors, switches, and other world elements.  
   - Some interactions change depending on the active world (Reality vs. Void Verse).  
   - Designed puzzles require players to shift between worlds for progression.  
 - **NPC AI & Dialogue System:** Working on interactive NPCs with branching conversations.  
-  - NPCs follow set behaviors and patrols.
+  - Some NPCs follow set behaviors and patrols in the Overworld.
 - **UI & Menus:** Developed and implemented logic and widgets for menus and settings.
-  - Built and implemented UI widgets for the Overworld and related assets.
+  - Built and implemented UI widgets for the Overworld (outside Combat) and related assets.
 
 Void Knights was a prototype/proof of concept from a small indie studio level team of artists, designers, and programmers.
+
+[Itch.io Page](https://goldleafinteractive.itch.io/void-knights)
 
 ---
 
@@ -61,6 +62,19 @@ A fantastical third-person 3D action-adventure game where I was responsible for 
 
 ---
 
+## Medieval Shop Game
+**Platform:** Windows | **Language:** C++ | **Prototype:** Itch.io  
+Designed and built a medieval themed, text-based shop simulation prototype project. Learning project.
+- **Core Systems:** Inventory systems, shopkeeper interactions, item negotiation, dynamic dialogue
+- **Rendering:** Interactive console window rendered for text with player input available, ASCII art for visual representations.
+- **Audio Implementation:** DirectSound integration for music, ambient sounds, and effects
+- **C++17 architecture:** With RAII, smart pointers, modular state machines
+- **CMake/Ninja build pipeline:** -->Windows SDK resource packing and certificate signing-->installer 
+  wizard with Inno Setup--> builds .exe with secure packaging of game assets
+
+[Itch.io Page](https://goldleafinteractive.itch.io/medieval-shop-game)
+
+---
 ## Million Miles Deep  
 **Platform:** Unreal Engine 5 | **Language:** Blueprints | **Release:** Itch.io  
 
@@ -94,8 +108,6 @@ A fully released 2D adventure game built in Unity. I was responsible for core ga
 **Platform:** Unreal Engine 5 | **Language:** Blueprints | **Release:** Itch.io  
 
 A physics-based experimental game exploring ragdoll mechanics.  
-
-### Key Contributions  
 - **Physics-Based Player Movement:** Developed a responsive ragdoll character using Unreal Engine’s physics system.  
 - **Environmental Interactions:** Created physics-based obstacles and interactive elements.  
 - **Collision Handling:** Ensured stability for dynamic player interactions.  
