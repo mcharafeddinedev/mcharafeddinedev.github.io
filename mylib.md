@@ -12,6 +12,7 @@
 
 ## Other Books
   - **The Secret Science of Games** / John Hopson
+  - **Playing the Middle Ages** / Robert Houghton
   - **Game Feel** / Steve Swink
   - **The Secret Teachings of All Ages** / Manly P. Hall
   - **The Lord of the Rings** / J.R.R. Tolkien
