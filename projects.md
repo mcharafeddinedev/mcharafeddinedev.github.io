@@ -10,7 +10,7 @@ title: Projects
 ---
 
 ## Void Knights  
-**Platform:** Unreal Engine 5 | **Language:** Blueprints | **Status:** In Development  
+**Platform:** Unreal Engine 5 | **Language:** Blueprints | **Prototype:** Itch.io  
 
 Void Knights is a third-person, 3D turn-based RPG project inspired by the *Persona* series, focusing on dual-world exploration, psychic abilities, and interactive storytelling. My programming work is centered on two core gameplay systems: 'Psychic Abilities' and 'Exploration & Interaction'.  
 
@@ -26,37 +26,17 @@ Void Knights is a third-person, 3D turn-based RPG project inspired by the *Perso
   - Players interact with doors, switches, and other world elements.  
   - Some interactions change depending on the active world (Reality vs. Void Verse).  
   - Designed puzzles require players to shift between worlds for progression.  
-- **NPC AI & Dialogue System:** Working on interactive NPCs with branching conversations and dynamic behaviors.  
+- **NPC AI & Dialogue System:** Working on interactive NPCs with branching conversations.  
   - NPCs follow set behaviors and patrols.
+- **UI & Menus:** Developed and implemented logic and widgets for menus and settings.
+  - Built and implemented UI widgets for the Overworld and related assets.
 
 Void Knights is currently in active development from a small indie studio level team of artists, designers, and programmers.
 
 ---
 
-## Unnamed Project
-### **2D Renderer & Game Development with Odin & Sokol**  
-**Platform:** No Engine - Windows/WebGL/MacOS | **Language:** Odin | **Status:** In Development   
-
-This project is my deep dive into **engine-free 2D game development**, using the **Odin programming language** and **Sokol** for rendering. The foundation comes from **Randy.gg’s** 2D renderer, which provides a minimalist but powerful system for handling sprites, text, and basic transformations. My goal is to **understand, extend, and build on top of it** to create a game from scratch—without relying on traditional engines like Unity or Unreal.  
-
-Right now, I’m focused on:  
-- **Learning the inner workings of the 2D renderer** and how low-level graphics programming ties everything together.  
-- **Expanding and modifying the framework** to better suit my game's development.  
-- **Experimenting with gameplay mechanics**, input handling, and overall game structure.  
-- **Keeping everything modular and efficient**, so it can scale well as a full project.  
-
-Future Plans 
-- Adding collision, physics, and animation from scratch.  
-- Expanding the renderer’s capabilities with new visual effects.  
-- Prototyping a small but polished 2D game inside this framework.  
-- Optimizing rendering and performance for better efficiency.  
-
-This is as much a learning experience as it is a passion project—building something without a game engine forces me to really understand and learn graphics programming, memory management, and game architecture at a lower level, and what kinds of processes go on behind the scenes in a game engine. The goal is to end up with a game project that not only plays well but is built with no engine and with full control over every system.  
-
----
-
 ## Mysteries of Tupni  
-**Platform:** Unreal Engine 5 | **Language:** Blueprints | **Release:** Itch.io  
+**Platform:** Unreal Engine 5 | **Language:** Blueprints | **Prototype:** Itch.io  
 
 A fantastical third-person 3D action-adventure game where I was responsible for various programming tasks, concepting during preproduction, and assisting in level and game design.  
 
@@ -126,7 +106,7 @@ A physics-based experimental game exploring ragdoll mechanics.
 ---
 
 ## Doors n' Dice  
-**Platform:** Unreal Engine 5 | **Language:** Blueprints | **Release:** Itch.io  
+**Platform:** Unreal Engine 5 | **Language:** Blueprints | **Prototype:** Itch.io  
 
 A unique 2D platformer integrating elements of chance, where players take a chance on different doors to determine their path forward.  
 
@@ -147,6 +127,28 @@ Beyond those listed previously, I have also worked on several smaller projects t
 - **Escape Control** (Unreal Engine 5) | Top-Down Sci-Fi Shooter: UI Widget Construction & Blueprinting, Programming Menus.
 - **Various Game Jams**: Rapid prototyping, new game mechanics experimentation, and small team collaborations.  
 - **Backburner Projects**: Unfinished prototypes and game design documents. Exercises in level design and more for skill development.
+
+---
+
+## Unnamed Project
+### **2D Renderer & Game Development with Odin & Sokol**  
+**Platform:** No Engine - Windows/WebGL/MacOS | **Language:** Odin | **Status:** In Development   
+
+This project is my deep dive into **engine-free 2D game development**, using the **Odin programming language** and **Sokol** for rendering. The foundation comes from **Randy.gg’s** 2D renderer, which provides a minimalist but powerful system for handling sprites, text, and basic transformations. My goal is to **understand, extend, and build on top of it** to create a game from scratch—without relying on traditional engines like Unity or Unreal.  
+
+Right now, I’m focused on:  
+- **Learning the inner workings of the 2D renderer** and how low-level graphics programming ties everything together.  
+- **Expanding and modifying the framework** to better suit my game's development.  
+- **Experimenting with gameplay mechanics**, input handling, and overall game structure.  
+- **Keeping everything modular and efficient**, so it can scale well as a full project.  
+
+Future Plans 
+- Adding collision, physics, and animation from scratch.  
+- Expanding the renderer’s capabilities with new visual effects.  
+- Prototyping a small but polished 2D game inside this framework.  
+- Optimizing rendering and performance for better efficiency.  
+
+This is as much a learning experience as it is a passion project—building something without a game engine forces me to really understand and learn graphics programming, memory management, and game architecture at a lower level, and what kinds of processes go on behind the scenes in a game engine. The goal is to end up with a game project that not only plays well but is built with no engine and with full control over every system.  
 
   ---
 
