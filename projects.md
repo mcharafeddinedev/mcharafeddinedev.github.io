@@ -31,7 +31,7 @@ Void Knights is a third-person, 3D turn-based RPG project inspired by the *Perso
 - **UI & Menus:** Developed and implemented logic and widgets for menus and settings.
   - Built and implemented UI widgets for the Overworld and related assets.
 
-Void Knights is currently in active development from a small indie studio level team of artists, designers, and programmers.
+Void Knights was a prototype/proof of concept from a small indie studio level team of artists, designers, and programmers.
 
 ---
 
