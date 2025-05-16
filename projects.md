@@ -4,6 +4,7 @@ layout: default
 title: Projects
 
 ---
+[Pursuits](activedev.md)  --  [My Library](mylib.md)  --  [Work History](work-history.md)  --  [Back to Home](index.md)
 
 # Project Experience
 
