@@ -1,10 +1,10 @@
 # Pursuits & Goals
 
-As I near completion of my A.A.S. in Digital Gaming & Simulation Programming, I’ve realized that while my education laid the groundwork, I need more hands-on experience and deeper fluency in coding to be job-ready as a gameplay programmer. To address this gap, I’ve committed to a structured self-teaching plan using intensive project-based online courses — not as arbitrary YouTube-tutorial style projects, but as frameworks for deliberate, practical game development and production. I’m dedicating my free time to learning proper coding techniques, building complete games, mastering technical systems, and becoming fluent in professional workflows.
+As I near completion of my A.A.S. in Digital Gaming & Simulation Programming, I’ve realized that while my education laid a solid foundation, I still need more hands-on experience and fluency in coding to be job-ready as a gameplay programmer. To address this, I’ve committed to a structured, self-teaching plan focused on intensive, project-based courses — not arbitrary YouTube-style tutorials, but guided experiences with deliberate and professional frameworks, designed to simulate practical game development and production workflows.
 
-Some of these projects that contain courses may contain 'beginner' or more foundational content which I may already have learned during my degree program, but I'm a strong proponent of reviewing important subjects, especially when it comes to basics. I believe keeping up with the constantly evolving tech space, and more specifically the games industry, is and should be a constant exercise for developers, in listening and learning as much relevant information as possible, from as many different sources as possible. As newer or more advanced technical evolutions often may require an exceptional understanding of basics, I need to start from the beginning in this more code-focused, self-teaching pursuit. 
+Some of these projects revisit foundational topics I’ve already encountered during my degree, but I believe strongly in the value of reviewing the basics. In a fast-evolving tech industry like game development, keeping skills sharp and perspective broad is essential. Advanced systems often demand a deep understanding of fundamentals, and I’m choosing to start this code-focused path from the ground up with purpose and discipline.
 
-Below is an evolving record of the work I’m doing, organized by current and future planned projects. 
+Below is an evolving record of the work I’m doing, organized by current and planned projects.
 
 ---
 
