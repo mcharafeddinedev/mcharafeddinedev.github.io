@@ -1,6 +1,6 @@
 [My Projects](projects.md)  --  [My Library](mylib.md)  --  [Work History](work-history.md)  --  [Back to Home](index.md) 
 
-# Pursuits & Goals
+# Current Pursuits & Goals
 
 As I near completion of my A.A.S. in Digital Gaming & Simulation Programming, I’ve realized that while my education laid a solid foundation, I still need more hands-on experience and fluency in coding to be job-ready as a gameplay programmer. To address this, I’ve committed to a structured, self-teaching plan focused on intensive, project-based courses — not arbitrary YouTube-style tutorials, but guided experiences with deliberate and professional frameworks, designed to simulate practical game development and production workflows.
 
