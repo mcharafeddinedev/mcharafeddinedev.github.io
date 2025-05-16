@@ -1,3 +1,5 @@
+[Pursuits](activedev.md)  --  [My Projects](projects.md)  --   [Work History](work-history.md)  --  [Back to Home](index.md)
+
 # In My Library 
 
 ## Resources
