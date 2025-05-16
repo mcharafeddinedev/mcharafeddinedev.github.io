@@ -1,4 +1,4 @@
-[My Projects](projects.md)  --  [My Library](mylib.md)  --  [Work History](work-history.md)  --  [Back to Home](index.md)
+[My Projects](projects.md)  --  [My Library](mylib.md)  --  [Work History](work-history.md)  --  [Back to Home](index.md) 
 
 # Pursuits & Goals
 
