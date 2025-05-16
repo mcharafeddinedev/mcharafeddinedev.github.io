@@ -1,6 +1,10 @@
 # Pursuits & Goals
 
-As I near completion of my A.A.S. in Digital Gaming & Simulation Programming, I’ve realized that while my education laid the groundwork, I need more hands-on experience and deeper fluency in coding to be job-ready as a gameplay programmer. To address this gap, I’ve committed to a structured self-teaching plan using intensive project-based online courses — not like arbitrary tutorial projects, but as frameworks for deliberate, practical game development and production. I’m dedicating my free time to learning proper coding techniques, building complete games, mastering technical systems, and becoming fluent in professional workflows. Below is an evolving record of the work I’m doing, organized by current and future pursuits.
+As I near completion of my A.A.S. in Digital Gaming & Simulation Programming, I’ve realized that while my education laid the groundwork, I need more hands-on experience and deeper fluency in coding to be job-ready as a gameplay programmer. To address this gap, I’ve committed to a structured self-teaching plan using intensive project-based online courses — not as arbitrary YouTube-tutorial style projects, but as frameworks for deliberate, practical game development and production. I’m dedicating my free time to learning proper coding techniques, building complete games, mastering technical systems, and becoming fluent in professional workflows.
+
+Some of these projects that contain courses may contain 'beginner' or more foundational content which I may already have learned during my degree program, but I'm a strong proponent of reviewing important subjects, especially when it comes to basics. I believe keeping up with the constantly evolving tech space, and more specifically the games industry, is and should be a constant exercise for developers, in listening and learning as much relevant information as possible, from as many different sources as possible. As newer or more advanced technical evolutions often may require an exceptional understanding of basics, I need to start from the beginning in this more code-focused, self-teaching pursuit. 
+
+Below is an evolving record of the work I’m doing, organized by current and future planned projects. 
 
 ---
 
@@ -77,4 +81,8 @@ This course walks through making a game entirely from scratch using C++ with rea
 **Skill Focus:** Gameplay programming in Unreal Engine, AI behavior trees, Blueprints vs C++
 
 A capstone project in Unreal Engine 5, focused on applying C++ in conjunction with Unreal’s gameplay framework. Through projects like a tank combat game and a first-person shooter, I’ll be diving into pawn control, component systems, AI logic, and integrating Blueprints with native C++ for scalable, modular game logic — mirroring the workflows used in AAA development.
+
+---
+
+### 9. Ginger Shroom Journey 2
 
