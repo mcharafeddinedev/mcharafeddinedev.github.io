@@ -173,6 +173,7 @@ This list contains some of the games that I grew up with, played through differe
 * Chivalry: Medieval Warfare
 * Chivalry 2
 * Mordhau
+* Half-Sword
   
 **Shooters / Tactical**
 
@@ -230,6 +231,8 @@ This list contains some of the games that I grew up with, played through differe
 
 **Co-op / Puzzle / Misc.**
 
+* Vampire Survivors
+* Halls of Torment
 * It Takes Two
 * Portal 1 & 2
 * Besiege
