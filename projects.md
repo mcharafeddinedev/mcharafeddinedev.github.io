@@ -145,7 +145,7 @@ Beyond those listed previously, I have also worked on several smaller projects t
 
 ## Unnamed Project
 ### **2D Renderer & Game Development with Odin & Sokol**  
-**Platform:** No Engine - Windows/WebGL/MacOS | **Language:** Odin | **Status:** In Development   
+**Platform:** No Engine - Windows/WebGL/MacOS | **Language:** Odin | **Status:** Postponed
 
 This project is my deep dive into **engine-free 2D game development**, using the **Odin programming language** and **Sokol** for rendering. The foundation comes from **Randy.gg’s** 2D renderer, which provides a minimalist but powerful system for handling sprites, text, and basic transformations. My goal is to **understand, extend, and build on top of it** to create a game from scratch—without relying on traditional engines like Unity or Unreal.  
 
