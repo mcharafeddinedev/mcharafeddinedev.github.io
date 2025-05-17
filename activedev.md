@@ -32,7 +32,7 @@ This project focuses on building a Vampire Survivors-style roguelike from the gr
 
 ---
 
-## Planned Projects
+## Future Planned Projects
 
 ### 3. C++ Fundamentals: Game Programming For Beginners
 **Instructors:** GameDev.tv Team, Stephen Ulibarri  
