@@ -32,6 +32,97 @@
   - **The Art of War** / Sun Tzu
   - **Meditations** / Marcus Aurelius
 
+[Pursuits](activedev.md)  --  [My Projects](projects.md)  --   [Work History](work-history.md)  --  [Back to Home](index.md)
+
+# In My Library 
+
+## Resources (Textbooks)
+
+- **Unreal Engine 5 Game Development with C++ Scripting** - 1st Edition / Zhenyu George Li  
+  ![Unreal Engine 5 Game Development with C++ Scripting](https://m.media-amazon.com/images/I/51zj5eZ0xML._SX379_BO1,204,203,200_.jpg)
+
+- **Blueprints Visual Scripting for Unreal Engine 5** - 3rd Edition / Marcos Romero & Brenden Sewell  
+  ![Blueprints Visual Scripting for Unreal Engine 5](https://m.media-amazon.com/images/I/51qZb5J+zTL._SX404_BO1,204,203,200_.jpg)
+
+- **Multiplayer Game Development with Unreal Engine 5** - 1st Edition / Marco Secchi  
+  ![Multiplayer Game Development with Unreal Engine 5](https://m.media-amazon.com/images/I/41r4V8+0ZLL._SX404_BO1,204,203,200_.jpg)
+
+- **Game Programming Patterns** - Robert Nystrom  
+  ![Game Programming Patterns](https://m.media-amazon.com/images/I/41Qx2+3KZ9L._SX331_BO1,204,203,200_.jpg)
+
+- **C# & C++: 5 Books In 1** / Mark Reed  
+  ![C# & C++: 5 Books In 1](https://m.media-amazon.com/images/I/41zZ6z5QqJL._SX331_BO1,204,203,200_.jpg)
+
+- **The Art of Game Design** - 3rd Edition / Jesse Schell  
+  ![The Art of Game Design](https://m.media-amazon.com/images/I/51FZxk6zGUL._SX379_BO1,204,203,200_.jpg)
+
+- **An Architectural Approach to Level Design** - 2nd Edition / Christopher W. Totten  
+  ![An Architectural Approach to Level Design](https://m.media-amazon.com/images/I/51u0nZ0zG+L._SX331_BO1,204,203,200_.jpg)
+
+- **Reimagining Characters with Unreal Engine's MetaHuman Creator** / Brian Rossney  
+  ![Reimagining Characters with Unreal Engine's MetaHuman Creator](https://m.media-amazon.com/images/I/41+1xQkQdFL._SX404_BO1,204,203,200_.jpg)
+
+## Other Books
+
+- **The Secret Science of Games** / John Hopson  
+  ![The Secret Science of Games](https://m.media-amazon.com/images/I/41d0v5+0ZLL._SX331_BO1,204,203,200_.jpg)
+
+- **Playing the Middle Ages** / Robert Houghton  
+  ![Playing the Middle Ages](https://m.media-amazon.com/images/I/41Qx2+3KZ9L._SX331_BO1,204,203,200_.jpg)
+
+- **Game Feel** / Steve Swink  
+  ![Game Feel](https://m.media-amazon.com/images/I/41Zx0z5QqJL._SX331_BO1,204,203,200_.jpg)
+
+- **The Secret Teachings of All Ages** / Manly P. Hall  
+  ![The Secret Teachings of All Ages](https://m.media-amazon.com/images/I/51FZxk6zGUL._SX379_BO1,204,203,200_.jpg)
+
+- **The Lord of the Rings** / J.R.R. Tolkien  
+  ![The Lord of the Rings](https://m.media-amazon.com/images/I/51zj5eZ0xML._SX379_BO1,204,203,200_.jpg)
+
+- **Unfinished Tales** / J.R.R. Tolkien, edited by Christopher Tolkien  
+  ![Unfinished Tales](https://m.media-amazon.com/images/I/41qZb5J+zTL._SX404_BO1,204,203,200_.jpg)
+
+- **Beren and Lúthien** / J.R.R. Tolkien, edited by Christopher Tolkien  
+  ![Beren and Lúthien](https://m.media-amazon.com/images/I/41r4V8+0ZLL._SX404_BO1,204,203,200_.jpg)
+
+- **On Fairy-stories** / J.R.R. Tolkien, edited by Verlyn Flieger & Douglas Anderson  
+  ![On Fairy-stories](https://m.media-amazon.com/images/I/41Qx2+3KZ9L._SX331_BO1,204,203,200_.jpg)
+
+- **Fighting Techniques of the Medieval World** / Matthew Bennett, Jim Bradbury, et al.  
+  ![Fighting Techniques of the Medieval World](https://m.media-amazon.com/images/I/41zZ6z5QqJL._SX331_BO1,204,203,200_.jpg)
+
+- **Le Morte d'Arthur** / Sir Thomas Malory  
+  ![Le Morte d'Arthur](https://m.media-amazon.com/images/I/51FZxk6zGUL._SX379_BO1,204,203,200_.jpg)
+
+- **The Book of the Sword** / Sir Richard F. Burton  
+  ![The Book of the Sword](https://m.media-amazon.com/images/I/51u0nZ0zG+L._SX331_BO1,204,203,200_.jpg)
+
+- **Warriors of God** / James Reston Jr.  
+  ![Warriors of God](https://m.media-amazon.com/images/I/41+1xQkQdFL._SX404_BO1,204,203,200_.jpg)
+
+- **Phoenicians: Lebanon's Epic Heritage** / Sanford Holst  
+  ![Phoenicians: Lebanon's Epic Heritage](https://m.media-amazon.com/images/I/41d0v5+0ZLL._SX331_BO1,204,203,200_.jpg)
+
+- **Tyre, Byblos, and Sidon** / Charles River Editors  
+  ![Tyre, Byblos, and Sidon](https://m.media-amazon.com/images/I/41Qx2+3KZ9L._SX331_BO1,204,203,200_.jpg)
+
+- **Starship Troopers** / Robert A. Heinlein  
+  ![Starship Troopers](https://m.media-amazon.com/images/I/41Zx0z5QqJL._SX331_BO1,204,203,200_.jpg)
+
+- **The Greatest Short Stories of Leo Tolstoy** / Leo Tolstoy  
+  ![The Greatest Short Stories of Leo Tolstoy](https://m.media-amazon.com/images/I/51FZxk6zGUL._SX379_BO1,204,203,200_.jpg)
+
+- **The Art of War** / Sun Tzu  
+  ![The Art of War](https://m.media-amazon.com/images/I/51u0nZ0zG+L._SX331_BO1,204,203,200_.jpg)
+
+- **Meditations** / Marcus Aurelius  
+  ![Meditations](https://m.media-amazon.com/images/I/41+1xQkQdFL._SX404_BO1,204,203,200_.jpg)
+
+---
+
+[Back to Home](index.md)
+
+
 ## 🕹️ Games
 ### Games That Shaped Me
 
