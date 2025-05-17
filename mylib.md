@@ -195,6 +195,7 @@ This list contains some of the games that I grew up with, played through differe
 **RPGs / Adventure / Strategy**
 
 * Fallout 76
+* S.T.A.L.K.E.R. Series
 * Far Cry 4, 5, 6
 * Dragon’s Dogma: Dark Arisen
 * Sekiro: Shadows Die Twice
@@ -254,7 +255,7 @@ This list contains some of the games that I grew up with, played through differe
 
 ---
 
-This list is a just snapshot of the games off the top of my head or that I still have hard copies of, that not only entertained me growing up but contributed in part to shaping how I think and feel about interactivity, narrative, and creative expression. These experiences laid the foundations for why I’m pursuing game development today.
+This list is a just snapshot of games that not only entertained me growing up but contributed in part to shaping how I think and feel about interactivity, narrative, and creative expression. These experiences laid the foundations for why I’m pursuing game development today.
 
 ---
 
