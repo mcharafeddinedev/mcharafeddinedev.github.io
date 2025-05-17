@@ -9,15 +9,6 @@
   - Act as primary liaison for travel and scheduling, resolving last-minute changes efficiently, if necessary.  
   - Maintain an organized scheduling system, balancing locum assignments and hospital rotations.  
   - Optimize travel arrangements and streamline expense tracking.
-
-### Game Dev Student 
-- **Self - Houston, TX**  | 04/2024 - Present
-  - Design and implement game levels with interactive mechanics.  
-  - Develop prototypes using C#, C++, and Unreal Engine Blueprints.  
-  - Create tutorial systems for player onboarding and mechanics reinforcement.  
-  - Manage documentation, task tracking, and structured workflows for small project teams.
-  - Published several Unreal Engine 5 games on itch.io, mostly collaborative team projects.
-  - Published a Unity-based C# project on Steam using **Steamworks SDK** and **SteamPipeGUI**.
  
 ### E-Commerce Business Owner
 - **Self - Houston, TX** | 08/2022 - 03/2023
@@ -28,6 +19,18 @@
   - Content production, video editing, and social media management for live game streaming spanning the use of many softwares and applications, including but not limited to:
     - YouTube, TikTok, Instagram, Twitch, Mixer, OBS Studio, StreamLabs OBS, and DaVinci Resolve
    
+---
+
+## Independent Work
+### Indie Game Dev/Student
+- **Self - Houston, TX**  | 04/2024 - Present
+  - Design and implement game levels with interactive mechanics.  
+  - Develop prototypes using C#, C++, and Unreal Engine Blueprints.  
+  - Create tutorial systems for player onboarding and mechanics reinforcement.  
+  - Manage documentation, task tracking, and structured workflows for small project teams.
+  - Published several Unreal Engine 5 games on itch.io, mostly collaborative team projects.
+  - Published a Unity-based C# project on Steam using **Steamworks SDK** and **SteamPipeGUI**.
+
 ---
 
 ## Leadership Positions
