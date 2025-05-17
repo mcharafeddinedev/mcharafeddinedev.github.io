@@ -2,11 +2,13 @@
 
 # Current Pursuits & Goals
 
-As I near completion of my A.A.S. in Digital Gaming & Simulation Programming, I’ve realized that while my education laid a solid foundation, I still need more hands-on experience and fluency in coding to be job-ready as a gameplay programmer. To address this, I’ve committed to a structured, self-teaching plan focused on intensive, project-based courses — not arbitrary YouTube-style tutorials, but guided experiences with deliberate and professional frameworks, designed to simulate practical game development and production workflows.
+As I've progressed through my A.A.S. in Digital Gaming & Simulation Programming, I’ve realized that while my education has laid a solid foundation, I still need more hands-on experience and fluency in coding to reach my goals as a gameplay programmer. To address this, I’ve committed to a structured, self-teaching plan focused on intensive, project-based courses — not arbitrary YouTube-style tutorials, but rather more guided experiences with deliberate and professional frameworks, designed to simulate practical game development and production workflows.
 
-Some of these projects revisit foundational topics I’ve already encountered during my degree, but I believe strongly in the value of reviewing the basics. In a fast-evolving tech industry like game development, keeping skills sharp and perspective broad is essential. Advanced systems often demand a deep understanding of fundamentals, and I’m choosing to start this code-focused path from the ground up with purpose and discipline.
+Some of these projects revisit foundational topics I’ve already encountered during my degree, but I believe strongly in the value of reviewing the basics. On top of that, these projects are specifically code-focused rather than concentrating on things like design processes or game engine techniques, tools, proficiency, etc. In a fast-evolving tech industry like game development, I think keeping skills sharp and perspective broad is essential, so I'll probably continue adding to this and editing it, and moving completed projects to ['My Projects'](projects.md) if they produce a publishable executable. Advanced systems often demand a deep understanding of fundamentals, and I’m choosing to start this code-focused path from the ground up.
 
 Below is an evolving record of the work I’m doing, organized by current and planned projects.
+
+Logged 05-15-2025
 
 ---
 
@@ -86,7 +88,7 @@ A capstone project in Unreal Engine 5, focused on applying C++ in conjunction wi
 
 ---
 
-### 9. Ginger Shroom Journey 2
+### 9. Project Red Cap (TBA)
 
 
 [Back to Home](index.md)
