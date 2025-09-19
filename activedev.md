@@ -8,8 +8,6 @@ Some of these projects revisit foundational topics I’ve already encountered du
 
 Below is an evolving record of the work I’m doing, organized by current and planned projects.
 
-Logged 05-15-2025
-
 ---
 
 ## Under Active Development
