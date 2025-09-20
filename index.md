@@ -9,8 +9,10 @@ title: Home
 
 Hey there! I'm Marwan, a games programmer and developer. I'm passionate about building immersive experiences and gameplay mechanics. Whether it’s setting up complex systems in Unreal Engine 5 and Unity, scripting AI behaviors, or crafting dynamic environments, I love solving the challenges that bring games to life.
 
-This website is a collection of my projects, technical breakdowns, and development insights. Check out my GitHub for a more focused Portfolio.
+This website is a collection of my projects, technical breakdowns, and development insights.
 Take a look around, and feel free to reach out!
+
+Follow the GitHub link or click [here](https://github.com/mcharafeddinedev/GameDev-Portfolio) for a more focused portfolio.
 
 
 ---
