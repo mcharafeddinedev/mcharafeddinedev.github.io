@@ -12,7 +12,7 @@ I’m Marwan, a game programmer and developer passionate about creating immersiv
 
 Here, I share my projects, technical breakdowns, and development insights. Take a look around—and if you’d like to connect, I’d love to hear from you!
 
-For a more in-depth portfolio, check out my [GitHub](https://github.com/mcharafeddinedev/GameDev-Portfolio) (or click the button at the top).
+For a more in-depth portfolio, check out my [GitHub](https://github.com/mcharafeddinedev/GameDev-Portfolio) page (or click the button at the top).
 
 
 ---
