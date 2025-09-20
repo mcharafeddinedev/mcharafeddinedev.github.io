@@ -28,9 +28,13 @@ For a more in-depth portfolio, check out my [GitHub](https://github.com/mcharafe
 
 ## Recent Project(s)
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=GfrDt166KZI">
+    <img src="https://img.youtube.com/vi/GfrDt166KZI/0.jpg" width="45%" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/watch?v=Z-7c43uqa5s">
+    <img src="https://img.youtube.com/vi/Z-7c43uqa5s/0.jpg" width="45%" />
+  </a>
+</p>
 
-<iframe width="560" height="315" src="https://youtube.com/embed/GfrDt166KZI" frameborder="0" allowfullscreen> </iframe>
-
----
-
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Z-7c43uqa5s" frameborder="0" allowfullscreen> </iframe>
