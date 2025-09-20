@@ -7,12 +7,12 @@ title: Home
 
 [Pursuits](activedev.md)  --  [My Projects](projects.md)  --  [My Library](mylib.md)  --  [Work History](work-history.md)
 
-Hey there! I'm Marwan, a games programmer and developer. I'm passionate about building immersive experiences and gameplay mechanics. Whether it’s setting up complex systems in Unreal Engine 5 and Unity, scripting AI behaviors, or crafting dynamic environments, I love solving the challenges that bring games to life.
+Hey there!
+I’m Marwan, a game programmer and developer passionate about creating immersive experiences and engaging gameplay. Whether it’s building complex systems in Unreal Engine 5 and Unity, scripting AI behaviors, or crafting dynamic environments, I enjoy tackling the challenges that make games come alive.
 
-This is a website where I will share my projects, technical breakdowns, and development insights.
-Take a look around, and feel free to reach out!
+Here, I share my projects, technical breakdowns, and development insights. Take a look around—and if you’d like to connect, I’d love to hear from you!
 
-Click [here](https://github.com/mcharafeddinedev/GameDev-Portfolio) or the GitHub button at the top for a more focused portfolio over there.
+For a more in-depth portfolio, check out my [GitHub](https://github.com/mcharafeddinedev/GameDev-Portfolio) (or click the button at the top).
 
 
 ---
