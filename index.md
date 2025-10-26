@@ -31,12 +31,9 @@ For a more in-depth portfolio, check out my [GitHub](https://github.com/mcharafe
 ## Recent Project(s)
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=GfrDt166KZI">
-    <img src="https://img.youtube.com/vi/GfrDt166KZI/0.jpg" width="45%" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.youtube.com/watch?v=Z-7c43uqa5s">
-    <img src="https://img.youtube.com/vi/Z-7c43uqa5s/0.jpg" width="45%" />
+  <a href="https://www.youtube.com/watch?v=RNs4yKPhfGM">
+    <img src="https://img.youtube.com/vi/RNs4yKPhfGM/hqdefault.jpg" width="45%" />
   </a>
 </p>
+
 
