@@ -1,44 +1,12 @@
 [Pursuits](activedev.md)  --  [My Projects](projects.md)  --   [Work History](work-history.md)  --  [Back to Home](index.md)
 
-# In My Library 
-
-## Resources (Textbooks)
-  - **Unreal Engine 5 Game Development with C++ Scripting** - 1st Edition / Zhenyu George Li
-  - **Blueprints Visual Scripting for Unreal Engine 5** - 3rd Edition / Marcus Romero & Brenden Sewell
-  - **Multiplayer Game Development with Unreal Engine 5** - 1st Edition / Marco Secchi
-  - **Game Programming Patterns** - Robert Nystrom
-  - **C# & C++: 5 Books In 1** / Mark Reed
-  - **The Art of Game Design** - 3rd Edition / Jesse Schell
-  - **An Architectural Approach to Level Design** - 2nd Edition / Christopher W. Totten
-  - **Reimagining Characters with Unreal Engine's MetaHuman Creator** / Brian Rossney
-
-## Other Books
-  - **The Secret Science of Games** / John Hopson
-  - **Playing the Middle Ages** / Robert Houghton
-  - **Game Feel** / Steve Swink
-  - **The Secret Teachings of All Ages** / Manly P. Hall
-  - **The Lord of the Rings** / J.R.R. Tolkien
-  - **Unfinished Tales** / J.R.R. Tolkien, edited by Christopher Tolkien
-  - **Beren and Lúthien** / J.R.R. Tolkien, edited by Christopher Tolkien
-  - **On Fairy-stories** / J.R.R. Tolkien, edited by Verlyn Flieger & Douglas Anderson
-  - **Fighting Techniques of the Medieval World** / Matthew Bennett, Jim Bradbury, et al.
-  - **Le Morte d'Arthur** / Sir Thomas Malory
-  - **The Book of the Sword** / Sir Richard F. Burton
-  - **Warriors of God** / James Reston Jr.
-  - **Phoenicians: Lebanon's Epic Heritage** / Sanford Holst
-  - **Tyre, Byblos, and Sidon** / Charles River Editors
-  - **Starship Troopers** / Robert A. Heinlein
-  - **The Greatest Short Stories of Leo Tolstoy** / Leo Tolstoy
-  - **The Art of War** / Sun Tzu
-  - **Meditations** / Marcus Aurelius
-
 # Games That Shaped Me
 
 Video games have been the most impactful form of media in my life. While I loved books as a kid, the moment I discovered how expansive and immersive games could be (~20 years ago), I was hooked. A great game doesn’t just tell a story — it builds a living, interactive world filled with choices, challenges, and meaning.
 
-Many of the titles below introduced me to fantasy, historical themes, scientific ideas, and philosophical questions. Many of them were just fun! Some of them helped me through common life struggles, gave me common ground to form friendships, and shaped my outlook on life. More than anything, they inspired me to pursue game development — to create the kinds of games with dynamic storytelling that had such a profound impact on me growing up, and to provide that experience for someone else.
+Many of the titles below introduced me to fantasy, historical themes, scientific ideas, and philosophical questions. Many of them were just fun! Some of them may have even helped me through common life struggles as a kid, gave me common ground to form friendships at school, and shaped my perspectives on life. More than anything, they've inspired me to pursue game development — to create the kinds of games with dynamic storytelling that had such a profound impact on me growing up, and to provide that experience for someone else.
 
-This list contains just some of those games that I grew up with, played through different generations, and that I may even revisit from time to time. 
+This list contains just some of those games that I grew up with, played through different generations, and that I may even revisit from time to time. Not limited to just this list of course, because this is just everything I could think of, or that I had hard copies of from forever ago. 
 
 ---
 
