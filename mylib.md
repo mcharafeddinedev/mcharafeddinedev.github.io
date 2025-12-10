@@ -207,7 +207,7 @@ This list contains just some of those games that I grew up with, played through 
 
 ---
 
-This list is a just snapshot of games that not only entertained me growing up but contributed in part to shaping how I think and feel about interactivity, narrative, and creative expression. These experiences laid the foundations for why I’m pursuing game development today.
+This list is a just snapshot of some games that not only entertained me growing up but contributed in part to shaping how I think and feel about interactivity, narrative, and creative expression. These experiences laid the foundations for why I pursue game development.
 
 ---
 
