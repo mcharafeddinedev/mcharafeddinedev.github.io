@@ -1,6 +1,6 @@
 ---
 title: Blog
-nav_order: 5
+nav_exclude: true
 ---
 
 ## 03-01-2025
