@@ -41,6 +41,14 @@
   border-radius: 10px;
 }
 
-.site-footer {
-  display: none;
+.site-footer,
+footer.site-footer,
+.site-footer-content,
+.footer,
+.footer-content {
+  display: none !important;
+  visibility: hidden !important;
+  height: 0 !important;
+  padding: 0 !important;
+  margin: 0 !important;
 }
