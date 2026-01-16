@@ -13,3 +13,8 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
+
+# Custom styling for Just the Docs
+just_the_docs:
+  custom_css:
+    - assets/css/custom.css
