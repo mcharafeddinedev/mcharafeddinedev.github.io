@@ -1,3 +1,8 @@
+---
+title: Blog
+nav_order: 5
+---
+
 ## 03-01-2025
 
 New tab, 'My Library' created for the website!
