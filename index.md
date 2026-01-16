@@ -4,8 +4,7 @@ layout: default
 nav_order: 1
 ---
 
-# Marwan Charafeddine
-### Gameplay Programmer • Systems Design • Gold Leaf Interactive
+# Gameplay Programmer • Systems Design • Developer
 
 Hey — I’m Marwan, a gameplay programmer focused on building responsive mechanics, scalable systems, and immersive player experiences.
 
