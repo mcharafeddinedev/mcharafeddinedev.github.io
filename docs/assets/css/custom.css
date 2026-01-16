@@ -1,48 +1,34 @@
-@keyframes typewriter {
-    from {
-        width: 0;
-    }
-    to {
-        width: 100%;
-    }
+.site-title,
+.site-title:link,
+.site-title:visited {
+  line-height: 1.25;
+  padding-top: 0.35rem;
+  padding-bottom: 0.35rem;
+  display: inline;
 }
 
-@keyframes blink {
-    50% {
-        border-color: transparent;
-    }
+.site-header {
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
 }
 
-.typing-effect {
-    display: inline-block;
-    white-space: nowrap;
-    overflow: hidden;
-    border-right: 3px solid #00ff00; /* Green hacker-style cursor */
-    width: 0;
-    animation: typewriter 2s steps(40, end) forwards, blink 0.75s step-end infinite;
+.main-content a {
+  text-decoration-thickness: 0.08em;
+  text-underline-offset: 0.18em;
+  transition: transform 120ms ease, opacity 120ms ease, text-decoration-thickness 120ms ease;
 }
 
-@keyframes pop {
-    0% {
-        transform: scale(1);
-    }
-    50% {
-        transform: scale(1.2);
-    }
-    100% {
-        transform: scale(1);
-    }
+.main-content a:hover {
+  transform: translateY(-1px);
+  opacity: 0.95;
+  text-decoration-thickness: 0.14em;
 }
 
-a {
-    display: inline-block;
-    transition: color 0.3s ease-in-out;
+.main-content img {
+  border-radius: 12px;
 }
 
-a:hover {
-    color: #00ff00; /* Matches Hacker Theme's green */
-}
-
-a:active {
-    animation: pop 0.3s ease-in-out;
+.main-content pre,
+.main-content code {
+  border-radius: 10px;
 }
