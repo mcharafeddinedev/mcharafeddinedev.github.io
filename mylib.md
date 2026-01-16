@@ -1,12 +1,15 @@
-[Pursuits](activedev.md)  --  [My Projects](projects.md)  --   [Work History](work-history.md)  --  [Back to Home](index.md)
+---
+title: My Library
+nav_order: 4
+---
 
 # Games That Shaped Me
 
-Video games have been the most impactful form of media in my life. While I loved books as a kid, the moment I discovered how expansive and immersive games could be (~20 years ago), I was hooked. A great game doesn’t just tell a story — it builds a living, interactive world filled with choices, challenges, and meaning.
+Games have been the most influential creative medium in my life. What drew me in wasn’t just fun or spectacle—it was the way games build *living systems*: worlds built with an emphasis on player choice, dynamic environments, and interactive experiences.
 
-Many of the titles below introduced me to fantasy, historical themes, scientific ideas, and philosophical questions. Many of them were just fun! Some of them may have even helped me through common life struggles as a kid, gave me common ground to form friendships at school, and shaped my perspectives on life. More than anything, they've inspired me to pursue game development — to create the kinds of games with dynamic storytelling that had such a profound impact on me growing up, and to provide that experience for someone else.
+Many of the titles below introduced me to subjects like fantasy, history, science, and much more. Some helped me through formative years, others sparked friendships, and many still influence how I think about game design today. More than nostalgia, this library represents the foundations of how I approach **interactivity, narrative, and systems-driven design** as a developer.
 
-This list contains just some of those games that I grew up with, played through different generations, and that I may even revisit from time to time. Not limited to just this list of course, because this is just everything I could think of, or that I had hard copies of from forever ago. 
+This is only a snapshot—but it captures a glimpse of some of the experiences that pushed me toward making games of my own.
 
 ---
 
@@ -20,9 +23,10 @@ This list contains just some of those games that I grew up with, played through 
 - The Legend of Zelda: Twilight Princess  
 - The Legend of Zelda: Breath of the Wild  
 - Pokémon (Gen I–III)  
-- Metroid (Game Boy version)  
+- Metroid II 
 - Kirby and the Forgotten Land  
-
+- Super Metroid 
+ 
 ### Platformers / Party Games
 - Super Mario 64  
 - Super Mario Sunshine  
@@ -34,12 +38,16 @@ This list contains just some of those games that I grew up with, played through 
 - Kirby: Nightmare in Dreamland  
 - Kirby Air Ride  
 - Star Fox 64  
+- Super Mario Odyssey  
+- Donkey Kong Country 
 
 ### Licensed / Miscellaneous
 - Lego Star Wars II: The Original Trilogy  
 - The Lord of the Rings: The Return of the King  
-- King Arthur (GameCube)  
+- King Arthur (GameCube movie game)  
 - Spider-Man 2  
+- GoldenEye 007
+- F-Zero X
 
 ---
 
@@ -58,6 +66,7 @@ This list contains just some of those games that I grew up with, played through 
 - Rayman 2: Revolution  
 - Thief  
 - Lords of the Fallen  
+- Bloodborne 
 
 ### Shooters / Tactical
 - Tom Clancy’s Splinter Cell series  
@@ -92,6 +101,7 @@ This list contains just some of those games that I grew up with, played through 
 - The Elder Scrolls IV: Oblivion  
 - The Elder Scrolls V: Skyrim  
 - Red Dead Redemption I & II  
+- Mass Effect trilogy  
 
 ### Multiplayer / Online / Co-op
 - Apex Legends  
@@ -120,7 +130,8 @@ This list contains just some of those games that I grew up with, played through 
 - Hitman 1 & 2  
 - The Forgotten City  
 - Ancestors: The Humankind Odyssey  
-- Atlas  
+- Atlas
+- ARK Survival
 
 ---
 
@@ -147,6 +158,7 @@ This list contains just some of those games that I grew up with, played through 
 - Black Mesa  
 - Half-Life 2  
 - The Cycle: Frontier  
+- Doom (2016) / Doom Eternal 
 
 ### RPG / Action-Adventure / Story-Driven
 - Fallout 76  
@@ -184,6 +196,7 @@ This list contains just some of those games that I grew up with, played through 
 - Ghost of Tsushima  
 - Mirror’s Edge  
 - A Plague Tale series  
+- Subnautica 
 
 ### Co-op / Puzzle / Simulation
 - Vampire Survivors  
@@ -207,7 +220,7 @@ This list contains just some of those games that I grew up with, played through 
 
 ---
 
-This list is a just snapshot of some games that not only entertained me growing up but contributed in part to shaping how I think and feel about interactivity, narrative, and creative expression. These experiences laid the foundations for why I pursue game development.
+This collection reflects the games that shaped how I think about **mechanics, narrative, immersion, and player agency**. These experiences continue to influence my approach to building systems, designing gameplay, and crafting interactive worlds.
 
 ---
 
