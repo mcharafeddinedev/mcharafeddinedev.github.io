@@ -1,24 +1,15 @@
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: just-the-docs/just-the-docs
 
-plugins:
-  - jekyll-remote-theme
-  - jekyll-include-cache
-  - jekyll-github-metadata
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-feed
-
-# --- basic site settings (recommended) ---
 title: "Marwan Charafeddine"
-description: "Gameplay Scripting & Systems Design | Gold Leaf Interactive"
+description: "Gameplay Programming & Systems Design | Gold Leaf Interactive"
 
-# If this repo is USERNAME.github.io, keep baseurl empty.
-# If this repo is a PROJECT page, set baseurl to "/repo-name".
 url: "https://mcharafeddinedev.github.io"
 baseurl: ""
 
-minimal_mistakes_skin: "dark"   # try: "dark", "neon", "contrast", "air"
+color_scheme: dark
 
-# --- navigation (Minimal Mistakes expects this) ---
-
-
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
