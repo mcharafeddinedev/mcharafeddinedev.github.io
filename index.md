@@ -4,11 +4,11 @@ layout: default
 nav_order: 1
 ---
 
-# Gameplay Programmer • Systems Design • Developer
+# Gameplay Programmer • Systems Design
 
 Hey — I’m Marwan, a gameplay programmer focused on building responsive mechanics, scalable systems, and immersive player experiences.
 
-I work primarily in **Unity** and **Unreal Engine**, specializing in gameplay scripting, level prototyping, and technical systems that support strong moment-to-moment play. My background in science sharpened my problem-solving mindset, which I now apply to debugging, feature development, and game systems architecture.
+I work primarily in  **Unreal Engine** and **Unity**, specializing in gameplay scripting, level prototyping, and building technical systems that support strong moment-to-moment play. My background in science sharpened my problem-solving mindset, which I now apply to debugging, feature development, and game systems architecture.
 
 This site highlights my projects, experiments, and ongoing work. For deeper technical breakdowns, check out my GitHub or reach out anytime.
 
