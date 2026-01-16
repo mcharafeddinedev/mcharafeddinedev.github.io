@@ -36,23 +36,14 @@ This site highlights my projects, experiments, and ongoing work. For deeper tech
 </p>
 
 **Watch Demo →**  
-A recent gameplay prototype showcasing core mechanics, player control, and system-driven design.
+A recent gameplay prototype showcasing core mechanics, player control, and systems-driven design.
 
 For a full breakdown of my projects:
 👉 **[View Projects](projects.md)**
 
 ---
 
-## 📁 Explore
-
-- 🔨 **[My Projects](projects.md)** – game prototypes, systems, and experiments  
-- 📚 **[My Library](mylib.md)** – learning resources, notes, and technical references  
-- 🧾 **[Work History](work-history.md)** – experience and background  
-- 📝 **[Blog](blog.md)** – development thoughts and breakdowns  
-
----
-
-## 🌐 Elsewhere
+## 🌐 Find Me Elsewhere
 
 - 🎮 **Itch.io:** https://goldleafinteractive.itch.io  
 - 💼 **LinkedIn:** https://www.linkedin.com/in/marwan-charafeddine-213065155  
