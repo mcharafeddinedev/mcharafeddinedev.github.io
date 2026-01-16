@@ -1,17 +1,25 @@
+/* ============================
+   Just the Docs - Portfolio Polish
+   ============================ */
+
+/* --- Header / Site Title Fix --- */
 .site-title,
 .site-title:link,
 .site-title:visited {
-  line-height: 1.25;
-  padding-top: 0.35rem;
-  padding-bottom: 0.35rem;
+  line-height: 1.3;
+  padding-top: 0.6rem;
+  padding-bottom: 0.3rem;
   display: inline;
 }
 
+/* Increase header height slightly so text doesn't feel cramped */
 .site-header {
-  padding-top: 0.25rem;
-  padding-bottom: 0.25rem;
+  min-height: 3.2rem;
+  padding-top: 0.4rem;
+  padding-bottom: 0.4rem;
 }
 
+/* --- Content Styling --- */
 .main-content a {
   text-decoration-thickness: 0.08em;
   text-underline-offset: 0.18em;
@@ -31,4 +39,8 @@
 .main-content pre,
 .main-content code {
   border-radius: 10px;
+}
+
+.site-footer {
+  display: none;
 }
