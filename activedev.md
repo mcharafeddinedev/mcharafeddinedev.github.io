@@ -1,93 +1,80 @@
-[My Projects](projects.md)  --  [My Library](mylib.md)  --  [Work History](work-history.md)  --  [Back to Home](index.md) 
-
 # Current Pursuits & Goals
 
-As I've progressed through my A.A.S. in Digital Gaming & Simulation Programming, I’ve realized that while my education has laid a solid foundation, I still need more hands-on experience and fluency in coding to reach my goals as a gameplay programmer. To address this, I’ve committed to a structured, self-teaching plan focused on intensive, project-based courses — not arbitrary YouTube-style tutorials, but rather more guided experiences with deliberate and professional frameworks, designed to simulate practical game development and production workflows.
+As I near the completion of my A.A.S. in Digital Gaming & Simulation Programming, my focus has shifted from coursework toward building long-term technical depth as a gameplay programmer and software engineer. My education laid a solid foundation, but my priority now is hands-on development: writing systems, refining architecture, improving workflows, and strengthening my fluency in code.
 
-Some of these projects revisit foundational topics I’ve already encountered during my degree, but I believe strongly in the value of reviewing the basics. On top of that, these projects are specifically code-focused rather than concentrating on things like design processes or game engine techniques, tools, proficiency, etc. In a fast-evolving tech industry like game development, I think keeping skills sharp and perspective broad is essential, so I'll probably continue adding to this and editing it, and moving completed projects to ['My Projects'](projects.md) if they produce a publishable executable. Advanced systems often demand a deep understanding of fundamentals, and I’m choosing to start this code-focused path from the ground up.
-
-Below is an evolving record of the work I’m doing, organized by current and planned projects.
+This page outlines what I’m actively working on, the technical directions I’m developing in, and the structured learning I use to reinforce those efforts.
 
 ---
 
-## Under Active Development
+## What I’m Working On Now
 
-### 1. Complete C# Unity Game Developer 3D (Unity 6 Update)
-**Instructors:** Rick Davidson, GameDev.tv Team, Stephen Hubbard  
-🔗 [View Course](https://www.udemy.com/course/unitycourse/)  
-**Skill Focus:** Unity 3D fundamentals, C# scripting, procedural generation, AI navigation, FPS mechanics
-
-A full-spectrum learning path through Unity 3D development, this project track involves building five complete games using C# in Unity. These include physics-based obstacle dodging, an arcade-style rail shooter, a procedural endless runner, and a first-person shooter using nav mesh AI. Through these projects, I’m mastering player input handling, prefab architecture, physics interactions, coroutine timing systems, and level prototyping with ProBuilder — all while reinforcing C# fundamentals in a production environment.
+### 🎮 Gameplay Systems & Prototyping  
+I’m currently (January 2026) developing an **endless-runner style arcade game** focused on responsive movement, state-driven mechanics, scoring systems, and replayable game loops. The project serves as a controlled environment for refining gameplay logic, modular systems, and moment-to-moment feel without unnecessary complexity.
 
 ---
 
-### 2. Unity 2D Roguelike – Kawaii Survivor
-**Instructor:** Tabsil Makes Games  
-🔗 [View Course](https://www.udemy.com/course/unity-2d-game-kawaii-survivor-the-coolest-roguelike-ever/)  
-**Skill Focus:** Stat systems, clean code architecture, UI/UX animation, OOP in Unity, wave spawning
-
-This project focuses on building a Vampire Survivors-style roguelike from the ground up in Unity 2D, with a strong emphasis on scalable architecture and object-oriented practices. It incorporates responsive joystick controls, weapon merging systems, runtime character stats, inventory UI, and custom wave-based enemy spawns. I'm also learning to build clean, modular code using inheritance, interfaces, and scriptable objects, while integrating advanced UI elements such as animated double-sliding panels, dynamic character selection, and multiple currencies.
+### ⚙️ Engine-Level Exploration (C++)  
+Alongside engine-based development, I’ve been experimenting with creating a **custom 2D engine in C++**. While not yet production-ready, this work has strengthened my understanding of rendering fundamentals, entity management, and low-level architecture. I plan to revisit and expand this project in a more structured way as my C++ proficiency continues to grow.
 
 ---
 
-## Future Planned Projects
-
-### 3. C++ Fundamentals: Game Programming For Beginners
-**Instructors:** GameDev.tv Team, Stephen Ulibarri  
-🔗 [View Course](https://www.udemy.com/course/cpp-fundamentals/)  
-**Skill Focus:** C++ syntax, variables, loops, Raylib 2D games, object-oriented design
-
-A gradual entry into C++ via Raylib, focusing on coding fundamentals through simple games like a reflex-based dodger, a runner, and a basic battle sim. The course guides students in writing clean, readable code and introduces object-oriented programming without relying on a full engine — making it ideal for understanding the raw logic behind game loops and entity behaviors.
+### 🧩 Tooling, Automation & Modern Workflows  
+While my primary focus is gameplay programming and game development, I also take a strong interest in lower-level computer science—how engines are structured, how systems interact, and how graphics are rendered. I actively explore **editor tooling and development automation**, including Python-based workflows for Unreal Engine tasks, data handling, and internal utilities. More broadly, I stay current with emerging technologies and workflow techniques, integrating them into my projects to improve iteration speed, clarity, and long-term maintainability.
 
 ---
 
-### 4. Learn C++ Programming By Making Games
-**Instructor:** Serge Lansiquot  
-🔗 [View Course](https://www.udemy.com/course/learn-cpp-by-making-games/)  
-**Skill Focus:** C++ logic, pseudocode translation, ASCII-based game development
+## Learning & Skill Development  
 
-This project is designed around breaking problems into small logic units and translating them into code. The result is a series of text-based games with increasingly complex mechanics. I’ll be improving my ability to reason through game logic and implement it step-by-step using real-world coding techniques from a developer with AAA experience (Minecraft, Halo Infinite).
+Rather than treating learning as a checklist, I use **guided, project-based courses** as deliberate practice—reinforcing fundamentals while applying them directly to real builds. When a project reaches a level of polish or produces a viable executable, it’s moved to **[My Projects](projects.md)** as either a playable release or a documented prototype.
 
----
 
-### 5. Learn C++ for Game Development
-**Instructor:** Stephen Ulibarri  
-🔗 [View Course](https://www.udemy.com/course/learn-cpp-for-ue4-unit-1/)  
-**Skill Focus:** Full C++ language foundation, whiteboard logic, lab-style programming
+### 📚 Current & Planned Study (Udemy)
 
-This course builds the theoretical and practical foundation for transitioning into engine-based development (e.g., Unreal). Emphasis is placed on understanding the C++ language from the ground up, with structured lab sessions simulating classroom-style coding practice and conceptual overviews.
+These courses support my ongoing development in C++, C#, gameplay programming, and engine workflows:
 
----
+1. **Complete C# Unity Game Developer 3D** – Unity, C#, gameplay systems  
+   https://www.udemy.com/course/unitycourse/
 
-### 6. Learn C++ Programming By Making Games Volume 2
-**Instructor:** Serge Lansiquot  
-🔗 [View Course](https://www.udemy.com/course/learn-cpp-programming-by-making-games-volume-2/)  
-**Skill Focus:** Advanced OOP, SDL graphics, 2D math and rendering, arcade game framework
+2. **Unity 2D Roguelike – Kawaii Survivor** – Architecture, stat systems, UI, OOP  
+   https://www.udemy.com/course/unity-2d-game-kawaii-survivor-the-coolest-roguelike-ever/
 
-An advanced C++ project involving the creation of a complete arcade launcher and game engine. You'll build rendering systems, sprite animations, and low-level mechanics to recreate classics like Tetris and Asteroids, with custom handling for bitmap loading, input, collision, and game loop timing.
+3. **C++ Fundamentals: Game Programming for Beginners** – Core C++, Raylib, 2D games  
+   https://www.udemy.com/course/cpp-fundamentals/
 
----
+4. **Learn C++ Programming by Making Games** – Logic-first development, text-based games  
+   https://www.udemy.com/course/learn-cpp-by-making-games/
 
-### 7. Learn C++ and Make a Game from Scratch
-**Instructor:** Jingtian Li  
-🔗 [View Course](https://www.udemy.com/course/complete-game-development-series-04-making-a-game-with-c/)  
-**Skill Focus:** CMake, GitHub, game architecture, memory management, custom libraries
+5. **Learn C++ for Game Development** – Language foundations and structured labs  
+   https://www.udemy.com/course/learn-cpp-for-ue4-unit-1/
 
-This course walks through making a game entirely from scratch using C++ with real-world tooling like Git and CMake. It blends software engineering practices with game development, teaching low-level architecture, project modularization, memory safety, and professional version control workflows — essential for industry readiness.
+6. **Learn C++ Programming by Making Games – Volume 2** – SDL, 2D math, engine-style frameworks  
+   https://www.udemy.com/course/learn-cpp-programming-by-making-games-volume-2/
 
----
+7. **Learn C++ and Make a Game from Scratch** – CMake, Git, architecture, memory management  
+   https://www.udemy.com/course/complete-game-development-series-04-making-a-game-with-c/
 
-### 8. Unreal Engine 5 C++ Developer: Learn C++ & Make Video Games
-**Instructors:** Ben Tristem, GameDev.tv Team  
-🔗 [View Course](https://www.udemy.com/course/unrealcourse/)  
-**Skill Focus:** Gameplay programming in Unreal Engine, AI behavior trees, Blueprints vs C++
+8. **Unreal Engine 5 C++ Developer** – Gameplay systems, AI, C++/Blueprint integration  
+   https://www.udemy.com/course/unrealcourse/
 
-A capstone project in Unreal Engine 5, focused on applying C++ in conjunction with Unreal’s gameplay framework. Through projects like a tank combat game and a first-person shooter, I’ll be diving into pawn control, component systems, AI logic, and integrating Blueprints with native C++ for scalable, modular game logic — mirroring the workflows used in AAA development.
+These are part of a long-term learning track that I revisit as time allows, with an emphasis on applying concepts directly in projects rather than completing coursework in isolation.
 
 ---
 
-### 9. Project Red Cap (TBA)
+## Long-Term Direction
 
+My goal is to grow as a **gameplay programmer with strong systems and technical foundations**—someone comfortable working across engines, codebases, and tools while maintaining a player-first design mindset.
 
+That means continuing to:
+- Build focused gameplay systems and small, complete prototypes  
+- Deepen C++ knowledge and low-level architecture skills  
+- Refine workflows through tooling and automation  
+- Stay adaptable as development practices and technologies evolve  
+
+This page will continue to evolve as projects mature and new directions take shape.
+
+---
+
+[Back to Projects](projects.md)  
 [Back to Home](index.md)
+
 
