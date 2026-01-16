@@ -1,4 +1,6 @@
-remote_theme: just-the-docs/just-the-docs
+# ============================
+# Site Settings
+# ============================
 
 title: "Marwan Charafeddine"
 description: "Gameplay Programming & Systems Design | Gold Leaf Interactive"
@@ -6,7 +8,16 @@ description: "Gameplay Programming & Systems Design | Gold Leaf Interactive"
 url: "https://mcharafeddinedev.github.io"
 baseurl: ""
 
+# ============================
+# Theme
+# ============================
+
+remote_theme: just-the-docs/just-the-docs
 color_scheme: dark
+
+# ============================
+# Plugins
+# ============================
 
 plugins:
   - jekyll-remote-theme
@@ -14,9 +25,44 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
 
-# Custom styling for Just the Docs
-footer_content: ""
+# ============================
+# Just the Docs Configuration
+# ============================
+
+# Enable search
+search_enabled: true
+
+# Sidebar / navigation
+nav_sort: case_insensitive
+nav_fold: false
+
+# Hide default auxiliary links
+aux_links: {}
+
+# Hide the default "Edit this page" links
+gh_edit_link: false
+
+# Hide back-to-top link
+back_to_top: false
+
+# Footer is removed via custom CSS
+
+# ============================
+# Custom Assets
+# ============================
 
 just_the_docs:
   custom_css:
-    - /assets/css/custom.css
+    - assets/css/custom.css
+
+# ============================
+# SEO
+# ============================
+
+seo:
+  type: Person
+  name: Marwan Charafeddine
+  links:
+    - https://github.com/mcharafeddinedev
+    - https://goldleafinteractive.itch.io/
+    - https://www.linkedin.com/in/marwan-charafeddine-213065155
