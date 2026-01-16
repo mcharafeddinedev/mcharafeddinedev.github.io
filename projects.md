@@ -3,189 +3,174 @@ title: Projects
 nav_order: 2
 ---
 
-[Pursuits](activedev.md)  --  [My Library](mylib.md)  --  [Work History](work-history.md)  --  [Back to Home](index.md) 
+[Current Pursuits](activedev.md)
 
 # Project Experiences
 
-## Projects
-
-### Quantum Tether  
-**Platform:** Unity | **Language:** C# | **Release:** Itch.io  
-
-Quantum Tether is a 2D roguelike infinite sidescroller where you swing, dash, and thread your way through the accelerating currents of cosmic debris. Built around precise movement and rhythm-based momentum, the game features a fully functional upgrade system, collectible mechanics, and reactive environments.  
-
-**Key Contributions**
-- **Core Mechanics:** Designed and implemented the grappling and tethering system using vector-based physics, allowing players to swing dynamically between anchor points.  
-- **Upgrade System:** Built a modular upgrade framework with 10+ abilities such as dash cooldown reduction, dual-thread grappling, extended range, and slowed camera speed for enhanced flow control.  
-- **Procedural Anchor Patterns:** Created mathematical anchor point generation using parametric equations and sinusoidal patterns to vary level rhythm and challenge.  
-- **UI & Menus:** Developed a responsive UI and main menu system with start, pause, and settings functionality. Added custom cursor integration and dynamic HUD elements.  
-- **Game Loop & Progression:** Structured scoring, collectibles, and difficulty progression to encourage replayability and long-run mastery.  
-- **Quality of Life & Polish:** Implemented gameplay pausing, camera zoom upgrades, and accessibility options/settings for a smoother experience.  
-
-**Itch.io Page:** [Play Quantum Tether](https://mcharafeddinedev.itch.io/quantum-tether)  
-**Video:** [Watch Alpha Trailer](https://www.youtube.com/watch?v=RNs4yKPhfGM)
+## Featured Projects
 
 ---
 
-### Void Knights  
-**Platform:** Unreal Engine 5 | **Language:** Blueprints | **Prototype:** Itch.io  
+### Quantum Tether  
+**Unity | C# | Itch.io**
 
-Void Knights is a third-person turn-based RPG project inspired by the *Persona* series, focusing on dual-world exploration, psychic abilities, and interactive storytelling. My programming work centers on two core gameplay systems: *Psychic Abilities* and *Exploration & Interaction*.  
+A 2D roguelike sidescroller built around precision movement, grappling physics, and momentum-based traversal.
 
-**Key Contributions**
-- **Void Entrance Mechanic:** Developed a world-shifting system allowing players to transition between Reality and the Void Verse to solve puzzles or reveal hidden paths.  
-  - Environment dynamically shifts between worlds.  
-  - Some objects or enemies exist only in one realm, requiring strategic shifting.  
-- **Object Manipulation Mechanic:** Implemented telekinesis-based object interaction using engine physics for puzzles and combat.  
-  - Players can lift, move, and throw objects with psychic abilities.  
-  - Physics-based interactions use vector math and line traces for accurate targeting.  
-- **Exploration & Interaction Systems:** Created mechanics that enhance world interactivity and puzzle-solving.  
-  - Players interact with doors, switches, and other world elements.  
-  - Certain puzzles require world-shifting for progression.  
-- **NPC AI & Dialogue:** Built interactive NPCs with patrol behaviors and branching conversations.  
-- **UI & Menus:** Developed logic and widgets for in-world menus and settings.  
+<!-- Replace with your own screenshot -->
+![Quantum Tether Screenshot](docs/assets/quantum-tether.png)
 
-Void Knights was a prototype/proof of concept developed by a small indie-level team of artists, designers, and programmers.  
+**Highlights**
+- Designed a **vector-based grappling/tether system** for dynamic swinging between anchor points.  
+- Built a **modular upgrade framework** (10+ abilities: dash cooldowns, dual threads, range modifiers, camera control).  
+- Implemented **procedural anchor generation** using parametric and sinusoidal math to vary level rhythm.  
+- Developed responsive **UI, HUD, menus**, scoring, collectibles, and difficulty scaling.  
+- Added polish: pausing, camera upgrades, accessibility options.
 
-**Itch.io Page:** [View Project](https://mcharafeddinedev.itch.io/void-knights)
+**Play:** https://goldleafinteractive.itch.io/quantum-tether  
+**Video:** https://www.youtube.com/watch?v=RNs4yKPhfGM  
 
 ---
 
 ### Mysteries of Tupni  
-**Platform:** Unreal Engine 5 | **Language:** Blueprints | **Prototype:** Itch.io  
+**Unreal Engine 5 | Blueprints | Prototype**
 
-A fantastical third-person 3D action-adventure game where I contributed to programming, design, and level setup during preproduction.  
+A third-person fantasy adventure where I contributed to gameplay systems, inventory architecture, and interactive environments.
 
-**Key Contributions**
-- **Level Design & Environment Setup:** Created and structured key game environments and interactive elements.  
-- **Interactive Objects:** Designed and scripted interactables including doors, chests, and teleporting stones with on-screen widgets.  
-- **Inventory System:**  
-  - Built a structured inventory using Unreal Engine Data Tables.  
-  - Implemented drag-and-drop item management, tooltips, filtering, and persistent inventory across levels.  
-  - Added item pickup, usage, and dropping mechanics.  
-- **Quest Integration:** Structured objectives and NPC interactions to guide player progression.  
+<!-- Replace with your own screenshot -->
+![Mysteries of Tupni Screenshot](docs/assets/mysteries-of-tupni.png)
 
-**Itch.io Page:** [View Project](https://mcharafeddinedev.itch.io/mysteries-of-tupni)  
-**Video:** [Watch Alpha Version](https://www.youtube.com/watch?v=BQl2MkPxUl4)
+**Highlights**
+- Created **interactive world elements** (doors, chests, teleporters, UI prompts).  
+- Built a **Data Table–driven inventory system** with drag/drop, tooltips, filtering, and persistence across levels.  
+- Integrated quests and NPC interactions to support player progression.  
+- Contributed to level structure and preproduction design.
 
----
-
-### Medieval Shop Game  
-**Platform:** Windows | **Language:** C++ | **Prototype:** Itch.io  
-
-A medieval-themed text-based shop simulation prototype built to explore C++ game architecture and systems design.  
-
-**Key Contributions**
-- **Core Systems:** Implemented inventory management, shopkeeper interactions, item negotiation, and branching dialogue.  
-- **Rendering:** Created an interactive console window with ASCII art and player input handling.  
-- **Audio Implementation:** Integrated DirectSound for background music, ambience, and effects.  
-- **Architecture:** Utilized C++17 with RAII principles, smart pointers, and modular state machines.  
-- **Build Pipeline:** Established a full CMake/Ninja pipeline → Windows SDK resource packing → Inno Setup installer → Signed .exe with asset packaging.  
-
-**Itch.io Page:** [View Project](https://goldleafinteractive.itch.io/medieval-shop-game)
-
----
-
-### Million Miles Deep  
-**Platform:** Unreal Engine 5 | **Language:** Blueprints | **Release:** Itch.io  
-
-A high-intensity 2D bullet hell set on an alien ocean planet.  
-
-**Key Contributions**
-- **Enemy AI:** Designed enemy movement patterns and attack behaviors.  
-- **Projectile Mechanics:** Implemented projectile logic and lifespan handling.  
-- **UI & HUD:** Created responsive menus and on-screen widgets.  
-- **Collision Detection:** Optimized projectile collisions for performance.  
-
-**Itch.io Page:** [Play Million Miles Deep](https://mcharafeddinedev.itch.io/million-miles-deep)
+**View:** https://goldleafinteractive.itch.io/mysteries-of-tupni  
+**Video:** https://www.youtube.com/watch?v=BQl2MkPxUl4  
 
 ---
 
 ### Ginger Shroom Journey  
-**Platform:** Unity | **Language:** C# | **Release:** Steam  
+**Unity | C# | Steam**
 
-A fully released 2D adventure game built in Unity. I was responsible for core gameplay programming, level design, UI, and optimization.  
+A fully released 2D adventure game with responsibility for core gameplay systems, UI, and optimization.
 
-**Key Contributions**
-- **Character Movement & Physics:** Implemented smooth player motion and collision systems.  
-- **Interactable Objects:** Created event-driven interactions and environmental triggers.  
-- **Enemies:** Scripted patrolling enemy logic and edge detection.  
-- **UI & Camera:** Built menus, HUD elements, and a dynamic player state-driven camera.  
-- **Steam Integration:** Published on Steam using SteamworksSDK and SteamPipeGUI.  
+<!-- Replace with your own screenshot -->
+![Ginger Shroom Journey Screenshot](docs/assets/ginger-shroom-journey.png)
 
-**Steam Store:** [View on Steam](https://store.steampowered.com/app/2458650/Ginger_Shroom_Journey/)  
-**Video:** [Watch Gameplay Trailer](https://www.youtube.com/watch?v=-LGDr3DaUB8)
+**Highlights**
+- Implemented **player movement, physics, enemies, and interactions**.  
+- Built **UI, HUD, camera systems**, and environmental triggers.  
+- Managed **Steamworks integration and publishing pipeline**.
+
+**Steam:** https://store.steampowered.com/app/2458650/Ginger_Shroom_Journey/  
+**Video:** https://www.youtube.com/watch?v=-LGDr3DaUB8  
+
+---
+
+## Other Projects
+
+---
+
+### Void Knights  
+**Unreal Engine 5 | Blueprints | Prototype**
+
+A Persona-inspired RPG prototype centered on dual-world traversal and psychic mechanics.
+
+<!-- Optional screenshot -->
+![Void Knights Screenshot](docs/assets/void-knights.png)
+
+**Highlights**
+- Built a **world-shifting system** between Reality and the Void Verse for puzzles and progression.  
+- Implemented **telekinetic object manipulation** using physics, line traces, and vector targeting.  
+- Developed interactive exploration systems, NPC behaviors, and branching dialogue.
+
+**View:** https://goldleafinteractive.itch.io/void-knights  
+
+---
+
+### Medieval Shop Game  
+**C++ | Windows | Prototype**
+
+A text-based shop simulation exploring low-level architecture and game systems in C++.
+
+<!-- Optional screenshot -->
+![Medieval Shop Game Screenshot](docs/assets/medieval-shop-game.png)
+
+**Highlights**
+- Implemented **inventory, negotiation, branching dialogue**, and state-driven interactions.  
+- Built a custom **console UI with ASCII rendering and input handling**.  
+- Integrated **DirectSound audio** for music and effects.  
+- Architected with **RAII, smart pointers, modular state machines**.  
+- Established full **CMake/Ninja → resource packing → installer → signed .exe** pipeline.
+
+**View:** https://goldleafinteractive.itch.io/medieval-shop-game  
+
+---
+
+### Million Miles Deep  
+**Unreal Engine 5 | Blueprints | Itch.io**
+
+High-intensity 2D bullet hell set on an alien ocean world.
+
+<!-- Optional screenshot -->
+![Million Miles Deep Screenshot](docs/assets/million-miles-deep.png)
+
+**Highlights**
+- Designed **enemy AI patterns** and attack behaviors.  
+- Implemented **projectile systems** and optimized collision handling.  
+- Built menus, HUD, and responsive UI.
+
+**Play:** https://goldleafinteractive.itch.io/million-miles-deep  
 
 ---
 
 ### Ragdoll Plainly Perilous  
-**Platform:** Unreal Engine 5 | **Language:** Blueprints | **Release:** Itch.io  
+**Unreal Engine 5 | Blueprints | Itch.io**
 
-A physics-based experimental game exploring ragdoll mechanics and dynamic movement systems.  
+An experimental physics-driven game exploring ragdoll-based movement.
 
-**Key Contributions**
-- **Ragdoll Player Movement:** Built a responsive ragdoll-controlled player using Unreal’s physics system.  
-- **Interactive Environments:** Created physics-driven obstacles and dynamic gameplay elements.  
-- **Collision Handling:** Optimized for stable, reliable ragdoll interactions.  
+<!-- Optional screenshot -->
+![Ragdoll Plainly Perilous Screenshot](docs/assets/ragdoll-plainly-perilous.png)
 
-**Itch.io Page:** [Play Ragdoll Plainly Perilous](https://mcharafeddinedev.itch.io/ragdoll-plainly-perilous)  
-**Video:** [Watch Gameplay](https://www.youtube.com/watch?v=GfrDt166KZI)
+**Highlights**
+- Built **ragdoll-controlled player mechanics** using UE physics.  
+- Designed **interactive, physics-driven environments**.  
+- Optimized collision stability for consistent behavior.
+
+**Play:** https://goldleafinteractive.itch.io/ragdoll-plainly-perilous  
+**Video:** https://www.youtube.com/watch?v=GfrDt166KZI  
 
 ---
 
 ### Doors n’ Dice  
-**Platform:** Unreal Engine 5 | **Language:** Blueprints | **Prototype:** Itch.io  
+**Unreal Engine 5 | Blueprints | Prototype**
 
-A 2D platformer that blends chance-based mechanics with traditional platforming, where each door choice determines the player’s fate.  
+A 2D platformer combining chance-based mechanics with traditional traversal.
 
-**Key Contributions**
-- **Death & Respawn System:** Built a hazard and player reset framework.  
-- **Enemy AI:** Scripted patrolling enemies and environmental traps.  
-- **Menus & UI:** Implemented pause, resume, and menu widgets.  
-- **Physics Tuning:** Refined player movement for smoother platforming control.  
+<!-- Optional screenshot -->
+![Doors n' Dice Screenshot](docs/assets/doors-n-dice.png)
 
-**Itch.io Page:** [Play Doors n’ Dice](https://mcharafeddinedev.itch.io/doors-n-dice)
+**Highlights**
+- Implemented **death/respawn framework, hazards, and traps**.  
+- Scripted **enemy AI and movement systems**.  
+- Built menus, UI, and tuned player physics.
 
----
-
-### Additional Projects  
-
-Beyond the primary titles above, I’ve also worked on several smaller or experimental projects that reinforce different aspects of my programming expertise:  
-
-- **Crimson Eclipse (Unreal Engine 5)** – 2D Side-Scroller Horror: Enemy AI, interactive environment systems, game logic, and HUD.  
-  - **Itch.io Page:** [View Project](https://goldleafinteractive.itch.io/crimson-eclipse)  
-  - **Video:** [Watch Trailer](https://www.youtube.com/watch?v=R7KG3vuqHx4)  
-- **Escape Control (Unreal Engine 5)** – Top-Down Sci-Fi Shooter: UI widget construction, menu programming, and overall gameplay logic.  
-- **Various Game Jams** – Rapid prototyping and experimentation with new mechanics in small team environments.  
-- **Backburner Prototypes** – Unfinished builds, level design exercises, and experimental mechanics for continued learning.
+**Play:** https://goldleafinteractive.itch.io/doors-n-dice  
 
 ---
 
-### Unnamed Project – 2D Renderer & Game Development with Odin & Sokol  
-**Platform:** No Engine (Windows/WebGL/MacOS) | **Language:** Odin | **Status:** Postponed  
+## Additional Projects
 
-A deep dive into engine-free 2D game development using Odin and Sokol. Built atop Randy.gg’s minimalist 2D renderer, this project explores low-level graphics programming and game architecture from the ground up.  
+- **Crimson Eclipse (UE5)** – 2D horror: enemy AI, interactive systems, HUD.  
+  - https://goldleafinteractive.itch.io/crimson-eclipse  
+  - https://www.youtube.com/watch?v=R7KG3vuqHx4  
+- **Escape Control (UE5)** – Top-down sci-fi shooter: UI, menus, gameplay logic.  
+- **Game Jams** – Rapid prototyping and mechanic-focused development.  
+- **Backburner Prototypes** – Experimental systems, level design, and mechanics.
 
-**Focus Areas**
-- Learning renderer internals and low-level graphics operations.  
-- Expanding the base framework for improved input, animation, and gameplay logic.  
-- Building modular, scalable systems without relying on traditional engines.  
+---
 
-**Future Plans**
-- Add collision, physics, and animation from scratch.  
-- Expand rendering capabilities with new visual effects.  
-- Prototype a small but polished 2D game within this custom framework.  
-- Optimize rendering and performance for efficiency and clarity.  
-
-This project is both a learning experience and an exploration of complete engine autonomy—understanding every layer of what makes a game engine tick.
-
-
-  ---
-
-  [![Alt text](docs/assets/revisedLogoForGitHubPages.png)](https://goldleafinteractive.itch.io)
-
-  ---
-
-  [Back to Home](index.md)
+[Back to Home](index.md)
 
   
