@@ -1,3 +1,8 @@
+---
+title: Current Pursuits & Goals
+nav_exclude: true
+---
+
 # Current Pursuits & Goals
 
 As I near the completion of my A.A.S. in Digital Gaming & Simulation Programming, my focus has shifted from coursework toward building long-term technical depth as a gameplay programmer and software engineer. My education laid a solid foundation, but my priority now is hands-on development: writing systems, refining architecture, improving workflows, and strengthening my fluency in code.
