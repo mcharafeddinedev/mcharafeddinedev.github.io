@@ -23,12 +23,15 @@ This site highlights my projects, experiments, and ongoing work. For deeper tech
 
 ---
 
-## 🚀 Featured Work
+<hr>
 
-### 🎮 Recent Project
+<h2 align="center">🚀 Featured Work</h2>
+<p align="center"><strong>Recent Project</strong></p>
+
 <p align="center">
   <a href="https://www.youtube.com/watch?v=RNs4yKPhfGM">
-    <img src="https://img.youtube.com/vi/RNs4yKPhfGM/hqdefault.jpg" width="60%" />
+    <img src="https://img.youtube.com/vi/RNs4yKPhfGM/hqdefault.jpg"
+         style="max-width: 720px; width: 100%; border-radius: 16px;">
   </a>
 </p>
 
