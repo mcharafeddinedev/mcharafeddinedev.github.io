@@ -5,8 +5,8 @@ description: |
   mcharafeddinedev@gmail.com 
 
 # Navigation bar setup
-theme: jekyll-theme-hacker
-remote_theme: pages-themes/hacker@v0.2.0
+
+remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
