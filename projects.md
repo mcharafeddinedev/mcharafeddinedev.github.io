@@ -16,8 +16,9 @@ nav_order: 2
 
 A 2D roguelike sidescroller built around precision movement, grappling physics, and momentum-based traversal.
 
-<!-- Replace with your own screenshot -->
-![Quantum Tether Screenshot](docs/assets/quantum-tether.png)
+<p align="center">
+  <img src="docs/assets/quantum-tether.png" alt="Quantum Tether Screenshot" style="max-width: 820px; width: 100%; height: auto; border-radius: 12px;">
+</p>
 
 **Highlights**
 - Designed a **vector-based grappling/tether system** for dynamic swinging between anchor points.  
@@ -36,8 +37,9 @@ A 2D roguelike sidescroller built around precision movement, grappling physics, 
 
 A third-person fantasy adventure where I contributed to gameplay systems, inventory architecture, and interactive environments.
 
-<!-- Replace with your own screenshot -->
-![Mysteries of Tupni Screenshot](docs/assets/mysteries-of-tupni.png)
+<p align="center">
+  <img src="docs/assets/mysteries-of-tupni.png" alt="Mysteries of Tupni Screenshot" style="max-width: 820px; width: 100%; height: auto; border-radius: 12px;">
+</p>
 
 **Highlights**
 - Created **interactive world elements** (doors, chests, teleporters, UI prompts).  
@@ -55,8 +57,9 @@ A third-person fantasy adventure where I contributed to gameplay systems, invent
 
 A fully released 2D adventure game with responsibility for core gameplay systems, UI, and optimization.
 
-<!-- Replace with your own screenshot -->
-![Ginger Shroom Journey Screenshot](docs/assets/ginger-shroom-journey.png)
+<p align="center">
+  <img src="docs/assets/ginger-shroom-journey.png" alt="Ginger Shroom Journey Screenshot" style="max-width: 820px; width: 100%; height: auto; border-radius: 12px;">
+</p>
 
 **Highlights**
 - Implemented **player movement, physics, enemies, and interactions**.  
@@ -77,8 +80,9 @@ A fully released 2D adventure game with responsibility for core gameplay systems
 
 A Persona-inspired RPG prototype centered on dual-world traversal and psychic mechanics.
 
-<!-- Optional screenshot -->
-![Void Knights Screenshot](docs/assets/void-knights.png)
+<p align="center">
+  <img src="docs/assets/void-knights.png" alt="Void Knights Screenshot" style="max-width: 820px; width: 100%; height: auto; border-radius: 12px;">
+</p>
 
 **Highlights**
 - Built a **world-shifting system** between Reality and the Void Verse for puzzles and progression.  
@@ -94,8 +98,9 @@ A Persona-inspired RPG prototype centered on dual-world traversal and psychic me
 
 A text-based shop simulation exploring low-level architecture and game systems in C++.
 
-<!-- Optional screenshot -->
-![Medieval Shop Game Screenshot](docs/assets/medieval-shop-game.png)
+<p align="center">
+  <img src="docs/assets/medieval-shop-game.png" alt="Medieval Shop Game Screenshot" style="max-width: 820px; width: 100%; height: auto; border-radius: 12px;">
+</p>
 
 **Highlights**
 - Implemented **inventory, negotiation, branching dialogue**, and state-driven interactions.  
@@ -113,8 +118,10 @@ A text-based shop simulation exploring low-level architecture and game systems i
 
 High-intensity 2D bullet hell set on an alien ocean world.
 
-<!-- Optional screenshot -->
-![Million Miles Deep Screenshot](docs/assets/million-miles-deep.png)
+<!-- Portrait-friendly: constrain width harder so it doesn't feel enormous -->
+<p align="center">
+  <img src="docs/assets/million-miles-deep.png" alt="Million Miles Deep Screenshot" style="max-width: 360px; width: 100%; height: auto; border-radius: 16px;">
+</p>
 
 **Highlights**
 - Designed **enemy AI patterns** and attack behaviors.  
@@ -130,8 +137,9 @@ High-intensity 2D bullet hell set on an alien ocean world.
 
 An experimental physics-driven game exploring ragdoll-based movement.
 
-<!-- Optional screenshot -->
-![Ragdoll Plainly Perilous Screenshot](docs/assets/ragdoll-plainly-perilous.png)
+<p align="center">
+  <img src="docs/assets/ragdoll-plainly-perilous.png" alt="Ragdoll Plainly Perilous Screenshot" style="max-width: 820px; width: 100%; height: auto; border-radius: 12px;">
+</p>
 
 **Highlights**
 - Built **ragdoll-controlled player mechanics** using UE physics.  
@@ -147,9 +155,6 @@ An experimental physics-driven game exploring ragdoll-based movement.
 **Unreal Engine 5 | Blueprints | Prototype**
 
 A 2D platformer combining chance-based mechanics with traditional traversal.
-
-<!-- Optional screenshot -->
-![Doors n' Dice Screenshot](docs/assets/doors-n-dice.png)
 
 **Highlights**
 - Implemented **death/respawn framework, hazards, and traps**.  
@@ -172,5 +177,6 @@ A 2D platformer combining chance-based mechanics with traditional traversal.
 ---
 
 [Back to Home](index.md)
+
 
   
