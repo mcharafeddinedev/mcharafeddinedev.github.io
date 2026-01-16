@@ -14,7 +14,7 @@ This site highlights my projects, experiments, and ongoing work. For deeper tech
 
 ---
 
-## 🔧 What I Do
+## 🔧 My Work Includes:
 
 - **Gameplay Programming** – mechanics, movement systems, combat logic  
 - **Systems Design** – progression, abilities, state machines, game loops  
