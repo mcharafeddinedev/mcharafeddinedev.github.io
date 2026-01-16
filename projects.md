@@ -1,9 +1,8 @@
 ---
-
-layout: default
 title: Projects
-
+nav_order: 2
 ---
+
 [Pursuits](activedev.md)  --  [My Library](mylib.md)  --  [Work History](work-history.md)  --  [Back to Home](index.md) 
 
 # Project Experiences
