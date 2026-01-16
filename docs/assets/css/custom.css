@@ -2,7 +2,10 @@
    Just the Docs - Portfolio Polish
    ============================ */
 
-/* --- Header / Site Title Fix --- */
+/* ----------------------------
+   Header / Site Title Fix
+   ---------------------------- */
+
 .site-title,
 .site-title:link,
 .site-title:visited {
@@ -12,18 +15,23 @@
   display: inline;
 }
 
-/* Increase header height slightly so text doesn't feel cramped */
+/* Increase header height slightly so title doesn't feel cramped */
 .site-header {
   min-height: 3.2rem;
   padding-top: 0.4rem;
   padding-bottom: 0.4rem;
 }
 
-/* --- Content Styling --- */
+/* ----------------------------
+   Modern Link Styling (content only)
+   ---------------------------- */
+
 .main-content a {
   text-decoration-thickness: 0.08em;
   text-underline-offset: 0.18em;
-  transition: transform 120ms ease, opacity 120ms ease, text-decoration-thickness 120ms ease;
+  transition: transform 120ms ease,
+              opacity 120ms ease,
+              text-decoration-thickness 120ms ease;
 }
 
 .main-content a:hover {
@@ -32,14 +40,26 @@
   text-decoration-thickness: 0.14em;
 }
 
+/* ----------------------------
+   Portfolio Image Styling
+   ---------------------------- */
+
 .main-content img {
   border-radius: 12px;
 }
+
+/* ----------------------------
+   Code Block Polish
+   ---------------------------- */
 
 .main-content pre,
 .main-content code {
   border-radius: 10px;
 }
+
+/* ----------------------------
+   Remove Just the Docs Footer
+   ---------------------------- */
 
 .site-footer,
 footer.site-footer,
@@ -51,4 +71,9 @@ footer.site-footer,
   height: 0 !important;
   padding: 0 !important;
   margin: 0 !important;
+}
+
+/* Prevent leftover spacing at bottom */
+.main-content {
+  padding-bottom: 3rem;
 }
