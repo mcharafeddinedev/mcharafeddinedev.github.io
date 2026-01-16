@@ -1,0 +1,11 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Projects"
+    url: /projects/
+  - title: "Work History"
+    url: /work-history/
+  - title: "My Library"
+    url: /lib/
+  - title: "Blog"
+    url: /blog/
