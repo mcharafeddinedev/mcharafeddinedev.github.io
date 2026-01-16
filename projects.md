@@ -17,7 +17,7 @@ nav_order: 2
 A 2D roguelike sidescroller built around precision movement, grappling physics, and momentum-based traversal.
 
 <p align="center">
-  <img src="docs/assets/quantum-tether.png" alt="Quantum Tether Screenshot" style="max-width: 820px; width: 100%; height: auto; border-radius: 12px;">
+  <img src="docs/assets/quantum-tether.png" alt="Quantum Tether Screenshot" style="max-width: 615px; width: 100%; height: auto; border-radius: 12px;">
 </p>
 
 **Highlights**
@@ -38,7 +38,7 @@ A 2D roguelike sidescroller built around precision movement, grappling physics, 
 A third-person fantasy adventure where I contributed to gameplay systems, inventory architecture, and interactive environments.
 
 <p align="center">
-  <img src="docs/assets/mysteries-of-tupni.png" alt="Mysteries of Tupni Screenshot" style="max-width: 820px; width: 100%; height: auto; border-radius: 12px;">
+  <img src="docs/assets/mysteries-of-tupni.png" alt="Mysteries of Tupni Screenshot" style="max-width: 615px; width: 100%; height: auto; border-radius: 12px;">
 </p>
 
 **Highlights**
@@ -58,7 +58,7 @@ A third-person fantasy adventure where I contributed to gameplay systems, invent
 A fully released 2D adventure game with responsibility for core gameplay systems, UI, and optimization.
 
 <p align="center">
-  <img src="docs/assets/ginger-shroom-journey.png" alt="Ginger Shroom Journey Screenshot" style="max-width: 820px; width: 100%; height: auto; border-radius: 12px;">
+  <img src="docs/assets/ginger-shroom-journey.png" alt="Ginger Shroom Journey Screenshot" style="max-width: 615px; width: 100%; height: auto; border-radius: 12px;">
 </p>
 
 **Highlights**
@@ -81,7 +81,7 @@ A fully released 2D adventure game with responsibility for core gameplay systems
 A Persona-inspired RPG prototype centered on dual-world traversal and psychic mechanics.
 
 <p align="center">
-  <img src="docs/assets/void-knights.png" alt="Void Knights Screenshot" style="max-width: 820px; width: 100%; height: auto; border-radius: 12px;">
+  <img src="docs/assets/void-knights.png" alt="Void Knights Screenshot" style="max-width: 615px; width: 100%; height: auto; border-radius: 12px;">
 </p>
 
 **Highlights**
@@ -99,7 +99,7 @@ A Persona-inspired RPG prototype centered on dual-world traversal and psychic me
 A text-based shop simulation exploring low-level architecture and game systems in C++.
 
 <p align="center">
-  <img src="docs/assets/medieval-shop-game.png" alt="Medieval Shop Game Screenshot" style="max-width: 820px; width: 100%; height: auto; border-radius: 12px;">
+  <img src="docs/assets/medieval-shop-game.png" alt="Medieval Shop Game Screenshot" style="max-width: 615px; width: 100%; height: auto; border-radius: 12px;">
 </p>
 
 **Highlights**
@@ -118,9 +118,10 @@ A text-based shop simulation exploring low-level architecture and game systems i
 
 High-intensity 2D bullet hell set on an alien ocean world.
 
-<!-- Portrait-friendly: constrain width harder so it doesn't feel enormous -->
+<!-- Portrait-friendly: two vertical images side-by-side -->
 <p align="center">
-  <img src="docs/assets/million-miles-deep.png" alt="Million Miles Deep Screenshot" style="max-width: 360px; width: 100%; height: auto; border-radius: 16px;">
+  <img src="docs/assets/million-miles-deep.png" alt="Million Miles Deep Screenshot" style="max-width: 270px; width: 100%; height: auto; border-radius: 16px; margin-right: 10px;">
+  <img src="docs/assets/million-miles-deep-2.png" alt="Million Miles Deep Screenshot 2" style="max-width: 270px; width: 100%; height: auto; border-radius: 16px;">
 </p>
 
 **Highlights**
@@ -138,7 +139,7 @@ High-intensity 2D bullet hell set on an alien ocean world.
 An experimental physics-driven game exploring ragdoll-based movement.
 
 <p align="center">
-  <img src="docs/assets/ragdoll-plainly-perilous.png" alt="Ragdoll Plainly Perilous Screenshot" style="max-width: 820px; width: 100%; height: auto; border-radius: 12px;">
+  <img src="docs/assets/ragdoll-plainly-perilous.png" alt="Ragdoll Plainly Perilous Screenshot" style="max-width: 615px; width: 100%; height: auto; border-radius: 12px;">
 </p>
 
 **Highlights**
@@ -151,32 +152,35 @@ An experimental physics-driven game exploring ragdoll-based movement.
 
 ---
 
-### Doors n’ Dice  
-**Unreal Engine 5 | Blueprints | Prototype**
+### Crimson Eclipse  
+**Unreal Engine 5 | Blueprints | Itch.io**
 
-A 2D platformer combining chance-based mechanics with traditional traversal.
+A 2D side-scroller horror project focused on tension, pacing, and survival-style encounters.
+
+<p align="center">
+  <img src="docs/assets/crimson-eclipse.png" alt="Crimson Eclipse Screenshot" style="max-width: 615px; width: 100%; height: auto; border-radius: 12px;">
+</p>
 
 **Highlights**
-- Implemented **death/respawn framework, hazards, and traps**.  
-- Scripted **enemy AI and movement systems**.  
-- Built menus, UI, and tuned player physics.
+- Implemented enemy behaviors and encounter logic to support horror pacing.  
+- Built interactive environment systems and gameplay triggers.  
+- Developed UI/HUD elements to communicate player state and progression.
 
-**Play:** https://goldleafinteractive.itch.io/doors-n-dice  
+**View:** https://goldleafinteractive.itch.io/crimson-eclipse  
+**Video:** https://www.youtube.com/watch?v=R7KG3vuqHx4  
 
 ---
 
 ## Additional Projects
 
-- **Crimson Eclipse (UE5)** – 2D horror: enemy AI, interactive systems, HUD.  
-  - https://goldleafinteractive.itch.io/crimson-eclipse  
-  - https://www.youtube.com/watch?v=R7KG3vuqHx4  
-- **Escape Control (UE5)** – Top-down sci-fi shooter: UI, menus, gameplay logic.  
+- **Doors n’ Dice (UE5)** – 2D platformer with chance-based door outcomes: death/respawn system, hazards/traps, enemy behaviors, and UI/menus.  
+  - https://goldleafinteractive.itch.io/doors-n-dice  
+- **Escape Control (UE5)** – Top-down sci-fi shooter: UI widgets, menus, and core gameplay logic.  
 - **Game Jams** – Rapid prototyping and mechanic-focused development.  
 - **Backburner Prototypes** – Experimental systems, level design, and mechanics.
 
 ---
 
 [Back to Home](index.md)
-
 
   
