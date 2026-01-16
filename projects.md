@@ -26,9 +26,9 @@ A 2D roguelike sidescroller built around precision movement, grappling physics, 
 - Implemented **procedural anchor generation** using parametric and sinusoidal math to vary level rhythm.  
 - Developed responsive **UI, HUD, menus**, scoring, collectibles, and difficulty scaling.  
 - Added polish: pausing, camera upgrades, accessibility options.
-
-**Play:** https://goldleafinteractive.itch.io/quantum-tether  
-**Video:** https://www.youtube.com/watch?v=RNs4yKPhfGM  
+- 
+**Play:** [Quantum Tether on Itch.io](https://goldleafinteractive.itch.io/quantum-tether)  
+**Video:** [YouTube Trailer](https://www.youtube.com/watch?v=RNs4yKPhfGM)
 
 ---
 
@@ -47,8 +47,8 @@ A third-person fantasy adventure where I contributed to gameplay systems, invent
 - Integrated quests and NPC interactions to support player progression.  
 - Contributed to level structure and preproduction design.
 
-**View:** https://goldleafinteractive.itch.io/mysteries-of-tupni  
-**Video:** https://www.youtube.com/watch?v=BQl2MkPxUl4  
+**View:** [MoT on Itch.io](https://goldleafinteractive.itch.io/mysteries-of-tupni)  
+**Video:** [YouTube Video](https://www.youtube.com/watch?v=BQl2MkPxUl4)  
 
 ---
 
@@ -66,8 +66,8 @@ A fully released 2D adventure game with responsibility for core gameplay systems
 - Built **UI, HUD, camera systems**, and environmental triggers.  
 - Managed **Steamworks integration and publishing pipeline**.
 
-**Steam:** https://store.steampowered.com/app/2458650/Ginger_Shroom_Journey/  
-**Video:** https://www.youtube.com/watch?v=-LGDr3DaUB8  
+**Steam:** [GSJ Steam Store Page (FREE!)](https://store.steampowered.com/app/2458650/Ginger_Shroom_Journey/)  
+**Video:** [YouTube Video](https://www.youtube.com/watch?v=-LGDr3DaUB8)  
 
 ---
 
@@ -89,7 +89,7 @@ A Persona-inspired RPG prototype centered on dual-world traversal and psychic me
 - Implemented **telekinetic object manipulation** using physics, line traces, and vector targeting.  
 - Developed interactive exploration systems, NPC behaviors, and branching dialogue.
 
-**View:** https://goldleafinteractive.itch.io/void-knights  
+**View:** [Void Knights on Itch.io](https://goldleafinteractive.itch.io/void-knights) 
 
 ---
 
@@ -109,7 +109,7 @@ A text-based shop simulation exploring low-level architecture and game systems i
 - Architected with **RAII, smart pointers, modular state machines**.  
 - Established full **CMake/Ninja → resource packing → installer → signed .exe** pipeline.
 
-**View:** https://goldleafinteractive.itch.io/medieval-shop-game  
+**View:** [Medieval Shop Game on Itch.io](https://goldleafinteractive.itch.io/medieval-shop-game)  
 
 ---
 
@@ -129,7 +129,7 @@ High-intensity 2D bullet hell set on an alien ocean world.
 - Implemented **projectile systems** and optimized collision handling.  
 - Built menus, HUD, and responsive UI.
 
-**Play:** https://goldleafinteractive.itch.io/million-miles-deep  
+**Play:** [Million Miles Deep on Itch.io](https://goldleafinteractive.itch.io/million-miles-deep)  
 
 ---
 
@@ -147,8 +147,8 @@ An experimental physics-driven game exploring ragdoll-based movement.
 - Designed **interactive, physics-driven environments**.  
 - Optimized collision stability for consistent behavior.
 
-**Play:** https://goldleafinteractive.itch.io/ragdoll-plainly-perilous  
-**Video:** https://www.youtube.com/watch?v=GfrDt166KZI  
+**Play:** [Ragdoll: Plainly Perilous on Itch.io](https://goldleafinteractive.itch.io/ragdoll-plainly-perilous)  
+**Video:** [YouTube Video](https://www.youtube.com/watch?v=GfrDt166KZI)  
 
 ---
 
@@ -166,15 +166,15 @@ A 2D side-scroller horror project focused on tension, pacing, and survival-style
 - Built interactive environment systems and gameplay triggers.  
 - Developed UI/HUD elements to communicate player state and progression.
 
-**View:** https://goldleafinteractive.itch.io/crimson-eclipse  
-**Video:** https://www.youtube.com/watch?v=R7KG3vuqHx4  
+**View:** [Crimson Eclilpse on Itch.io](https://goldleafinteractive.itch.io/crimson-eclipse)  
+**Video:** [YouTube Video](https://www.youtube.com/watch?v=R7KG3vuqHx4)  
 
 ---
 
 ## Additional Projects
 
 - **Doors n’ Dice (UE5)** – 2D platformer with chance-based door outcomes: death/respawn system, hazards/traps, enemy behaviors, and UI/menus.  
-  - https://goldleafinteractive.itch.io/doors-n-dice  
+  - [Doors n' Dice on Itch.io](https://goldleafinteractive.itch.io/doors-n-dice)  
 - **Escape Control (UE5)** – Top-down sci-fi shooter: UI widgets, menus, and core gameplay logic.  
 - **Game Jams** – Rapid prototyping and mechanic-focused development.  
 - **Backburner Prototypes** – Experimental systems, level design, and mechanics.
