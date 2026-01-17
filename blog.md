@@ -3,17 +3,20 @@ title: Blog
 nav_exclude: true
 ---
 
-## 03-01-2025
-
-New tab, 'My Library' created for the website!
+# Blog
 
 ---
 
-## 02-21-25
+### March 1, 2025
 
-I made a website! 
+New tab 'My Library' created for the website.
 
 ---
 
+### February 21, 2025
 
-[Back to Home](index.md)
+I made a website!
+
+---
+
+[← Home](index.md)

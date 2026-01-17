@@ -3,184 +3,163 @@ title: Projects
 nav_order: 3
 ---
 
-[Current Pursuits](activedev.md)
+# Projects
 
-# Project Experiences
-
-## Featured Projects
+[Current Pursuits →](activedev.md)
 
 ---
 
-### Quantum Tether  
-**Unity | C# | Itch.io**
+## Featured
+
+### Quantum Tether
+**Unity · C# · Released**
 
 A 2D roguelike sidescroller built around precision movement, grappling physics, and momentum-based traversal.
 
 <p align="center">
-  <img src="/assets/images/quantum-tether.png" alt="Quantum Tether Screenshot" style="max-width: 615px; width: 100%; height: auto; border-radius: 12px;">
+  <img src="/assets/images/quantum-tether.png" alt="Quantum Tether" style="max-width: 600px; width: 100%;">
 </p>
 
-**Highlights**
-- Designed a **vector-based grappling/tether system** for dynamic swinging between anchor points.  
-- Built a **modular upgrade framework** (10+ abilities: dash cooldowns, dual threads, range modifiers, camera control).  
-- Implemented **procedural anchor generation** using parametric and sinusoidal math to vary level rhythm.  
-- Developed responsive **UI, HUD, menus**, scoring, collectibles, and difficulty scaling.  
-- Added polish: pausing, camera upgrades, accessibility options.
+- Designed a **vector-based grappling system** for dynamic swinging between anchor points
+- Built a **modular upgrade framework** (10+ abilities: dash cooldowns, dual threads, range modifiers)
+- Implemented **procedural anchor generation** using parametric math to vary level rhythm
+- Developed responsive UI, HUD, scoring, collectibles, and difficulty scaling
 
-**Play:** [Quantum Tether on Itch.io](https://goldleafinteractive.itch.io/quantum-tether)  
-**Video:** [YouTube Trailer](https://www.youtube.com/watch?v=RNs4yKPhfGM)
+**[Play on Itch.io](https://goldleafinteractive.itch.io/quantum-tether)** · [Watch Trailer](https://www.youtube.com/watch?v=RNs4yKPhfGM)
 
 ---
 
-### Mysteries of Tupni  
-**Unreal Engine 5 | Blueprints | Prototype**
+### Mysteries of Tupni
+**Unreal Engine 5 · Blueprints · Prototype**
 
-A third-person fantasy adventure where I contributed to gameplay systems, inventory architecture, and interactive environments.
+A third-person fantasy adventure with gameplay systems, inventory architecture, and interactive environments.
 
 <p align="center">
-  <img src="/assets/images/mysteries-of-tupni.png" alt="Mysteries of Tupni Screenshot" style="max-width: 615px; width: 100%; height: auto; border-radius: 12px;">
+  <img src="/assets/images/mysteries-of-tupni.png" alt="Mysteries of Tupni" style="max-width: 600px; width: 100%;">
 </p>
 
-**Highlights**
-- Created **interactive world elements** (doors, chests, teleporters, UI prompts).  
-- Built a **Data Table–driven inventory system** with drag/drop, tooltips, filtering, and persistence across levels.  
-- Integrated quests and NPC interactions to support player progression.  
-- Contributed to level structure and preproduction design.
+- Created **interactive world elements** (doors, chests, teleporters, UI prompts)
+- Built a **Data Table–driven inventory system** with drag/drop, tooltips, and persistence
+- Integrated quests and NPC interactions to support player progression
 
-**View:** [MoT on Itch.io](https://goldleafinteractive.itch.io/mysteries-of-tupni)  
-**Video:** [YouTube Video](https://www.youtube.com/watch?v=BQl2MkPxUl4)  
+**[View on Itch.io](https://goldleafinteractive.itch.io/mysteries-of-tupni)** · [Watch Demo](https://www.youtube.com/watch?v=BQl2MkPxUl4)
 
 ---
 
-### Ginger Shroom Journey  
-**Unity | C# | Steam**
+### Ginger Shroom Journey
+**Unity · C# · Steam**
 
 A fully released 2D adventure game with responsibility for core gameplay systems, UI, and optimization.
 
 <p align="center">
-  <img src="/assets/images/ginger-shroom-journey.png" alt="Ginger Shroom Journey Screenshot" style="max-width: 615px; width: 100%; height: auto; border-radius: 12px;">
+  <img src="/assets/images/ginger-shroom-journey.png" alt="Ginger Shroom Journey" style="max-width: 600px; width: 100%;">
 </p>
 
-**Highlights**
-- Implemented **player movement, physics, enemies, and interactions**.  
-- Built **UI, HUD, camera systems**, and environmental triggers.  
-- Managed **Steamworks integration and publishing pipeline**.
+- Implemented **player movement, physics, enemies, and interactions**
+- Built UI, HUD, camera systems, and environmental triggers
+- Managed **Steamworks integration and publishing pipeline**
 
-**Steam:** [GSJ Steam Store Page (FREE!)](steam://store/2458650) 
-**Video:** [YouTube Video](https://www.youtube.com/watch?v=-LGDr3DaUB8)  
+**[Get on Steam (Free)](steam://store/2458650)** · [Watch Trailer](https://www.youtube.com/watch?v=-LGDr3DaUB8)
 
 ---
 
-## Other Projects
+## Other Work
 
----
-
-### Void Knights  
-**Unreal Engine 5 | Blueprints | Prototype**
+### Void Knights
+**Unreal Engine 5 · Blueprints**
 
 A Persona-inspired RPG prototype centered on dual-world traversal and psychic mechanics.
 
 <p align="center">
-  <img src="/assets/images/void-knights.png" alt="Void Knights Screenshot" style="max-width: 615px; width: 100%; height: auto; border-radius: 12px;">
+  <img src="/assets/images/void-knights.png" alt="Void Knights" style="max-width: 600px; width: 100%;">
 </p>
 
-**Highlights**
-- Built a **world-shifting system** between Reality and the Void Verse for puzzles and progression.  
-- Implemented **telekinetic object manipulation** using physics, line traces, and vector targeting.  
-- Developed interactive exploration systems, NPC behaviors, and branching dialogue.
+- Built a **world-shifting system** between Reality and the Void Verse
+- Implemented **telekinetic object manipulation** using physics and vector targeting
+- Developed exploration systems, NPC behaviors, and branching dialogue
 
-**View:** [Void Knights on Itch.io](https://goldleafinteractive.itch.io/void-knights) 
+**[View on Itch.io](https://goldleafinteractive.itch.io/void-knights)**
 
 ---
 
-### Medieval Shop Game  
-**C++ | Windows | Prototype**
+### Medieval Shop Game
+**C++ · Windows**
 
 A text-based shop simulation exploring low-level architecture and game systems in C++.
 
 <p align="center">
-  <img src="/assets/images/medieval-shop-game.png" alt="Medieval Shop Game Screenshot" style="max-width: 615px; width: 100%; height: auto; border-radius: 12px;">
+  <img src="/assets/images/medieval-shop-game.png" alt="Medieval Shop Game" style="max-width: 600px; width: 100%;">
 </p>
 
-**Highlights**
-- Implemented **inventory, negotiation, branching dialogue**, and state-driven interactions.  
-- Built a custom **console UI with ASCII rendering and input handling**.  
-- Integrated **DirectSound audio** for music and effects.  
-- Architected with **RAII, smart pointers, modular state machines**.  
-- Established full **CMake/Ninja → resource packing → installer → signed .exe** pipeline.
+- Implemented **inventory, negotiation, branching dialogue**, and state-driven interactions
+- Built custom **console UI with ASCII rendering and input handling**
+- Integrated **DirectSound audio** for music and effects
+- Architected with RAII, smart pointers, modular state machines
+- Full **CMake/Ninja → resource packing → installer → signed .exe** pipeline
 
-**View:** [Medieval Shop Game on Itch.io](https://goldleafinteractive.itch.io/medieval-shop-game)  
+**[View on Itch.io](https://goldleafinteractive.itch.io/medieval-shop-game)**
 
 ---
 
-### Million Miles Deep  
-**Unreal Engine 5 | Blueprints | Itch.io**
+### Million Miles Deep
+**Unreal Engine 5 · Blueprints**
 
 High-intensity 2D bullet hell set on an alien ocean world.
 
-<!-- Portrait-friendly: two vertical images side-by-side -->
 <p align="center">
-  <img src="/assets/images/million-miles-deep.png" alt="Million Miles Deep Screenshot" style="max-width: 270px; width: 100%; height: auto; border-radius: 16px; margin-right: 12px; display: inline-block; vertical-align: top;">
-  <img src="/assets/images/million-miles-deep-2.png" alt="Million Miles Deep Screenshot 2" style="max-width: 270px; width: 100%; height: auto; border-radius: 16px; display: inline-block; vertical-align: top;">
+  <img src="/assets/images/million-miles-deep.png" alt="Million Miles Deep" style="max-width: 260px; width: 48%; display: inline-block;">
+  <img src="/assets/images/million-miles-deep-2.png" alt="Million Miles Deep" style="max-width: 260px; width: 48%; display: inline-block;">
 </p>
 
-**Highlights**
-- Designed **enemy AI patterns** and attack behaviors.  
-- Implemented **projectile systems** and optimized collision handling.  
-- Built menus, HUD, and responsive UI.
+- Designed **enemy AI patterns** and attack behaviors
+- Implemented **projectile systems** and optimized collision handling
+- Built menus, HUD, and responsive UI
 
-**Play:** [Million Miles Deep on Itch.io](https://goldleafinteractive.itch.io/million-miles-deep)  
+**[Play on Itch.io](https://goldleafinteractive.itch.io/million-miles-deep)**
 
 ---
 
-### Ragdoll Plainly Perilous  
-**Unreal Engine 5 | Blueprints | Itch.io**
+### Ragdoll Plainly Perilous
+**Unreal Engine 5 · Blueprints**
 
 An experimental physics-driven game exploring ragdoll-based movement.
 
 <p align="center">
-  <img src="/assets/images/ragdoll-plainly-perilous.png" alt="Ragdoll Plainly Perilous Screenshot" style="max-width: 615px; width: 100%; height: auto; border-radius: 12px;">
+  <img src="/assets/images/ragdoll-plainly-perilous.png" alt="Ragdoll Plainly Perilous" style="max-width: 600px; width: 100%;">
 </p>
 
-**Highlights**
-- Built **ragdoll-controlled player mechanics** using UE physics.  
-- Designed **interactive, physics-driven environments**.  
-- Optimized collision stability for consistent behavior.
+- Built **ragdoll-controlled player mechanics** using UE physics
+- Designed **interactive, physics-driven environments**
+- Optimized collision stability for consistent behavior
 
-**Play:** [Ragdoll: Plainly Perilous on Itch.io](https://goldleafinteractive.itch.io/ragdoll-plainly-perilous)  
-**Video:** [YouTube Video](https://www.youtube.com/watch?v=GfrDt166KZI)  
+**[Play on Itch.io](https://goldleafinteractive.itch.io/ragdoll-plainly-perilous)** · [Watch Demo](https://www.youtube.com/watch?v=GfrDt166KZI)
 
 ---
 
-### Crimson Eclipse  
-**Unreal Engine 5 | Blueprints | Itch.io**
+### Crimson Eclipse
+**Unreal Engine 5 · Blueprints**
 
 A 2D side-scroller horror project focused on tension, pacing, and survival-style encounters.
 
 <p align="center">
-  <img src="/assets/images/crimson-eclipse.png" alt="Crimson Eclipse Screenshot" style="max-width: 615px; width: 100%; height: auto; border-radius: 12px;">
+  <img src="/assets/images/crimson-eclipse.png" alt="Crimson Eclipse" style="max-width: 600px; width: 100%;">
 </p>
 
-**Highlights**
-- Implemented enemy behaviors and encounter logic to support horror pacing.  
-- Built interactive environment systems and gameplay triggers.  
-- Developed UI/HUD elements to communicate player state and progression.
+- Implemented enemy behaviors and encounter logic for horror pacing
+- Built interactive environment systems and gameplay triggers
+- Developed UI/HUD elements for player state communication
 
-**View:** [Crimson Eclipse on Itch.io](https://goldleafinteractive.itch.io/crimson-eclipse)  
-**Video:** [YouTube Video](https://www.youtube.com/watch?v=R7KG3vuqHx4)  
+**[View on Itch.io](https://goldleafinteractive.itch.io/crimson-eclipse)** · [Watch Demo](https://www.youtube.com/watch?v=R7KG3vuqHx4)
 
 ---
 
-## Additional Projects
+## More
 
-- **Doors n’ Dice (UE5)** – 2D platformer with chance-based door outcomes: death/respawn system, hazards/traps, enemy behaviors, and UI/menus.  
-  - [Doors n' Dice on Itch.io](https://goldleafinteractive.itch.io/doors-n-dice)  
-- **Escape Control (UE5)** – Top-down sci-fi shooter: UI widgets, menus, and core gameplay logic.  
-- **Game Jams** – Rapid prototyping and mechanic-focused development.  
-- **Backburner Prototypes** – Experimental systems, level design, and mechanics.
+- **Doors n' Dice** (UE5) — 2D platformer with chance-based door outcomes · [Itch.io](https://goldleafinteractive.itch.io/doors-n-dice)
+- **Escape Control** (UE5) — Top-down sci-fi shooter
+- **Game Jams** — Rapid prototyping and mechanic-focused development
+- **Experimental Prototypes** — Systems, level design, and mechanics exploration
 
 ---
 
-[Back to Home](index.md)
-
-  
+[← Back to Home](index.md)

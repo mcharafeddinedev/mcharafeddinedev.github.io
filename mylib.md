@@ -224,4 +224,3 @@ This collection reflects the games that shaped how I think about **mechanics, na
 
 ---
 
-[Back to Home](index.md)

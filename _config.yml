@@ -13,7 +13,7 @@ author:
   linkedin: "marwan-charafeddine-213065155"
 
 # SEO and social sharing
-logo: "/assets/images/revisedLogoForGitHubPages.png"
+# logo: "/assets/images/revisedLogoForGitHubPages.png" # Commented out to show site title text instead
 image: "/assets/images/revisedLogoForGitHubPages.png" # Open Graph image
 twitter:
   username: "" # Add if you have Twitter

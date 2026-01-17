@@ -4,64 +4,47 @@ layout: default
 nav_order: 1
 ---
 
-# Gameplay Programmer • Systems Design
+# Gameplay Programmer · Systems Design
 
-Hey — I’m Marwan, a gameplay programmer focused on building responsive mechanics, scalable systems, and immersive player experiences.
+Hey — I'm Marwan, a gameplay programmer focused on building responsive mechanics, scalable systems, and immersive player experiences.
 
-I work primarily in  **Unreal Engine** and **Unity**, specializing in gameplay scripting, level prototyping, and building technical systems that support strong moment-to-moment play. My background in science sharpened my problem-solving mindset, which I now apply to debugging, feature development, and game systems architecture.
+I work primarily in **Unreal Engine** and **Unity**, specializing in gameplay scripting, level prototyping, and building technical systems that support strong moment-to-moment play. My background in science sharpened my problem-solving mindset, which I now apply to debugging, feature development, and game systems architecture.
 
 This site highlights my projects, experiments, and ongoing work. For deeper technical breakdowns, check out my GitHub or reach out anytime.
 
 ---
 
-## 🔧 My Work Includes:
+## What I Do
 
-- **Gameplay Programming** – mechanics, movement systems, combat logic  
-- **Systems Design** – progression, abilities, state machines, game loops  
-- **Technical Problem Solving** – debugging, optimization, tooling  
-- **Engine Experience** – Unity (C#), Unreal Engine (Blueprints & C++)  
+- **Gameplay Programming** — mechanics, movement systems, combat logic
+- **Systems Design** — progression, abilities, state machines, game loops
+- **Technical Problem Solving** — debugging, optimization, tooling
+- **Engine Experience** — Unity (C#), Unreal Engine (Blueprints & C++)
 
 ---
 
-<h2 align="center">🚀 Featured Work</h2>
-<p align="center"><strong>Recent Project</strong></p>
+## Featured Work
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=RNs4yKPhfGM">
     <img src="https://img.youtube.com/vi/RNs4yKPhfGM/hqdefault.jpg"
-         style="max-width: 720px; width: 100%; border-radius: 16px;">
+         alt="Recent gameplay prototype demo"
+         style="max-width: 640px; width: 100%; border-radius: 8px;">
   </a>
 </p>
 
-**Watch Demo →**  
 A recent gameplay prototype showcasing core mechanics, player control, and systems-driven design.
 
-For a full breakdown of my projects:
-👉 **[View Projects](projects.md)**
+**[View All Projects →](projects.md)**
 
 ---
 
-## 🌐 Find Me Elsewhere
+## Connect
 
-- 🎮 **Itch.io:** https://goldleafinteractive.itch.io  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/marwan-charafeddine-213065155  
-- 🧠 **GitHub Portfolio:** https://github.com/mcharafeddinedev/GameDev-Portfolio  
-
----
-
-If you're interested in collaboration, internships, or just talking game development — feel free to reach out.
+- **Itch.io:** [goldleafinteractive.itch.io](https://goldleafinteractive.itch.io)
+- **LinkedIn:** [Marwan Charafeddine](https://www.linkedin.com/in/marwan-charafeddine-213065155)
+- **GitHub:** [GameDev Portfolio](https://github.com/mcharafeddinedev/GameDev-Portfolio)
 
 ---
 
-<div style="text-align: center; margin-top: 3rem; padding: 2rem; background-color: rgba(255, 255, 255, 0.03); border-radius: 12px; border: 1px solid rgba(255, 255, 255, 0.1);">
-
-### 💼 Open to Opportunities
-
-I'm actively seeking **gameplay programming roles**, **internships**, and **collaborative projects**. 
-
-**Let's connect:**
-- 💼 [LinkedIn](https://www.linkedin.com/in/marwan-charafeddine-213065155)
-- 🧠 [GitHub Portfolio](https://github.com/mcharafeddinedev/GameDev-Portfolio)
-- 🎮 [Itch.io](https://goldleafinteractive.itch.io)
-
-</div>
+Interested in collaboration, internships, or discussing game development? Feel free to reach out.
