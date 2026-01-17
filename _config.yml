@@ -1,25 +1,49 @@
 title: "Marwan Charafeddine"
 description: "Gameplay Programming & Systems Design"
+tagline: "Gameplay Programmer • Systems Design"
 url: "https://mcharafeddinedev.github.io"
 baseurl: ""
 
+# Author information for SEO and social sharing
+author:
+  name: "Marwan Charafeddine"
+  email: "mcharafeddinedev@gmail.com"
+  twitter: "" # Add your Twitter handle if you have one
+  github: "mcharafeddinedev"
+  linkedin: "marwan-charafeddine-213065155"
+
+# SEO and social sharing
+logo: "/assets/images/revisedLogoForGitHubPages.png"
+image: "/assets/images/revisedLogoForGitHubPages.png" # Open Graph image
+twitter:
+  username: "" # Add if you have Twitter
+  card: "summary_large_image"
+
+# Theme configuration
 remote_theme: just-the-docs/just-the-docs
 color_scheme: dark
 
-
+# Site features
 search_enabled: true
 nav_sort: case_insensitive
 back_to_top: true
 back_to_top_text: "Back to top"
-
-
 gh_edit_link: false
 
+# Plugins
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
+
+# Exclude files from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - _archive
 
 # Custom SCSS is automatically loaded from _sass/custom/custom.scss
 # No need to specify custom_css when using SCSS override method

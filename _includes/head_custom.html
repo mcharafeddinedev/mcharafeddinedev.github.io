@@ -1,0 +1,61 @@
+<!-- Custom head elements for SEO, analytics, and favicon -->
+<!-- This file is automatically included by Just the Docs theme -->
+
+<!-- Favicon -->
+<link rel="icon" type="image/png" href="/assets/images/revisedLogoForGitHubPages.png">
+<link rel="apple-touch-icon" href="/assets/images/revisedLogoForGitHubPages.png">
+
+<!-- Enhanced Open Graph / Social Sharing -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Marwan Charafeddine - Gameplay Programmer">
+<meta property="og:locale" content="en_US">
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ page.title | default: site.title }}">
+<meta name="twitter:description" content="{{ page.description | default: site.description }}">
+
+<!-- Additional meta for better SEO -->
+<meta name="theme-color" content="#171717">
+
+<!-- Content Security Policy (CSP) - Helps prevent XSS attacks -->
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://www.google-analytics.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: https:; connect-src 'self' https://www.google-analytics.com; frame-src https://www.youtube.com;">
+
+<!-- Security Headers -->
+<meta http-equiv="X-Content-Type-Options" content="nosniff">
+<meta http-equiv="X-Frame-Options" content="SAMEORIGIN">
+<meta http-equiv="X-XSS-Protection" content="1; mode=block">
+<meta http-equiv="Referrer-Policy" content="strict-origin-when-cross-origin">
+
+<!-- Preconnect to external domains for performance -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<!-- Google Analytics (uncomment and add your tracking ID) -->
+<!--
+<script async src="https://www.googletagmanager.com/gtag/js?id=GA_TRACKING_ID"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'GA_TRACKING_ID');
+</script>
+-->
+
+<!-- Structured Data (JSON-LD) for better SEO -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "{{ site.author.name }}",
+  "jobTitle": "Gameplay Programmer",
+  "url": "{{ site.url }}",
+  "email": "{{ site.author.email }}",
+  "sameAs": [
+    "https://github.com/{{ site.author.github }}",
+    "https://www.linkedin.com/in/{{ site.author.linkedin }}",
+    "https://goldleafinteractive.itch.io"
+  ],
+  "knowsAbout": ["Game Development", "Unity", "Unreal Engine", "C++", "C#", "Gameplay Programming", "Systems Design"]
+}
+</script>

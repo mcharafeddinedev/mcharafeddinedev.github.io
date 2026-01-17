@@ -49,4 +49,19 @@ For a full breakdown of my projects:
 
 ---
 
-If you’re interested in collaboration, internships, or just talking game development — feel free to reach out.
+If you're interested in collaboration, internships, or just talking game development — feel free to reach out.
+
+---
+
+<div style="text-align: center; margin-top: 3rem; padding: 2rem; background-color: rgba(255, 255, 255, 0.03); border-radius: 12px; border: 1px solid rgba(255, 255, 255, 0.1);">
+
+### 💼 Open to Opportunities
+
+I'm actively seeking **gameplay programming roles**, **internships**, and **collaborative projects**. 
+
+**Let's connect:**
+- 💼 [LinkedIn](https://www.linkedin.com/in/marwan-charafeddine-213065155)
+- 🧠 [GitHub Portfolio](https://github.com/mcharafeddinedev/GameDev-Portfolio)
+- 🎮 [Itch.io](https://goldleafinteractive.itch.io)
+
+</div>
