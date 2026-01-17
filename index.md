@@ -23,8 +23,6 @@ This site highlights my projects, experiments, and ongoing work. For deeper tech
 
 ---
 
-<hr>
-
 <h2 align="center">🚀 Featured Work</h2>
 <p align="center"><strong>Recent Project</strong></p>
 

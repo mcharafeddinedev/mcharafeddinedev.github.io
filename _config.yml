@@ -23,5 +23,5 @@ plugins:
 
 just_the_docs:
   custom_css:
-    - assets/css/custom.css
+    - /assets/css/custom.css
 
