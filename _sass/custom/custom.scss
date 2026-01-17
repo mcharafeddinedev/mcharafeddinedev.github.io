@@ -13,12 +13,12 @@ body {
   display: none !important;
 }
 
-/* Sidebar title - align with search bar */
+/* Sidebar title - lower to align with search bar */
 .site-title {
   font-size: 1.1rem !important;
   font-weight: 600 !important;
   margin-bottom: 0.5rem !important;
-  padding-top: 0.25rem !important;
+  padding-top: 0.6rem !important;
 }
 
 /* Reduce space between name/line and nav links */
@@ -26,10 +26,21 @@ body {
   padding-top: 0.5rem !important;
 }
 
-/* Reduce space around search bar */
+/* Search bar - lighter and more visible */
 .search {
   margin-top: 0.5rem !important;
   margin-bottom: 0.5rem !important;
+}
+
+.search-input {
+  background-color: rgba(255, 255, 255, 0.08) !important;
+  border: 1px solid rgba(255, 255, 255, 0.2) !important;
+  border-radius: 6px !important;
+}
+
+.search-input:focus {
+  background-color: rgba(255, 255, 255, 0.12) !important;
+  border-color: rgba(255, 255, 255, 0.3) !important;
 }
 
 /* Page title (H1) - SMALLER */
@@ -62,9 +73,16 @@ body {
   margin-bottom: 0.5rem !important;
 }
 
-/* Main content - reduce top padding to align with sidebar */
+/* Main content - align title with sidebar nav links */
 .main-content {
-  padding-top: 0.5rem !important;
+  padding-top: 0 !important;
+  margin-top: 0 !important;
+}
+
+/* First element in main content - no extra top space */
+.main-content > *:first-child {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
 }
 
 /* Paragraphs */

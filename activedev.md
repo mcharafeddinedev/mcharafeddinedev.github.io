@@ -47,9 +47,9 @@ My goal is to grow as a **gameplay programmer with strong systems and technical 
 
 That means continuing to:
 
-- Build focused gameplay systems and small, complete prototypes
-- Deepen C++ knowledge and low-level architecture skills
-- Refine workflows through tooling and automation
+- Build focused gameplay systems and small, complete prototypes  
+- Deepen C++ knowledge and low-level architecture skills  
+- Refine workflows through tooling and automation  
 - Stay adaptable as development practices evolve
 
 ---
