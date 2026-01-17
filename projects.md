@@ -59,7 +59,7 @@ A fully released 2D adventure game with responsibility for core gameplay systems
 - Built UI, HUD, camera systems, and environmental triggers
 - Managed **Steamworks integration and publishing pipeline**
 
-**[Get on Steam (Free)](steam://store/2458650)** · [Watch Trailer](https://www.youtube.com/watch?v=-LGDr3DaUB8)
+**[Get on Steam (Free)](https://store.steampowered.com/app/3023100/Ginger_Shroom_Journey/)** · [Watch Trailer](https://www.youtube.com/watch?v=-LGDr3DaUB8)
 
 ---
 

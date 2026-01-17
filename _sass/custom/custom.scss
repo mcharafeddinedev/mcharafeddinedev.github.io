@@ -58,7 +58,7 @@ body {
 .main-content h1:first-of-type {
   font-size: 1.4rem !important;
   font-weight: 600 !important;
-  margin-top: 0.25rem !important;
+  margin-top: 0.5rem !important;
   margin-bottom: 1rem !important;
 }
 
@@ -86,13 +86,13 @@ body {
 
 /* Main content wrapper - pull up to align with nav */
 .main-content-wrap {
-  padding-top: 0.25rem !important;
+  padding-top: 0.5rem !important;
 }
 
 /* Main content - align with sidebar nav links */
 .main-content {
   padding-top: 0 !important;
-  margin-top: -0.5rem !important;
+  margin-top: 0.25rem !important;
 }
 
 /* First element - align with "Home" link */
