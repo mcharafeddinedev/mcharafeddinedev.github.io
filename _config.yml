@@ -1,22 +1,19 @@
-# ============================
-# Site Settings
-# ============================
-
 title: "Marwan Charafeddine"
 description: "Gameplay Programming & Systems Design"
 url: "https://mcharafeddinedev.github.io"
 baseurl: ""
 
-# ============================
-# Theme
-# ============================
-
 remote_theme: just-the-docs/just-the-docs
 color_scheme: dark
 
-# ============================
-# Plugins
-# ============================
+
+search_enabled: true
+nav_sort: case_insensitive
+back_to_top: true
+back_to_top_text: "Back to top"
+
+
+gh_edit_link: false
 
 plugins:
   - jekyll-remote-theme
@@ -24,27 +21,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
 
-# ============================
-# Just the Docs Configuration
-# ============================
-
 just_the_docs:
-  # Search
-  search_enabled: true
-
-  # Sidebar / navigation
-  nav_sort: case_insensitive
-  nav_fold: false
-
-  # Hide auxiliary links (top-right)
-  aux_links: {}
-
-  # Hide "Edit this page on GitHub"
-  gh_edit_link: false
-
-  # Hide back-to-top
-  back_to_top: false
-
-  # Load custom CSS (relative to site root)
   custom_css:
     - assets/css/custom.css
+
