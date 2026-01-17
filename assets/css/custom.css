@@ -1,0 +1,156 @@
+/* ============================
+   Just the Docs - Portfolio Polish
+   ============================ */
+
+/* ============================
+   Font Imports
+   ============================ */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+
+/* ============================
+   Global Font Overrides
+   ============================ */
+
+/* Body text */
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 
+               'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  font-size: 16px;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 
+               'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+/* Code blocks and inline code */
+code, pre, kbd, samp {
+  font-family: 'JetBrains Mono', SFMono-Regular, Consolas, 
+               'Liberation Mono', Menlo, monospace;
+  font-size: 0.95em;
+}
+
+.main-content {
+  line-height: 1.75;
+}
+
+/* ----------------------------
+   Header / Site Title Fix
+   ---------------------------- */
+
+.site-title,
+.site-title:link,
+.site-title:visited {
+  line-height: 1.4;
+  padding-top: 1rem;
+  padding-bottom: 0.6rem;
+  display: inline;
+}
+
+/* Increase header height and spacing */
+.site-header {
+  min-height: 4.2rem;
+  padding-top: 0.9rem;
+  padding-bottom: 0.9rem;
+}
+
+/* Add horizontal breathing room to header */
+.site-header .wrapper {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+
+/* ----------------------------
+   Sidebar Spacing
+   ---------------------------- */
+
+.site-nav {
+  padding-top: 1.5rem;
+}
+
+.site-nav ul {
+  margin-top: 1.25rem;
+}
+
+.site-nav li {
+  margin-bottom: 0.6rem;
+}
+
+/* ----------------------------
+   Main Content Spacing
+   ---------------------------- */
+
+.main-content {
+  padding-top: 2.5rem;
+  padding-bottom: 5rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  line-height: 1.7;
+}
+
+/* Add space between major sections */
+.main-content h1,
+.main-content h2,
+.main-content h3 {
+  margin-top: 2.5rem;
+  margin-bottom: 1.2rem;
+}
+
+/* Add breathing room between paragraphs */
+.main-content p {
+  margin-bottom: 1.2rem;
+}
+
+/* ----------------------------
+   Modern Link Styling (content only)
+   ---------------------------- */
+
+.main-content a {
+  text-decoration-thickness: 0.08em;
+  text-underline-offset: 0.22em;
+  transition: transform 120ms ease,
+              opacity 120ms ease,
+              text-decoration-thickness 120ms ease;
+}
+
+.main-content a:hover {
+  transform: translateY(-1px);
+  opacity: 0.95;
+  text-decoration-thickness: 0.14em;
+}
+
+/* ----------------------------
+   Portfolio Image Styling
+   ---------------------------- */
+
+.main-content img {
+  border-radius: 14px;
+  margin-top: 1.25rem;
+  margin-bottom: 1.25rem;
+}
+
+/* ----------------------------
+   Code Block Polish
+   ---------------------------- */
+
+.main-content pre,
+.main-content code {
+  border-radius: 12px;
+  padding: 0.4em 0.6em;
+}
+
+/* ----------------------------
+   Remove Just the Docs Footer
+   ---------------------------- */
+
+.site-footer {
+  display: none !important;
+  visibility: hidden !important;
+  height: 0 !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
