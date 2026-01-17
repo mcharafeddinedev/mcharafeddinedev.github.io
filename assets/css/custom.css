@@ -5,8 +5,7 @@
 /* ============================
    Font Imports
    ============================ */
-
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap");
 
 /* ============================
    Global Font Overrides
@@ -14,59 +13,54 @@
 
 /* Body text */
 body {
-  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 
-               'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, sans-serif !important;
   font-size: 16px;
+  line-height: 1.75;
 }
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 
-               'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, sans-serif !important;
   font-weight: 600;
   letter-spacing: -0.01em;
 }
 
 /* Code blocks and inline code */
 code, pre, kbd, samp {
-  font-family: 'JetBrains Mono', SFMono-Regular, Consolas, 
-               'Liberation Mono', Menlo, monospace;
+  font-family: "JetBrains Mono", SFMono-Regular, Consolas, "Liberation Mono", Menlo, monospace !important;
   font-size: 0.95em;
 }
 
-.main-content {
-  line-height: 1.75;
-}
-
-/* ----------------------------
+/* ============================
    Header / Site Title Fix
-   ---------------------------- */
+   ============================ */
+
+.site-header {
+  min-height: 4.4rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
 
 .site-title,
 .site-title:link,
 .site-title:visited {
-  line-height: 1.4;
-  padding-top: 1rem;
-  padding-bottom: 0.6rem;
-  display: inline;
-}
-
-/* Increase header height and spacing */
-.site-header {
-  min-height: 4.2rem;
-  padding-top: 0.9rem;
-  padding-bottom: 0.9rem;
+  line-height: 1.35;
+  padding-top: 0.8rem;
+  padding-bottom: 0.4rem;
+  display: inline-block;
 }
 
 /* Add horizontal breathing room to header */
 .site-header .wrapper {
-  padding-left: 1.5rem;
-  padding-right: 1.5rem;
+  padding-left: 1.75rem;
+  padding-right: 1.75rem;
 }
 
-/* ----------------------------
+/* ============================
    Sidebar Spacing
-   ---------------------------- */
+   ============================ */
 
 .site-nav {
   padding-top: 1.5rem;
@@ -80,34 +74,31 @@ code, pre, kbd, samp {
   margin-bottom: 0.6rem;
 }
 
-/* ----------------------------
+/* ============================
    Main Content Spacing
-   ---------------------------- */
+   ============================ */
 
 .main-content {
-  padding-top: 2.5rem;
-  padding-bottom: 5rem;
-  padding-left: 2rem;
-  padding-right: 2rem;
-  line-height: 1.7;
+  padding-top: 2.75rem;
+  padding-bottom: 6rem;
+  padding-left: 2.25rem;
+  padding-right: 2.25rem;
 }
 
-/* Add space between major sections */
 .main-content h1,
 .main-content h2,
 .main-content h3 {
   margin-top: 2.5rem;
-  margin-bottom: 1.2rem;
+  margin-bottom: 1.15rem;
 }
 
-/* Add breathing room between paragraphs */
 .main-content p {
-  margin-bottom: 1.2rem;
+  margin-bottom: 1.15rem;
 }
 
-/* ----------------------------
+/* ============================
    Modern Link Styling (content only)
-   ---------------------------- */
+   ============================ */
 
 .main-content a {
   text-decoration-thickness: 0.08em;
@@ -123,9 +114,9 @@ code, pre, kbd, samp {
   text-decoration-thickness: 0.14em;
 }
 
-/* ----------------------------
+/* ============================
    Portfolio Image Styling
-   ---------------------------- */
+   ============================ */
 
 .main-content img {
   border-radius: 14px;
@@ -133,24 +124,32 @@ code, pre, kbd, samp {
   margin-bottom: 1.25rem;
 }
 
-/* ----------------------------
+/* ============================
    Code Block Polish
-   ---------------------------- */
+   ============================ */
 
 .main-content pre,
 .main-content code {
   border-radius: 12px;
-  padding: 0.4em 0.6em;
 }
 
-/* ----------------------------
-   Remove Just the Docs Footer
-   ---------------------------- */
+/* ============================
+   Remove Just the Docs Footer (sidebar + page footer)
+   ============================ */
 
-.site-footer {
+/* The “This site uses Just the Docs…” element is often inside .site-nav */
+.site-nav .site-footer,
+.site-footer,
+footer.site-footer,
+.site-footer-content {
   display: none !important;
   visibility: hidden !important;
   height: 0 !important;
   padding: 0 !important;
   margin: 0 !important;
+}
+
+/* Also remove any leftover spacing where it used to be */
+.site-nav {
+  padding-bottom: 1rem;
 }
