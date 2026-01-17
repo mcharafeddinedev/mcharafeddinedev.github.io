@@ -53,7 +53,7 @@ back_to_top: false
 
 just_the_docs:
   custom_css:
-    - assets/css/custom.css
+    - docs/assets/css/custom.css
 
 # ============================
 # SEO
