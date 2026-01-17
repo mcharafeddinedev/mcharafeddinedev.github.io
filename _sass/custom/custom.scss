@@ -31,15 +31,19 @@ code, pre, kbd, samp {
    Site Header
    ============================ */
 
+/* Sidebar title - your name */
 .site-title,
 .site-title:link,
 .site-title:visited {
   font-family: $font-family-heading;
   font-weight: 600;
-  font-size: 1rem;
+  font-size: 1.1rem;
   letter-spacing: -0.01em;
   display: block !important;
   visibility: visible !important;
+  margin-bottom: 0.75rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
 }
 
 /* Hide logo - show text name instead */
@@ -51,7 +55,7 @@ code, pre, kbd, samp {
 
 .site-header {
   padding-top: $space-sm;
-  padding-bottom: $space-sm;
+  padding-bottom: 0;
 }
 
 /* ============================
@@ -99,7 +103,7 @@ code, pre, kbd, samp {
    ============================ */
 
 .main-content {
-  padding: $space-lg $space-xl $space-2xl;
+  padding: $space-md $space-xl $space-2xl;
   line-height: $body-line-height;
 }
 
@@ -108,24 +112,24 @@ code, pre, kbd, samp {
    ============================ */
 
 .main-content h1 {
-  font-size: 1.75rem;
+  font-size: 1.5rem;
   font-weight: 600;
-  margin: 0 0 $space-lg 0;
-  letter-spacing: -0.025em;
-}
-
-.main-content h2 {
-  font-size: 1.4rem;
-  font-weight: 600;
-  margin: $space-xl 0 $space-md 0;
+  margin: 0 0 $space-md 0;
   letter-spacing: -0.02em;
 }
 
-.main-content h3 {
-  font-size: 1.15rem;
+.main-content h2 {
+  font-size: 1.25rem;
   font-weight: 600;
   margin: $space-lg 0 $space-sm 0;
   letter-spacing: -0.015em;
+}
+
+.main-content h3 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin: $space-md 0 $space-xs 0;
+  letter-spacing: -0.01em;
 }
 
 .main-content h4,
@@ -296,7 +300,7 @@ code, pre, kbd, samp {
 .main-content hr {
   border: none;
   border-top: 1px solid rgba(255, 255, 255, 0.1);
-  margin: $space-xl 0;
+  margin: $space-lg 0;
 }
 
 /* ============================
