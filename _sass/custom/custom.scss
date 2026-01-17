@@ -13,12 +13,13 @@ body {
   display: none !important;
 }
 
-/* Sidebar title - align with search bar level */
+/* Sidebar title - push down to align with search bar */
 .site-title {
   font-size: 1.1rem !important;
   font-weight: 600 !important;
   margin-bottom: 0.75rem !important;
-  padding-top: 1.1rem !important;
+  margin-top: 0.5rem !important;
+  padding-top: 0.35rem !important;
 }
 
 /* Nav links - tighter to separator */
@@ -41,6 +42,16 @@ body {
   border-radius: 4px !important;
   padding: 0.4rem 0.6rem !important;
   font-size: 0.85rem !important;
+}
+
+/* Hide search placeholder text - just show icon */
+.search-input::placeholder {
+  color: transparent !important;
+}
+
+/* Show just "Search" on focus */
+.search-input:focus::placeholder {
+  color: rgba(255, 255, 255, 0.4) !important;
 }
 
 /* Page title (H1) - SMALLER */
@@ -75,7 +86,7 @@ body {
 
 /* Main content wrapper - pull up to align with nav */
 .main-content-wrap {
-  padding-top: 0 !important;
+  padding-top: 0.25rem !important;
 }
 
 /* Main content - align with sidebar nav links */
