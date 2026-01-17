@@ -17,7 +17,7 @@ nav_order: 3
 A 2D roguelike sidescroller built around precision movement, grappling physics, and momentum-based traversal.
 
 <p align="center">
-  <img src="docs/assets/quantum-tether.png" alt="Quantum Tether Screenshot" style="max-width: 615px; width: 100%; height: auto; border-radius: 12px;">
+  <img src="/assets/images/quantum-tether.png" alt="Quantum Tether Screenshot" style="max-width: 615px; width: 100%; height: auto; border-radius: 12px;">
 </p>
 
 **Highlights**
@@ -26,7 +26,7 @@ A 2D roguelike sidescroller built around precision movement, grappling physics, 
 - Implemented **procedural anchor generation** using parametric and sinusoidal math to vary level rhythm.  
 - Developed responsive **UI, HUD, menus**, scoring, collectibles, and difficulty scaling.  
 - Added polish: pausing, camera upgrades, accessibility options.
-- 
+
 **Play:** [Quantum Tether on Itch.io](https://goldleafinteractive.itch.io/quantum-tether)  
 **Video:** [YouTube Trailer](https://www.youtube.com/watch?v=RNs4yKPhfGM)
 
@@ -38,7 +38,7 @@ A 2D roguelike sidescroller built around precision movement, grappling physics, 
 A third-person fantasy adventure where I contributed to gameplay systems, inventory architecture, and interactive environments.
 
 <p align="center">
-  <img src="docs/assets/mysteries-of-tupni.png" alt="Mysteries of Tupni Screenshot" style="max-width: 615px; width: 100%; height: auto; border-radius: 12px;">
+  <img src="/assets/images/mysteries-of-tupni.png" alt="Mysteries of Tupni Screenshot" style="max-width: 615px; width: 100%; height: auto; border-radius: 12px;">
 </p>
 
 **Highlights**
@@ -58,7 +58,7 @@ A third-person fantasy adventure where I contributed to gameplay systems, invent
 A fully released 2D adventure game with responsibility for core gameplay systems, UI, and optimization.
 
 <p align="center">
-  <img src="docs/assets/ginger-shroom-journey.png" alt="Ginger Shroom Journey Screenshot" style="max-width: 615px; width: 100%; height: auto; border-radius: 12px;">
+  <img src="/assets/images/ginger-shroom-journey.png" alt="Ginger Shroom Journey Screenshot" style="max-width: 615px; width: 100%; height: auto; border-radius: 12px;">
 </p>
 
 **Highlights**
@@ -81,7 +81,7 @@ A fully released 2D adventure game with responsibility for core gameplay systems
 A Persona-inspired RPG prototype centered on dual-world traversal and psychic mechanics.
 
 <p align="center">
-  <img src="docs/assets/void-knights.png" alt="Void Knights Screenshot" style="max-width: 615px; width: 100%; height: auto; border-radius: 12px;">
+  <img src="/assets/images/void-knights.png" alt="Void Knights Screenshot" style="max-width: 615px; width: 100%; height: auto; border-radius: 12px;">
 </p>
 
 **Highlights**
@@ -99,7 +99,7 @@ A Persona-inspired RPG prototype centered on dual-world traversal and psychic me
 A text-based shop simulation exploring low-level architecture and game systems in C++.
 
 <p align="center">
-  <img src="docs/assets/medieval-shop-game.png" alt="Medieval Shop Game Screenshot" style="max-width: 615px; width: 100%; height: auto; border-radius: 12px;">
+  <img src="/assets/images/medieval-shop-game.png" alt="Medieval Shop Game Screenshot" style="max-width: 615px; width: 100%; height: auto; border-radius: 12px;">
 </p>
 
 **Highlights**
@@ -120,8 +120,8 @@ High-intensity 2D bullet hell set on an alien ocean world.
 
 <!-- Portrait-friendly: two vertical images side-by-side -->
 <p align="center">
-  <img src="docs/assets/million-miles-deep.png" alt="Million Miles Deep Screenshot" style="max-width: 270px; width: 100%; height: auto; border-radius: 16px; margin-right: 10px;">
-  <img src="docs/assets/million-miles-deep-2.png" alt="Million Miles Deep Screenshot 2" style="max-width: 270px; width: 100%; height: auto; border-radius: 16px;">
+  <img src="/assets/images/million-miles-deep.png" alt="Million Miles Deep Screenshot" style="max-width: 270px; width: 100%; height: auto; border-radius: 16px; margin-right: 12px; display: inline-block; vertical-align: top;">
+  <img src="/assets/images/million-miles-deep-2.png" alt="Million Miles Deep Screenshot 2" style="max-width: 270px; width: 100%; height: auto; border-radius: 16px; display: inline-block; vertical-align: top;">
 </p>
 
 **Highlights**
@@ -139,7 +139,7 @@ High-intensity 2D bullet hell set on an alien ocean world.
 An experimental physics-driven game exploring ragdoll-based movement.
 
 <p align="center">
-  <img src="docs/assets/ragdoll-plainly-perilous.png" alt="Ragdoll Plainly Perilous Screenshot" style="max-width: 615px; width: 100%; height: auto; border-radius: 12px;">
+  <img src="/assets/images/ragdoll-plainly-perilous.png" alt="Ragdoll Plainly Perilous Screenshot" style="max-width: 615px; width: 100%; height: auto; border-radius: 12px;">
 </p>
 
 **Highlights**
@@ -158,7 +158,7 @@ An experimental physics-driven game exploring ragdoll-based movement.
 A 2D side-scroller horror project focused on tension, pacing, and survival-style encounters.
 
 <p align="center">
-  <img src="docs/assets/crimson-eclipse.png" alt="Crimson Eclipse Screenshot" style="max-width: 615px; width: 100%; height: auto; border-radius: 12px;">
+  <img src="/assets/images/crimson-eclipse.png" alt="Crimson Eclipse Screenshot" style="max-width: 615px; width: 100%; height: auto; border-radius: 12px;">
 </p>
 
 **Highlights**
@@ -166,7 +166,7 @@ A 2D side-scroller horror project focused on tension, pacing, and survival-style
 - Built interactive environment systems and gameplay triggers.  
 - Developed UI/HUD elements to communicate player state and progression.
 
-**View:** [Crimson Eclilpse on Itch.io](https://goldleafinteractive.itch.io/crimson-eclipse)  
+**View:** [Crimson Eclipse on Itch.io](https://goldleafinteractive.itch.io/crimson-eclipse)  
 **Video:** [YouTube Video](https://www.youtube.com/watch?v=R7KG3vuqHx4)  
 
 ---

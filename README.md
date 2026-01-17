@@ -17,7 +17,7 @@ This site serves as a curated, up-to-date showcase of my work as a gameplay prog
 - **Platform:** GitHub Pages  
 - **Generator:** Jekyll  
 - **Content:** Markdown with lightweight HTML for layout  
-- **Assets:** `docs/assets/`
+- **Assets:** `assets/images/` (images), `assets/css/` (stylesheets)
 
 ---
 
