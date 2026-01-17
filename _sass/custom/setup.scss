@@ -1,38 +1,4 @@
-/* =========================================================
-   Custom SCSS Variables for Just the Docs
-   Location: _sass/custom/setup.scss
-   ========================================================= */
+// Fonts
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
 
-// Import Google Fonts - Clean, professional choices
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400&display=swap');
-
-// ============================================
-// Typography System
-// ============================================
-
-$font-family-base: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif !default;
-$font-family-heading: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif !default;
-$font-family-monospace: 'JetBrains Mono', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace !default;
-
-// Type Scale (1.2 Minor Third - clean progression)
-$root-font-size: 16px !default;
-$body-line-height: 1.65 !default;
-$heading-line-height: 1.25 !default;
-
-// ============================================
-// Spacing System (8px grid)
-// ============================================
-
-$space-xs: 0.25rem !default;  // 4px
-$space-sm: 0.5rem !default;   // 8px
-$space-md: 1rem !default;     // 16px
-$space-lg: 1.5rem !default;   // 24px
-$space-xl: 2rem !default;     // 32px
-$space-2xl: 3rem !default;    // 48px
-
-// ============================================
-// Content
-// ============================================
-
-$content-max-width: 680px !default; // Optimal for reading
-$sidebar-width: 264px !default;
+$body-font: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;

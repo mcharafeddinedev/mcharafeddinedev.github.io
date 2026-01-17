@@ -1,426 +1,101 @@
-/* =========================================================
-   Professional Portfolio Styles
-   Clean • Legible • Refined
-   ========================================================= */
+/* ========================================
+   Minimal Custom Styles
+   ======================================== */
 
-/* ============================
-   Base Typography
-   ============================ */
-
+/* Font */
 body {
-  font-family: $font-family-base;
-  font-size: $root-font-size;
-  line-height: $body-line-height;
+  font-family: $body-font !important;
   -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-rendering: optimizeLegibility;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: $font-family-heading;
-  font-weight: 600;
-  line-height: $heading-line-height;
-  letter-spacing: -0.02em;
-}
-
-code, pre, kbd, samp {
-  font-family: $font-family-monospace;
-}
-
-/* ============================
-   Site Header
-   ============================ */
-
-/* Sidebar title - your name */
-.site-title,
-.site-title:link,
-.site-title:visited {
-  font-family: $font-family-heading;
-  font-weight: 600;
-  font-size: 1.1rem;
-  letter-spacing: -0.01em;
-  display: block !important;
-  visibility: visible !important;
-  margin-bottom: 0.75rem;
-  padding-bottom: 0.75rem;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
-}
-
-/* Hide logo - show text name instead */
-.site-logo,
-.site-logo img,
-.site-header img {
+/* Hide logo, show name */
+.site-logo {
   display: none !important;
 }
 
-.site-header {
-  padding-top: $space-sm;
-  padding-bottom: 0;
+/* Sidebar title (your name) */
+.site-title {
+  font-size: 1.1rem !important;
+  font-weight: 600 !important;
+  margin-bottom: 1rem !important;
 }
 
-/* ============================
-   Search
-   ============================ */
-
-.search {
-  margin: $space-sm 0;
+/* Page title (H1) - SMALLER */
+.main-content h1:first-of-type {
+  font-size: 1.4rem !important;
+  font-weight: 600 !important;
+  margin-top: 0 !important;
+  margin-bottom: 1rem !important;
 }
 
-.search-input {
-  font-family: $font-family-base;
-  font-size: 0.875rem;
-}
-
-/* ============================
-   Navigation
-   ============================ */
-
-.site-nav {
-  padding-top: $space-sm;
-}
-
-.site-nav ul {
-  margin-top: $space-xs;
-}
-
-.site-nav li {
-  margin-bottom: $space-xs;
-}
-
-.site-nav a {
-  font-size: 0.9rem;
-  padding: $space-xs $space-sm;
-  border-radius: 4px;
-  transition: background-color 120ms ease;
-}
-
-.site-nav a:hover {
-  background-color: rgba(255, 255, 255, 0.05);
-}
-
-/* ============================
-   Main Content
-   ============================ */
-
-.main-content {
-  padding: $space-md $space-xl $space-2xl;
-  line-height: $body-line-height;
-}
-
-/* ============================
-   Headings - Clean Hierarchy
-   ============================ */
-
+/* All H1s */
 .main-content h1 {
-  font-size: 1.5rem;
-  font-weight: 600;
-  margin: 0 0 $space-md 0;
-  letter-spacing: -0.02em;
+  font-size: 1.4rem !important;
+  font-weight: 600 !important;
 }
 
+/* H2 */
 .main-content h2 {
-  font-size: 1.25rem;
-  font-weight: 600;
-  margin: $space-lg 0 $space-sm 0;
-  letter-spacing: -0.015em;
+  font-size: 1.2rem !important;
+  font-weight: 600 !important;
+  margin-top: 1.5rem !important;
+  margin-bottom: 0.75rem !important;
 }
 
+/* H3 */
 .main-content h3 {
-  font-size: 1.1rem;
-  font-weight: 600;
-  margin: $space-md 0 $space-xs 0;
-  letter-spacing: -0.01em;
+  font-size: 1.05rem !important;
+  font-weight: 600 !important;
+  margin-top: 1.25rem !important;
+  margin-bottom: 0.5rem !important;
 }
 
-.main-content h4,
-.main-content h5,
-.main-content h6 {
-  font-size: 1rem;
-  font-weight: 600;
-  margin: $space-lg 0 $space-sm 0;
+/* Main content - reduce top padding */
+.main-content {
+  padding-top: 1rem !important;
 }
 
-/* First heading - no top margin */
-.main-content > *:first-child {
-  margin-top: 0;
-}
-
-/* ============================
-   Paragraphs
-   ============================ */
-
+/* Paragraphs */
 .main-content p {
-  margin: 0 0 $space-md 0;
-  max-width: $content-max-width;
+  margin-bottom: 1rem !important;
+  line-height: 1.65 !important;
 }
 
-/* Tighter spacing after headings */
-.main-content h1 + p,
-.main-content h2 + p,
-.main-content h3 + p,
-.main-content h4 + p {
-  margin-top: 0;
-}
-
-/* ============================
-   Lists
-   ============================ */
-
-.main-content ul,
-.main-content ol {
-  margin: 0 0 $space-md 0;
-  padding-left: $space-lg;
-}
-
+/* Lists */
 .main-content li {
-  margin-bottom: $space-xs;
-  line-height: 1.6;
+  margin-bottom: 0.25rem !important;
 }
 
-.main-content li > p {
-  margin: 0;
+/* Horizontal rules */
+.main-content hr {
+  margin: 1.25rem 0 !important;
+  border: none !important;
+  border-top: 1px solid rgba(255, 255, 255, 0.1) !important;
 }
 
-/* Nested lists */
-.main-content ul ul,
-.main-content ol ol,
-.main-content ul ol,
-.main-content ol ul {
-  margin: $space-xs 0;
-}
-
-/* ============================
-   Links
-   ============================ */
-
-.main-content a {
-  color: inherit;
-  text-decoration: underline;
-  text-decoration-color: rgba(255, 255, 255, 0.4);
-  text-underline-offset: 0.2em;
-  transition: text-decoration-color 120ms ease;
-}
-
-.main-content a:hover {
-  text-decoration-color: currentColor;
-}
-
-.main-content a:focus-visible {
-  outline: 2px solid currentColor;
-  outline-offset: 2px;
-  border-radius: 2px;
-}
-
-/* External link indicator - subtle */
-.main-content a[href^="http"]:not([href*="mcharafeddinedev.github.io"])::after {
-  content: " ↗";
-  font-size: 0.75em;
-  opacity: 0.5;
-  vertical-align: super;
-}
-
-/* ============================
-   Images
-   ============================ */
-
+/* Images */
 .main-content img {
   border-radius: 8px;
-  margin: $space-lg 0;
-  max-width: 100%;
-  height: auto;
-  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.15);
-}
-
-/* Centered images */
-.main-content p[align="center"] {
-  margin: $space-lg 0;
-}
-
-.main-content p[align="center"] img {
-  display: block;
-  margin: 0 auto;
-}
-
-/* Side-by-side images */
-.main-content p[align="center"] img[style*="inline-block"] {
-  display: inline-block !important;
-  margin: 0 $space-sm 0 0;
-  vertical-align: top;
-}
-
-.main-content p[align="center"] img[style*="inline-block"]:last-child {
-  margin-right: 0;
-}
-
-/* ============================
-   Code
-   ============================ */
-
-.main-content code {
-  font-size: 0.875em;
-  padding: 0.15em 0.4em;
-  border-radius: 4px;
-  background-color: rgba(255, 255, 255, 0.08);
-}
-
-.main-content pre {
-  border-radius: 6px;
-  padding: $space-md;
-  margin: $space-lg 0;
-  overflow-x: auto;
-  font-size: 0.875rem;
-  line-height: 1.5;
-}
-
-.main-content pre code {
-  padding: 0;
-  background: transparent;
-}
-
-/* ============================
-   Blockquotes
-   ============================ */
-
-.main-content blockquote {
-  border-left: 2px solid rgba(255, 255, 255, 0.3);
-  margin: $space-lg 0;
-  padding: $space-xs 0 $space-xs $space-md;
-  font-style: italic;
-  opacity: 0.9;
-}
-
-.main-content blockquote p:last-child {
-  margin-bottom: 0;
-}
-
-/* ============================
-   Horizontal Rules
-   ============================ */
-
-.main-content hr {
-  border: none;
-  border-top: 1px solid rgba(255, 255, 255, 0.1);
-  margin: $space-lg 0;
-}
-
-/* ============================
-   Tables
-   ============================ */
-
-.main-content table {
-  width: 100%;
-  margin: $space-lg 0;
-  border-collapse: collapse;
-  font-size: 0.9rem;
-}
-
-.main-content th,
-.main-content td {
-  padding: $space-sm $space-md;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
-  text-align: left;
-}
-
-.main-content th {
-  font-weight: 600;
-}
-
-/* ============================
-   Strong/Emphasis
-   ============================ */
-
-.main-content strong {
-  font-weight: 600;
-}
-
-/* ============================
-   Custom CTA Box (from index.md)
-   ============================ */
-
-.main-content div[style*="text-align: center"] {
   max-width: 100%;
 }
 
-/* ============================
-   Footer
-   ============================ */
+/* Links */
+.main-content a {
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
 
+/* Hide footer */
 .site-footer {
   display: none !important;
 }
 
-/* ============================
-   Responsive
-   ============================ */
-
+/* Mobile */
 @media (max-width: 800px) {
-  .main-content {
-    padding: $space-md $space-md $space-xl;
-  }
-  
   .main-content h1 {
-    font-size: 1.5rem;
+    font-size: 1.3rem !important;
   }
-  
   .main-content h2 {
-    font-size: 1.25rem;
-  }
-  
-  .main-content h3 {
-    font-size: 1.1rem;
-  }
-  
-  .main-content p {
-    max-width: 100%;
-  }
-}
-
-/* ============================
-   Accessibility
-   ============================ */
-
-*:focus-visible {
-  outline: 2px solid currentColor;
-  outline-offset: 2px;
-}
-
-@media (prefers-reduced-motion: reduce) {
-  * {
-    transition-duration: 0.01ms !important;
-    animation-duration: 0.01ms !important;
-  }
-}
-
-/* ============================
-   Print
-   ============================ */
-
-@media print {
-  .site-nav,
-  .site-header,
-  .site-footer,
-  .search {
-    display: none !important;
-  }
-  
-  .main-content {
-    padding: 0;
-    max-width: 100%;
-  }
-  
-  body {
-    font-size: 11pt;
-    color: #000;
-    background: #fff;
-  }
-  
-  a {
-    color: #000;
-    text-decoration: underline;
-  }
-  
-  img {
-    max-width: 100%;
-    box-shadow: none;
+    font-size: 1.1rem !important;
   }
 }
