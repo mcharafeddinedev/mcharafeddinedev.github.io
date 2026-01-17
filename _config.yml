@@ -21,7 +21,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
 
-just_the_docs:
-  custom_css:
-    - /assets/css/custom.css
+# Custom SCSS is automatically loaded from _sass/custom/custom.scss
+# No need to specify custom_css when using SCSS override method
 
