@@ -27,10 +27,10 @@ This site highlights my projects, experiments, and ongoing work. For deeper tech
 <h2 style="text-align: center;">Featured Work</h2>
 
 <p align="center">
-  <a href="projects.md">
+  <a href="https://www.youtube.com/watch?v=RNs4yKPhfGM&t=3s">
     <img src="/assets/images/quantum-tether.png"
          alt="Most recent project that has a YouTube video - Featured Project"
-         style="max-width: 400px; width: 100%; border-radius: 8px;">
+         style="max-width: 520px; width: 100%; border-radius: 8px;">
   </a>
 </p>
 

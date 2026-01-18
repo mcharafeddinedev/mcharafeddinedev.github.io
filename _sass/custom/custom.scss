@@ -27,21 +27,24 @@ body {
   padding-top: 0.25rem !important;
 }
 
-/* Search bar container - contained within border */
+/* Search bar container - no padding, let input fill space */
 .search {
   margin-top: 0 !important;
   margin-bottom: 0 !important;
-  padding: 0.5rem 0 !important;
+  padding: 0 !important;
   overflow: hidden !important;
 }
 
-/* Search input - lighter styling */
+/* Search input - lighter styling, fills space evenly */
 .search-input {
   background-color: rgba(255, 255, 255, 0.06) !important;
   border: 1px solid rgba(255, 255, 255, 0.15) !important;
   border-radius: 4px !important;
-  padding: 0.4rem 0.6rem !important;
+  padding: 0.5rem 0.75rem !important;
   font-size: 0.85rem !important;
+  margin: 0.5rem 0 !important;
+  width: 100% !important;
+  box-sizing: border-box !important;
 }
 
 /* Hide search placeholder text - just show icon */
