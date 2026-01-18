@@ -101,12 +101,19 @@ body {
 }
 
 /* Lock search icon in left position permanently */
-.search-image {
-  left: 0.25rem !important;
+.search-image,
+.search-icon,
+.search svg,
+.search-input-wrap svg,
+.search-input-wrap .search-icon,
+.main-header svg {
+  left: 0.5rem !important;
   right: auto !important;
-  transform: none !important;
+  transform: translateY(-50%) !important;
+  top: 50% !important;
   opacity: 0.5 !important;
   position: absolute !important;
+  pointer-events: none !important;
 }
 
 /* Page title (H1) - SMALLER */
