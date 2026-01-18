@@ -5,11 +5,11 @@ nav_exclude: true
 
 # Current Pursuits
 
-As I near the completion of my A.A.S. in Digital Gaming & Simulation Programming, my focus has shifted from coursework toward building long-term technical depth as a gameplay programmer and software engineer. My education laid a solid foundation, but my priority now is hands-on development: writing systems, refining architecture, improving workflows, and strengthening my fluency in code.
+As I near the completion of my A.A.S. in Digital Gaming & Simulation (for Programmers)—a mostly generalist program covering programming, technical art, design, and production workflows—my focus has shifted toward building deeper technical depth as a gameplay programmer and software engineer. While my education provided a broad foundation across disciplines, my priority now is hands-on development: writing systems, refining architecture, improving workflows, and strengthening my fluency in code.
 
 ---
 
-## Active Work
+## Most Recent/Active Work
 
 ### Gameplay Systems & Prototyping
 
@@ -31,26 +31,48 @@ I use **guided, project-based courses** as deliberate practice—reinforcing fun
 
 ### Current & Planned Study
 
-These courses support ongoing development in C++, C#, gameplay programming, and engine workflows:
+These Udemy courses support my ongoing learning in C++, C#, gameplay programming, and in-engine workflows:
 
-- **Complete C# Unity Game Developer 3D** — Unity, C#, gameplay systems
-- **Unity 2D Roguelike** — Architecture, stat systems, UI, OOP
-- **C++ Fundamentals: Game Programming** — Core C++, Raylib, 2D games
-- **Learn C++ for Game Development** — Language foundations, structured labs
-- **Unreal Engine 5 C++ Developer** — Gameplay systems, AI, C++/Blueprint integration
+**Unreal Engine & C++**
+- **Unreal Engine 5 C++ Game Development** — Gameplay systems, AI behavior, C++/Blueprint integration, and modern UE5 workflows
+- **C++ Fundamentals: Game Programming For Beginners** — Core C++ with Raylib, building 2D games from scratch, memory management, and game loop architecture
+- **Learn C++ for Game Development** — Language foundations, structured labs, and practical application to real-time systems
+- **Learn C++ and Make a Game from Scratch** — Low-level engine concepts, custom rendering, and building without frameworks
+- **Learn C++ Programming By Making Games** — Project-based C++ through interactive game builds, reinforcing OOP and data structures
+- **Learn C++ Programming By Making Games Volume 2** — Advanced patterns, more complex systems, and deeper architectural practice
+
+**Unity & C#**
+- **Complete C# Unity 3D Game Development in Unity 6** — Full 3D game development pipeline, C# scripting, physics, AI, UI systems, and publishing workflows
+- **Unity 2D Game: Kawaii Survivor** — Roguelike architecture, procedural systems, stat management, and polished 2D gameplay loops
+
+
+---
+
+## Player Perspective & QA
+
+Beyond programming, I also bring a **deep player perspective** shaped by over 25 years of gaming experience across platforms, genres, and eras. I've played competitively, analyzed mechanics, glitches, exploits, and easter eggs across countless titles, and developed an intuition for **game feel and balance**—what makes movement satisfying, when systems or mechanics feel fair or unfair, and how small adjustments can dramatically change player experience.
+
+This background directly informs my work:
+
+- **Playtesting** — I test my own builds rigorously, with iterative adjustments, catching edge cases and feel issues before they compound
+- **Game Feel** — As a player, I've developed a sense for when mechanics feel "off"—whether it's input lag, movement weight, damage numbers, or progression pacing
+- **Player Connection** — I always think like a player first, which helps me anticipate friction points and balance concerns
+- **Documentation** — I'm well practiced in clear, organized reporting—useful for bug tracking, design specs, and team communication
+
+I see QA as a specialized discipline that complements programming and game design. My A.A.S. has given me a generalist foundation—touching programming, art pipelines, design, and technical workflows. That broad exposure, combined with my extensive playtesting experience, helps me understand what QA teams look for: edge cases, balance issues, and player friction points. This perspective makes me a better developer and helps me communicate more effectively with team members, both personally and in documentation.
 
 ---
 
 ## Long-Term Direction
 
-My goal is to grow as a **gameplay programmer with strong systems and technical foundations**—someone comfortable working across engines, codebases, and tools while maintaining a player-first design mindset.
+My goal is to keep learning and growing as a **gameplay programmer with strong systems and technical foundations**, to build core features & mechanics and work across engines, codebases, and tools while maintaining a player-first design mindset.
 
 That means continuing to:
 
-- Build focused gameplay systems and small, complete prototypes  
-- Deepen C++ knowledge and low-level architecture skills  
-- Refine workflows through tooling and automation  
-- Stay adaptable as development practices evolve
+- Build clean, scalable gameplay systems
+- Go deeper on C++ and engine internals
+- Stay sharp on evolving tools and practices
+- Playtest early, iterate often, and take feedback seriously
 
 ---
 

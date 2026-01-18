@@ -10,17 +10,25 @@ Hey — I'm Marwan, a gameplay programmer focused on building responsive mechani
 
 I work primarily in **Unreal Engine** and **Unity**, specializing in gameplay scripting, level prototyping, and building technical systems that support strong moment-to-moment play. My background in science sharpened my problem-solving mindset, which I now apply to debugging, feature development, and game systems architecture.
 
+With over 25 years of gaming experience, I bring a deep player perspective to development—understanding game feel, balance, and how players actually experience mechanics. This background helps me think about edge cases and player friction, and I'm interested in roles where that perspective adds value—whether in gameplay programming, QA, or both.
+
 This site highlights my projects, experiments, and ongoing work. For deeper technical breakdowns, check out my GitHub or reach out anytime.
 
 ---
 
 ## What I Do
 
-- **Gameplay Programming** — player controllers, input handling, camera behavior, triggers, core mechanics
-- **Systems Design** — ability systems, state machines, inventory/item logic, save/load, game loops
-- **Technical Work** — debugging features, profiling performance, staying current with emerging tools and development practices
+**Core Development**
+- **Gameplay Programming** — player controllers, input handling, camera behavior, physics-based mechanics, movement systems, enemy AI, combat systems, interactive triggers, environmental interactions, UI/HUD integration
+- **Systems Design** — ability systems, state machines, inventory/item logic, upgrade frameworks, save/load systems, game loops, procedural generation, data-driven architecture, modular systems that scale
+
+**Technical Skills**
 - **Engine Experience** — Unity (C#), Unreal Engine (C++ & Blueprints), comfortable in both rapid prototyping and longer production cycles, small-scale level design & building
-- **Collaboration** — working with designers and artists to implement features that match creative intent
+- **Technical Work** — debugging features, profiling performance, staying current with emerging tools and development practices
+
+**Collaboration & QA**
+- **Collaboration** — working with designers and artists to implement features that match creative intent, working with other programmers on the same features
+- **QA Mindset** — rigorous playtesting, clear bug documentation, and a deep player perspective built on 25+ years of gaming across genres, platforms, and eras
 
 ---
 
