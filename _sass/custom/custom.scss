@@ -27,58 +27,12 @@ body {
   padding-top: 0.25rem !important;
 }
 
-/* Search bar container - centered with proper spacing */
-.search {
-  margin-top: 0 !important;
-  margin-bottom: 0 !important;
-  padding: 0.5rem 0 !important;
-  overflow: visible !important; /* Allow dropdown to show */
-  position: relative !important;
-  z-index: 100 !important; /* Ensure dropdown appears above content */
-}
-
-/* Search input - lighter styling, proper padding for icon */
+/* Search bar - subtle styling only */
 .search-input {
   background-color: rgba(255, 255, 255, 0.06) !important;
   border: 1px solid rgba(255, 255, 255, 0.15) !important;
   border-radius: 4px !important;
-  padding: 0.5rem 0.75rem 0.5rem 2.25rem !important; /* Left padding for icon */
   font-size: 0.85rem !important;
-  width: 100% !important;
-  box-sizing: border-box !important;
-}
-
-/* Search results dropdown - ensure it appears above content */
-.search-results {
-  z-index: 1000 !important;
-  position: absolute !important;
-}
-
-.search-results-list {
-  z-index: 1000 !important;
-  position: absolute !important;
-}
-
-/* Ensure sidebar has proper stacking context */
-.side-bar {
-  z-index: 10 !important;
-  position: relative !important;
-}
-
-/* Main content should be below search dropdown */
-.main-content-wrap {
-  position: relative !important;
-  z-index: 1 !important;
-}
-
-/* Hide search placeholder text - just show icon */
-.search-input::placeholder {
-  color: transparent !important;
-}
-
-/* Show just "Search" on focus */
-.search-input:focus::placeholder {
-  color: rgba(255, 255, 255, 0.4) !important;
 }
 
 /* Page title (H1) - SMALLER */
