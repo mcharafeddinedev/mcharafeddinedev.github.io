@@ -19,7 +19,7 @@ This site highlights my projects, experiments, and ongoing work. For deeper tech
 ## What I Do
 
 **Core Development**
-- **Gameplay Programming** — player controllers, input handling, camera behavior, physics-based mechanics, movement systems, enemy AI, combat systems, interactive triggers, environmental interactions, UI/HUD integration
+- **Gameplay Programming** — player controllers, input handling, camera behavior, physics-based mechanics, movement systems, enemy AI, combat systems, interactive triggers, data assets, UI/HUD integration
 - **Systems Design** — ability systems, state machines, inventory/item logic, upgrade frameworks, save/load systems, game loops, procedural generation, data-driven architecture, modular systems that scale
 
 **Technical Skills**
@@ -47,7 +47,7 @@ A recent gameplay prototype showcasing core feature production and systems-drive
 </p>
 
 <p align="center">
-  <strong><a href="projects.md">View All Projects →</a></strong>
+  <strong><a href="projects">View All Projects →</a></strong>
 </p>
 
 ---

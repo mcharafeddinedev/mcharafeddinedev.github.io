@@ -25,7 +25,7 @@ A 2D roguelike sidescroller built around precision movement, grappling physics, 
 - Implemented **procedural anchor generation** using parametric math to vary level rhythm
 - Developed responsive UI, HUD, scoring, collectibles, and difficulty scaling
 
-**[Play on Itch.io](https://goldleafinteractive.itch.io/quantum-tether)** · [Watch Trailer](https://www.youtube.com/watch?v=RNs4yKPhfGM)
+**[View on Itch.io](https://goldleafinteractive.itch.io/quantum-tether)** · [Watch Trailer](https://www.youtube.com/watch?v=RNs4yKPhfGM)
 
 ---
 
@@ -115,7 +115,7 @@ High-intensity 2D bullet hell set on an alien ocean world.
 - Implemented **projectile systems** and optimized collision handling
 - Built menus, HUD, and responsive UI
 
-**[Play on Itch.io](https://goldleafinteractive.itch.io/million-miles-deep)**
+**[View on Itch.io](https://goldleafinteractive.itch.io/million-miles-deep)**
 
 ---
 
@@ -132,7 +132,7 @@ An experimental physics-driven game exploring ragdoll-based movement.
 - Designed **interactive, physics-driven environments**
 - Optimized collision stability for consistent behavior
 
-**[Play on Itch.io](https://goldleafinteractive.itch.io/ragdoll-plainly-perilous)** · [Watch Demo](https://www.youtube.com/watch?v=GfrDt166KZI)
+**[View on Itch.io](https://goldleafinteractive.itch.io/ragdoll-plainly-perilous)** · [Watch Demo](https://www.youtube.com/watch?v=GfrDt166KZI)
 
 ---
 
