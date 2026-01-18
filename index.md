@@ -12,8 +12,6 @@ I work primarily in **Unreal Engine** and **Unity**, specializing in gameplay sc
 
 With over 25 years of gaming experience, I bring a deep player perspective to development—understanding game feel, balance, and how players actually experience mechanics. This background helps me think about edge cases and player friction, and I'm interested in roles where that perspective adds value—whether in gameplay programming, QA, or both.
 
-This site highlights my projects, experiments, and ongoing work. For deeper technical breakdowns, check out my GitHub or reach out anytime.
-
 ---
 
 ## What I Do
@@ -42,7 +40,7 @@ This site highlights my projects, experiments, and ongoing work. For deeper tech
   </a>
 </p>
 
-<p align="center" style="margin-top: 0.5rem;">
+<p align="center" style="margin-top: 0.5rem; font-size: 0.9rem;">
 A recent gameplay prototype showcasing core feature production and systems-driven design.
 </p>
 
@@ -60,4 +58,4 @@ A recent gameplay prototype showcasing core feature production and systems-drive
 
 ---
 
-Interested in collaboration, internships, or discussing game development? Feel free to reach out.
+This site highlights my projects, experiments, and ongoing work. For deeper technical breakdowns, check out my GitHub or reach out anytime.

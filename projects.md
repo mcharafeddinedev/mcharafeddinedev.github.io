@@ -5,7 +5,7 @@ nav_order: 3
 
 # Projects
 
-[Current Pursuits →](activedev.md)
+[Current Pursuits →](activedev)
 
 ---
 
@@ -162,4 +162,4 @@ A 2D side-scroller horror project focused on tension, pacing, and survival-style
 
 ---
 
-[← Back to Home](index.md)
+[← Back to Home](index)
