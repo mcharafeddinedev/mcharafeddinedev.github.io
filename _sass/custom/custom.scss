@@ -51,18 +51,37 @@ body {
 /* Search bar - with glow effects */
 .search {
   background: transparent !important;
+  position: relative !important;
 }
 
-.search-input {
+/* Style the search input wrapper/container to match */
+.search-input-wrap,
+.search .search-input-wrap {
   background-color: rgba(255, 255, 255, 0.08) !important;
   border: 1px solid rgba(100, 150, 255, 0.3) !important;
   border-radius: 4px !important;
-  font-size: 0.85rem !important;
   box-shadow: 0 2px 8px rgba(100, 150, 255, 0.1) !important;
   transition: all 0.3s ease !important;
 }
 
+.search-input {
+  background-color: transparent !important;
+  border: none !important;
+  border-radius: 4px !important;
+  font-size: 0.85rem !important;
+  box-shadow: none !important;
+  transition: all 0.3s ease !important;
+  padding-left: 2.25rem !important;
+}
+
 .search-input:focus {
+  background-color: transparent !important;
+  box-shadow: none !important;
+  outline: none !important;
+}
+
+.search-input-wrap:focus-within,
+.search .search-input-wrap:focus-within {
   border-color: rgba(100, 150, 255, 0.5) !important;
   box-shadow: 0 2px 12px rgba(100, 150, 255, 0.2) !important;
   background-color: rgba(255, 255, 255, 0.1) !important;
@@ -148,17 +167,18 @@ body {
   box-shadow: 0 6px 24px rgba(0, 0, 0, 0.4), 0 0 30px rgba(100, 150, 255, 0.2) !important;
 }
 
-/* Links - with subtle glow on hover */
+/* Links - with visible blue glow on hover */
 .main-content a {
   text-decoration: underline;
   text-underline-offset: 0.15em;
   color: #6ba3ff !important;
   transition: color 0.2s ease, text-shadow 0.2s ease !important;
+  text-shadow: none !important;
 }
 
 .main-content a:hover {
-  color: #8bb5ff !important;
-  text-shadow: 0 0 8px rgba(107, 163, 255, 0.4) !important;
+  color: #a0c5ff !important;
+  text-shadow: 0 0 12px rgba(107, 163, 255, 0.8), 0 0 20px rgba(107, 163, 255, 0.5) !important;
 }
 
 /* Hide footer */
