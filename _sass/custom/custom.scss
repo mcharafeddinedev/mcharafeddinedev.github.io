@@ -48,62 +48,50 @@ body {
   padding-top: 0.25rem !important;
 }
 
-/* Active/selected nav link - white glow/shadow */
+/* Active/selected nav link - subtle light background */
 .nav-list-link.active,
 .site-nav .nav-list-link.active {
-  background-color: rgba(255, 255, 255, 0.1) !important;
-  box-shadow: 0 0 12px rgba(255, 255, 255, 0.3), inset 0 0 8px rgba(255, 255, 255, 0.15) !important;
-  text-shadow: 0 0 8px rgba(255, 255, 255, 0.6) !important;
+  background-color: rgba(255, 255, 255, 0.08) !important;
+  border-left: 2px solid rgba(255, 255, 255, 0.4) !important;
 }
 
-.nav-list-link.active:hover,
-.site-nav .nav-list-link.active:hover {
-  background-color: rgba(255, 255, 255, 0.15) !important;
-  box-shadow: 0 0 16px rgba(255, 255, 255, 0.4), inset 0 0 10px rgba(255, 255, 255, 0.2) !important;
-}
-
-/* Search bar - with glow effects */
+/* Search bar - fix full width and icon spacing */
 .search {
-  background: transparent !important;
-  position: relative !important;
   width: 100% !important;
+  background: transparent !important;
 }
 
-/* Style the search input wrapper/container to match - full width */
-.search-input-wrap,
-.search .search-input-wrap {
+/* Style the entire search container to be full width with background */
+.search,
+.search > * {
+  width: 100% !important;
+  box-sizing: border-box !important;
+}
+
+/* Search input - full width with proper icon padding */
+.search-input {
   background-color: rgba(255, 255, 255, 0.08) !important;
   border: 1px solid rgba(100, 150, 255, 0.3) !important;
   border-radius: 4px !important;
-  box-shadow: 0 2px 8px rgba(100, 150, 255, 0.1) !important;
-  transition: all 0.3s ease !important;
-  width: 100% !important;
-  box-sizing: border-box !important;
-}
-
-.search-input {
-  background-color: transparent !important;
-  border: none !important;
-  border-radius: 4px !important;
   font-size: 0.85rem !important;
-  box-shadow: none !important;
-  transition: all 0.3s ease !important;
-  padding-left: 2.75rem !important;
+  box-shadow: 0 2px 8px rgba(100, 150, 255, 0.1) !important;
+  padding: 0.5rem 0.75rem 0.5rem 2.5rem !important;
   width: 100% !important;
   box-sizing: border-box !important;
+  transition: all 0.3s ease !important;
 }
 
 .search-input:focus {
-  background-color: transparent !important;
-  box-shadow: none !important;
-  outline: none !important;
-}
-
-.search-input-wrap:focus-within,
-.search .search-input-wrap:focus-within {
   border-color: rgba(100, 150, 255, 0.5) !important;
   box-shadow: 0 2px 12px rgba(100, 150, 255, 0.2) !important;
   background-color: rgba(255, 255, 255, 0.1) !important;
+  outline: none !important;
+}
+
+/* Ensure search icon doesn't overlap text */
+.search-icon {
+  left: 0.75rem !important;
+  pointer-events: none !important;
 }
 
 /* Page title (H1) - SMALLER */
