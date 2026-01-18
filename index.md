@@ -16,26 +16,31 @@ This site highlights my projects, experiments, and ongoing work. For deeper tech
 
 ## What I Do
 
-- **Gameplay Programming** — mechanics, movement systems, combat logic
-- **Systems Design** — progression, abilities, state machines, game loops
-- **Technical Problem Solving** — debugging, optimization, tooling
-- **Engine Experience** — Unity (C#), Unreal Engine (Blueprints & C++)
+- **Gameplay Programming** — player controllers, input handling, camera behavior, triggers, core mechanics
+- **Systems Design** — ability systems, state machines, inventory/item logic, save/load, game loops
+- **Technical Work** — debugging features, profiling performance, staying current with emerging tools and development practices
+- **Engine Experience** — Unity (C#), Unreal Engine (C++ & Blueprints), comfortable in both rapid prototyping and longer production cycles, small-scale level design & building
+- **Collaboration** — working with designers and artists to implement features that match creative intent
 
 ---
 
-## Featured Work
+<h2 style="text-align: center;">Featured Work</h2>
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=RNs4yKPhfGM">
-    <img src="https://img.youtube.com/vi/RNs4yKPhfGM/hqdefault.jpg"
-         alt="Recent gameplay prototype demo"
-         style="max-width: 640px; width: 100%; border-radius: 8px;">
+  <a href="projects.md">
+    <img src="/assets/images/quantum-tether.png"
+         alt="Most recent project that has a YouTube video - Featured Project"
+         style="max-width: 400px; width: 100%; border-radius: 8px;">
   </a>
 </p>
 
-A recent gameplay prototype showcasing core mechanics, player control, and systems-driven design.
+<p align="center" style="margin-top: 0.5rem;">
+A recent gameplay prototype showcasing core feature production and systems-driven design.
+</p>
 
-**[View All Projects →](projects.md)**
+<p align="center">
+  <strong><a href="projects.md">View All Projects →</a></strong>
+</p>
 
 ---
 
