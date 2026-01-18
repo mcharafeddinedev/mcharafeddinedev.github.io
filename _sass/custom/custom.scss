@@ -6,45 +6,13 @@
 body {
   font-family: $body-font !important;
   -webkit-font-smoothing: antialiased;
-  background: linear-gradient(135deg, #0a0a0f 0%, #1a1a2e 50%, #16213e 100%) !important;
-  background-attachment: fixed !important;
-  position: relative !important;
-}
-
-/* Add subtle animated gradient overlay for depth */
-body::before {
-  content: '';
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
   background: 
     radial-gradient(circle at 20% 50%, rgba(100, 150, 255, 0.08) 0%, transparent 50%),
     radial-gradient(circle at 80% 80%, rgba(255, 100, 150, 0.06) 0%, transparent 50%),
-    radial-gradient(circle at 40% 20%, rgba(150, 255, 200, 0.05) 0%, transparent 50%);
-  pointer-events: none;
-  z-index: 0;
-  animation: gradientShift 20s ease infinite;
-}
-
-@keyframes gradientShift {
-  0%, 100% {
-    opacity: 1;
-    transform: scale(1);
-  }
-  50% {
-    opacity: 0.8;
-    transform: scale(1.1);
-  }
-}
-
-/* Ensure content is above background effects */
-.site-header,
-.side-bar,
-.main-content-wrap {
-  position: relative;
-  z-index: 1;
+    radial-gradient(circle at 40% 20%, rgba(150, 255, 200, 0.05) 0%, transparent 50%),
+    linear-gradient(135deg, #0a0a0f 0%, #1a1a2e 50%, #16213e 100%) !important;
+  background-attachment: fixed !important;
+  min-height: 100vh !important;
 }
 
 /* Hide logo, show name */
