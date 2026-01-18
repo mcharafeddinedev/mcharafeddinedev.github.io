@@ -21,12 +21,12 @@ This site serves as a curated, up-to-date showcase of my work as a gameplay prog
 
 ---
 
-## Development Focus
+## My Development Focus
 
+- Unreal Engine & Unity development
 - Gameplay programming & systems design  
 - C++ and engine-level exploration  
 - Tooling, automation, and editor workflows  
-- Unity and Unreal Engine development  
 
 For deeper technical documentation and design breakdowns, see my GitHub portfolio:
 👉 https://github.com/mcharafeddinedev/GameDev-Portfolio
