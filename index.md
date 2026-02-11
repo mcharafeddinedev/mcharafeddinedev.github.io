@@ -8,7 +8,7 @@ nav_order: 1
 
 Hey — I'm Marwan, a gameplay programmer focused on building responsive mechanics, scalable systems, and immersive player experiences.
 
-I work primarily in **Unreal Engine** and **Unity**, specializing in gameplay scripting, level prototyping, and building technical systems that support strong moment-to-moment play. My background in science sharpened my problem-solving mindset, which I now apply to debugging, feature development, and game systems architecture.
+I work primarily in **Unreal Engine** and **Unity**, specializing in systems-driven gameplay, player mechanics, and interactive features. Experienced owning gameplay features end-to-end—from implementation through iteration, optimization, and polish—across solo and collaborative projects. My background in science sharpened my problem-solving mindset, which I now apply to debugging, feature development, and game systems architecture.
 
 With over 25 years of gaming experience, I bring a deep player perspective to development—understanding game feel, balance, and how players actually experience mechanics. This background helps me think about edge cases and player friction, and I'm interested in roles where that perspective adds value—whether in gameplay programming, QA, or both.
 
@@ -17,8 +17,8 @@ With over 25 years of gaming experience, I bring a deep player perspective to de
 ## What I Do
 
 **Core Development**
-- **Gameplay Programming** — player controllers, input handling, camera behavior, physics-based mechanics, movement systems, enemy AI, combat systems, interactive triggers, data assets, UI/HUD integration
-- **Systems Design** — ability systems, state machines, inventory/item logic, upgrade frameworks, save/load systems, game loops, procedural generation, data-driven architecture, modular systems that scale
+- **Gameplay Programming** — player controllers, input handling, camera behavior, physics-based mechanics, movement systems, enemy AI, combat systems, interactive triggers, data assets, UI/HUD integration, moment-to-moment player feel
+- **Systems Design** — ability systems, state machines, inventory/item logic, upgrade frameworks, save/load systems, game loops, procedural generation & spawning, data-driven architecture, systemic gameplay, modular systems that can scale
 
 **Technical Skills**
 - **Engine Experience** — Unity (C#), Unreal Engine (C++ & Blueprints), comfortable in both rapid prototyping and longer production cycles, small-scale level design & building
@@ -33,9 +33,9 @@ With over 25 years of gaming experience, I bring a deep player perspective to de
 <h2 style="text-align: center;">Featured Work</h2>
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=RNs4yKPhfGM&t=3s">
-    <img src="/assets/images/quantum-tether.png"
-         alt="Most recent project that has a YouTube video - Featured Project"
+  <a href="https://goldleafinteractive.itch.io/overclocked-ddm">
+    <img src="/assets/images/overclocked-data-dash-max.png"
+         alt="OVERCLOCKED: Data Dash MAX - Featured Project"
          style="max-width: 520px; width: 100%; border-radius: 8px;">
   </a>
 </p>

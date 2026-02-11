@@ -27,7 +27,7 @@ As I near the completion of my A.A.S. in Digital Gaming & Simulation (for Progra
 
 ## Most Recent/Active Work
 
-**Gameplay Systems & Prototyping** — Developing an endless-runner style arcade game in C++ for UE5.7 focused on responsive movement, state-driven mechanics, and replayable game loops.
+**OVERCLOCKED: Data Dash MAX** — Released a complete C++ arcade endless runner for PC and arcade cabinet hardware. Built with component-based architecture, 45+ obstacle patterns, data-driven theming, local leaderboards, and full input support. See [Projects](projects) or [play it on Itch.io](https://goldleafinteractive.itch.io/overclocked-ddm).
 
 **Engine-Level Exploration (C++)** — Experimenting with a custom 2D engine in C++ to strengthen understanding of rendering fundamentals, entity management, and low-level architecture.
 

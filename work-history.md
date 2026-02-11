@@ -17,6 +17,7 @@ nav_order: 2
 - Created tutorial systems for player onboarding and mechanics reinforcement
 - Managed documentation, task tracking, and structured workflows for small teams
 - Published several Unreal Engine 5 games on Itch.io (solo and team projects)
+- Shipped **OVERCLOCKED: Data Dash MAX** (UE5 C++) — complete arcade endless runner with component-based architecture, procedural obstacle generation, data-driven theming, local leaderboards, and arcade cabinet compatibility at 60fps
 - Learned Steam publishing pipeline using **Steamworks SDK** and **SteamPipeGUI**
 
 ---

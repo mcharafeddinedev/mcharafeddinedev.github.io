@@ -11,6 +11,24 @@ nav_order: 3
 
 ## Featured
 
+### OVERCLOCKED: Data Dash MAX
+**Unreal Engine 5 · C++ & Blueprints · Released (PC & Arcade Cabinet)**
+
+An endless runner for arcade cabinets and PC. You play as an electric impulse humanoid racing through neon tunnels inside a computer system—dodge obstacles, grab data packets, and hit OVERCLOCK to push your score higher.
+
+<p align="center">
+  <img src="/assets/images/overclocked-data-dash-max.png" alt="OVERCLOCKED: Data Dash MAX" style="max-width: 600px; width: 100%;">
+</p>
+
+- Built a **complete C++ arcade runner** with component-based architecture, world scrolling, and smooth 3-lane movement with holdable jump/slide mechanics
+- Over **40+ hand-crafted obstacle and pickup patterns** with procedural generation and a risk/reward **OVERCLOCK speed-boost system** with score multipliers
+- Implemented **data-driven subsystems** for 6 color themes, combo scoring, local leaderboard with initials entry, and persistent audio across level transitions
+- Developed **full keyboard/gamepad-navigable UI** and shipped to arcade cabinet hardware at stable 60fps
+
+**[View on Itch.io](https://goldleafinteractive.itch.io/overclocked-ddm)** · [Watch Trailer](https://www.youtube.com/watch?v=dI9Ctq9LkLs)
+
+---
+
 ### Quantum Tether
 **Unity · C# · Released**
 
@@ -23,7 +41,7 @@ A 2D roguelike sidescroller built around precision movement, grappling physics, 
 - Designed a **vector-based grappling system** for dynamic swinging between anchor points
 - Built a **modular upgrade framework** (10+ abilities: dash cooldowns, dual threads, range modifiers)
 - Implemented **procedural anchor generation** using parametric math to vary level rhythm
-- Developed responsive UI, HUD, scoring, collectibles, and difficulty scaling
+- Developed **player movement state handling**, responsive UI, HUD, scoring, collectibles, and difficulty scaling
 
 **[View on Itch.io](https://goldleafinteractive.itch.io/quantum-tether)** · [Watch Trailer](https://www.youtube.com/watch?v=RNs4yKPhfGM)
 
@@ -76,7 +94,8 @@ A Persona-inspired RPG prototype centered on dual-world traversal and psychic me
 
 - Built a **world-shifting system** between Reality and the Void Verse
 - Implemented **telekinetic object manipulation** using physics and vector targeting
-- Developed exploration systems, NPC behaviors, and branching dialogue
+- Developed **modular AI patrol and sensing behaviors**; partnered with designers to iterate on stealth and puzzle gameplay
+- Built exploration systems, NPC behaviors, and branching dialogue
 
 **[View on Itch.io](https://goldleafinteractive.itch.io/void-knights)**
 
