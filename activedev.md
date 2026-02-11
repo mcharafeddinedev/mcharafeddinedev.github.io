@@ -21,7 +21,7 @@ As I near the completion of my A.A.S. in Digital Gaming & Simulation (for Progra
 
 **Collaboration & QA**
 - **Collaboration** — working with designers and artists to implement features that match creative intent, working with other programmers on the same features
-- **QA Mindset** — rigorous playtesting, clear bug documentation, and a deep player perspective built on 25+ years of gaming across genres, platforms, and eras
+- **QA Mindset** — rigorous playtesting, clear bug documentation, and a deep player perspective built on 25+ years of gaming across genres, platforms, and eras, both competitively and casually
 
 ---
 
@@ -48,20 +48,20 @@ I use **guided, project-based courses** as deliberate practice—reinforcing fun
 
 ## Player Perspective & QA
 
-I bring a **deep player perspective** shaped by over 25 years of gaming experience across platforms, genres, and eras. This background directly informs my work:
+I bring a **deep player perspective** shaped by decades of gaming experience across platforms, genres, and eras. This background directly informs my work:
 
 - **Playtesting** — Rigorous testing with iterative adjustments, catching edge cases and feel issues before they compound
 - **Game Feel** — Intuition for when mechanics feel "off"—input lag, movement weight, damage numbers, or progression pacing
 - **Player Connection** — Thinking like a player first helps anticipate friction points and balance concerns
 - **Documentation** — Clear, organized reporting for bug tracking, design specs, and team communication
 
-My generalist foundation (programming, art pipelines, design, technical workflows) combined with extensive playtesting experience helps me understand what QA teams look for: edge cases, balance issues, and player friction points.
+My generalist foundation (programming, art pipelines, design, technical workflows) combined with extensive playtesting experience helps me understand what QA teams look for: things like edge cases, balance issues, and player friction points.
 
 ---
 
 ## Long-Term Direction
 
-My goal is to keep learning and growing as a **gameplay programmer with strong systems and technical foundations**—building core features & mechanics across engines, codebases, and tools while maintaining a player-first design mindset. That means continuing to build clean, scalable systems, go deeper on C++ and engine internals, stay sharp on evolving tools, and playtest early with iterative feedback.
+My goal is to keep learning and growing as a **gameplay programmer with strong systems and technical foundations**—building core features & mechanics across engines, codebases, and tools while maintaining a player-first design mindset. That means continuing to build clean, scalable systems, go deeper on C++ and engine internals, stay sharp on evolving tools, and ALWAYS playtest early with iterative feedback.
 
 ---
 
