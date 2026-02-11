@@ -8,25 +8,9 @@ nav_order: 1
 
 Hey — I'm Marwan, a gameplay programmer focused on building responsive mechanics, scalable systems, and immersive player experiences.
 
-I work primarily in **Unreal Engine** and **Unity**, specializing in systems-driven gameplay, player mechanics, and interactive features. Experienced owning gameplay features end-to-end—from implementation through iteration, optimization, and polish—across solo and collaborative projects. My background in science sharpened my problem-solving mindset, which I now apply to debugging, feature development, and game systems architecture.
+I work primarily in **Unreal Engine** and **Unity**, specializing in systems-driven gameplay, player mechanics, and interactive features. Experienced owning gameplay features end-to-end—from implementation through iteration, optimization, and polish—across solo and collaborative projects. My background in science sharpened my problem-solving mindset, which I now apply to debugging, feature development, and game systems architecture design.
 
-With over 25 years of gaming experience, I bring a deep player perspective to development—understanding game feel, balance, and how players actually experience mechanics. This background helps me think about edge cases and player friction, and I'm interested in roles where that perspective adds value—whether in gameplay programming, QA, or both.
-
----
-
-## What I Do
-
-**Core Development**
-- **Gameplay Programming** — player controllers, input handling, camera behavior, physics-based mechanics, movement systems, enemy AI, combat systems, interactive triggers, data assets, UI/HUD integration, moment-to-moment player feel
-- **Systems Design** — ability systems, state machines, inventory/item logic, upgrade frameworks, save/load systems, game loops, procedural generation & spawning, data-driven architecture, systemic gameplay, modular systems that can scale
-
-**Technical Skills**
-- **Engine Experience** — Unity (C#), Unreal Engine (C++ & Blueprints), comfortable in both rapid prototyping and longer production cycles, small-scale level design & building
-- **Technical Work** — debugging features, profiling performance, staying current with emerging tools and development practices
-
-**Collaboration & QA**
-- **Collaboration** — working with designers and artists to implement features that match creative intent, working with other programmers on the same features
-- **QA Mindset** — rigorous playtesting, clear bug documentation, and a deep player perspective built on 25+ years of gaming across genres, platforms, and eras
+With over 25 years of gaming experience, I bring a deep player perspective to project development—understanding game feel, balance, and how players actually experience mechanics. This background helps me think about edge cases and player friction, and I'm very interested in roles where that perspective adds value—whether in gameplay programming, QA, or both.
 
 ---
 
@@ -47,6 +31,22 @@ A recent gameplay prototype showcasing core feature production and systems-drive
 <p align="center">
   <strong><a href="projects">View All Projects →</a></strong>
 </p>
+
+---
+
+## What I Do
+
+**Core Development**
+- **Gameplay Programming** — player controllers, input handling, camera behavior, physics-based mechanics, movement systems, enemy AI, combat systems, interactive triggers, data assets, UI/HUD integration, moment-to-moment player feel
+- **Systems Design** — ability systems, state machines, inventory/item logic, upgrade frameworks, save/load systems, game loops, procedural generation & spawning, data-driven architecture, systemic gameplay, modular systems that can scale
+
+**Technical Skills**
+- **Engine Experience** — Unity (C#), Unreal Engine (C++ & Blueprints), comfortable in both rapid prototyping and longer production cycles, small-scale level design & building
+- **Technical Work** — debugging features, profiling performance, staying current with emerging tools and development practices
+
+**Collaboration & QA**
+- **Collaboration** — working with designers and artists to implement features that match creative intent, working with other programmers on the same features
+- **QA Mindset** — rigorous playtesting, clear bug documentation, and a deep player perspective built on 25+ years of gaming across genres, platforms, and eras
 
 ---
 
