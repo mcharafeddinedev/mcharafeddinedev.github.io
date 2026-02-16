@@ -25,6 +25,10 @@ An endless runner for arcade cabinets and PC. You play as an electric impulse hu
 - Implemented **data-driven subsystems** for 6 color themes, combo scoring, local leaderboard with initials entry, and persistent audio across level transitions
 - Developed **full keyboard/gamepad-navigable UI** and shipped to arcade cabinet hardware at stable 60fps
 
+<div class="itch-embed-wrap" style="text-align: center; margin: 1.5rem 0;">
+  <iframe frameborder="0" src="https://itch.io/embed/4278897?linkback=true&amp;bg_color=000000&amp;fg_color=fffcbc&amp;link_color=46ffd4&amp;border_color=979797" width="552" height="167" class="itch-embed"></iframe>
+</div>
+
 **[View on Itch.io](https://goldleafinteractive.itch.io/overclocked-ddm)** · [Watch Trailer](https://www.youtube.com/watch?v=dI9Ctq9LkLs)
 
 ---

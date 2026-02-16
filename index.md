@@ -28,6 +28,10 @@ With over 25 years of gaming experience, I bring a deep player perspective to pr
 A recent gameplay prototype showcasing core feature production and systems-driven design.
 </p>
 
+<div class="itch-embed-wrap" style="text-align: center; margin: 1.25rem 0;">
+  <iframe frameborder="0" src="https://itch.io/embed/4278897?linkback=true&amp;bg_color=000000&amp;fg_color=fffcbc&amp;link_color=46ffd4&amp;border_color=979797" width="552" height="167" class="itch-embed"></iframe>
+</div>
+
 <p align="center">
   <strong><a href="projects">View All Projects →</a></strong>
 </p>
