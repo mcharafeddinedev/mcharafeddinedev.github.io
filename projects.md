@@ -85,6 +85,26 @@ A fully released 2D adventure game with responsibility for core gameplay systems
 
 ---
 
+### Breathe — Breath-Controlled Sailboat Race
+**Unity · C# · 2D URP · Custom hardware · Prototype**
+
+Player breath is the only input—it controls the wind that powers a sailboat racing alongside AI companions, using a custom-built breath-sensing device. No buttons, no sticks; the physical metaphor is immediate: breath = wind = sail power. No one ever loses.
+
+<!-- <p align="center">
+  <img src="/assets/images/breathe.png" alt="Breathe" style="max-width: 600px; width: 100%;">
+</p> -->
+
+- **Breath-only input** — Breathing is the sole control; no secondary inputs, so the game is accessible to anyone who can blow and captures clean breath-effort data
+- **Source-agnostic architecture** — Game logic reads from a single breath-input interface; signal source (custom hardware, microphone fallback, or simulated) is swappable without touching gameplay code
+- **Custom hardware integration** — Developer-built device: rotation sensing → microcontroller → USB serial → Unity; real-time proportional mapping from breath intensity to in-game wind
+- **No-fail, accessibility-focused design** — Every session ends positively with celebration of personal progress; games adapt to the player's breathing ability
+- **Layered breath pipeline** — Signal capture → normalization → smoothing → gameplay integration; discrete power levels for consistent, responsive control
+- **Healthcare-adjacent potential** — Breath-only design enables meaningful effort/duration/pattern capture for potential clinical or pediatric breathing engagement tools
+
+**[Repo & documentation](https://github.com/mcharafeddinedev/Breathe-Game)**
+
+---
+
 ## Other Work
 
 ### Void Knights

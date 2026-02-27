@@ -29,6 +29,8 @@ As I near the completion of my A.A.S. in Digital Gaming & Simulation (for Progra
 
 **OVERCLOCKED: Data Dash MAX** — Released a complete C++ arcade endless runner for PC and arcade cabinet hardware. Built with component-based architecture, 45+ obstacle patterns, data-driven theming, local leaderboards, and full input support. See [Projects](projects) or [play it on Itch.io](https://goldleafinteractive.itch.io/overclocked-ddm).
 
+**Breathe** — Building a breath-controlled sailboat race in Unity with custom breath-sensing hardware and a source-agnostic input layer (hardware, microphone fallback, simulated). Breath is the only input; no-fail design with AI companions and a celebration-focused finish. Prototype phase—vertical slice in progress. [Repo & docs](https://github.com/mcharafeddinedev/Breathe-Game).
+
 **Engine-Level Exploration (C++)** — Experimenting with a custom 2D engine in C++ to strengthen understanding of rendering fundamentals, entity management, and low-level architecture.
 
 **Tooling & Modern Workflows** — Exploring editor tooling and development automation, including Python-based workflows for Unreal Engine tasks and data handling.
