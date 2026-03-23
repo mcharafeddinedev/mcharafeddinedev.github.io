@@ -1,26 +1,24 @@
 /* ========================================
-   Minimal Custom Styles
+   Dark Aero + Overseer Terminal Theme
+   Animated canvas background — green phosphor palette
    ======================================== */
 
-/* Background - Subtle gradient with depth - apply to html and body for full coverage */
+/* Fallback solid background while canvas loads */
 html {
-  background: 
-    radial-gradient(circle at 20% 50%, rgba(100, 150, 255, 0.08) 0%, transparent 50%),
-    radial-gradient(circle at 80% 80%, rgba(255, 100, 150, 0.06) 0%, transparent 50%),
-    radial-gradient(circle at 40% 20%, rgba(150, 255, 200, 0.05) 0%, transparent 50%),
-    linear-gradient(135deg, #0a0a0f 0%, #1a1a2e 50%, #16213e 100%) !important;
+  background: #030503 !important;
   background-attachment: fixed !important;
   min-height: 100vh !important;
 }
 
 body {
-  font-family: $body-font !important;
+  font-family: 'Fira Code', 'Source Code Pro', 'Consolas', 'Courier New', monospace !important;
   -webkit-font-smoothing: antialiased;
   background: transparent !important;
   min-height: 100vh !important;
+  color: rgba(220, 235, 220, 0.95) !important;
 }
 
-/* Make all containers transparent so gradient shows everywhere */
+/* All structural containers transparent so the canvas shows through */
 .site-header,
 .side-bar,
 .main-content-wrap,
@@ -28,40 +26,104 @@ body {
   background: transparent !important;
 }
 
+/* --- Translucent Terminal Panels --- */
+
+/* Sidebar: floating dark panel */
+.side-bar {
+  background: rgba(5, 10, 5, 0.75) !important;
+  border-right: 1px solid rgba(0, 200, 100, 0.15) !important;
+}
+
+/* Main content area: translucent panel */
+.main-content-wrap {
+  padding-top: 0.5rem !important;
+}
+
+.main-content {
+  background: rgba(5, 10, 5, 0.75) !important;
+  border: 1px solid rgba(0, 200, 100, 0.12) !important;
+  border-radius: 4px !important;
+  padding: 1.5rem !important;
+  padding-top: 0.75rem !important;
+  margin-top: 0.25rem !important;
+}
+
+/* --- Text Colors --- */
+
+.main-content,
+.main-content p,
+.main-content li,
+.main-content td,
+.main-content th,
+.main-content blockquote {
+  color: rgba(220, 235, 220, 0.95) !important;
+}
+
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4,
+.main-content h5,
+.main-content h6 {
+  color: rgba(230, 245, 230, 0.97) !important;
+}
+
+/* Muted / secondary text */
+.main-content .text-small,
+.main-content .text-grey-dk-000,
+.main-content figcaption,
+.breadcrumb-nav,
+.site-nav .nav-list-link {
+  color: rgba(120, 160, 120, 0.7) !important;
+}
+
 /* Hide logo, show name */
 .site-logo {
   display: none !important;
 }
 
-/* Sidebar title - push down to align with search bar, with subtle glow */
+/* Sidebar title with green glow */
 .site-title {
   font-size: 1.1rem !important;
   font-weight: 600 !important;
   margin-bottom: 0.75rem !important;
   margin-top: 0.75rem !important;
   padding-top: 0.25rem !important;
-  text-shadow: 0 0 10px rgba(100, 150, 255, 0.3) !important;
+  color: rgba(220, 235, 220, 0.95) !important;
+  text-shadow: 0 0 10px rgba(0, 200, 100, 0.35) !important;
 }
 
-/* Nav links - tighter to separator */
+/* Nav links */
 .site-nav {
   padding-top: 0.25rem !important;
 }
 
-/* Active/selected nav link - subtle light background */
-.nav-list-link.active,
-.site-nav .nav-list-link.active {
-  background-color: rgba(255, 255, 255, 0.08) !important;
-  border-left: 2px solid rgba(255, 255, 255, 0.4) !important;
+.site-nav .nav-list-link {
+  transition: background-color 0.2s ease, border-color 0.2s ease !important;
 }
 
-/* Search bar - fill entire header area */
+.site-nav .nav-list-link:hover {
+  background-color: rgba(0, 200, 100, 0.12) !important;
+  border-left: 2px solid rgba(0, 255, 128, 0.5) !important;
+  color: rgba(220, 235, 220, 0.95) !important;
+}
+
+/* Active/selected nav link */
+.nav-list-link.active,
+.site-nav .nav-list-link.active {
+  background-color: rgba(0, 200, 100, 0.15) !important;
+  border-left: 2px solid rgba(0, 255, 128, 0.5) !important;
+  color: rgba(230, 245, 230, 0.97) !important;
+}
+
+/* --- Search bar --- */
+
 .main-header,
 .main-content-wrap .main-header {
-  background-color: rgba(255, 255, 255, 0.08) !important;
-  border: 1px solid rgba(100, 150, 255, 0.3) !important;
+  background-color: rgba(5, 15, 5, 0.6) !important;
+  border: 1px solid rgba(0, 200, 100, 0.3) !important;
   border-radius: 4px !important;
-  box-shadow: 0 2px 8px rgba(100, 150, 255, 0.1) !important;
+  box-shadow: 0 2px 8px rgba(0, 200, 100, 0.08) !important;
 }
 
 .search {
@@ -76,7 +138,6 @@ body {
   background: transparent !important;
 }
 
-/* Search input - transparent so header background shows */
 .search-input {
   background-color: transparent !important;
   border: none !important;
@@ -86,6 +147,8 @@ body {
   width: 100% !important;
   box-sizing: border-box !important;
   transition: all 0.3s ease !important;
+  color: rgba(220, 235, 220, 0.95) !important;
+  font-family: 'Fira Code', 'Source Code Pro', 'Consolas', monospace !important;
 }
 
 .search-input:focus {
@@ -95,12 +158,12 @@ body {
 }
 
 .main-header:focus-within {
-  border-color: rgba(100, 150, 255, 0.5) !important;
-  box-shadow: 0 2px 12px rgba(100, 150, 255, 0.2) !important;
-  background-color: rgba(255, 255, 255, 0.1) !important;
+  border-color: rgba(0, 255, 128, 0.5) !important;
+  box-shadow: 0 2px 12px rgba(0, 200, 100, 0.15) !important;
+  background-color: rgba(5, 15, 5, 0.7) !important;
 }
 
-/* Lock search icon in left position permanently */
+/* Lock search icon position */
 .search-image,
 .search-icon,
 .search svg,
@@ -116,7 +179,8 @@ body {
   pointer-events: none !important;
 }
 
-/* Page title (H1) - SMALLER */
+/* --- Typography sizing (preserved from original) --- */
+
 .main-content h1:first-of-type {
   font-size: 1.4rem !important;
   font-weight: 600 !important;
@@ -124,13 +188,11 @@ body {
   margin-bottom: 1rem !important;
 }
 
-/* All H1s */
 .main-content h1 {
   font-size: 1.4rem !important;
   font-weight: 600 !important;
 }
 
-/* H2 */
 .main-content h2 {
   font-size: 1.2rem !important;
   font-weight: 600 !important;
@@ -138,7 +200,6 @@ body {
   margin-bottom: 0.75rem !important;
 }
 
-/* H3 */
 .main-content h3 {
   font-size: 1.05rem !important;
   font-weight: 600 !important;
@@ -146,90 +207,213 @@ body {
   margin-bottom: 0.5rem !important;
 }
 
-/* Main content wrapper - pull up to align with nav */
-.main-content-wrap {
-  padding-top: 0.5rem !important;
-}
-
-/* Main content - align with sidebar nav links */
-.main-content {
-  padding-top: 0 !important;
-  margin-top: 0.25rem !important;
-}
-
-/* First element - align with "Home" link */
 .main-content > *:first-child {
   margin-top: 0 !important;
   padding-top: 0 !important;
 }
 
-/* Paragraphs */
 .main-content p {
   margin-bottom: 1rem !important;
   line-height: 1.65 !important;
 }
 
-/* Lists */
 .main-content li {
   margin-bottom: 0.25rem !important;
 }
 
-/* Horizontal rules - with gradient */
-.main-content hr {
-  margin: 1.25rem 0 !important;
-  border: none !important;
-  border-top: 1px solid rgba(255, 255, 255, 0.1) !important;
-  background: linear-gradient(90deg, transparent, rgba(100, 150, 255, 0.3), transparent) !important;
-  height: 1px !important;
-}
+/* --- Links: neon green --- */
 
-/* Images - with subtle glow and hover effect */
-.main-content img {
-  border-radius: 8px;
-  max-width: 100%;
-  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3), 0 0 20px rgba(100, 150, 255, 0.1) !important;
-  transition: transform 0.3s ease, box-shadow 0.3s ease !important;
-}
-
-.main-content img:hover {
-  transform: translateY(-2px) !important;
-  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.4), 0 0 30px rgba(100, 150, 255, 0.2) !important;
-}
-
-/* Links - with visible blue glow on hover */
 .main-content a {
   text-decoration: underline;
   text-underline-offset: 0.15em;
-  color: #6ba3ff !important;
+  color: #00cc66 !important;
   transition: color 0.2s ease, text-shadow 0.2s ease !important;
   text-shadow: none !important;
 }
 
 .main-content a:hover {
-  color: #a0c5ff !important;
-  text-shadow: 0 0 12px rgba(107, 163, 255, 0.8), 0 0 20px rgba(107, 163, 255, 0.5) !important;
+  color: #33ff99 !important;
+  text-shadow: 0 0 12px rgba(0, 255, 128, 0.6), 0 0 20px rgba(0, 255, 128, 0.35) !important;
 }
 
-/* Hide footer */
+/* Sidebar links inherit the green palette */
+.side-bar a,
+.site-title a {
+  color: rgba(200, 230, 200, 0.9) !important;
+}
+
+.side-bar a:hover {
+  color: #33ff99 !important;
+  text-shadow: 0 0 8px rgba(0, 255, 128, 0.4) !important;
+}
+
+/* --- Horizontal rules: green gradient --- */
+
+.main-content hr {
+  margin: 1.25rem 0 !important;
+  border: none !important;
+  border-top: 1px solid rgba(0, 255, 128, 0.1) !important;
+  background: linear-gradient(90deg, transparent, rgba(0, 255, 128, 0.3), transparent) !important;
+  height: 1px !important;
+}
+
+/* --- Images --- */
+
+.main-content img {
+  border-radius: 8px;
+  max-width: 100%;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3), 0 0 20px rgba(0, 255, 128, 0.1) !important;
+  transition: transform 0.3s ease, box-shadow 0.3s ease !important;
+}
+
+.main-content img:hover {
+  transform: translateY(-2px) !important;
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.4), 0 0 30px rgba(0, 255, 128, 0.2) !important;
+}
+
+/* --- Code blocks & inline code --- */
+
+.main-content code {
+  background: rgba(0, 30, 10, 0.6) !important;
+  border: 1px solid rgba(0, 200, 100, 0.2) !important;
+  color: #33ff99 !important;
+  border-radius: 3px;
+  padding: 0.15em 0.35em;
+  font-family: 'Fira Code', 'Source Code Pro', 'Consolas', monospace !important;
+}
+
+.main-content pre {
+  background: rgba(3, 8, 3, 0.85) !important;
+  border: 1px solid rgba(0, 200, 100, 0.2) !important;
+  border-radius: 4px !important;
+}
+
+.main-content pre code {
+  border: none !important;
+  padding: 0 !important;
+}
+
+/* --- Tables --- */
+
+.main-content table {
+  border-color: rgba(0, 200, 100, 0.2) !important;
+}
+
+.main-content th {
+  background: rgba(0, 30, 10, 0.5) !important;
+  border-color: rgba(0, 200, 100, 0.2) !important;
+}
+
+.main-content td {
+  border-color: rgba(0, 200, 100, 0.15) !important;
+}
+
+/* --- Blockquotes --- */
+
+.main-content blockquote {
+  border-left: 3px solid rgba(0, 255, 128, 0.4) !important;
+  background: rgba(0, 20, 5, 0.4) !important;
+  padding: 0.75rem 1rem !important;
+  border-radius: 0 4px 4px 0 !important;
+}
+
+/* --- Strong/bold: slightly brighter --- */
+
+.main-content strong {
+  color: rgba(235, 250, 235, 1) !important;
+}
+
+/* --- Hide footer --- */
+
 .site-footer {
   display: none !important;
 }
 
-/* Itch.io embed - centered, responsive */
+/* --- Itch.io embed --- */
+
 .itch-embed-wrap {
   iframe.itch-embed {
     max-width: 100%;
     border-radius: 6px;
-    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.3), 0 0 15px rgba(0, 255, 128, 0.08);
   }
 }
 
-/* Mobile */
+/* --- Scrollbar theming (Webkit) --- */
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(3, 5, 3, 0.8);
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(0, 150, 75, 0.3);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(0, 200, 100, 0.5);
+}
+
+/* --- Search results dropdown --- */
+
+.search-results {
+  background: rgba(5, 10, 5, 0.95) !important;
+  border: 1px solid rgba(0, 200, 100, 0.3) !important;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5) !important;
+}
+
+.search-results .search-result {
+  border-color: rgba(0, 200, 100, 0.1) !important;
+}
+
+.search-results .search-result:hover {
+  background: rgba(0, 200, 100, 0.1) !important;
+}
+
+.search-results .search-result-title {
+  color: #00cc66 !important;
+}
+
+.search-results .search-result-doc-title {
+  color: rgba(180, 210, 180, 0.8) !important;
+}
+
+.search-results .search-result-preview {
+  color: rgba(160, 190, 160, 0.7) !important;
+}
+
+/* --- Back to top button --- */
+
+.back-to-top {
+  color: rgba(0, 200, 100, 0.6) !important;
+  transition: color 0.2s ease !important;
+}
+
+.back-to-top:hover {
+  color: #33ff99 !important;
+}
+
+/* --- Mobile --- */
+
 @media (max-width: 800px) {
   .main-content h1 {
     font-size: 1.3rem !important;
   }
   .main-content h2 {
     font-size: 1.1rem !important;
+  }
+
+  .main-content {
+    padding: 1rem !important;
+    margin: 0 0.25rem !important;
+  }
+
+  .side-bar {
+    background: rgba(3, 8, 3, 0.92) !important;
   }
 }

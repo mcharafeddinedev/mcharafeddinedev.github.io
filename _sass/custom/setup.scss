@@ -1,4 +1,4 @@
-// Fonts
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
+// Fonts — terminal monospace stack (Dark Aero / Overseer Terminal aesthetic)
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;600&family=Source+Code+Pro:wght@400;500;600&display=swap');
 
-$body-font: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+$body-font: 'Fira Code', 'Source Code Pro', 'Consolas', 'Courier New', monospace;
