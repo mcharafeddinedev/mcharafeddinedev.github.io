@@ -137,6 +137,12 @@ body {
   text-transform: uppercase;
 }
 
+.sidebar-screenshot-scroll {
+  max-height: 28rem;
+  overflow-y: auto;
+  padding-right: 0.25rem;
+}
+
 .sidebar-screenshot-card {
   display: block;
   width: 100%;
