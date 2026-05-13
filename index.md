@@ -6,11 +6,11 @@ nav_order: 1
 
 # Gameplay Systems Engineer · Technical Designer
 
-Hey — I'm Marwan. I **design and engineer gameplay systems**: mechanics that read well in the moment, loops that hold up, data you can tune without fighting the code, and feedback players can trust—**from first playable through ship**.
+Hey — I'm Marwan. I develop games, and my focus is mostly on **designing and engineering gameplay systems**: mechanics that read well in the moment, loops that hold up, data you can tune without fighting the code, and feedback players can trust—**from first playable slice to shipping a complete product**.
 
-**Unity (C#)** and **Unreal (C++ & Blueprints)** are my strongest engines; I work as both **technical designer and implementer**. **A.A.S. in Digital Gaming & Simulation (Programmers)** from HCC—code, design, technical art, production habits in one track. **Godot** is in active study. I use **AI-assisted coding and authoring** the way many studios already do, with review and ownership—**not** as a stand-in for specs, integration, or playtesting.
+**Unity (C#)** and **Unreal (C++ & Blueprints)** are my strongest engines; I work as both **technical designer and implementer**. Recently completed my **A.A.S. in Digital Gaming & Simulation (Programmers)** from HCC—learned foundations for code, design, technical art, and production habits in one track. Planning on looking into and starting to learn **Godot**. I often use **AI-assisted coding and authoring**, the way many studios already do, with strict review and ownership—**not** as a stand-in for specs, integration, or playtesting.
 
-I bring **QA** instincts to systems work—twenty-five years as a gamer trained me to notice friction, pacing, and edge cases early.
+I bring **QA** instincts to my systems work—twenty-five years as a gamer has trained me to notice friction, pacing, and edge cases in games early.
 
 ---
 
@@ -19,17 +19,13 @@ I bring **QA** instincts to systems work—twenty-five years as a gamer trained 
 <p align="center">
   <a href="https://goldleafinteractive.itch.io/access-granted">
     <img src="/assets/images/access-granted.png"
-         alt="Access Granted — CRT-style breaker with typing prompts"
+         alt="Access Granted — 90's aesthetic block breaker with typing prompts"
          style="max-width: 560px; width: 100%; border-radius: 8px;">
   </a>
 </p>
 
 <p align="center" style="margin-top: 0.5rem; max-width: 52rem; margin-left: auto; margin-right: auto; font-size: 0.95rem;">
-Solo Unity ship: brick-breaker plus typing on “command” blocks, slow-mo when it matters. CRT stack (barrel + scanlines) evokes a classic **CRT monitor**. Ball drops and mistyped prompts are <strong>separate</strong> strike tracks.</p>
-
-<p align="center" style="margin-top: 0.75rem;">
-  <strong><a href="https://goldleafinteractive.itch.io/access-granted">Play on itch.io (browser)</a></strong>
-</p>
+This was a solo project, shipped with Unity 6 for browser play. It's essentially brick-breaker plus typing challenges during slow-mo on “command” blocks. CRT scanlines and barrel distortion effects evoke a classic **CRT monitor** visual feel. Ball drops and mistyped commands are <strong>separate</strong> strike tracks.</p>
 
 ---
 
@@ -42,11 +38,7 @@ Solo Unity ship: brick-breaker plus typing on “command” blocks, slow-mo when
 </p>
 
 <p align="center" style="margin-top: 0.5rem; max-width: 52rem; margin-left: auto; margin-right: auto; font-size: 0.95rem;">
-<strong>Unreal 5</strong> endless runner—<strong>PC + school arcade</strong> (stick + buttons). Lanes, jump/slide, ramping speed, overclock bursts, medals, local boards, themes—<strong>gamepad-first</strong> UI.</p>
-
-<p align="center" style="margin-top: 0.75rem;">
-  <strong><a href="https://goldleafinteractive.itch.io/overclocked-ddm">Play on itch.io (browser)</a></strong>
-</p>
+<strong>Unreal 5</strong> endless runner—built for <strong>PC + school arcade</strong> (joystick + buttons). Lanes, jump/slide, ramping speed, overclock bursts, medals, local boards, adjustable visual themes—<strong>gamepad</strong> playable.</p>
 
 <p align="center">
   <strong><a href="projects">View All Projects →</a></strong>
@@ -58,9 +50,9 @@ Solo Unity ship: brick-breaker plus typing on “command” blocks, slow-mo when
 
 **Systems & design** — Prototype in-engine, lock in pacing and rules, keep state and tuning maintainable, and ship UI/onboarding that stays readable when the moment gets tight.
 
-**Engines & tooling** — **Unity**, **Unreal**, WebGL/kiosk when needed; **Godot** in progress. I stay current on pipelines and **AI-assisted workflows** lots of teams rely on—and I still **steer intent, reviews, and merges**.
+**Engines & tooling** — **Unity**, **Unreal**, WebGL when needed; **Godot** learning in progress. I stay current on pipelines and **AI-assisted workflows** that lots of teams rely on— I still **steer intent, reviews, and merges**.
 
-**Playtesting & collab** — Clear notes and reproducible bugs, with spot-checks on the platforms that actually matter.
+**Playtesting & collab** — Clear note-taking and finding reproducible bugs, able to coordinate with artists and programmers
 
 ---
 
@@ -72,4 +64,4 @@ Solo Unity ship: brick-breaker plus typing on “command” blocks, slow-mo when
 
 ---
 
-Shipped prototypes, jams, coursework—organized around **systems design and engineering**. Repos on **GitHub**; builds and patch logs on **itch**.
+Shipped prototypes, jams, and coursework—organized around **systems design and engineering**. My public repos are on **GitHub**; builds and patch logs (**playable/downloadable**) on **itch**.

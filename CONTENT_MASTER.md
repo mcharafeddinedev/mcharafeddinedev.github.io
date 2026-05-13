@@ -172,7 +172,7 @@ _Screenshot:_ Trenchglow underwater key art
 - **Layered vignette**: a tight local clear spot is maintainted **plus** vsibility rings that widen with sonar, **timed SFX** so what you hear matches what flashes on-screen.
 - **More levels planned.**
 
-**[Play In Browser](https://goldleafinteractive.itch.io/trenchglow)** · Tutorial live; fuller trench roadmap.
+**[Play In Browser](https://goldleafinteractive.itch.io/trenchglow)** · Tutorial slice live; fuller trench roadmap.
 
 ---
 
@@ -187,7 +187,7 @@ _Screenshot:_ BREATHE Arcade promo art
 - **MCU firmware → UART** enters Unity on a **worker thread** with **automatic COM discovery**, **moving-window smoothing**, and **glitch spike rejection**; coursework includes **hardware/wiring docs** reviewers can follow without guesswork.
 - **Shared smoothing** compensates **fan motor spin-down lag** versus real airflow decay; five experiences **share one scoring/results shell** with lightweight **per-mode tuning structs** instead of reinventing UX each time.
 
-**[Play In Browser](https://goldleafinteractive.itch.io/breathe-arcade)** · Employer wiring deep-dive on request · README / HOW_IT_WORKS cover Unity publicly.
+**[Play In Browser](https://goldleafinteractive.itch.io/breathe-arcade)** · README / HOW_IT_WORKS cover the Unity project publicly.
 
 ---
 
