@@ -5,7 +5,9 @@ nav_order: 4
 
 # Games That Shaped Me
 
-I grew up reading popular fantasy and fiction novels, as well as playing every kind of game I could get to run on our shared home PC or consoles. Games quickly overtook everything as my favorite medium of storytelling and of passing time—once I saw how purposeful mechanics can blend with pacing, design, substantive narrative and well-built worlds, I realized how immersive and significant games media could be, even outdoing some of the best literature and films in immersion and entertainment potential, in my opinion. I realized that very young, and I still hold that belief; many games have molded my perspectives growing up, much like movies and literature.
+I grew up reading popular fantasy and fiction novels, as well as playing every kind of game I could get to run on our shared home PC or consoles. Games quickly overtook everything as my favorite medium of storytelling and of passing time. 
+
+Once I saw how purposeful mechanics can blend with pacing, design, substantive narrative and well-built worlds, I realized how immersive and significant games media could be, even outdoing some of the best literature and films in immersion and entertainment potential, in my opinion. I realized that very young, and I still hold that belief; many games have molded my perspectives growing up, much like movies and literature.
 
 Here is a rough backlog of some games I've experienced—these may steer what I prototype or publish next.
 
