@@ -105,7 +105,7 @@ body {
 
 /* Sidebar title with green glow */
 .site-title {
-  font-size: 1.1rem !important;
+  font-size: 1.2rem !important;
   font-weight: 600 !important;
   margin-bottom: 0.75rem !important;
   margin-top: 0.75rem !important;
@@ -120,7 +120,68 @@ body {
 }
 
 .site-nav .nav-list-link {
+  font-size: 0.95rem !important;
+  line-height: 1.45 !important;
+  padding-top: 0.45rem !important;
+  padding-bottom: 0.45rem !important;
   transition: background-color 0.2s ease, border-color 0.2s ease !important;
+}
+
+.sidebar-screenshot-strip {
+  margin: 1.25rem 0.75rem 0;
+  padding-top: 1rem;
+  border-top: 1px solid rgba(0, 255, 128, 0.12);
+}
+
+.sidebar-screenshot-heading {
+  margin: 0 0 0.65rem;
+  color: rgba(180, 220, 180, 0.72);
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.sidebar-screenshot-card {
+  position: relative;
+  display: block;
+  min-height: 4.25rem;
+  margin-bottom: 0.7rem;
+  overflow: hidden;
+  border: 1px solid rgba(0, 255, 128, 0.16);
+  border-radius: 6px;
+  background-color: rgba(0, 20, 8, 0.55);
+  background-position: center;
+  background-size: cover;
+  box-shadow: 0 3px 14px rgba(0, 0, 0, 0.3), 0 0 12px rgba(0, 255, 128, 0.07);
+  color: rgba(235, 250, 235, 0.95) !important;
+  text-decoration: none !important;
+  transition: transform 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease !important;
+}
+
+.sidebar-screenshot-card::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.12), rgba(0, 0, 0, 0.72));
+}
+
+.sidebar-screenshot-card:hover {
+  border-color: rgba(0, 255, 128, 0.5);
+  box-shadow: 0 4px 18px rgba(0, 0, 0, 0.42), 0 0 18px rgba(0, 255, 128, 0.18);
+  transform: translateY(-1px);
+}
+
+.sidebar-screenshot-card span {
+  position: absolute;
+  right: 0.55rem;
+  bottom: 0.45rem;
+  left: 0.55rem;
+  z-index: 1;
+  font-size: 0.72rem;
+  font-weight: 600;
+  line-height: 1.25;
+  text-shadow: 0 1px 5px rgba(0, 0, 0, 0.85);
 }
 
 .site-nav .nav-list-link:hover {

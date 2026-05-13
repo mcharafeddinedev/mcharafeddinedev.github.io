@@ -14,7 +14,7 @@ nav_order: 2
 
 - **Gameplay systems** end-to-end—mechanics & production, data, pacing, player onboarding, WebGL/kiosk quirks
 - **Multi-engine:** Unity (**Access Granted**, **Dread & Breakfast**, **Trenchglow**, **BREATHE**) · UE (**Overclocked: DDM**, **I AM INEVITABLE**, jams & class work), looking forward to learning Godot and experimenting with other engines when possible. I like to stay current with cutting edge technologies, and up-and-coming engines are no different.
-- **Browser builds** with patch history—**[Play In Browser — Access Granted](https://goldleafinteractive.itch.io/access-granted)**, **[Play In Browser — Dread & Breakfast](https://goldleafinteractive.itch.io/dread-and-breakfast)**, **[Play In Browser — Trenchglow](https://goldleafinteractive.itch.io/trenchglow)**, **[Play In Browser — BREATHE Arcade](https://goldleafinteractive.itch.io/breathe-arcade)**
+- **Browser builds** with patch history—**[Access Granted](https://goldleafinteractive.itch.io/access-granted)**, **[Dread & Breakfast](https://goldleafinteractive.itch.io/dread-and-breakfast)**, **[Trenchglow](https://goldleafinteractive.itch.io/trenchglow)**, **[BREATHE Arcade](https://goldleafinteractive.itch.io/breathe-arcade)**
 - **Overclocked: Data Dash MAX** (UE5 **C++**)—arcade + PC, components, procedural gen, authored patterns, boards, cabinet perf
 - **Steam** uploading via **SteamPipeGUI** (e.g. Ginger Shroom Journey)
 - **README / design companions and other documentation** for readers who want more than the itch description.
@@ -49,6 +49,7 @@ Code (C# / C++ / Blueprints-level), design pipelines, technical art, level desig
 ## Leadership (_Kappa Sigma_ · College Station)
 
 **Risk management / event logistics** · **2016 – 2019**
+
 **Internal Judiciary Committee** · **2017 – 2018**
 
 ---

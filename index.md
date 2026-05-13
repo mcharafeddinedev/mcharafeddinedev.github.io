@@ -48,7 +48,7 @@ This was a solo project, shipped with Unity 6 for browser play. It's essentially
 
 ## What I Do
 
-**Systems & design** — Prototyping in-engine, tuning pacing and rules, keeping project state maintainable, player onboarding, and more.
+**Systems & design** — Prototyping in-engine, tuning pacing and rules, interactive props & levels (switches, levers, keys, coins, etc.), keeping project state maintainable, player onboarding, and much more.
 
 **Engines & tooling** — **Unity**, **Unreal**, WebGL when needed; **Godot** learning in progress. I stay current on pipelines and **AI-assisted workflows** that lots of teams now rely on— I still **steer intent, reviews, and merges**.
 
