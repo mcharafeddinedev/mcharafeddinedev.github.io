@@ -7,19 +7,6 @@ nav_order: 2
 
 ---
 
-## Education
-
-### Houston Community College
-**A.A.S. — Digital Gaming & Simulation (Programmers)** · Houston, TX · **May 2026**
-
-Code (C# / C++ / Blueprints-level), design pipelines, technical art, level design, project development, QA, production milestones, **alt-controller / analog hardware** experiments, **degree capstones**, portfolio prep, and more.
-
-- **Playable portfolio work** in **Unity & Unreal** (jams, classes, prototypes)
-- **BREATHE Arcade** capstone—analog controlled game, MCU serial into Unity, Arduino->PC connection for reading breath input
-- **OVERCLOCKED: DDM** capstone—relatively polished and complete 3D Unreal Engine 5 game, built for arcade hardware, playable on Windows
-
----
-
 ## Independent development
 
 ### Indie game developer
@@ -29,8 +16,8 @@ Code (C# / C++ / Blueprints-level), design pipelines, technical art, level desig
 - **Multi-engine:** Unity (**Access Granted**, **Dread & Breakfast**, **Trenchglow**, **BREATHE**) · UE (**Overclocked: DDM**, **I AM INEVITABLE**, jams & class work), looking forward to learning Godot and experimenting with other engines when possible. I like to stay current with cutting edge technologies, and up-and-coming engines are no different.
 - **Browser builds** with patch history—**[Play In Browser — Access Granted](https://goldleafinteractive.itch.io/access-granted)**, **[Play In Browser — Dread & Breakfast](https://goldleafinteractive.itch.io/dread-and-breakfast)**, **[Play In Browser — Trenchglow](https://goldleafinteractive.itch.io/trenchglow)**, **[Play In Browser — BREATHE Arcade](https://goldleafinteractive.itch.io/breathe-arcade)**
 - **Overclocked: Data Dash MAX** (UE5 **C++**)—arcade + PC, components, procedural gen, authored patterns, boards, cabinet perf
-- **Steam** via **SteamPipeGUI** (e.g. Ginger Shroom Journey)
-- **README / design companions** for readers who want more than the itch blurb.
+- **Steam** uploading via **SteamPipeGUI** (e.g. Ginger Shroom Journey)
+- **README / design companions and other documentation** for readers who want more than the itch description.
 
 ---
 
@@ -43,6 +30,21 @@ Code (C# / C++ / Blueprints-level), design pipelines, technical art, level desig
 **Content / video** · Self · **2019 – 2023** · Live streaming & gaming content creation for YT, Twitch, Mixer, TikTok, & Instagram
 
 ---
+
+## Education
+
+### Houston Community College
+**A.A.S. — Digital Gaming & Simulation (Programmers)** · Houston, TX · **May 2026**
+
+Code (C# / C++ / Blueprints-level), design pipelines, technical art, level design, project development, QA, production milestones, **alt-controller / analog hardware** experiments, **degree capstones**, portfolio prep, and more.
+
+- **Playable portfolio work** in **Unity & Unreal** (jams, classes, prototypes)
+- **BREATHE Arcade** capstone—analog controlled game, MCU serial into Unity, Arduino->PC connection for reading breath input
+- **OVERCLOCKED: DDM** capstone—relatively polished and complete 3D Unreal Engine 5 game, built for arcade hardware, playable on Windows
+
+### Texas A&M University
+**B.S. — University Studies of Veterinary Medicine (Concentration in Biomedical Sciences) | Dual minors: Psychology & Public Health** · College Station, TX · **May 2020**
+
 
 ## Leadership (_Kappa Sigma_ · College Station)
 

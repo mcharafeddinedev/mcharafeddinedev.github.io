@@ -8,9 +8,9 @@ nav_order: 1
 
 Hey — I'm Marwan. I develop games, and my focus is mostly on **designing and engineering gameplay systems**: mechanics that read well in the moment, loops that hold up, data you can tune without fighting the code, and feedback players can trust—**from first playable slice to shipping a complete product**.
 
-**Unity (C#)** and **Unreal (C++ & Blueprints)** are my strongest engines; I work as both **technical designer and implementer**. Recently completed my **A.A.S. in Digital Gaming & Simulation (Programmers)** from HCC—learned foundations for code, design, technical art, and production habits in one track. Planning on looking into and starting to learn **Godot**. I often use **AI-assisted coding and authoring**, the way many studios already do, with strict review and ownership—**not** as a stand-in for specs, integration, or playtesting.
+**Unity (C#)** and **Unreal (C++ & Blueprints)** are my strongest engines/languages; I work as both **technical designer and implementer**. Recently completed my **A.A.S. in Digital Gaming & Simulation (Programmers)** from HCC—learned foundations for code, design, technical art, and production habits in one track. Planning on looking into and starting to learn **Godot**. I use **AI-assisted coding and authoring** the way many studios already do, with strict review and ownership—**not** as a stand-in for specs, integration, or playtesting.
 
-I bring **QA** instincts to my systems work—twenty-five years as a gamer has trained me to notice friction, pacing, and edge cases in games early.
+I bring **QA** instincts to my systems building—twenty-five years as a gamer has trained me to notice friction, pacing, and edge cases in games early.
 
 ---
 
@@ -25,7 +25,7 @@ I bring **QA** instincts to my systems work—twenty-five years as a gamer has t
 </p>
 
 <p align="center" style="margin-top: 0.5rem; max-width: 52rem; margin-left: auto; margin-right: auto; font-size: 0.95rem;">
-This was a solo project, shipped with Unity 6 for browser play. It's essentially brick-breaker plus typing challenges during slow-mo on “command” blocks. CRT scanlines and barrel distortion effects evoke a classic **CRT monitor** visual feel. Ball drops and mistyped commands are <strong>separate</strong> strike tracks.</p>
+This was a solo project, shipped with Unity 6 for browser play. It's essentially brick-breaker plus reactive typing challenges. </p>
 
 ---
 
