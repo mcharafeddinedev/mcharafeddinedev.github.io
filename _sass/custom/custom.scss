@@ -46,6 +46,16 @@ body {
   padding: 1.5rem !important;
   padding-top: 0.75rem !important;
   margin-top: 0.25rem !important;
+  max-width: 65rem !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  width: 100% !important;
+  box-sizing: border-box !important;
+}
+
+/* Let the docs column breathe on wide layouts (theme caps .main narrower) */
+.main {
+  max-width: 88rem !important;
 }
 
 /* --- Text Colors --- */
@@ -401,6 +411,10 @@ body {
 /* --- Mobile --- */
 
 @media (max-width: 800px) {
+  .main {
+    max-width: 100% !important;
+  }
+
   .main-content h1 {
     font-size: 1.3rem !important;
   }
