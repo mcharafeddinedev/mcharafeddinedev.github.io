@@ -1,4 +1,15 @@
----
+"""
+One-off generator: writes mylib.md with large candidate game lists (1995+ focus).
+User prunes entries they did not play.
+"""
+from __future__ import annotations
+
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[1]
+OUT = ROOT / "mylib.md"
+
+HEADER = """---
 title: My Library
 nav_order: 4
 ---
@@ -10,8 +21,9 @@ I grew up reading popular fantasy and fiction novels alongside every kind of gam
 Rough backlog below—meaningful hours that will steer what I prototype or publish next.
 
 ---
+"""
 
-## Nintendo Systems (NES, SNES, N64, GameCube, Wii, Wii U, Switch, DS, 3DS, GBA, Game Boy)
+NINTENDO_AA = """## Nintendo Systems (NES, SNES, N64, GameCube, Wii, Wii U, Switch, DS, 3DS, GBA, Game Boy)
 
 ### Action-Adventure / RPG
 - The Legend of Zelda: A Link to the Past
@@ -85,8 +97,9 @@ Rough backlog below—meaningful hours that will steer what I prototype or publi
 - Undertale / Deltarune (Switch/PC)
 - Eastward
 - Tunic
+"""
 
-### Platformers / Party / Racing
+NINT_PLAT = """### Platformers / Party / Racing
 - Super Mario 64 / Sunshine / Galaxy / Galaxy 2 / 3D Land / 3D World + Bowser's Fury / Odyssey
 - Super Mario Bros. Deluxe / Advance series / New SMB (DS, Wii, Wii U, U Deluxe)
 - Donkey Kong Country / DKC 2 / DKC 3 / Returns / Tropical Freeze
@@ -109,8 +122,9 @@ Rough backlog below—meaningful hours that will steer what I prototype or publi
 - New Super Lucky's Tale / Super Lucky's Tale
 - Banjo-Kazooie: Nuts & Bolts (if played)
 - Conker's Bad Fur Day (N64 / Rare Replay)
+"""
 
-### Licensed / Kids / Adaptations / Misc
+NINT_LIC = """### Licensed / Kids / Adaptations / Misc
 - Lego Star Wars / Complete Saga / The Skywalker Saga / many Lego franchise games
 - Spider-Man 2 (GC/PS2 era ports)
 - Star Wars Rogue Squadron series (N64/GC)
@@ -137,8 +151,9 @@ Rough backlog below—meaningful hours that will steer what I prototype or publi
 - ARMS
 - Splatoon / Splatoon 2 / Splatoon 3
 - Ring Fit Adventure
+"""
 
-## Sony Systems (PS1, PS2, PSP, PS Vita, PS3, PS4, PS5)
+SONY_AA = """## Sony Systems (PS1, PS2, PSP, PS Vita, PS3, PS4, PS5)
 
 ### Action-Adventure / RPG
 - God of War (2005) / II / III / Ascension / (2018) / Ragnarök
@@ -196,8 +211,9 @@ Rough backlog below—meaningful hours that will steer what I prototype or publi
 - Days Gone
 - Until Dawn / The Quarry / Dark Pictures Anthology
 - Heavy Rain / Beyond: Two Souls / Detroit: Become Human
+"""
 
-### Shooters / Tactical / Looter
+SONY_SHOOT = """### Shooters / Tactical / Looter
 - Killzone (PS2–PS4)
 - Resistance: Fall of Man / 2 / 3
 - SOCOM series
@@ -221,8 +237,9 @@ Rough backlog below—meaningful hours that will steer what I prototype or publi
 - Crysis Remastered Trilogy
 - Rainbow Six Extraction
 - Helldivers / Helldivers 2
+"""
 
-### Fighting / Racing / Rhythm / Misc
+SONY_MISC = """### Fighting / Racing / Rhythm / Misc
 - Tekken 3–8 (as played)
 - Street Fighter III / IV / V / 6
 - Mortal Kombat (PS era entries)
@@ -244,8 +261,9 @@ Rough backlog below—meaningful hours that will steer what I prototype or publi
 - Tony Hawk's Pro Skater 1+2 (PS)
 - Need for Speed (Underground through modern)
 - Burnout 3 / Revenge / Paradise
+"""
 
-## Microsoft Systems (Xbox, Xbox 360, Xbox One, Series X|S)
+MS_SHOOT = """## Microsoft Systems (Xbox, Xbox 360, Xbox One, Series X|S)
 
 ### Shooters / Action RPG / Looter
 - Halo: CE / 2 / 3 / ODST / Reach / 4 / 5 / Infinite
@@ -268,8 +286,9 @@ Rough backlog below—meaningful hours that will steer what I prototype or publi
 - Metro series
 - Remnant: From the Ashes / II
 - Outriders
+"""
 
-### Multiplayer / Live / Co-op
+MS_MULTI = """### Multiplayer / Live / Co-op
 - Sea of Thieves
 - Grounded
 - Deep Rock Galactic
@@ -291,8 +310,9 @@ Rough backlog below—meaningful hours that will steer what I prototype or publi
 - New World
 - Diablo III / IV
 - Path of Exile
+"""
 
-### Open World / Adventure / Misc
+MS_OPEN = """### Open World / Adventure / Misc
 - Fable / II / III / Anniversary
 - Forza Horizon 3–5 / Motorsport series
 - Microsoft Flight Simulator
@@ -331,8 +351,9 @@ Rough backlog below—meaningful hours that will steer what I prototype or publi
 - Rust (Xbox)
 - DayZ
 - PUBG: Battlegrounds
+"""
 
-## PC (Windows & Mac / Linux)
+PC_MELEE = """## PC (Windows & Mac / Linux)
 
 ### Melee / Souls-likes / Character Action
 - Dark Souls: Prepare to Die / Remastered / II / III
@@ -356,8 +377,9 @@ Rough backlog below—meaningful hours that will steer what I prototype or publi
 - Bayonetta / Vanquish (PC)
 - Metal Gear Rising: Revengeance
 - Ryse: Son of Rome
+"""
 
-### Shooters / Tactical / Extraction
+PC_SHOOT = """### Shooters / Tactical / Extraction
 - Half-Life / Opposing Force / Blue Shift / 2 / Episodes / Alyx
 - Counter-Strike 1.6 / Source / GO / 2
 - Team Fortress 2
@@ -397,8 +419,9 @@ Rough backlog below—meaningful hours that will steer what I prototype or publi
 - ULTRAKILL
 - Prodeus
 - Bright Memory: Infinite
+"""
 
-### RPG / ARPG / CRPG / Immersive Sim
+PC_RPG = """### RPG / ARPG / CRPG / Immersive Sim
 - Baldur's Gate / II / III
 - Planescape: Torment / Icewind Dale / Neverwinter Nights
 - Pillars of Eternity / II
@@ -444,8 +467,9 @@ Rough backlog below—meaningful hours that will steer what I prototype or publi
 - Last Epoch
 - Torchlight / II / III
 - Sacred / II
+"""
 
-### Narrative / Adventure / Walking Sim / Horror
+PC_STORY = """### Narrative / Adventure / Walking Sim / Horror
 - The Last of Us (if PC)
 - Detroit: Become Human / Heavy Rain / Beyond: Two Souls
 - Life is Strange / Before the Storm / True Colors
@@ -475,8 +499,9 @@ Rough backlog below—meaningful hours that will steer what I prototype or publi
 - Inside / Limbo
 - Little Misfortune / Fran Bow (if played)
 - Doki Doki Literature Club
+"""
 
-### Strategy / 4X / RTS / City Builders / Roguelites
+PC_STRAT = """### Strategy / 4X / RTS / City Builders / Roguelites
 - Age of Empires II–IV / Definitive Editions
 - StarCraft / Brood War / II
 - Warcraft III / Reforged
@@ -515,8 +540,9 @@ Rough backlog below—meaningful hours that will steer what I prototype or publi
 - Mutant Year Zero
 - Wartales
 - Darkest Dungeon / II
+"""
 
-### Co-op / Sandbox / Vehicle / Sports (PC)
+PC_COOP = """### Co-op / Sandbox / Vehicle / Sports (PC)
 - Minecraft Java / Bedrock
 - Terraria / Starbound
 - Valheim
@@ -546,9 +572,38 @@ Rough backlog below—meaningful hours that will steer what I prototype or publi
 - Multiversus
 - Fall Guys
 - Among Us
+"""
 
----
+FOOTER = """---
 
 **Closing** — Headings prioritize **easy skimming**, not airtight chronology. Bundled names and blurred platform lines signal **influence fingerprints**, not a consumer CV—or a tally of completions.
 
 ---
+"""
+
+def main() -> None:
+    parts = [
+        HEADER,
+        NINTENDO_AA,
+        NINT_PLAT,
+        NINT_LIC,
+        SONY_AA,
+        SONY_SHOOT,
+        SONY_MISC,
+        MS_SHOOT,
+        MS_MULTI,
+        MS_OPEN,
+        PC_MELEE,
+        PC_SHOOT,
+        PC_RPG,
+        PC_STORY,
+        PC_STRAT,
+        PC_COOP,
+        FOOTER,
+    ]
+    OUT.write_text("\n".join(parts), encoding="utf-8", newline="\n")
+    print(f"Wrote {OUT} ({len(OUT.read_text(encoding='utf-8'))} chars)")
+
+
+if __name__ == "__main__":
+    main()

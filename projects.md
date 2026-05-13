@@ -23,14 +23,14 @@ Solo hobby build—in the **spirit of *Hackers*** (not realism): breakout peels 
 </p>
 
 - Breaker ↔ typing respects pauses—slow-mo cues, timers that behave when you freeze the game.
-- CRT effe is intentional: barrel + bezel/scan = **one** cohesive screen (**menus included**).
+- CRT effect is intentional: barrel distortion + scan = **one** cohesive screen (**menus included**).
 - **Two** strike tracks (drops vs mistypes/timeouts); **word pools chunked in data**; optional **scripted ring finale** instead of a rectangular grid-only finish.
 
 <div class="itch-embed-wrap" style="text-align: center; margin: 1.5rem 0;">
   <iframe id="itch-embed-access-granted-projects" title="Itch.io: Access Granted" frameborder="0" loading="lazy" src="https://itch.io/embed/4475328?linkback=true&amp;border_width=2&amp;bg_color=060d06&amp;fg_color=b9c6e4&amp;link_color=00edd6&amp;border_color=084808" width="552" height="167" class="itch-embed"></iframe>
 </div>
 
-**[Play on Itch.io](https://goldleafinteractive.itch.io/access-granted)** · [Patch Notes v2](https://goldleafinteractive.itch.io/access-granted/devlog/1516113/patch-notes-v2)
+**[Play In Browser](https://goldleafinteractive.itch.io/access-granted)** · [Patch Notes v2](https://goldleafinteractive.itch.io/access-granted/devlog/1516113/patch-notes-v2)
 
 ---
 
@@ -51,7 +51,7 @@ Jam prototype that grew into a top-down ghost **management** game: escalating ni
   <iframe id="itch-embed-dread-breakfast" title="Itch.io: Dread & Breakfast" frameborder="0" loading="lazy" src="https://itch.io/embed/4471600?linkback=true&amp;bg_color=000000&amp;fg_color=e6d699&amp;link_color=fa5c5c&amp;border_color=282828" width="552" height="167" class="itch-embed"></iframe>
 </div>
 
-**[Play on Itch.io](https://goldleafinteractive.itch.io/dread-and-breakfast)** · Started at *Mini Jam 208: Inverted* (2026) · [Patches](https://goldleafinteractive.itch.io/dread-and-breakfast/devlog/1489095/update-1-fixes-energy-bubbles-deep-freeze) · [v0.9 beta](https://goldleafinteractive.itch.io/dread-and-breakfast/devlog/1501963/patch-notes-v090-beta)(https://goldleafinteractive.itch.io/dread-and-breakfast/devlog/1489095/update-1-fixes-energy-bubbles-deep-freeze) · [v0.9 beta](https://goldleafinteractive.itch.io/dread-and-breakfast/devlog/1501963/patch-notes-v090-beta)
+**[Play In Browser](https://goldleafinteractive.itch.io/dread-and-breakfast)** · Started at *Mini Jam 208: Inverted* (2026) · [Patches](https://goldleafinteractive.itch.io/dread-and-breakfast/devlog/1489095/update-1-fixes-energy-bubbles-deep-freeze) · [v0.9 beta](https://goldleafinteractive.itch.io/dread-and-breakfast/devlog/1501963/patch-notes-v090-beta)
 
 ---
 
@@ -64,51 +64,51 @@ Jam prototype that grew into a top-down ghost **management** game: escalating ni
   <img src="/assets/images/trenchglow.png" alt="Trenchglow underwater key art" style="max-width: 600px; width: 100%;">
 </p>
 
-- Shader-driven pings for visibility with a toned-down fallback for **budget HTML5** targets.
-- Vignette = local hole **plus** ping ring (**audio/visual lockstep**).
-- **Clone** Scriptables per session so iterating never overwrites shared assets; kinematic boulder rigs for designers.
+- **Shader-fed sonar** paints each ping into a readable flash before it fades—**paired with a toned-down fallback** for strained WebGL / budget GPUs.
+- **Layered vignette**: a tight local clear spot **plus** rings that widen with pings, **timed with audio** so what you hear matches what flashes on-screen.
+- **Clone Scriptables per session** so level iteration never silently overwrites shared assets; **moving rocks stay kinematic rigs** with designer-friendly resets and event hooks.
 
 <div class="itch-embed-wrap" style="text-align: center; margin: 1.5rem 0;">
   <iframe id="itch-embed-trenchglow" title="Itch.io: Trenchglow" frameborder="0" loading="lazy" src="https://itch.io/embed/4513861?linkback=true&amp;bg_color=0a1628&amp;fg_color=cfe8ff&amp;link_color=f5a524&amp;border_color=1a3d5c" width="552" height="167" class="itch-embed"></iframe>
 </div>
 
-**[Play on Itch.io](https://goldleafinteractive.itch.io/trenchglow)** · Tutorial live; fuller trench roadmap.
+**[Play In Browser](https://goldleafinteractive.itch.io/trenchglow)** · Tutorial live; fuller trench roadmap.
 
 ---
 
 ### BREATHE Arcade
 **Unity 6 · C# · 2D URP · Emergent Technologies capstone · WebGL + Windows**
 
-Five micro-games (sailboat, constellations, balloons, bubbles, skydiving landings)—**breath-controlled** hardware with **microphone / keyboard** stand-ins for classrooms and booths.
+Five micro-games (sailboat, constellations, balloons, bubbles, skydiving landings)—built as an **Emergent Technologies capstone** where **actual breath drives play**, with **mic and keyboard simulations** so teachers and kiosk visitors are never blocked.
 
 <p align="center">
   <img src="/assets/images/breathe-arcade.png" alt="BREATHE Arcade promo art" style="max-width: 600px; width: 100%;">
 </p>
 
-- **One** breath-input abstraction drives fan / mic / simulated inputs without separate gameplay forks.
-- Fan MCU → serial on a **worker thread** (discovery, smoothing, spike reject) + coursework wiring docs.
-- Shared smoothing handles **motor coast-down** quirks when spin-down lags airflow; mini-games reuse **one completion shell** with per-mode tweak fields.
+- **One breath-driven input layer** for the **custom fan**, **USB mic**, and **keyboard simulator**—same normalized signal for every mini-game, so gameplay never forks into duplicate code paths per device.
+- **MCU firmware → UART** enters Unity on a **worker thread** with **automatic COM discovery**, **moving-window smoothing**, and **glitch spike rejection**; coursework includes **hardware/wiring docs** reviewers can follow without guesswork.
+- **Shared smoothing** compensates **fan motor spin-down lag** versus real airflow decay; five experiences **share one scoring/results shell** with lightweight **per-mode tuning structs** instead of reinventing UX each time.
 
 <div class="itch-embed-wrap" style="text-align: center; margin: 1.5rem 0;">
   <iframe id="itch-embed-breathe-arcade" title="Itch.io: BREATHE Arcade" frameborder="0" loading="lazy" src="https://itch.io/embed/4475446?linkback=true&amp;bg_color=d6f5ff&amp;fg_color=0b2d3f&amp;link_color=ff4f6e&amp;border_color=93cdea" width="552" height="167" class="itch-embed"></iframe>
 </div>
 
-**[Play / download on Itch.io](https://goldleafinteractive.itch.io/breathe-arcade)** · Employer wiring deep-dive on request · README / HOW_IT_WORKS cover Unity publicly.
+**[Play In Browser](https://goldleafinteractive.itch.io/breathe-arcade)** · Employer wiring deep-dive on request · README / HOW_IT_WORKS cover Unity publicly.
 
 ---
 
 ### OVERCLOCKED: Data Dash MAX
 **Unreal Engine 5.7 · C++ & Blueprints · Released (PC & Arcade Cabinet)**
 
-Endless runner targeting **cabinet installs and desktop**: lane swaps, jumps, slides, pickups, escalating speed, medals, palettes, offline leaderboards—paced for **cabinet difficulty**.
+**Released** endless runner built for **arcade cabinets and desktop** alike: lane swaps, jumps, slides, pickups, escalating speed, medals, six palettes, **offline leaderboards**—paced so **cabinet-hard** stays fair on sticks, not borrowed from KB&M defaults.
 
 <p align="center">
   <img src="/assets/images/overclocked-data-dash-max.png" alt="OVERCLOCKED: Data Dash MAX" style="max-width: 600px; width: 100%;">
 </p>
 
-- **C++** slices for spawn/move/pickups/HUD/nav—**no mouse-first** assumption.
-- **Over 40** authored obstacle combos driven by structured data—not undifferentiated random spam.
-- **Six** palettes; pickups + HUD tuned after **PC pass** landed and **arcade sticks** plugged in.
+- **C++ gameplay layer** owns spawn, locomotion (**lane swap / jump / slide**), pickups, HUD, and **menu flow—gamepad-first inputs** so sticks and cabinet buttons never feel like a ported mouse hack.
+- **40+ obstacle combos** are **named pattern chunks** authored in structured data—each chunk sits in a **difficulty tier** (early tiers teach dodge spacing and lane reads; higher tiers shorten gaps and overlap hazards deliberately). During a run **speed ramps** and **heavier tiers enter the weighted pool**, so escalating pressure stays **readable and authored**, not opaque RNG spikes.
+- **Six** visual palettes; **pickup pacing and HUD clarity** nailed on **PC**, then **re-balanced on real arcade hardware** once controllers were wired—a second pass purely for sticks and cabinet latency.
 
 <div class="itch-embed-wrap" style="text-align: center; margin: 1.5rem 0;">
   <iframe id="itch-embed-overclocked-projects" title="Itch.io: Overclocked DDM" frameborder="0" loading="lazy" src="https://itch.io/embed/4278897?linkback=true&amp;border_width=5&amp;bg_color=000000&amp;fg_color=fffcbc&amp;link_color=46ffd4&amp;border_color=979797" width="552" height="167" class="itch-embed"></iframe>
@@ -119,15 +119,17 @@ Endless runner targeting **cabinet installs and desktop**: lane swaps, jumps, sl
 ---
 
 ### Quantum Tether
-**Unity · C# · Released**
+**Unity · C# · Released · Texas Game Jam 2025 (EGaDs, UT Austin)**
 
-Roguelike sidescroller—**movement + grapple + momentum** first.
+**Endless roguelike sidescroller** made in a weekend: you **swing on stars and asteroids** with the mouse—**left-click** main grapple, **right-click** second rope once you unlock it, **Space** shortens the rope, **Shift** **dashes toward the cursor** to save bad swings. **Red “corrupted” anchors** are traps; fall off-screen and the run ends. Grab **time crystals**, buy **upgrades**, and push your **high score** (time survived). The feel is **old flash web swingers** like *Spider-Man: City Raid*, updated for **clear, fast mouse control**.
 
 <p align="center">
   <img src="/assets/images/quantum-tether.png" alt="Quantum Tether" style="max-width: 600px; width: 100%;">
 </p>
 
-- **Vector grapple** swing; **10+** modular upgrades; **parametric anchor** variety; full **state/UI/HUD/difficulty** loop.
+- **Grapple feel**: pulls aim **where you point**; **damping** and **rope length** are tuned so you get **arcade swing**, not floppy chaos—**dash** is there to fix a bad line when the field gets crowded.
+- **Procedural levels (PCG)**: there’s **no single fixed map**. The game **layers hand-authored pieces**—patches of **safe anchors**, pockets of **danger**, lines of **pickups**—and **picks the next piece by weighted rules** as your **run speeds up**, so difficulty rises in a **controlled** way instead of pure random spam.
+- **Roguelike wrap-up**: **10+ upgrades** that change how you move; **normal vs corrupted** anchors; full **HUD and score** flow; when you wipe, you **start fresh as the next “clock spirit”** and try to beat your time.
 
 **[View on Itch.io](https://goldleafinteractive.itch.io/quantum-tether)** · [Trailer](https://www.youtube.com/watch?v=RNs4yKPhfGM)
 

@@ -10,7 +10,7 @@ Hey — I'm Marwan. I **design and engineer gameplay systems**: mechanics that r
 
 **Unity (C#)** and **Unreal (C++ & Blueprints)** are my strongest engines; I work as both **technical designer and implementer**. **A.A.S. in Digital Gaming & Simulation (Programmers)** from HCC—code, design, technical art, production habits in one track. **Godot** is in active study. I use **AI-assisted coding and authoring** the way many studios already do, with review and ownership—**not** as a stand-in for specs, integration, or playtesting.
 
-Twenty-five years as a gamer: I think like **QA** about friction, pacing, and edge cases.
+I bring **QA** instincts to systems work—twenty-five years as a gamer trained me to notice friction, pacing, and edge cases early.
 
 ---
 
@@ -30,6 +30,10 @@ Solo Unity ship: brick-breaker plus typing on “command” blocks, slow-mo when
 <div class="itch-embed-wrap" style="text-align: center; margin: 1.25rem 0;">
   <iframe id="itch-embed-access-granted" title="Itch.io: Access Granted" frameborder="0" loading="lazy" src="https://itch.io/embed/4475328?linkback=true&amp;border_width=2&amp;bg_color=060d06&amp;fg_color=b9c6e4&amp;link_color=00edd6&amp;border_color=084808" width="552" height="167" class="itch-embed"></iframe>
 </div>
+
+<p align="center" style="margin-top: 0.5rem;">
+  <strong><a href="https://goldleafinteractive.itch.io/access-granted">Play In Browser</a></strong>
+</p>
 
 ---
 
@@ -56,11 +60,11 @@ Solo Unity ship: brick-breaker plus typing on “command” blocks, slow-mo when
 
 ## What I Do
 
-**Systems & design** — Prototype in-engine, lock pacing and rules, keep state and tuning maintainable, ship UI/onboarding that stays readable under pressure.
+**Systems & design** — Prototype in-engine, lock in pacing and rules, keep state and tuning maintainable, and ship UI/onboarding that stays readable when the moment gets tight.
 
-**Engines & tooling** — **Unity**, **Unreal**, WebGL/kiosk when needed; **Godot** in progress. Current on pipelines and **AI-assisted workflows** plenty of teams use—I **own intent, reviews, and what merges**.
+**Engines & tooling** — **Unity**, **Unreal**, WebGL/kiosk when needed; **Godot** in progress. I stay current on pipelines and **AI-assisted workflows** lots of teams rely on—and I still **steer intent, reviews, and merges**.
 
-**Playtesting & collab** — Clear notes, crisp repros, sanity on real targets.
+**Playtesting & collab** — Clear notes and reproducible bugs, with spot-checks on the platforms that actually matter.
 
 ---
 

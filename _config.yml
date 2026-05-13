@@ -44,6 +44,7 @@ exclude:
   - node_modules
   - vendor
   - _archive
+  - CONTENT_MASTER.md
 
 # Custom SCSS is automatically loaded from _sass/custom/custom.scss
 # No need to specify custom_css when using SCSS override method

@@ -2,3 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;600&family=Source+Code+Pro:wght@400;500;600&display=swap');
 
 $body-font: 'Fira Code', 'Source Code Pro', 'Consolas', 'Courier New', monospace;
+
+// Must match widened docs column — theme derives lg sidebar width + `.main` margin-left from `$nav-width + $content-width`.
+$content-width: 88rem;
+

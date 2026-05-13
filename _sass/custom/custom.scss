@@ -32,6 +32,14 @@ body {
 .side-bar {
   background: rgba(5, 10, 5, 0.75) !important;
   border-right: 1px solid rgba(0, 200, 100, 0.15) !important;
+
+  /*
+   Theme default align-items:flex-end hugs nav to .main seam and leaves dead space viewport-left
+   inside the widened gutter column once $content-width grows.
+  */
+  @media (min-width: 50rem) {
+    align-items: flex-start !important;
+  }
 }
 
 /* Main content area: translucent panel */
@@ -53,10 +61,7 @@ body {
   box-sizing: border-box !important;
 }
 
-/* Let the docs column breathe on wide layouts (theme caps .main narrower) */
-.main {
-  max-width: 88rem !important;
-}
+/* Max width comes from $content-width in custom/setup.scss (keeps lg centering formulas consistent) */
 
 /* --- Text Colors --- */
 

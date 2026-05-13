@@ -26,7 +26,7 @@ Code (C# / C++ / Blueprints-level), design pipelines, technical art intro, QA, S
 
 - **Gameplay systems** end-to-end—mechanics, data, pacing, onboarding, WebGL/kiosk quirks
 - **Dual engine:** Unity (**Access Granted**, **Dread & Breakfast**, **Trenchglow**, **BREATHE**) · UE (**Overclocked: DDM**, **I AM INEVITABLE**, jams & class work)
-- **Browser builds** with visible patch history (Access Granted, D&B, Trenchglow slice, BREATHE mic/sim)
+- **Browser builds** with visible patch history: **[Play In Browser — Access Granted](https://goldleafinteractive.itch.io/access-granted)**, **[Play In Browser — Dread & Breakfast](https://goldleafinteractive.itch.io/dread-and-breakfast)**, **[Play In Browser — Trenchglow](https://goldleafinteractive.itch.io/trenchglow)**, **[Play In Browser — BREATHE Arcade](https://goldleafinteractive.itch.io/breathe-arcade)** (mic/keyboard sim when breath hardware isn’t present)
 - **Overclocked: Data Dash MAX** (UE5 **C++**)—arcade + PC, components, authored patterns, boards, cabinet perf
 - **Steam** via **SteamPipeGUI** (e.g. Ginger Shroom Journey)
 - **README / design companions** for readers who want more than the itch blurb.

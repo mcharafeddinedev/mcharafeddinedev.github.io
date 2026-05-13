@@ -148,11 +148,12 @@
   }
 
   function drawCRTScanlines() {
-    var opacity = 0.15 + Math.sin(animationTime * 2.0) * 0.05;
-    ctx.strokeStyle = 'rgba(0, 50, 0, ' + opacity + ')';
+    // Sparse, faint lines; slow low-amplitude pulse (was ~0.10–0.20 opacity, pulse * 2.0)
+    var opacity = 0.035 + Math.sin(animationTime * 0.55) * 0.012;
+    ctx.strokeStyle = 'rgba(0, 42, 0, ' + opacity + ')';
     ctx.lineWidth = 1;
     ctx.beginPath();
-    for (var y = 0; y < H; y += 8) {
+    for (var y = 0; y < H; y += 12) {
       ctx.moveTo(0, y);
       ctx.lineTo(W, y);
     }
@@ -160,13 +161,13 @@
   }
 
   function drawLightSweep(dt) {
-    lightSweepY -= 200 * dt;
+    lightSweepY -= 140 * dt;
     if (lightSweepY < -120) {
       lightSweepY = H + 200;
     }
 
     var sweepHeight = 120;
-    var opacity = 0.12 + Math.sin(animationTime * 1.5) * 0.04;
+    var opacity = 0.055 + Math.sin(animationTime * 0.95) * 0.018;
     var grad = ctx.createLinearGradient(0, lightSweepY, 0, lightSweepY + sweepHeight);
     grad.addColorStop(0, 'rgba(20, 200, 20, 0)');
     grad.addColorStop(0.5, 'rgba(20, 200, 20, ' + opacity + ')');
