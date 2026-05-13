@@ -21,7 +21,7 @@ Solo developed project—inspired loosely by the 1995 movie ***Hackers***: break
 </p>
 
 - Block breaker ↔ typing challenges respect the player—slow-mo triggers
-- CRT effect is intentional: barrel distortion + scanlines attempt to imitate a 90's terminal.
+- CRT effect is intentional: barrel distortion + scanlines attempt to imitate a 90's era terminal.
 - **Two** strike tracks (ball drops vs mistypes); **word pools chunked in data**. Three tiers of difficulty from levels 1-15.
 
 <div class="itch-embed-wrap" style="text-align: center; margin: 1.5rem 0;">

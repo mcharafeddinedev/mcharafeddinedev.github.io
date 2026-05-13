@@ -30,19 +30,23 @@ body {
 
 /* Sidebar: floating dark panel */
 .side-bar {
+  display: flex !important;
+  flex-direction: column !important;
   background: rgba(5, 10, 5, 0.75) !important;
   border-right: 1px solid rgba(0, 200, 100, 0.15) !important;
-  /*
-   Theme sets `align-items: flex-end` here: slim `.site-nav` hugs the `.main` seam on wide layouts.
-   (We previously flipped to flex-start to chase empty gutter space—that parked every link on the
-   far viewport edge instead of beside the translucent content module.)
-  */
+  overflow: hidden !important;
 }
 
 @media (min-width: 50rem) {
   .side-bar {
-    align-items: flex-end !important;
+    align-items: stretch !important;
+    height: 100vh !important;
   }
+}
+
+.site-nav {
+  flex-shrink: 0 !important;
+  overflow: visible !important;
 }
 
 /* Main content area: translucent panel */
@@ -128,15 +132,22 @@ body {
 }
 
 .sidebar-screenshot-strip {
-  margin: 1.5rem 0 0;
-  padding: 1rem 1rem 0;
+  display: flex;
+  flex-direction: column;
+  flex: 1 1 0;
+  min-height: 0;
+  margin: 1rem 0 0;
+  padding: 0.75rem 0.75rem 0.75rem;
   border-top: 1px solid rgba(0, 255, 128, 0.12);
+  overflow-y: auto;
 }
 
 .sidebar-screenshot-heading {
-  margin: 0 0 0.75rem;
+  flex-shrink: 0;
+  margin: 0 0 0.6rem;
+  text-align: center;
   color: rgba(180, 220, 180, 0.72);
-  font-size: 0.75rem;
+  font-size: 0.72rem;
   font-weight: 600;
   letter-spacing: 0.08em;
   text-transform: uppercase;
@@ -144,9 +155,10 @@ body {
 
 .sidebar-screenshot-card {
   display: block;
+  flex-shrink: 0;
   width: 100%;
-  height: 9rem;
-  margin-bottom: 0.85rem;
+  aspect-ratio: 16 / 9;
+  margin-bottom: 0.5rem;
   overflow: hidden;
   border: 1px solid rgba(0, 255, 128, 0.16);
   border-radius: 6px;
@@ -156,6 +168,10 @@ body {
   box-shadow: 0 3px 14px rgba(0, 0, 0, 0.3), 0 0 12px rgba(0, 255, 128, 0.07);
   text-decoration: none !important;
   transition: transform 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease !important;
+}
+
+.sidebar-screenshot-card:last-child {
+  margin-bottom: 0;
 }
 
 .sidebar-screenshot-card:hover {
