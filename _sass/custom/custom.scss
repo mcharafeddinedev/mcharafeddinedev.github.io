@@ -138,7 +138,7 @@ body {
 }
 
 .sidebar-screenshot-scroll {
-  max-height: 28rem;
+  max-height: calc(100vh - 16rem);
   overflow-y: auto;
   padding-right: 0.25rem;
 }
