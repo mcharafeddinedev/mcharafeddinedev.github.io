@@ -5,11 +5,7 @@ nav_order: 4
 
 # Games That Shaped Me
 
-Games have been the most influential creative medium in my life. What drew me in wasn’t just fun or spectacle—it was the way games build *living systems*: worlds built with an emphasis on player choice, dynamic environments, and interactive experiences.
-
-Many of the titles below introduced me to subjects like fantasy, history, science, and much more. Some helped me through formative years, others sparked friendships, and many still influence how I think about game design today. More than nostalgia, this library represents the foundations of how I approach **interactivity, narrative, and systems-driven design** as a developer.
-
-This is only a snapshot—but it captures a glimpse of some of the experiences that pushed me toward making games of my own.
+Games are why I care about **systems, narrative beats, and player agency**—not just spectacle. The list below is **incomplete by design**, but these are the ones that rewired how I think as a developer.
 
 ---
 
@@ -220,7 +216,7 @@ This is only a snapshot—but it captures a glimpse of some of the experiences t
 
 ---
 
-This collection reflects the games that shaped how I think about **mechanics, narrative, immersion, and player agency**. These experiences continue to influence my approach to building systems, designing gameplay, and crafting interactive worlds.
+Below is a partial list—themes here match what I emphasized above (**mechanics, narrative, immersion, agency**), grouped for browsing.
 
 ---
 

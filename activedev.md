@@ -5,79 +5,62 @@ nav_exclude: true
 
 # Current Pursuits
 
-I completed my **Associate of Applied Science in Digital Gaming & Simulation (Programmers)** at Houston Community College—a generalist program spanning programming fundamentals, technical art touchpoints, interactive design literacy, agile-style production checkpoints, collaborative capstones, portfolio packaging, **emergent technology experiments** (hardware + unconventional input), and how to articulate systems to non-programmers.
+**A.A.S. Digital Gaming & Simulation (Programmers), HCC** — programming, design literacy, technical art touchpoints, Scrum-style milestones, capstones, portfolio polish, **hardware / unconventional-input** experiments, talking systems to non-programmers.
 
-Today I pitch myself foremost as a **Gameplay Systems Engineer** and secondarily as a **Technical Designer**: I still write significant implementation, but the through-line is authoring **coherent mechanics + loops + tool-friendly data** players can parse under pressure.
+**Gameplay Systems Engineer** first, **Technical Designer** second—**mechanics, loops, tool-friendly data** from first playable through ship. **Hands-on implementation**; **AI-assisted tooling** where it saves time, but **specs, merges, and sign-off stay mine.**
 
 ---
 
 ## Skills & Expertise
 
-**Gameplay systems engineering**
-- **Controllers & interaction scaffolding** — input stacks, layering ability bars and alternate modes (`TypingMode` hybrids, haunt deployment, stamina swim feel)
-- **State machines / session controllers** — night loops, leaderboard persistence, fades, onboarding gates, kiosk constraints
-- **AI & simulation-heavy surfaces** — behavior trees inside jam-scale single classes when appropriate, networked fear math, cascading panic ripples, spawn escalations
-- **Data-driven authoring** — ScriptableObjects/DataTables powering nights, encounters, palettes, lexical pools, haunt kits
+**Systems** — Inputs and mode stacks (`TypingMode`-style hybrids, haunts, stamina feel). **Session controllers**—nights, fades, boards, kiosk gates. **NPC / sim**—single-class BTs when jam-scale, fear math, panic chains. **Data**—ScriptableObjects / DataTables for nights, loot, palettes, word pools.
 
-**Technical design**
-- Translating pillar docs into actionable acceptance tests, pacing curves, onboarding beats, readability passes
-- Lightweight technical documentation (architecture overviews + “where change lives”) so collaborators aren’t archaeology spelunking
+**Tech design** — Pillars → acceptance tests, pacing, onboarding, readability. Short docs: **what it is, where to change it**.
 
-**Engines & exploratory tooling**
-- **Unity / C#**, **Unreal Engine / C++ / Blueprint**, comfortable shipping WebGL prototypes + kiosk builds
-- **Godot exploratory track** underway + habitual monitoring of bleeding-edge engine tooling (AI authoring assistants included) so each phase—from whitebox to release candidate—hits fewer surprise walls
+**Engines** — Unity / C#, UE / C++ & Blueprint, WebGL & kiosk builds. **Godot** exploratory. Watching **tooling + AI-augmented pipelines** so whitebox → RC isn’t full of surprises.
 
-**Collaboration / QA instincts**
-- 25+ years as a gamer (competitive + cozy + everything-between) reinforcing attention to friction, onboarding debt, readability, cheats for repro
+**Player brain** — Lifetime gamer; habits for friction, onboarding debt, repro-friendly edge cases.
 
 ---
 
-## Most Recent Shipments / Active Targets
+## Active / recent
 
-**ACCESS GRANTED** — Released Unity 6 breaker + typing thriller with CRT/barrel fidelity, HACKERMAN secret arc, exhaustive public GDD/production notes. [Play browser build](https://goldleafinteractive.itch.io/access-granted) · Details on [Projects](projects).
+- **ACCESS GRANTED** — Unity 6 breaker + typing, CRT fidelity, public GDD notes. [Browser](https://goldleafinteractive.itch.io/access-granted) · [Projects](projects)
 
-**Dread & Breakfast (v0.9 beta)** — Jam-born roguelike haunting sim with massively expanded PCG houses, haunt economy, nightly upgrade drafts, Ghost Drag tertiary mechanic. [Projects](projects) · [Patch history](https://goldleafinteractive.itch.io/dread-and-breakfast/devlog).
+- **Dread & Breakfast (v0.9 beta)** — Post-jam haunt sim, PCG houses, economy, upgrades. [Projects](projects) · [Devlog](https://goldleafinteractive.itch.io/dread-and-breakfast/devlog)
 
-**Trenchglow** — Continuing **content expansion** beyond the jam tutorial trench: authored systems for sonar memory gameplay, kinematic trench chunks, PulsePolicy safeguards, shader/fallback bifurcation. [Play jam slice](https://goldleafinteractive.itch.io/trenchglow).
+- **Trenchglow** — Jam slice live; **more trench** in progress. Sonar memory, kinematic chunks, shader + HTML5 fallback. [Play](https://goldleafinteractive.itch.io/trenchglow)
 
-**BREATHE Arcade** — Capstone anthology proving **hardware/firmware ↔ Unity threading ↔ breath-normalization layering** stays portable to mic / simulated pathways. Featured on [Projects](projects).
+- **BREATHE Arcade** — Breath hardware ↔ Unity threading ↔ normalization; mic/sim fallbacks. [Projects](projects)
 
-**OVERCLOCKED: Data Dash MAX** — Maintain released UE5 arcade package (PC download + cabinets) emphasizing score clarity, thematic swaps, leaderboard hygiene. Still see [Projects](projects) / [patch log](https://goldleafinteractive.itch.io/overclocked-ddm/devlog).
+- **OVERCLOCKED: Data Dash MAX** — Maintaining **UE5 arcade + PC** drops. [Projects](projects) · [Patches](https://goldleafinteractive.itch.io/overclocked-ddm/devlog)
 
-**Engine-Level C++ tinkering / Python tooling** — Ongoing disciplined practice reinforcing lower-level intuition (custom 2D engine experiments) plus editor scripting & batch utilities for Unreal/Unity tasks.
-
----
-
-## Continuous Learning Track
-
-Formal coursework is complete, but I still sprint through curated modules when they close specific gaps:
-
-- **Unreal Engineering** — UE5 native gameplay framework dives, networked prototypes, Chaos/physics quirks, cinematic tooling when relevant  
-- **Unity Engineering** — URP quirks, Burst/Jobs-informed prototypes when CPU-bound systems appear, multiplayer experiments as needed  
-- **Godot** — upcoming multi-week exploration to compare scene architecture, tooling velocity, OSS plugin ecosystem versus proprietary stacks  
-- **Emerging authoring tech** — agentic assistants, procedural audio/code-first VFX experimentation, procedural asset workflows
-
-When a sprint graduates from exercise to shippable build, it migrates permanently to **[Projects](projects)**.
+- **C++ sandbox / Python tools** — Custom 2D engine experiments; editor helpers for UE/Unity.
 
 ---
 
-## Player Perspective / QA Advocacy
+## Still learning
 
-Systems only matter when humans can parse them mid-stress:
+**UE** — Gameplay framework, networked prototypes, Chaos where it matters to the design.  
+**Unity** — URP, Burst/Jobs when CPU time is tight, MP when needed.  
+**Godot** — Multi-week compare: scenes, OSS plugins vs closed stacks.  
+**Authoring tech** — Assistants + procedural audio/VFX/asset experiments—**always** with review against real builds.
 
-- **Play loops early + often**, logging edge cases aggressively  
-- **Communicate regressions crisply**, preserving repro context for multi-platform builds  
-- **Design with empathy** toward alternate control schemes / accessibility friction (brightness sliders, epilepsy warnings where VFX-heavy, kiosk navigation without mice)
-
-Documentation plus empathy for testers is production hygiene, not optional polish.
+Shippable exercise builds move to **[Projects](projects)**.
 
 ---
 
-## Long-Term Direction
+## QA stance
 
-Grow as a **Gameplay Systems Engineer who can parachute into technical design conversations without losing engineering leverage** — shipping robust mechanics across engines, respecting production constraints (WebGL budgets, kiosk I/O latency, patching cadence).
+Early loops, difficult edge cases, **repro notes that survive multi-platform**. Empathy for non-mouse rigs, kiosk nav, seizure-heavy VFX callouts **where it matters**.
 
-That means deepening engine fluency (**Unity/Unreal**, upcoming **Godot** slice), sharpening automated validation where feasible, sustaining documentation habits, experimenting responsibly with evolving AI tooling, **and eternally honoring the playtester's voice**.
+---
+
+## Direction
+
+Enough depth to **prototype, debug, and ship—not only comment on other people’s work**—inside **WebGL / kiosk / patch** reality.
+
+**Continuing to deepen** proficiency across **Unity**, **Unreal**, and **Godot**, automation where it pays, documentation that stays current, **and AI-assisted tooling paired with integration and playtesting**.
 
 ---
 

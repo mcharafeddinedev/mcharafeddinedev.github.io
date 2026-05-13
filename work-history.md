@@ -10,59 +10,43 @@ nav_order: 2
 ## Education
 
 ### Houston Community College
-**Associate of Applied Science — Digital Gaming & Simulation (Programmers)** · Houston, TX · Completed 2026
+**A.A.S. — Digital Gaming & Simulation (Programmers)** · Houston, TX · **2026**
 
-Generalist AA track covering **programming fundamentals (C#/C++/Blueprints equivalents)**, **interactive design pipelines**, technical art introductions, QA methodology, Scrum-style collaboration, milestone reviews, emerging technology builds (alternative controllers & hardware rigs), cumulative **team capstones**, portfolio presentation, résumé + interview preparedness.
+Code (C# / C++ / Blueprints-level), design pipelines, technical art intro, QA, Scrum milestones, **alt-controller / hardware** projects, **team capstones**, portfolio + interview prep.
 
-Highlighted outcomes:
-- Produced **portfolio-ready playable loops across Unity & Unreal** (game jams, coursework, prototypes)
-- **Emergent Technologies / hardware integration** culminating in **BREATHE Arcade** (breath-actuated anthology + microcontroller serial path inside Unity)
-
----
-
-## Independent Development
-
-### Indie Game Developer
-**Gold Leaf Interactive (Self-directed)** · Houston, TX · 2024 – Present
-
-- Architect and iterate **gameplay systems** end-to-end: mechanics, authoring data, pacing, onboarding, kiosk/WebGL quirks
-- Maintain **dual-engine fluency**: Unity (**ACCESS GRANTED**, **Dread & Breakfast**, **Trenchglow**, **BREATHE Arcade**) · Unreal Engine (**OVERCLOCKED: DDM**, **I AM INEVITABLE**, coursework prototypes & jam titles)
-- **Shipped playable browser prototypes** emphasizing tight loops + patch transparency (ACCESS GRANTED, Dread & Breakfast, Trenchglow tutorial slice, BREATHE Arcade simulated/mic pathways)
-- Shipped/released arcade-first **OVERCLOCKED: Data Dash MAX** (UE5 **C++**): component architecture, escalating pattern authoring, thematic palette subsystem, leaderboard capture, kiosk performance targets
-- **Steamworks familiarity** via **SteamPipeGUI** pipelines (e.g., Ginger Shroom Journey publication experience)
-- **Documentation discipline** mirrored in project README / design companion files for recruiter deep dives
+- **Playable portfolio work** in **Unity & Unreal** (jams, classes, prototypes)
+- **BREATHE Arcade** capstone—breath input, MCU serial into Unity
 
 ---
 
-## Professional Experience
+## Independent development
 
-### Scheduler / Coordinator
-**Complete Digestive Disease Care · Houston, TX** · 2023 – Present
+### Indie game developer
+**Gold Leaf Interactive** · Houston, TX · **2024 – Present**
 
-- Manage travel logistics, scheduling flights/accommodations for a board-certified physician
-- Maintain organized scheduling pipelines balancing locums + rotations
-- Liaison for emergencies & last-second itinerary swaps
-
-### E-Commerce Business Owner
-**Self · Houston, TX** · 2022 – 2023
-
-- Operated POD storefront with outsourced fulfillment pipelines
-
-### Content Creation & Video Production
-**Self · Houston, TX** · 2019 – 2023
-
-- Produced livestream-ready content pipelines (OBS / StreamLabs, DaVinci Resolve)
-- Multi-platform outreach (legacy Mixer era through modern short-form rotations)
+- **Gameplay systems** end-to-end—mechanics, data, pacing, onboarding, WebGL/kiosk quirks
+- **Dual engine:** Unity (**Access Granted**, **Dread & Breakfast**, **Trenchglow**, **BREATHE**) · UE (**Overclocked: DDM**, **I AM INEVITABLE**, jams & class work)
+- **Browser builds** with visible patch history (Access Granted, D&B, Trenchglow slice, BREATHE mic/sim)
+- **Overclocked: Data Dash MAX** (UE5 **C++**)—arcade + PC, components, authored patterns, boards, cabinet perf
+- **Steam** via **SteamPipeGUI** (e.g. Ginger Shroom Journey)
+- **README / design companions** for readers who want more than the itch blurb.
 
 ---
 
-## Leadership
+## Other work
 
-### Risk Management / Event Logistics Officer · _Kappa Sigma_
-**College Station, TX** · 2016 – 2019
+**Scheduler / coordinator** — Complete Digestive Disease Care, Houston · **2023 – Present** · Travel and locum scheduling for a physician; urgent itinerary changes and coordination.
 
-### Internal Judiciary Board Member · _Kappa Sigma_
-**College Station, TX** · 2017 – 2018
+**E-commerce** · Self · **2022 – 2023** · POD storefront, outsourced fulfillment.
+
+**Content / video** · Self · **2019 – 2023** · OBS / Resolve pipelines; Mixer-era through short-form.
+
+---
+
+## Leadership (_Kappa Sigma_ · College Station)
+
+**Risk / event logistics** · **2016 – 2019**  
+**Internal judiciary** · **2017 – 2018**
 
 ---
 
