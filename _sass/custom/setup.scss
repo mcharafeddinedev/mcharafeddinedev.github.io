@@ -3,6 +3,7 @@
 
 $body-font: 'Fira Code', 'Source Code Pro', 'Consolas', 'Courier New', monospace;
 
-// Must match widened docs column — theme derives lg sidebar width + `.main` margin-left from `$nav-width + $content-width`.
-$content-width: 88rem;
+// Must stay within sane viewport totals (theme derives lg gutters from nav + content).
+// 88rem + nav overflowed laptops; combined with flex-start on the sidebar it orphaned the nav strip.
+$content-width: 62rem;
 

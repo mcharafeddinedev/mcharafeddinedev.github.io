@@ -27,12 +27,8 @@ I bring **QA** instincts to systems work—twenty-five years as a gamer trained 
 <p align="center" style="margin-top: 0.5rem; max-width: 52rem; margin-left: auto; margin-right: auto; font-size: 0.95rem;">
 Solo Unity ship: brick-breaker plus typing on “command” blocks, slow-mo when it matters. CRT stack (barrel + scanlines) evokes a classic **CRT monitor**. Ball drops and mistyped prompts are <strong>separate</strong> strike tracks.</p>
 
-<div class="itch-embed-wrap" style="text-align: center; margin: 1.25rem 0;">
-  <iframe id="itch-embed-access-granted" title="Itch.io: Access Granted" frameborder="0" loading="lazy" src="https://itch.io/embed/4475328?linkback=true&amp;border_width=2&amp;bg_color=060d06&amp;fg_color=b9c6e4&amp;link_color=00edd6&amp;border_color=084808" width="552" height="167" class="itch-embed"></iframe>
-</div>
-
-<p align="center" style="margin-top: 0.5rem;">
-  <strong><a href="https://goldleafinteractive.itch.io/access-granted">Play In Browser</a></strong>
+<p align="center" style="margin-top: 0.75rem;">
+  <strong><a href="https://goldleafinteractive.itch.io/access-granted">Play on itch.io (browser)</a></strong>
 </p>
 
 ---
@@ -48,9 +44,9 @@ Solo Unity ship: brick-breaker plus typing on “command” blocks, slow-mo when
 <p align="center" style="margin-top: 0.5rem; max-width: 52rem; margin-left: auto; margin-right: auto; font-size: 0.95rem;">
 <strong>Unreal 5</strong> endless runner—<strong>PC + school arcade</strong> (stick + buttons). Lanes, jump/slide, ramping speed, overclock bursts, medals, local boards, themes—<strong>gamepad-first</strong> UI.</p>
 
-<div class="itch-embed-wrap" style="text-align: center; margin: 1.25rem 0;">
-  <iframe id="itch-embed-overclocked-ddm" title="Itch.io: Overclocked DDM" frameborder="0" loading="lazy" src="https://itch.io/embed/4278897?linkback=true&amp;border_width=5&amp;bg_color=000000&amp;fg_color=fffcbc&amp;link_color=46ffd4&amp;border_color=979797" width="552" height="167" class="itch-embed"></iframe>
-</div>
+<p align="center" style="margin-top: 0.75rem;">
+  <strong><a href="https://goldleafinteractive.itch.io/overclocked-ddm">Play on itch.io (browser)</a></strong>
+</p>
 
 <p align="center">
   <strong><a href="projects">View All Projects →</a></strong>

@@ -32,19 +32,25 @@ body {
 .side-bar {
   background: rgba(5, 10, 5, 0.75) !important;
   border-right: 1px solid rgba(0, 200, 100, 0.15) !important;
-
   /*
-   Theme default align-items:flex-end hugs nav to .main seam and leaves dead space viewport-left
-   inside the widened gutter column once $content-width grows.
+   Theme sets `align-items: flex-end` here: slim `.site-nav` hugs the `.main` seam on wide layouts.
+   (We previously flipped to flex-start to chase empty gutter space—that parked every link on the
+   far viewport edge instead of beside the translucent content module.)
   */
-  @media (min-width: 50rem) {
-    align-items: flex-start !important;
+}
+
+@media (min-width: 50rem) {
+  .side-bar {
+    align-items: flex-end !important;
   }
 }
 
 /* Main content area: translucent panel */
 .main-content-wrap {
   padding-top: 0.5rem !important;
+  /* Stretch full usable width inside `.main` so the themed panel docks left (next to sidebar) */
+  width: 100% !important;
+  max-width: 100% !important;
 }
 
 .main-content {
@@ -54,9 +60,9 @@ body {
   padding: 1.5rem !important;
   padding-top: 0.75rem !important;
   margin-top: 0.25rem !important;
-  max-width: 65rem !important;
-  margin-left: auto !important;
+  margin-left: 0 !important;
   margin-right: auto !important;
+  max-width: min(65rem, 100%) !important;
   width: 100% !important;
   box-sizing: border-box !important;
 }
