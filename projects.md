@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: My Projects
 nav_order: 3
 ---
 

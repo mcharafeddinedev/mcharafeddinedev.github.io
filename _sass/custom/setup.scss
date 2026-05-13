@@ -5,6 +5,6 @@ $body-font: 'Fira Code', 'Source Code Pro', 'Consolas', 'Courier New', monospace
 
 // Must stay within sane viewport totals (theme derives lg gutters from nav + content).
 // 88rem + nav overflowed laptops; combined with flex-start on the sidebar it orphaned the nav strip.
-$nav-width: 17.5rem;
-$content-width: 62rem;
+$nav-width: 16rem;
+$content-width: 58rem;
 

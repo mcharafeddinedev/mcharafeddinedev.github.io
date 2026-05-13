@@ -128,16 +128,15 @@ body {
 }
 
 .sidebar-screenshot-strip {
-  margin: 1.25rem 0 0;
-  padding: 1rem 0.5rem 0;
+  margin: 1.5rem 0 0;
+  padding: 1rem 1rem 0;
   border-top: 1px solid rgba(0, 255, 128, 0.12);
 }
 
 .sidebar-screenshot-heading {
-  margin: 0 0 0.65rem;
-  padding-left: 0.25rem;
+  margin: 0 0 0.75rem;
   color: rgba(180, 220, 180, 0.72);
-  font-size: 0.72rem;
+  font-size: 0.75rem;
   font-weight: 600;
   letter-spacing: 0.08em;
   text-transform: uppercase;
@@ -146,8 +145,8 @@ body {
 .sidebar-screenshot-card {
   display: block;
   width: 100%;
-  min-height: 5.5rem;
-  margin-bottom: 0.6rem;
+  height: 9rem;
+  margin-bottom: 0.85rem;
   overflow: hidden;
   border: 1px solid rgba(0, 255, 128, 0.16);
   border-radius: 6px;
