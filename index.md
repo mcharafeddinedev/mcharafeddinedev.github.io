@@ -6,11 +6,11 @@ nav_order: 1
 
 # Gameplay Systems Engineer · Technical Designer
 
-Hey — I'm Marwan. I develop games, and my focus is mostly on **designing and engineering gameplay systems**: mechanics that read well in the moment, loops that hold up, data you can tune without fighting the code, and feedback players can trust—**from first playable slice to shipping a complete product**.
+Hey — I'm Marwan. I develop games, mostly **designing and engineering gameplay systems**: readable mechanics, durable loops, tunable data, and feedback players can trust—**from first playable slice to shipping a complete product**.
 
-**Unity (C#)** and **Unreal (C++ & Blueprints)** are my strongest engines/languages; I work as both **technical designer and implementer**. Recently completed my **A.A.S. in Digital Gaming & Simulation (Programmers)** from HCC—learned foundations for code, design, technical art, and production habits in one track. Planning on looking into and starting to learn **Godot**. I use **AI-assisted coding and authoring** the way many studios already do, with strict review and ownership—**not** as a stand-in for specs, integration, or playtesting.
+**Unity (C#)** and **Unreal (C++ & Blueprints)** are my strongest engines/languages; I work as both a **technical designer and implementer**. I recently completed my **A.A.S. in Digital Gaming & Simulation (Programmers)**, and I'm starting to learn **Godot**. I'm always looking to learn and stay up to date with cutting edge game dev tech.
 
-I bring **QA** instincts to my systems building—twenty-five years as a gamer has trained me to notice friction, pacing, and edge cases in games early.
+I also bring **QA** instincts to my systems building process—twenty-five years as a gamer trained me to notice friction, pacing, and edge cases early.
 
 ---
 
@@ -48,9 +48,9 @@ This was a solo project, shipped with Unity 6 for browser play. It's essentially
 
 ## What I Do
 
-**Systems & design** — Prototype in-engine, lock in pacing and rules, keep state and tuning maintainable, and ship UI/onboarding that stays readable when the moment gets tight.
+**Systems & design** — Prototyping in-engine, tuning pacing and rules, keeping project state maintainable, player onboarding, and more.
 
-**Engines & tooling** — **Unity**, **Unreal**, WebGL when needed; **Godot** learning in progress. I stay current on pipelines and **AI-assisted workflows** that lots of teams rely on— I still **steer intent, reviews, and merges**.
+**Engines & tooling** — **Unity**, **Unreal**, WebGL when needed; **Godot** learning in progress. I stay current on pipelines and **AI-assisted workflows** that lots of teams now rely on— I still **steer intent, reviews, and merges**.
 
 **Playtesting & collab** — Clear note-taking and finding reproducible bugs, able to coordinate with artists and programmers
 

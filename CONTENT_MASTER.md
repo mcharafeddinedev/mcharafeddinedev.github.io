@@ -21,11 +21,11 @@ Page wording only (plus a few sidebar/SEO phrases). Embeds and raw HTML are omit
 
 # Gameplay Systems Engineer · Technical Designer
 
-Hey — I'm Marwan. I develop games, and my focus is mostly on **designing and engineering gameplay systems**: mechanics that read well in the moment, loops that hold up, data you can tune without fighting the code, and feedback players can trust—**from first playable slice to shipping a complete product**.
+Hey — I'm Marwan. I develop games, mostly **designing and engineering gameplay systems**: readable mechanics, durable loops, tunable data, and feedback players can trust—**from first playable slice to shipping a complete product**.
 
-**Unity (C#)** and **Unreal (C++ & Blueprints)** are my strongest engines; I work as both **technical designer and implementer**. Recently completed my **A.A.S. in Digital Gaming & Simulation (Programmers)** from HCC—learned foundations for code, design, technical art, and production habits in one track. Planning on looking into and starting to learn **Godot**. I often use **AI-assisted coding and authoring**, the way many studios already do, with strict review and ownership—**not** as a stand-in for specs, integration, or playtesting.
+**Unity (C#)** and **Unreal (C++ & Blueprints)** are my strongest engines/languages; I work as both **technical designer and implementer**. I recently completed my **A.A.S. in Digital Gaming & Simulation (Programmers)**, and I'm starting to learn **Godot**. I combine that training with **AI-assistance** under strict review and ownership—not as a stand-in for specs, integration, or playtesting, but as a workflow accelerator for building games efficiently while preserving design intent.
 
-I bring **QA** instincts to my systems work—twenty-five years as a gamer has trained me to notice friction, pacing, and edge cases in games early.
+I bring **QA** instincts to systems building—twenty-five years as a gamer trained me to notice friction, pacing, and edge cases early.
 
 ---
 
