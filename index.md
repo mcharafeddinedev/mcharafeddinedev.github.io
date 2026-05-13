@@ -4,28 +4,50 @@ layout: default
 nav_order: 1
 ---
 
-# Gameplay Programmer · Systems Design
+# Gameplay Systems Engineer · Technical Designer
 
-Hey — I'm Marwan, a gameplay programmer focused on building responsive mechanics, scalable systems, and immersive player experiences.
+Hey — I'm Marwan. I **design and engineer gameplay systems**: responsive mechanics, coherent loops, scalable data-driven setups, and clear player-facing feedback—from concept through tuning and ship constraints.
 
-I work primarily in **Unreal Engine** and **Unity**, specializing in systems-driven gameplay, player mechanics, and interactive features. Experienced owning gameplay features end-to-end—from implementation through iteration, optimization, and polish—across solo and collaborative projects. My background in science sharpened my problem-solving mindset, which I now apply to debugging, feature development, and game systems architecture design.
+I'm strongest in **Unity (C#)** and **Unreal Engine (C++ & Blueprints)**, comfortable owning features end-to-end as both **technical designer and implementer**—blueprints/design intent in one hand, pipelines and instrumentation in the other. I graduated with my **A.A.S. in Digital Gaming & Simulation (Programmers)** (HCC), blending programming, technical art, design, and production habits. Beyond those engines I'm **actively exploring Godot** and keeping an eye on emerging tools so production stays smoother across preproduction, prototyping, polish, and platform quirks.
 
-With over 25 years of gaming experience, I bring a deep player perspective to project development—understanding game feel, balance, and how players actually experience mechanics. This background helps me think about edge cases and player friction, and I'm very interested in roles where that perspective adds value—whether in gameplay programming, QA, or both.
+With 25+ years as a gamer, I bring a **deep player-QA mindset**: friction, pacing, readability, edge cases—not as an afterthought, but as part of systems design.
 
 ---
 
-<h2 style="text-align: center;">Featured Work</h2>
+<h2 style="text-align: center;">Featured Technical Showcase</h2>
+
+<h3 style="text-align: center; font-size: 1rem;">Primary — playable in browser</h3>
 
 <p align="center">
-  <a href="https://goldleafinteractive.itch.io/overclocked-ddm">
-    <img src="/assets/images/overclocked-data-dash-max.png"
-         alt="OVERCLOCKED: Data Dash MAX - Featured Project"
+  <a href="https://goldleafinteractive.itch.io/access-granted">
+    <img src="/assets/images/access-granted.png"
+         alt="ACCESS GRANTED — brick breaker meets terminal typing (Unity URP)"
          style="max-width: 520px; width: 100%; border-radius: 8px;">
   </a>
 </p>
 
 <p align="center" style="margin-top: 0.5rem; font-size: 0.9rem;">
-A recent gameplay prototype showcasing core feature production and systems-driven design.
+<strong>ACCESS GRANTED</strong> — Unity 6 URP hybrid of Breakout-style action and strict typing challenges. Dual failure tracks (ball vs. keyboard discipline), CRT + barrel presentation stack, and a data-driven tiered prompt system—focused systems engineering within a cohesive fantasy.
+</p>
+
+<div class="itch-embed-wrap" style="text-align: center; margin: 1.25rem 0;">
+  <iframe frameborder="0" src="https://itch.io/embed/4475328?linkback=true&amp;bg_color=060d06&amp;fg_color=b9c6e4&amp;link_color=00edd6&amp;border_color=084808" width="552" height="167" class="itch-embed"></iframe>
+</div>
+
+---
+
+<h3 style="text-align: center; font-size: 1rem;">Secondary — PC & arcade hardware</h3>
+
+<p align="center">
+  <a href="https://goldleafinteractive.itch.io/overclocked-ddm">
+    <img src="/assets/images/overclocked-data-dash-max.png"
+         alt="OVERCLOCKED: Data Dash MAX — UE5 endless runner for PC and arcade"
+         style="max-width: 420px; width: 100%; border-radius: 8px;">
+  </a>
+</p>
+
+<p align="center" style="margin-top: 0.5rem; font-size: 0.9rem;">
+<strong>OVERCLOCKED: Data Dash MAX</strong> — Unreal Engine 5.7 **C++** endless runner tuned for arcade cabinets + PC: component architecture, escalating patterns, OVERCLOCK risk/reward pacing, themed presentation, offline leaderboards, and navigation-first UX.
 </p>
 
 <div class="itch-embed-wrap" style="text-align: center; margin: 1.25rem 0;">
@@ -40,17 +62,19 @@ A recent gameplay prototype showcasing core feature production and systems-drive
 
 ## What I Do
 
-**Core Development**
-- **Gameplay Programming** — player controllers, input handling, camera behavior, physics-based mechanics, movement systems, enemy AI, combat systems, interactive triggers, data assets, UI/HUD integration, moment-to-moment player feel
-- **Systems Design** — ability systems, state machines, inventory/item logic, upgrade frameworks, save/load systems, game loops, procedural generation & spawning, data-driven architecture, systemic gameplay, modular systems that can scale
+**Gameplay systems & technical design**
+- **Systems authoring** — state machines and flow controllers, layered input modes, procedural content hooks, telemetry-friendly session boundaries  
+- **Data-driven content** — ScriptableObjects/DataTables where balance and authoring speed matter  
+- **Player readability** — HUD/feedback, camera and presentation cohesion, onboarding that respects pacing  
+- **Constraint-aware shipping** — WebGL vs standalone, kiosk/arcade input, perf and compatibility fallbacks
 
-**Technical Skills**
-- **Engine Experience** — Unity (C#), Unreal Engine (C++ & Blueprints), comfortable in both rapid prototyping and longer production cycles, small-scale level design & building
-- **Technical Work** — debugging features, profiling performance, staying current with emerging tools and development practices
+**Engines & tooling**
+- **Production engines** — Unity (C#, URP/WebGL familiarity), Unreal (C++/Blueprints); **actively learning Godot** for broader portability and workflow comparison  
+- **Emerging tech** — following new engine features, authoring pipelines, and AI-assisted tooling to reduce churn across phases (planning → prototyping → polish)
 
 **Collaboration & QA**
-- **Collaboration** — working with designers and artists to implement features that match creative intent, working with other programmers on the same features
-- **QA Mindset** — rigorous playtesting, clear bug documentation, and a deep player perspective built on 25+ years of gaming across genres, platforms, and eras
+- Comfortable articulating intent, documenting systems, iterating with testers and collaborators  
+- **QA mindset** — edge cases, repro-friendly notes, parity across platforms where it matters  
 
 ---
 
@@ -62,4 +86,4 @@ A recent gameplay prototype showcasing core feature production and systems-drive
 
 ---
 
-This site highlights my projects, experiments, and ongoing work. For deeper technical breakdowns, check out my GitHub or reach out anytime.
+This site highlights shipped prototypes, jam games, and coursework that show systems depth. For repos and deeper dives, GitHub has curated samples; itch pages include builds and patch notes where available.

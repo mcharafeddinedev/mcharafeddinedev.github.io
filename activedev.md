@@ -5,66 +5,80 @@ nav_exclude: true
 
 # Current Pursuits
 
-As I near the completion of my A.A.S. in Digital Gaming & Simulation (for Programmers)—a generalist program covering programming, technical art, design, and production workflows—my focus has shifted toward building deeper technical depth as a gameplay programmer. While my education provided a broad foundation across disciplines, my priority now is hands-on development: writing systems, refining architecture, and strengthening my fluency in code.
+I completed my **Associate of Applied Science in Digital Gaming & Simulation (Programmers)** at Houston Community College—a generalist program spanning programming fundamentals, technical art touchpoints, interactive design literacy, agile-style production checkpoints, collaborative capstones, portfolio packaging, **emergent technology experiments** (hardware + unconventional input), and how to articulate systems to non-programmers.
+
+Today I pitch myself foremost as a **Gameplay Systems Engineer** and secondarily as a **Technical Designer**: I still write significant implementation, but the through-line is authoring **coherent mechanics + loops + tool-friendly data** players can parse under pressure.
 
 ---
 
 ## Skills & Expertise
 
-**Core Development**
-- **Gameplay Programming** — player controllers, input handling, camera behavior, physics-based mechanics, movement systems, enemy AI, combat systems, interactive triggers, data assets, UI/HUD integration
-- **Systems Design** — ability systems, state machines, inventory/item logic, upgrade frameworks, save/load systems, game loops, procedural generation, data-driven architecture, modular systems that scale
+**Gameplay systems engineering**
+- **Controllers & interaction scaffolding** — input stacks, layering ability bars and alternate modes (`TypingMode` hybrids, haunt deployment, stamina swim feel)
+- **State machines / session controllers** — night loops, leaderboard persistence, fades, onboarding gates, kiosk constraints
+- **AI & simulation-heavy surfaces** — behavior trees inside jam-scale single classes when appropriate, networked fear math, cascading panic ripples, spawn escalations
+- **Data-driven authoring** — ScriptableObjects/DataTables powering nights, encounters, palettes, lexical pools, haunt kits
 
-**Technical Skills**
-- **Engine Experience** — Unity (C#), Unreal Engine (C++ & Blueprints), comfortable in both rapid prototyping and longer production cycles, small-scale level design & building
-- **Technical Work** — debugging features, profiling performance, staying current with emerging tools and development practices
+**Technical design**
+- Translating pillar docs into actionable acceptance tests, pacing curves, onboarding beats, readability passes
+- Lightweight technical documentation (architecture overviews + “where change lives”) so collaborators aren’t archaeology spelunking
 
-**Collaboration & QA**
-- **Collaboration** — working with designers and artists to implement features that match creative intent, working with other programmers on the same features
-- **QA Mindset** — rigorous playtesting, clear bug documentation, and a deep player perspective built on 25+ years of gaming across genres, platforms, and eras, both competitively and casually
+**Engines & exploratory tooling**
+- **Unity / C#**, **Unreal Engine / C++ / Blueprint**, comfortable shipping WebGL prototypes + kiosk builds
+- **Godot exploratory track** underway + habitual monitoring of bleeding-edge engine tooling (AI authoring assistants included) so each phase—from whitebox to release candidate—hits fewer surprise walls
 
----
-
-## Most Recent/Active Work
-
-**OVERCLOCKED: Data Dash MAX** — Released a complete C++ arcade endless runner for PC and arcade cabinet hardware. Built with component-based architecture, 45+ obstacle patterns, data-driven theming, local leaderboards, and full input support. See [Projects](projects) or [play it on Itch.io](https://goldleafinteractive.itch.io/overclocked-ddm).
-
-**Breathe** — Building a breath-controlled sailboat race in Unity with custom breath-sensing hardware and a source-agnostic input layer (hardware, microphone fallback, simulated). Breath is the only input; no-fail design with AI companions and a celebration-focused finish. Prototype phase—vertical slice in progress. [Repo & docs](https://github.com/mcharafeddinedev/Breathe-Game).
-
-**Engine-Level Exploration (C++)** — Experimenting with a custom 2D engine in C++ to strengthen understanding of rendering fundamentals, entity management, and low-level architecture.
-
-**Tooling & Modern Workflows** — Exploring editor tooling and development automation, including Python-based workflows for Unreal Engine tasks and data handling.
+**Collaboration / QA instincts**
+- 25+ years as a gamer (competitive + cozy + everything-between) reinforcing attention to friction, onboarding debt, readability, cheats for repro
 
 ---
 
-## Learning Track
+## Most Recent Shipments / Active Targets
 
-I use **guided, project-based courses** as deliberate practice—reinforcing fundamentals while applying them directly to real builds. When a project reaches polish or produces a viable executable, it moves to [Projects](projects).
+**ACCESS GRANTED** — Released Unity 6 breaker + typing thriller with CRT/barrel fidelity, HACKERMAN secret arc, exhaustive public GDD/production notes. [Play browser build](https://goldleafinteractive.itch.io/access-granted) · Details on [Projects](projects).
 
-**Unreal Engine & C++** — UE5 C++ development, C++ fundamentals with Raylib, game development foundations, low-level engine concepts, and project-based C++ through interactive builds.
+**Dread & Breakfast (v0.9 beta)** — Jam-born roguelike haunting sim with massively expanded PCG houses, haunt economy, nightly upgrade drafts, Ghost Drag tertiary mechanic. [Projects](projects) · [Patch history](https://goldleafinteractive.itch.io/dread-and-breakfast/devlog).
 
-**Unity & C#** — Complete Unity 3D development pipeline (C# scripting, physics, AI, UI, publishing) and 2D roguelike architecture with procedural systems.
+**Trenchglow** — Continuing **content expansion** beyond the jam tutorial trench: authored systems for sonar memory gameplay, kinematic trench chunks, PulsePolicy safeguards, shader/fallback bifurcation. [Play jam slice](https://goldleafinteractive.itch.io/trenchglow).
 
+**BREATHE Arcade** — Capstone anthology proving **hardware/firmware ↔ Unity threading ↔ breath-normalization layering** stays portable to mic / simulated pathways. Featured on [Projects](projects).
+
+**OVERCLOCKED: Data Dash MAX** — Maintain released UE5 arcade package (PC download + cabinets) emphasizing score clarity, thematic swaps, leaderboard hygiene. Still see [Projects](projects) / [patch log](https://goldleafinteractive.itch.io/overclocked-ddm/devlog).
+
+**Engine-Level C++ tinkering / Python tooling** — Ongoing disciplined practice reinforcing lower-level intuition (custom 2D engine experiments) plus editor scripting & batch utilities for Unreal/Unity tasks.
 
 ---
 
-## Player Perspective & QA
+## Continuous Learning Track
 
-I bring a **deep player perspective** shaped by decades of gaming experience across platforms, genres, and eras. This background directly informs my work:
+Formal coursework is complete, but I still sprint through curated modules when they close specific gaps:
 
-- **Playtesting** — Rigorous testing with iterative adjustments, catching edge cases and feel issues before they compound
-- **Game Feel** — Intuition for when mechanics feel "off"—input lag, movement weight, damage numbers, or progression pacing
-- **Player Connection** — Thinking like a player first helps anticipate friction points and balance concerns
-- **Documentation** — Clear, organized reporting for bug tracking, design specs, and team communication
+- **Unreal Engineering** — UE5 native gameplay framework dives, networked prototypes, Chaos/physics quirks, cinematic tooling when relevant  
+- **Unity Engineering** — URP quirks, Burst/Jobs-informed prototypes when CPU-bound systems appear, multiplayer experiments as needed  
+- **Godot** — upcoming multi-week exploration to compare scene architecture, tooling velocity, OSS plugin ecosystem versus proprietary stacks  
+- **Emerging authoring tech** — agentic assistants, procedural audio/code-first VFX experimentation, procedural asset workflows
 
-My generalist foundation (programming, art pipelines, design, technical workflows) combined with extensive playtesting experience helps me understand what QA teams look for: things like edge cases, balance issues, and player friction points.
+When a sprint graduates from exercise to shippable build, it migrates permanently to **[Projects](projects)**.
+
+---
+
+## Player Perspective / QA Advocacy
+
+Systems only matter when humans can parse them mid-stress:
+
+- **Play loops early + often**, logging edge cases aggressively  
+- **Communicate regressions crisply**, preserving repro context for multi-platform builds  
+- **Design with empathy** toward alternate control schemes / accessibility friction (brightness sliders, epilepsy warnings where VFX-heavy, kiosk navigation without mice)
+
+Documentation plus empathy for testers is production hygiene, not optional polish.
 
 ---
 
 ## Long-Term Direction
 
-My goal is to keep learning and growing as a **gameplay programmer with strong systems and technical foundations**—building core features & mechanics across engines, codebases, and tools while maintaining a player-first design mindset. That means continuing to build clean, scalable systems, go deeper on C++ and engine internals, stay sharp on evolving tools, and ALWAYS playtest early with iterative feedback.
+Grow as a **Gameplay Systems Engineer who can parachute into technical design conversations without losing engineering leverage** — shipping robust mechanics across engines, respecting production constraints (WebGL budgets, kiosk I/O latency, patching cadence).
+
+That means deepening engine fluency (**Unity/Unreal**, upcoming **Godot** slice), sharpening automated validation where feasible, sustaining documentation habits, experimenting responsibly with evolving AI tooling, **and eternally honoring the playtester's voice**.
 
 ---
 
-[← Projects](projects) · [← Home](index)
+ [← Projects](projects) · [← Home](index)

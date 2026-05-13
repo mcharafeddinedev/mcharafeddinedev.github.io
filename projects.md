@@ -11,25 +11,112 @@ nav_order: 3
 
 ## Featured
 
-### OVERCLOCKED: Data Dash MAX
-**Unreal Engine 5 · C++ & Blueprints · Released (PC & Arcade Cabinet)**
+### ACCESS GRANTED
+**Unity 6 · C# · URP · Released · WebGL + Windows**
 
-An endless runner for arcade cabinets and PC. You play as an electric impulse humanoid racing through neon tunnels inside a computer system—dodge obstacles, grab data packets, and hit OVERCLOCK to push your score higher.
+A *Hackers*-inspired breach fantasy: your paddle is the access point into a terminal firewall; **command bricks** force strict **A→Z typing** under pressure while the ball keeps negotiating geometry you never fully simplify away.
+
+<p align="center">
+  <img src="/assets/images/access-granted.png" alt="ACCESS GRANTED CRT gameplay" style="max-width: 600px; width: 100%;">
+</p>
+
+- **Hybrid flow state machine (`GameFlowController`)** orchestrates Paddle/Ball ↔ **Typing Mode** swaps with unscaled timers so slowdown stays fair (`timeScale`-aware sequencing + pause recovery documented in code/architecture docs).  
+- **URP barrel distortion feature** authored as **`ScriptableRendererFeature`/Render Graph** path paired with a **matching CRT bezel + scan shader** tuned to curvature—presentation reads intentional, not a single stock filter slapped onto UGUI.  
+- **Dual-track failure authoring** separates **paddle misses vs typing fouls**, each gated by serialized counters with secret **HACKERMAN** allowances for spectacle runs.  
+- **Tiered `WordList` ScriptableObjects** gate lexicon difficulty per campaign band and reduce back-to-back duplicates—shows content iteration without ripping core gameplay apart.  
+- **Procedural HACKERMAN ring layout** interpolates constellation arcs/rungs in ellipse space (`HackermanRingLayout`) instead of brute grid snapping, layered above handcrafted tiers.  
+
+<div class="itch-embed-wrap" style="text-align: center; margin: 1.5rem 0;">
+  <iframe frameborder="0" src="https://itch.io/embed/4475328?linkback=true&amp;bg_color=060d06&amp;fg_color=b9c6e4&amp;link_color=00edd6&amp;border_color=084808" width="552" height="167" class="itch-embed"></iframe>
+</div>
+
+**[Play on Itch.io (browser)](https://goldleafinteractive.itch.io/access-granted)** · [Patch Notes v2](https://goldleafinteractive.itch.io/access-granted/devlog/1516113/patch-notes-v2) · Indie City Games · *The Movie The Game The Jam* (2026)
+
+---
+
+### Dread & Breakfast
+**Unity 6 · C# · Beta / Post-jam · WebGL & Windows**
+
+Top-down haunting strategy where **you deploy props and synergistic abilities**, read visitor fear spreadsheets on the fly, and clear a procedurally reconstructed B&B before dawn—Roguelike night modifiers, escalating cast pressure, FP meta-shop (“Box of Tricks”), latent ghost-drag interactions.
+
+<p align="center">
+  <img src="/assets/images/dread-and-breakfast.png" alt="Dread & Breakfast house layout" style="max-width: 600px; width: 100%;">
+</p>
+
+- **`HouseGenerator` pipeline** stitches templates, doorway connectivity, biased room mixes, inverse-scale prop anchors, heuristic prop placement (+ TV-vs-entry readability) rivaling coursework-level PCG assignments.  
+- **`HumanAI` core** centralizes fear curves, patrol/pathing, reactive speech, flee “hurry,” and **panic ripple propagation** with presentation-driven sprite states—a single readable surface where a jam-scale sim outgrew scattered one-off scripts.  
+- **17 `AbilitySO` Scriptable definitions** spanning instant AoE pings, lingering VFX corridors, cooldown/energy coupling, nightly upgrade drafts—all orchestrated behind a static **`GameEvents` bus**.  
+- **Night escalation & meta currency** handled through `NightConstants`, spawn controllers, `FrightPointsBank` persistence bridging runs & shop churn.  
+
+<div class="itch-embed-wrap" style="text-align: center; margin: 1.5rem 0;">
+  <iframe frameborder="0" src="https://itch.io/embed/4471600?linkback=true&amp;bg_color=000000&amp;fg_color=e6d699&amp;link_color=fa5c5c&amp;border_color=282828" width="552" height="167" class="itch-embed"></iframe>
+</div>
+
+**[Play on Itch.io](https://goldleafinteractive.itch.io/dread-and-breakfast)** · *Mini Jam 208: Inverted* (2026) — [Update 1 · Energy bubbles](https://goldleafinteractive.itch.io/dread-and-breakfast/devlog/1489095/update-1-fixes-energy-bubbles-deep-freeze) · [v0.9.0 Beta UI overhaul](https://goldleafinteractive.itch.io/dread-and-breakfast/devlog/1501963/patch-notes-v090-beta)
+
+---
+
+### Trenchglow
+**Unity (2D URP) · C# · In development · WebGL playable slice**
+
+Tutorial slice for **Mini Jam 209 — Deep**. Underwater trenches where visibility is scarce: **timed sonar pings** widen then contract your mental map—stamina swim + boost pacing, puzzles via pressure pads + moving geometry, procedural hazards flagged in UI/tooling docs.
+
+<p align="center">
+  <img src="/assets/images/trenchglow.png" alt="Trenchglow underwater key art" style="max-width: 600px; width: 100%;">
+</p>
+
+- **`VisibilityController`** toggles shader-driven **`Trenchglow/PulseReveal`** globals versus explicit **WebGL fallback** (preserve shipping confidence on thinner GPUs vs editor-only fidelity).  
+- **`DarknessRadialOverlay`** draws dual radial “holes”—persistent player bubble vs fired pulse ring—with serialized shader refs to dodge `Shader.Find` stripping nightmares.  
+- **`PulsePolicy` runtime cloning (`CreateRuntimeInstance`)** avoids mutating authoring assets/session bleed—shows SO hygiene often skipped in jams.  
+- **`TrenchChunk` kinematic actors** chained through UnityEvents: sliding/rotating geometry with reset hooks, sfx-synced durations, pooled impacts—great talking point for level scripting interviews.  
+
+<div class="itch-embed-wrap" style="text-align: center; margin: 1.5rem 0;">
+  <iframe frameborder="0" src="https://itch.io/embed/4513861?linkback=true&amp;bg_color=0a1628&amp;fg_color=cfe8ff&amp;link_color=f5a524&amp;border_color=1a3d5c" width="552" height="167" class="itch-embed"></iframe>
+</div>
+
+**[Play on Itch.io](https://goldleafinteractive.itch.io/trenchglow)** · Tutorial / tech-demo status — more trench levels inbound
+
+---
+
+### BREATHE Arcade
+**Unity 6 · C# · 2D URP · Course capstone (“Emergent Game Technologies”) · WebGL + Windows**
+
+Five breath-driven microgames (**Sailboat, Balloon, Bubbles, Stargaze, Skydive**) using a unified **hardware/mic/simulated pipeline**: Arduino tach-style serial stream feeding Unity’s smoothing & spin-down heuristics, procedural audio scaffolding, PB tracking, telemetry-friendly logging.
+
+<p align="center">
+  <img src="/assets/images/breathe-arcade.png" alt="BREATHE Arcade Skydive title art" style="max-width: 600px; width: 100%;">
+</p>
+
+- **`IBreathInput` + trio of concrete providers** isolate gameplay from sensor acquisition—WebGL clamps to simulated/mic responsibly.  
+- **Fan pipeline**: background serial reader (`FanBreathInput`), COM probing, asymmetric filtering emulating inhale spikes vs fan inertia; docs note accurate sensor physics vs marketing labels.  
+- **`BreathPowerSystem` merges calibration curves, smoothing, spin-down veto** so each minigame can bias intensity without forked controller code; Scriptable **`MinigameDefinition`** knobs keep tuning approachable.  
+
+<div class="itch-embed-wrap" style="text-align: center; margin: 1.5rem 0;">
+  <iframe frameborder="0" src="https://itch.io/embed/4475446?linkback=true&amp;bg_color=d6f5ff&amp;fg_color=0b2d3f&amp;link_color=ff4f6e&amp;border_color=93cdea" width="552" height="167" class="itch-embed"></iframe>
+</div>
+
+**[Play / download on Itch.io](https://goldleafinteractive.itch.io/breathe-arcade)** · Breath hardware doc pack available privately for employers on request · Public engineering notes summarized in-repo README/`HOW_IT_WORKS`
+
+---
+
+### OVERCLOCKED: Data Dash MAX
+**Unreal Engine 5.7 · C++ & Blueprints · Released (PC & Arcade Cabinet)**
+
+An endless runner for arcade cabinets **and** PC: race as an electric impulse through procedural neon corridors, lane-change + jump/slide choreography, escalating threat density, OVERCLOCK risk pacing, pickups, medals, themed presentation, offline leaderboards—all tuned for kiosk reliability.
 
 <p align="center">
   <img src="/assets/images/overclocked-data-dash-max.png" alt="OVERCLOCKED: Data Dash MAX" style="max-width: 600px; width: 100%;">
 </p>
 
-- Built a **complete C++ arcade runner** with component-based architecture, world scrolling, and smooth 3-lane movement with holdable jump/slide mechanics
-- Over **40+ hand-crafted obstacle and pickup patterns** with procedural generation and a risk/reward **OVERCLOCK speed-boost system** with score multipliers
-- Implemented **data-driven subsystems** for 6 color themes, combo scoring, local leaderboard with initials entry, and persistent audio across level transitions
-- Developed **full keyboard/gamepad-navigable UI** and shipped to arcade cabinet hardware at stable 60fps
+- **Component-heavy C++ architecture** with cleanly separated spawning, pickups, locomotion tuning, thematic presentation swaps, leaderboard flows, menus that never assume mouse.  
+- **40+ authored obstacle patterns** driven through data subsystems feeding spawn pools/time evolution—replayable without feeling “RNG noise.”  
+- **Six interchangeable visual themes**, combo stack, EMP/magnet pickups, countdown clarity, HUD “MAX SPEED” feedback when difficulty caps—all tuned post-jam toward cabinet & PC parity.  
 
 <div class="itch-embed-wrap" style="text-align: center; margin: 1.5rem 0;">
   <iframe frameborder="0" src="https://itch.io/embed/4278897?linkback=true&amp;bg_color=000000&amp;fg_color=fffcbc&amp;link_color=46ffd4&amp;border_color=979797" width="552" height="167" class="itch-embed"></iframe>
 </div>
 
-**[View on Itch.io](https://goldleafinteractive.itch.io/overclocked-ddm)** · [Watch Trailer](https://www.youtube.com/watch?v=dI9Ctq9LkLs)
+**[Windows build on Itch.io](https://goldleafinteractive.itch.io/overclocked-ddm)** · [Patch Notes / v1.1.0 recap](https://goldleafinteractive.itch.io/overclocked-ddm/devlog/1379247/v110-patch-notes-overclocked-ddm) · [Watch Trailer](https://www.youtube.com/watch?v=dI9Ctq9LkLs)
 
 ---
 
@@ -82,26 +169,6 @@ A fully released 2D adventure game with responsibility for core gameplay systems
 - Managed **Steamworks integration and publishing pipeline**
 
 **[Get on Steam (Free)](https://store.steampowered.com/app/3023100/Ginger_Shroom_Journey/)** · [Watch Trailer](https://www.youtube.com/watch?v=-LGDr3DaUB8)
-
----
-
-### Breathe — Breath-Controlled Sailboat Race
-**Unity · C# · 2D URP · Custom hardware · Prototype**
-
-Player breath is the only input—it controls the wind that powers a sailboat racing alongside AI companions, using a custom-built breath-sensing device. No buttons, no sticks; the physical metaphor is immediate: breath = wind = sail power. No one ever loses.
-
-<!-- <p align="center">
-  <img src="/assets/images/breathe.png" alt="Breathe" style="max-width: 600px; width: 100%;">
-</p> -->
-
-- **Breath-only input** — Breathing is the sole control; no secondary inputs, so the game is accessible to anyone who can blow and captures clean breath-effort data
-- **Source-agnostic architecture** — Game logic reads from a single breath-input interface; signal source (custom hardware, microphone fallback, or simulated) is swappable without touching gameplay code
-- **Custom hardware integration** — Developer-built device: rotation sensing → microcontroller → USB serial → Unity; real-time proportional mapping from breath intensity to in-game wind
-- **No-fail, accessibility-focused design** — Every session ends positively with celebration of personal progress; games adapt to the player's breathing ability
-- **Layered breath pipeline** — Signal capture → normalization → smoothing → gameplay integration; discrete power levels for consistent, responsive control
-- **Healthcare-adjacent potential** — Breath-only design enables meaningful effort/duration/pattern capture for potential clinical or pediatric breathing engagement tools
-
-**[Repo & documentation](https://github.com/mcharafeddinedev/Breathe-Game)**
 
 ---
 
@@ -198,10 +265,12 @@ A 2D side-scroller horror project focused on tension, pacing, and survival-style
 
 ## More
 
+Shorter prototypes and jam-complete builds (~16 playable loops shipped to date counting coursework + jams + ongoing slices):
+
+- **I AM INEVITABLE** (UE5 · Blueprint-heavy vertical slice · Chillennium 2026 jam) — “failure strengthens” ascent loop, traversal scaling, retro post stack; **[Windows download · Itch.io](https://goldleafinteractive.itch.io/i-am-inevitable)**
 - **Doors n' Dice** (UE5) — 2D platformer with chance-based door outcomes · [Itch.io](https://goldleafinteractive.itch.io/doors-n-dice)
-- **Escape Control** (UE5) — Top-down sci-fi shooter
-- **Game Jams** — Rapid prototyping and mechanic-focused development
-- **Experimental Prototypes** — Systems, level design, and mechanics exploration
+- **Escape Control** (UE5) — Top-down sci-fi shooter · listed on [itch profile](https://goldleafinteractive.itch.io/)
+- **Void Knights / coursework prototypes** — additional classroom vertical slices & mechanics labs (some unlisted class submission captures may go public later for archival depth)
 
 ---
 
