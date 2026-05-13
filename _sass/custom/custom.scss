@@ -123,15 +123,12 @@ body {
 }
 
 .sidebar-screenshot-strip {
-  width: 10.5rem;
-  align-self: flex-end;
-  margin: 0.75rem 0.5rem 0;
-  padding: 0.5rem 0;
+  margin: 0.75rem 1rem 0;
+  padding: 0.5rem 0 0;
 }
 
 .sidebar-screenshot-heading {
   margin: 0 0 0.5rem;
-  padding-left: 0.25rem;
   text-align: left;
   color: rgba(180, 220, 180, 0.72);
   font-size: 0.7rem;
@@ -143,8 +140,8 @@ body {
 .sidebar-screenshot-card {
   display: block;
   width: 100%;
-  height: 6rem;
-  margin-bottom: 0.5rem;
+  height: 5.5rem;
+  margin-bottom: 0.45rem;
   overflow: hidden;
   border: 1px solid rgba(0, 255, 128, 0.16);
   border-radius: 5px;

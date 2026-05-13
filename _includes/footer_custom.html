@@ -3,8 +3,8 @@
 
 <script>
 (function() {
-  var sidebar = document.querySelector('.side-bar');
-  if (!sidebar) return;
+  var nav = document.querySelector('.site-nav');
+  if (!nav) return;
 
   var strip = document.createElement('div');
   strip.className = 'sidebar-screenshot-strip';
@@ -17,6 +17,6 @@
     <a class="sidebar-screenshot-card" href="https://goldleafinteractive.itch.io/breathe-arcade" target="_blank" rel="noopener noreferrer" style="background-image: url('/assets/images/breathe-arcade.png');" aria-label="BREATHE Arcade"></a>
     <a class="sidebar-screenshot-card" href="https://goldleafinteractive.itch.io/overclocked-ddm" target="_blank" rel="noopener noreferrer" style="background-image: url('/assets/images/overclocked-data-dash-max.png');" aria-label="OVERCLOCKED"></a>
   `;
-  sidebar.appendChild(strip);
+  nav.appendChild(strip);
 })();
 </script>
