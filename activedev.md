@@ -28,37 +28,37 @@ I work as a Gameplay Engineer and Technical Designer: building mechanics, loops,
 
 ## Recent / Active Projects (past 6-12 months)
 
-- ACCESS GRANTED — Released Unity WebGL reflex game: block breaker + typed command challenges, dual fail tracks, slow-mo prompts, CRT presentation, and patch iteration.
+- <span class="project-title">ACCESS GRANTED</span> — Released Unity WebGL reflex game: block breaker + typed command challenges, dual fail tracks, slow-mo prompts, CRT presentation, and patch iteration.
 
-[Play In Browser](https://goldleafinteractive.itch.io/access-granted) · [Projects](projects)
+[Play ACCESS GRANTED In Browser](https://goldleafinteractive.itch.io/access-granted) · [Projects](projects)
 
-- Dread & Breakfast (v0.9 beta) — Unity top-down ghost simulator with escalating nights, shuffled layouts, centralized guest behavior, haunt abilities, and persistent meta-shop progress.
+- <span class="project-title">Dread & Breakfast</span> (v0.9 beta) — Unity top-down ghost simulator with escalating nights, shuffled layouts, centralized guest behavior, haunt abilities, and persistent meta-shop progress.
 
-[Play In Browser](https://goldleafinteractive.itch.io/dread-and-breakfast) · [Projects](projects) · [Devlog](https://goldleafinteractive.itch.io/dread-and-breakfast/devlog)
+[Play Dread & Breakfast In Browser](https://goldleafinteractive.itch.io/dread-and-breakfast) · [Projects](projects) · [Devlog](https://goldleafinteractive.itch.io/dread-and-breakfast/devlog)
 
-- Trenchglow — WebGL deep-sea exploration slice with sonar reveals, layered visibility, audio-synced feedback, GPU fallbacks, and more trench layouts planned.
+- <span class="project-title">Trenchglow</span> — WebGL deep-sea exploration slice with sonar reveals, layered visibility, audio-synced feedback, GPU fallbacks, and more trench layouts planned.
 
-[Play In Browser](https://goldleafinteractive.itch.io/trenchglow)
+[Play Trenchglow In Browser](https://goldleafinteractive.itch.io/trenchglow)
 
-- BREATHE Arcade — Unity capstone with five breath-controlled micro-games, custom fan hardware, serial ingest, mic/keyboard fallback, smoothing, and shared scoring/results flow.
+- <span class="project-title">BREATHE Arcade</span> — Unity capstone with five breath-controlled micro-games, custom fan hardware, serial ingest, mic/keyboard fallback, smoothing, and shared scoring/results flow.
 
-[Play In Browser](https://goldleafinteractive.itch.io/breathe-arcade) · [Projects](projects)
+[Play BREATHE Arcade In Browser](https://goldleafinteractive.itch.io/breathe-arcade) · [Projects](projects)
 
-- OVERCLOCKED: Data Dash MAX — Released UE5 endless runner with C++ gameplay systems, tiered obstacle chunks, gamepad-first controls, arcade/desktop tuning, themes, and offline boards.
+- <span class="project-title">OVERCLOCKED: Data Dash MAX</span> — Released UE5 endless runner with C++ gameplay systems, tiered obstacle chunks, gamepad-first controls, arcade/desktop tuning, themes, and offline boards.
 
-[Windows build on itch.io](https://goldleafinteractive.itch.io/overclocked-ddm) · [Projects](projects) · [Patches](https://goldleafinteractive.itch.io/overclocked-ddm/devlog)
+[Download OVERCLOCKED on itch.io](https://goldleafinteractive.itch.io/overclocked-ddm) · [Projects](projects) · [Patches](https://goldleafinteractive.itch.io/overclocked-ddm/devlog)
 
-- Void Knights — UE5 Blueprint coursework prototype: Reality/Void realm swaps, telekinesis, patrol AI, and stealth/traversal puzzle hooks.
+- <span class="project-title">Void Knights</span> — UE5 Blueprint coursework prototype: Reality/Void realm swaps, telekinesis, patrol AI, and stealth/traversal puzzle hooks.
 
-[View on Itch.io](https://goldleafinteractive.itch.io/void-knights) · [Projects](projects)
+[View Void Knights on Itch.io](https://goldleafinteractive.itch.io/void-knights) · [Projects](projects)
 
-- I AM INEVITABLE — Chillenium '26 UE5 jam build: defeat-scaling stats, wall movement, and dash payoff in a compact platforming loop.
+- <span class="project-title">I AM INEVITABLE</span> — Chillenium '26 UE5 jam build: defeat-scaling stats, wall movement, and dash payoff in a compact platforming loop.
 
-[Windows on itch.io](https://goldleafinteractive.itch.io/i-am-inevitable) · [Projects](projects)
+[Download I AM INEVITABLE on itch.io](https://goldleafinteractive.itch.io/i-am-inevitable) · [Projects](projects)
 
-- Quantum Tether — Texas Game Jam 2025 weekend ship: mouse grappling, dash recovery, corrupted anchors, weighted procedural chunks, upgrades, and score-as-time flow.
+- <span class="project-title">Quantum Tether</span> — Texas Game Jam 2025 weekend ship: mouse grappling, dash recovery, corrupted anchors, weighted procedural chunks, upgrades, and score-as-time flow.
 
-[View on Itch.io](https://goldleafinteractive.itch.io/quantum-tether) · [Projects](projects) · [Trailer](https://www.youtube.com/watch?v=RNs4yKPhfGM)
+[View Quantum Tether on Itch.io](https://goldleafinteractive.itch.io/quantum-tether) · [Projects](projects) · [Trailer](https://www.youtube.com/watch?v=RNs4yKPhfGM)
 
 - C++ sandbox & Python tooling experiments — Small engine, automation, and workflow experiments that support Unity/Unreal learning.
 
