@@ -53,5 +53,3 @@ Code (C# / C++ / Blueprints-level), design pipelines, technical art, level desig
 **Internal Judiciary Committee** · **2017 – 2018**
 
 ---
-
- [← Back to Home](index)
