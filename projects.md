@@ -20,9 +20,9 @@ Solo developed project—inspired loosely by the 1995 movie ***Hackers***: break
   <img src="/assets/images/access-granted.png" alt="Access Granted CRT-style gameplay" style="max-width: 600px; width: 100%;">
 </p>
 
-- Block breaker ↔ typing challenges respect the player—slow-mo triggers
+- Block breaker ↔ typing challenges respect the player— slow-mo triggers during CMD challenges
 - CRT effect is intentional: barrel distortion + scanlines attempt to imitate a 90's era terminal.
-- **Two** strike tracks (ball drops vs mistypes); **word pools chunked in data**. Three tiers of difficulty from levels 1-15.
+- **Two** strike tracks (ball drops vs mistypes) determine fail states. Three tiers of difficulty from levels 1-15.
 
 <div class="itch-embed-wrap" style="text-align: center; margin: 1.5rem 0;">
   <iframe id="itch-embed-access-granted-projects" title="Itch.io: Access Granted" frameborder="0" loading="lazy" src="https://itch.io/embed/4475328?linkback=true&amp;border_width=2&amp;bg_color=060d06&amp;fg_color=b9c6e4&amp;link_color=00edd6&amp;border_color=084808" width="552" height="167" class="itch-embed"></iframe>
@@ -35,7 +35,7 @@ Solo developed project—inspired loosely by the 1995 movie ***Hackers***: break
 ### Dread & Breakfast
 **Unity 6 · C# · Beta / Post-jam · WebGL & Windows**
 
-Jam prototype that grew into a more polished and updated top-down ghost haunting **management** game: escalating nights, shuffled layouts, haunt kits vs guest fears, fright economy, upgrades, and the **Box of Tricks** shop provide a rogue-like gameplay style, enabling replayablity.
+Jam prototype that grew into a more polished top-down ghost **haunting simulator**: all together, the escalating nights, shuffled layouts, haunt-fear correlations, fright economy, night upgrades, and the **Box of Tricks** shop provide a rogue-like gameplay style, enabling replayablity.
 
 <p align="center">
   <img src="/assets/images/dread-and-breakfast.png" alt="Dread & Breakfast floor plan gameplay" style="max-width: 600px; width: 100%;">
@@ -56,7 +56,7 @@ Jam prototype that grew into a more polished and updated top-down ghost haunting
 ### Trenchglow
 **Unity (2D URP) · C# · In development · WebGL playable slice**
 
-*Deep*-themed jam: trench exploration in dark water—**ping-based reveals**, stamina boosts / moving rocks / gems—focused on curiosity more than twitch platforming alone.
+'*Deep*'-themed jam: Built a trench exploration game in dark, deep waters—**ping-based reveals** using a sonar ability, gems to collect, and puzzles to solve. Focused on curiosity, it's a puzzle and explorative game with mild platforming.
 
 <p align="center">
   <img src="/assets/images/trenchglow.png" alt="Trenchglow underwater key art" style="max-width: 600px; width: 100%;">
@@ -75,9 +75,9 @@ Jam prototype that grew into a more polished and updated top-down ghost haunting
 ---
 
 ### BREATHE Arcade
-**Unity 6 · C# · 2D URP · Emergent Technologies capstone · WebGL + Windows**
+**Unity 6 · C# · 2D URP · Capstone Project · WebGL + Windows**
 
-Five micro-games (sailboat, constellations, balloons, bubbles, skydiving landings)—built as an **Emergent Technologies capstone** where **actual breath drives play**, with **mic and keyboard simulations** so teachers and kiosk visitors are never blocked.
+Five micro-games (sailboat, constellations, balloons, bubbles, skydiving landings)—built as a capstone project, where the player's **actual breath drives gameplay**, with **mic and keyboard simulations** available so teachers and kiosk visitors are never blocked from testing.
 
 <p align="center">
   <img src="/assets/images/breathe-arcade.png" alt="BREATHE Arcade promo art" style="max-width: 600px; width: 100%;">
@@ -96,7 +96,7 @@ Five micro-games (sailboat, constellations, balloons, bubbles, skydiving landing
 ---
 
 ### OVERCLOCKED: Data Dash MAX
-**Unreal Engine 5.7 · C++ & Blueprints · Released (PC & Arcade Cabinet)**
+**Unreal Engine 5.7 · C++ & Blueprints · Capstone Project · Released (PC & Arcade Cabinet)**
 
 **Released** endless runner built for **arcade cabinets and desktop** alike: lane swapping, jumps, slides, pickups, escalating speed, obstacles to dodge, medals to earn, six palettes/themes to choose from, and an **offline leaderboard** to prove your skill to your friends, and see who can be the best.
 
@@ -134,7 +134,7 @@ Five micro-games (sailboat, constellations, balloons, bubbles, skydiving landing
 ---
 
 ### Mysteries of Tupni
-**Unreal Engine 5 · Blueprints · Prototype**
+**Unreal Engine 5 · Blueprints · Class Prototype**
 
 Third-person fantasy "souls-like" action adventure— worked on concepting, game design, documentation, and scope management in the early development. During production, built several systems --> **Data Table driven inventory** system (drag & drop, tooltips for details, inventory persistence between levels), other world interactables, and helped design/implement some quest/NPC hooks. This was one of my first projects ever, if not the first. Built with another student and with market assets for art.
 
@@ -147,7 +147,7 @@ Third-person fantasy "souls-like" action adventure— worked on concepting, game
 ---
 
 ### Ginger Shroom Journey
-**Unity · C# · Steam**
+**Unity · C# · Steam · Class Prototype**
 
 **Solo** developed, simple 2D adventure— built everything except art assets --> core systems, UI, SFX, 10 tilemap-painted levels, **Steamworks** shipping.
 
@@ -162,7 +162,7 @@ Third-person fantasy "souls-like" action adventure— worked on concepting, game
 ## Other Work
 
 ### Void Knights
-**Unreal Engine 5 · Blueprints**
+**Unreal Engine 5 · Blueprints · Class Prototype**
 
 *Persona*-inspired dual-world JRPG prototype—authored open-world mechanics -> **Reality / Void** realm swap, telekinesis, patrol AI, interactive props, save/load, & more; worked closely with the lead designer and lead programmer to achieve the vision that we concepted originally. Turn based combat, xp/leveling system, & more was authored by the lead programmer. Everything pertaining to open world mechanics or features used during exploration was done by myself under the guidance of the lead programmer.
 
@@ -175,7 +175,7 @@ Third-person fantasy "souls-like" action adventure— worked on concepting, game
 ---
 
 ### Medieval Shop Game
-**C++ · Windows**
+**C++ · Windows · Class Prototype**
 
 ASCII console shop simulator—**inventory, haggle, branching chat options**, using RAII/smart pointers, CMake → packed assets → installer → signed **.exe** (experimented with creating an installer & learning how security certificates work with Windows). Built for a class project, solo.
 
@@ -188,7 +188,7 @@ ASCII console shop simulator—**inventory, haggle, branching chat options**, us
 ---
 
 ### Million Miles Deep
-**Unreal Engine 5 · Blueprints**
+**Unreal Engine 5 · Blueprints · Class Prototype**
 
 Oceanic **2D** top-down bullet-hell/SHMUP — game design & concepting, authored enemy patterns and projectiles, playtesting & QA
 
@@ -202,7 +202,7 @@ Oceanic **2D** top-down bullet-hell/SHMUP — game design & concepting, authored
 ---
 
 ### Ragdoll Plainly Perilous
-**Unreal Engine 5 · Blueprints**
+**Unreal Engine 5 · Blueprints · Class Prototype**
 
 Made for Chillenium 2025 Game Jam. Experimental ragdoll-as-controller traversal with stable collision tuning. Modeled after and inspired by an old flash game (Ragdoll Avalanche 2).
 
@@ -215,7 +215,7 @@ Made for Chillenium 2025 Game Jam. Experimental ragdoll-as-controller traversal 
 ---
 
 ### Crimson Eclipse
-**Unreal Engine 5 · Blueprints**
+**Unreal Engine 5 · Blueprints · Class Prototype**
 
 Side-scrolling atmospheric horror—enemy/encounter logic, environment beats, HUD comms. Did the engine work, level design & implementation/build. Team project from my coursework, with artist teammates.
 
@@ -232,10 +232,8 @@ Side-scrolling atmospheric horror—enemy/encounter logic, environment beats, HU
 ~**16** jam/class loops if you count everything:
 
 - **I AM INEVITABLE** (UE5 · Chillennium ’26) — defeats raise stats; platformer movement with wall interplay + dashing · **[Windows](https://goldleafinteractive.itch.io/i-am-inevitable)**
-- **Doors n' Dice** · Old coursework prototype/test project - [itch](https://goldleafinteractive.itch.io/doors-n-dice)
-- **Escape Control** · Old coursework prototype/test project - see [profile](https://goldleafinteractive.itch.io/)
+- **Doors n' Dice** · Class Prototype · Old coursework prototype/test project - [itch](https://goldleafinteractive.itch.io/doors-n-dice)
+- **Escape Control** · Class Prototype · Old coursework prototype/test project - see [profile](https://goldleafinteractive.itch.io/)
 - Misc mechanics labs · old capture exports for class submissions **maybe** later for archive
 
 ---
-
- [← Back to Home](index)

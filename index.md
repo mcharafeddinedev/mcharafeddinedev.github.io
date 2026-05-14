@@ -6,7 +6,7 @@ nav_order: 1
 
 # Gameplay Systems Engineer · Technical Designer
 
-Hey — I'm Marwan. I develop games, mostly **designing and engineering gameplay systems**: readable mechanics, durable loops, tunable data, and feedback players can trust—**from first playable slice to shipping a complete product**.
+Hey — I'm Marwan. I develop games, mostly **designing and engineering gameplay systems**: creating readable mechanics, replayable loops, tunable data, and instant feedback to player actions and reactions—I build projects **from concepting to shipping.**
 
 **Unity (C#)** and **Unreal (C++ & Blueprints)** are my strongest engines/languages; I work as both a **technical designer and implementer**. I recently completed my **A.A.S. in Digital Gaming & Simulation (Programmers)**, and I'm starting to learn **Godot**. I'm always looking to learn and stay up to date with cutting edge game dev tech.
 
