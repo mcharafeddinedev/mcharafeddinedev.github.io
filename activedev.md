@@ -8,21 +8,21 @@ nav_exclude: true
 
 I recently completed my A.A.S. in Digital Gaming & Simulation (Programmers) and I'm focused on growing my game dev knowledge, turning my game ideas into playable, testable systems, and finding my place in the industry.
 
-I work as a Gameplay Engineer and Technical Designer: building mechanics, loops, UI/session flow, tuning data, and player-facing feedback in-engine. I use AI-assisted tooling where it helps, with strict supervision, but design intent, integration, review, and playtesting stay under my control.
+I work as a Gameplay Engineer and Technical Designer: building mechanics, loops, UI/session flow, tuning data, and player-facing feedback in-engine. I use <span class="term">AI-assisted tooling</span> where it helps, with strict supervision, but design intent, integration, review, and playtesting stay under my control.
 
 ---
 
 ## Skills & Expertise
 
-**Engines & implementation** — Unity (C#) and Unreal Engine (C++ / Blueprints) for gameplay systems, UI/session flow, tuning data, WebGL, and Windows builds. Godot is next in my learning path.
+**Engines & implementation** — <span class="term">Unity (C#)</span> and <span class="term">Unreal Engine (C++ / Blueprints)</span> for gameplay systems, UI/session flow, tuning data, <span class="term">WebGL</span>, and Windows builds. <span class="term">Godot</span> is next in my learning path.
 
-**Gameplay & systems thinking** — Mechanics, fail states, escalation, progression, economies, central behavior controllers, weighted spawns, and data-first workflows that keep iteration manageable.
+**Gameplay & systems thinking** — Mechanics, fail states, escalation, progression, economies, central behavior controllers, weighted spawns, and <span class="term">data-first workflows</span> that keep iteration manageable.
 
-**Procedural content** — PCG with authored guardrails: chunked levels, tiered obstacle pools, readable variation, and playtesting to keep progression fair.
+**Procedural content** — <span class="term">PCG</span> with authored guardrails: chunked levels, tiered obstacle pools, readable variation, and playtesting to keep progression fair.
 
-**Input and feedback** — Breath hardware, serial input, mic/keyboard fallbacks, arcade/gamepad-first controls, CRT presentation, shader-driven feedback, and WebGL performance fallbacks.
+**Input and feedback** — Breath hardware, serial input, mic/keyboard fallbacks, arcade/gamepad-first controls, CRT presentation, shader-driven feedback, and <span class="term">WebGL performance fallbacks</span>.
 
-**How I work** — Prototype, playtest, revise, document, and ship on itch / Steam when appropriate. I keep notes, devlogs, and project documentation so intent and decisions stay traceable.
+**How I work** — Prototype, playtest, revise, document, and ship on <span class="term">itch</span> / <span class="term">Steam</span> when appropriate. I keep notes, devlogs, and project documentation so intent and decisions stay traceable.
 
 ---
 
@@ -67,7 +67,7 @@ I work as a Gameplay Engineer and Technical Designer: building mechanics, loops,
 ## Current focuses
 
 - Keeping this site, LinkedIn, and GitHub aligned with recent work.
-- Learning Godot while continuing Unity/Unreal production habits.
+- Learning <span class="term">Godot</span> while continuing <span class="term">Unity</span>/<span class="term">Unreal</span> production habits.
 - Expanding Trenchglow and scoping a long-term fantasy action-adventure direction.
 - Applying to studios while continuing to prototype, playtest, and document new work.
 

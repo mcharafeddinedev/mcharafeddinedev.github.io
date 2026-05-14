@@ -433,17 +433,23 @@ body {
   border-radius: 0 4px 4px 0 !important;
 }
 
-/* --- Strong/bold: subtle emphasis, not a second heading system --- */
+/* --- Inline emphasis: labels vs. selected technical terms --- */
 
 .main-content strong {
-  color: rgba(235, 255, 235, 0.96) !important;
+  color: #ffd166 !important;
   font-weight: 600 !important;
-  text-shadow: none !important;
+  text-shadow: 0 0 6px rgba(255, 209, 102, 0.14) !important;
 }
 
 .main-content li strong {
   color: inherit !important;
   text-shadow: none !important;
+}
+
+.main-content .term {
+  color: #8efcff !important;
+  font-weight: 500 !important;
+  text-shadow: 0 0 6px rgba(0, 237, 214, 0.16) !important;
 }
 
 .main-content h1 strong,

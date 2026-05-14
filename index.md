@@ -9,7 +9,7 @@ nav_order: 1
 
 Hey — I'm Marwan. I design and build gameplay systems & simulations: readable mechanics, replayable loops, tunable data, and feedback players can trust. I take projects from concept to playable release.
 
-Unity (C#) and Unreal Engine (C++ & Blueprints) are my strongest tools; I work as both a technical designer and implementer. I recently completed my A.A.S. in Digital Gaming & Simulation (Programmers), I'm starting to learn Godot, and I keep learning new engines, tools, and workflows as the industry evolves.
+<span class="term">Unity (C#)</span> and <span class="term">Unreal Engine (C++ & Blueprints)</span> are my strongest tools; I work as both a technical designer and implementer. I recently completed my A.A.S. in Digital Gaming & Simulation (Programmers), I'm starting to learn <span class="term">Godot</span>, and I keep learning new engines, tools, and workflows as the industry evolves.
 
 I also bring QA instincts to my systems building process—twenty-five years as a gamer has trained me to notice friction, pacing, and edge cases early.
 
@@ -51,7 +51,7 @@ Unreal 5 endless runner built for PC + school arcade hardware. Lanes, jump/slide
 
 **Systems & design** — Prototyping in-engine, tuning rules and pacing, building player-facing mechanics, and keeping project state maintainable.
 
-**Engines & tooling** — Unity, Unreal, WebGL when needed; Godot learning in progress. I use AI-assisted workflows where they help, while keeping ownership of intent, review, integration, and playtesting.
+**Engines & tooling** — <span class="term">Unity</span>, <span class="term">Unreal</span>, <span class="term">WebGL</span> when needed; <span class="term">Godot</span> learning in progress. I use <span class="term">AI-assisted workflows</span> where they help, while keeping ownership of intent, review, integration, and playtesting.
 
 **Playtesting & collab** — Clear notes, reproducible bug reports, readable feedback, and coordination with artists, programmers, and designers.
 
