@@ -1,23 +1,23 @@
 ---
 title: My History
+description: "Experience and education for Gameplay Engineer and Technical Designer Marwan Charafeddine, including independent game development and formal game programming education."
 nav_order: 3
 ---
 
-# Work History
+# Experience
 
 ---
 
 ## Independent development
 
-### Indie game developer
+### Independent Game Developer / Gameplay Engineer & Technical Designer
 **Gold Leaf Interactive** · Houston, TX · **2024 – Present**
 
-- **Gameplay systems** end-to-end—mechanics & production, data, pacing, player onboarding, WebGL/kiosk quirks
-- **Multi-engine:** Unity (**Access Granted**, **Dread & Breakfast**, **Trenchglow**, **BREATHE**) · UE (**Overclocked: DDM**, **I AM INEVITABLE**, jams & class work), looking forward to learning Godot and experimenting with other engines when possible. I like to stay current with cutting edge technologies, and up-and-coming engines are no different.
+- **Gameplay systems** end-to-end—mechanics, production, tuning data, pacing, onboarding, WebGL, and kiosk/arcade constraints
+- **Multi-engine:** Unity (**Access Granted**, **Dread & Breakfast**, **Trenchglow**, **BREATHE**) · Unreal (**Overclocked: DDM**, **I AM INEVITABLE**, jams & class work)
 - **Browser builds** with patch history—**[Access Granted](https://goldleafinteractive.itch.io/access-granted)**, **[Dread & Breakfast](https://goldleafinteractive.itch.io/dread-and-breakfast)**, **[Trenchglow](https://goldleafinteractive.itch.io/trenchglow)**, **[BREATHE Arcade](https://goldleafinteractive.itch.io/breathe-arcade)**
-- **Overclocked: Data Dash MAX** (UE5 **C++**)—arcade + PC, components, procedural gen, authored patterns, boards, cabinet perf
-- **Steam** uploading via **SteamPipeGUI** (e.g. Ginger Shroom Journey)
-- **README / design companions and other documentation** for readers who want more than the itch description.
+- **Overclocked: Data Dash MAX** (UE5 **C++**)—arcade + PC controls, procedural patterns, HUD flow, boards, and cabinet tuning
+- **Documentation** via README files, design companions, devlogs, portfolio pages, and public project notes
 
 ---
 

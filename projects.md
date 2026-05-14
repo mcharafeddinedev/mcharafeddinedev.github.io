@@ -1,9 +1,10 @@
 ---
 title: My Projects
+description: "Playable Unity and Unreal projects by Marwan Charafeddine, including Access Granted, Dread & Breakfast, BREATHE Arcade, OVERCLOCKED, and Trenchglow."
 nav_order: 2
 ---
 
-# Projects
+# Game Projects
 
 [Current Pursuits →](activedev)
 
@@ -14,15 +15,15 @@ nav_order: 2
 ### ACCESS GRANTED
 **Unity 6 · C# · URP · Released · WebGL + Windows**
 
-Solo developed project—inspired loosely by the 1995 movie ***Hackers***: breakout with a unique twist, with the illusion of a CRT terminal display; typed command challenges finish special bricks while the ball stays in play. Runs in-browser and available for download.
+Released solo project that blends brick-breaker play with reactive typing challenges inside a CRT-terminal aesthetic.
 
 <p align="center">
   <img src="/assets/images/access-granted.png" alt="Access Granted CRT-style gameplay" style="max-width: 600px; width: 100%;">
 </p>
 
-- Block breaker ↔ typing challenges respect the player— slow-mo triggers during CMD challenges
-- CRT effect is intentional: barrel distortion + scanlines attempt to imitate a 90's era terminal.
-- **Two** strike tracks (ball drops vs mistypes) determine fail states. Three tiers of difficulty from levels 1-15.
+- Built the paddle/ball loop, command-brick slow motion, typed prompt resolution, menus, and WebGL/Windows release flow.
+- Tuned separate failure tracks for ball drops and mistyped commands, with three difficulty tiers across levels 1-15.
+- Used barrel distortion, scanlines, UI styling, and patch iteration to keep the CRT identity readable during play.
 
 <div class="itch-embed-wrap" style="text-align: center; margin: 1.5rem 0;">
   <iframe id="itch-embed-access-granted-projects" title="Itch.io: Access Granted" frameborder="0" loading="lazy" src="https://itch.io/embed/4475328?linkback=true&amp;border_width=2&amp;bg_color=060d06&amp;fg_color=b9c6e4&amp;link_color=00edd6&amp;border_color=084808" width="552" height="167" class="itch-embed"></iframe>
@@ -35,15 +36,15 @@ Solo developed project—inspired loosely by the 1995 movie ***Hackers***: break
 ### Dread & Breakfast
 **Unity 6 · C# · Beta / Post-jam · WebGL & Windows**
 
-Jam prototype that grew into a more polished top-down ghost **haunting simulator**: all together, the escalating nights, shuffled layouts, haunt-fear correlations, fright economy, night upgrades, and the **Box of Tricks** shop provide a rogue-like gameplay style, enabling replayablity.
+Top-down ghost haunting simulator about scaring guests through escalating nights, shuffled rooms, haunt abilities, and a replayable fright economy.
 
 <p align="center">
   <img src="/assets/images/dread-and-breakfast.png" alt="Dread & Breakfast floor plan gameplay" style="max-width: 600px; width: 100%;">
 </p>
 
-- PCG house pass—currently only 2 templates but room to add more, same with readable different props & characters
-- **One** central guest behavior controller—all visitors can wander, chatter, experience fear escalation, and cause panic chains by scaring other guests.
-- **17** haunts (abilities) authored as reusable data points, plus a modest event/messaging layer for player feedback; meta-shop points & abilities are persistent, even in browser play.
+- Built PCG-style house layout support with readable room templates, props, and guest setups for night-to-night variety.
+- Centralized guest behavior so visitors can wander, chatter, escalate fear, and trigger panic chains.
+- Authored **17** reusable haunt abilities, persistent meta-shop progress, and event-driven feedback for browser play.
 
 <div class="itch-embed-wrap" style="text-align: center; margin: 1.5rem 0;">
   <iframe id="itch-embed-dread-breakfast" title="Itch.io: Dread & Breakfast" frameborder="0" loading="lazy" src="https://itch.io/embed/4471600?linkback=true&amp;bg_color=000000&amp;fg_color=e6d699&amp;link_color=fa5c5c&amp;border_color=282828" width="552" height="167" class="itch-embed"></iframe>
@@ -56,15 +57,15 @@ Jam prototype that grew into a more polished top-down ghost **haunting simulator
 ### Trenchglow
 **Unity (2D URP) · C# · In development · WebGL playable slice**
 
-'*Deep*'-themed jam: Built a trench exploration game in dark, deep waters—**ping-based reveals** using a sonar ability, gems to collect, and puzzles to solve. Focused on curiosity, it's a puzzle and explorative game with mild platforming.
+WebGL deep-sea exploration slice built around sonar pings, dark-water navigation, collectibles, puzzles, and curiosity-first traversal.
 
 <p align="center">
   <img src="/assets/images/trenchglow.png" alt="Trenchglow underwater key art" style="max-width: 600px; width: 100%;">
 </p>
 
-- **Shader-driven sonar** paints each ping into a radiating reveal before it fades—**paired with a toned-down fallback** for strained WebGL / budget GPUs.
-- **Layered vignette**: a tight local clear spot is maintainted **plus** vsibility rings that widen with sonar, **timed SFX** so what you hear matches what flashes on-screen.
-- **More levels planned.**
+- Built shader-driven sonar reveals with a toned-down fallback for WebGL and lower-end GPUs.
+- Layered local visibility, widening sonar rings, and timed SFX so audio and reveal feedback line up.
+- Shipped a tutorial slice and started expanding toward additional trench layouts and puzzle spaces.
 
 <div class="itch-embed-wrap" style="text-align: center; margin: 1.5rem 0;">
   <iframe id="itch-embed-trenchglow" title="Itch.io: Trenchglow" frameborder="0" loading="lazy" src="https://itch.io/embed/4513861?linkback=true&amp;bg_color=0a1628&amp;fg_color=cfe8ff&amp;link_color=f5a524&amp;border_color=1a3d5c" width="552" height="167" class="itch-embed"></iframe>
@@ -77,15 +78,15 @@ Jam prototype that grew into a more polished top-down ghost **haunting simulator
 ### BREATHE Arcade
 **Unity 6 · C# · 2D URP · Capstone Project · WebGL + Windows**
 
-Five micro-games (sailboat, constellations, balloons, bubbles, skydiving landings)—built as a capstone project, where the player's **actual breath drives gameplay**, with **mic and keyboard simulations** available so teachers and kiosk visitors are never blocked from testing.
+Five breath-controlled micro-games built around a shared input layer for custom hardware, USB mic input, and keyboard simulation.
 
 <p align="center">
   <img src="/assets/images/breathe-arcade.png" alt="BREATHE Arcade promo art" style="max-width: 600px; width: 100%;">
 </p>
 
-- **One breath-driven input layer** for the **custom fan**, **USB mic**, and **keyboard simulator**—same normalized signal for every mini-game, so gameplay never forks into duplicate code paths per device.
-- **MCU firmware → UART** enters Unity on a **worker thread** with **automatic COM discovery**, **moving-window smoothing**, and **glitch spike rejection**; coursework includes **hardware/wiring docs** reviewers can follow without guesswork.
-- **Shared smoothing** compensates **fan motor spin-down lag** versus real airflow decay; five experiences **share one scoring/results shell** with lightweight **per-mode tuning structs** instead of reinventing UX each time.
+- Designed one normalized breath-input path so fan hardware, USB mic, and keyboard fallback feed the same mini-game logic.
+- Handled MCU/serial input on a worker thread with COM discovery, smoothing, and spike rejection for reliable demos.
+- Shared scoring/results UX and per-mode tuning structs across all five games instead of duplicating flow per activity.
 
 <div class="itch-embed-wrap" style="text-align: center; margin: 1.5rem 0;">
   <iframe id="itch-embed-breathe-arcade" title="Itch.io: BREATHE Arcade" frameborder="0" loading="lazy" src="https://itch.io/embed/4475446?linkback=true&amp;bg_color=d6f5ff&amp;fg_color=0b2d3f&amp;link_color=ff4f6e&amp;border_color=93cdea" width="552" height="167" class="itch-embed"></iframe>
@@ -96,17 +97,17 @@ Five micro-games (sailboat, constellations, balloons, bubbles, skydiving landing
 ---
 
 ### OVERCLOCKED: Data Dash MAX
-**Unreal Engine 5.7 · C++ & Blueprints · Capstone Project · Released (PC & Arcade Cabinet)**
+**Unreal Engine 5 · C++ & Blueprints · Capstone Project · Released (PC & Arcade Cabinet)**
 
-**Released** endless runner built for **arcade cabinets and desktop** alike: lane swapping, jumps, slides, pickups, escalating speed, obstacles to dodge, medals to earn, six palettes/themes to choose from, and an **offline leaderboard** to prove your skill to your friends, and see who can be the best.
+Released Unreal endless runner built for desktop and arcade cabinet play, with lane movement, speed escalation, pickups, medals, themes, and offline leaderboards.
 
 <p align="center">
   <img src="/assets/images/overclocked-data-dash-max.png" alt="OVERCLOCKED: Data Dash MAX" style="max-width: 600px; width: 100%;">
 </p>
 
-- **C++ gameplay layer** owns spawning, locomotion (**lane swap / jump / slide**), pickups, HUD, and **menu flow** — gamepad-first playtesting was done so sticks and cabinet buttons never feel like a ported mouse hack.
-- **40+ obstacle combos** are **named pattern chunks** authored in structured data—each chunk sits in a **difficulty tier** (early tiers teach dodge spacing and lane reads; higher tiers shorten gaps and overlap hazards deliberately). During a run, **speed ramps** and **heavier tiers enter the weighted pool**, so escalating pressure stays **readable and authored**, not just RNG spikes.
-- **Six** visual palettes or themes provided; **pickup pacing and HUD clarity** was iterated and playtested on **PC**, then **re-balanced on real arcade hardware** once inputs were wired.
+- Built C++ gameplay systems for lane swap, jump/slide, spawning, pickups, HUD, menu flow, and gamepad-first control.
+- Authored **40+** obstacle pattern chunks with difficulty tiers and weighted escalation so pressure rises without unreadable RNG spikes.
+- Tuned pacing, HUD clarity, six visual themes, and arcade-cabinet input feel through PC and hardware playtesting.
 
 <div class="itch-embed-wrap" style="text-align: center; margin: 1.5rem 0;">
   <iframe id="itch-embed-overclocked-projects" title="Itch.io: Overclocked DDM" frameborder="0" loading="lazy" src="https://itch.io/embed/4278897?linkback=true&amp;border_width=5&amp;bg_color=000000&amp;fg_color=fffcbc&amp;link_color=46ffd4&amp;border_color=979797" width="552" height="167" class="itch-embed"></iframe>
@@ -136,7 +137,7 @@ Five micro-games (sailboat, constellations, balloons, bubbles, skydiving landing
 ### Mysteries of Tupni
 **Unreal Engine 5 · Blueprints · Class Prototype**
 
-Third-person fantasy "souls-like" action adventure— worked on concepting, game design, documentation, and scope management in the early development. During production, built several systems --> **Data Table driven inventory** system (drag & drop, tooltips for details, inventory persistence between levels), other world interactables, and helped design/implement some quest/NPC hooks. This was one of my first projects ever, if not the first. Built with another student and with market assets for art.
+Third-person fantasy "souls-like" action adventure. I worked on early concept/design, documentation, and scope management, then built a **Data Table driven inventory** system, interactables, and quest/NPC hooks. This was one of my first game projects, built with another student and market assets for art.
 
 <p align="center">
   <img src="/assets/images/mysteries-of-tupni.png" alt="Mysteries of Tupni" style="max-width: 600px; width: 100%;">
@@ -149,7 +150,7 @@ Third-person fantasy "souls-like" action adventure— worked on concepting, game
 ### Ginger Shroom Journey
 **Unity · C# · Steam · Class Prototype**
 
-**Solo** developed, simple 2D adventure— built everything except art assets --> core systems, UI, SFX, 10 tilemap-painted levels, **Steamworks** shipping.
+**Solo** developed, simple 2D adventure. Built everything except art assets: core systems, UI, SFX, 10 tilemap-painted levels, and **Steamworks** shipping.
 
 <p align="center">
   <img src="/assets/images/ginger-shroom-journey.png" alt="Ginger Shroom Journey" style="max-width: 600px; width: 100%;">
@@ -190,7 +191,7 @@ ASCII console shop simulator—**inventory, haggle, branching chat options**, us
 ### Million Miles Deep
 **Unreal Engine 5 · Blueprints · Class Prototype**
 
-Oceanic **2D** top-down bullet-hell/SHMUP — game design & concepting, authored enemy patterns and projectiles, playtesting & QA
+Oceanic **2D** top-down bullet-hell/SHMUP — game design, enemy pattern authoring, projectile setup, playtesting, and QA.
 
 <p align="center">
   <img src="/assets/images/million-miles-deep.png" alt="Million Miles Deep" style="max-width: 260px; width: 48%; display: inline-block;">

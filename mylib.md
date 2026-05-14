@@ -5,11 +5,11 @@ nav_order: 4
 
 # Games That Shaped Me
 
-I grew up reading popular fantasy and fiction novels, as well as playing every kind of game I could get to run on our shared home PC or consoles. Games quickly overtook everything as my favorite medium of storytelling and of passing time. 
+Games have been my favorite medium for almost as long as I can remember. As a kid, I read a lot of fantasy and fiction, but I also grew up watching huge franchises evolve in real time: **The Legend of Zelda**, and what I still think of as the golden age of **Call of Duty** — *CoD 2*, *Modern Warfare* (2007), *Modern Warfare 2* (2009), and *World at War*.
 
-Once I saw how purposeful mechanics can blend with pacing, design, substantive narrative and well-built worlds, I realized how immersive and significant games media could be, even outdoing some of the best literature and films in immersion and entertainment potential, in my opinion. I realized that very young, and I still hold that belief; many games have molded my perspectives growing up, much like movies and literature.
+I couldn't get enough of game worlds like those in **Fable**, **Ocarina of Time**, and **TES IV: Oblivion**. Oblivion especially made me realize that a well-designed game — story, mechanics, visuals, audio, and all the details that make it feel alive — could offer an incredible amount of immersion and agency. With the right design directions and clean gameplay, playing could feel like diving into your favorite story, or even something entirely new, and steering your own exploration of that universe.
 
-Here is a rough backlog of some games I've experienced—these may steer what I prototype or publish next.
+My design philosophies and creative direction will probably always be shaped by games like these. Here is a rough library of some games I've played over the years:
 
 ---
 
@@ -27,7 +27,8 @@ Titles below are grouped by platform **family**.
 - Metroid Fusion
 - Metroid Prime
 - Castlevania: Symphony of the Night
-- Pokémon Red / Blue / Yellow / Gold / Silver / Crystal / Ruby / Sapphire / Emerald / FireRed / LeafGreen
+- Pokémon Red / Blue / Yellow / Gold / Silver / Crystal
+- Pokémon Ruby / Sapphire / Emerald / FireRed / LeafGreen
 - Luigi's Mansion 
 - Animal Crossing
 - Stardew Valley
@@ -52,7 +53,7 @@ Titles below are grouped by platform **family**.
 
 ### Licensed / Kids / Adaptations / Misc
 - Lego Star Wars / Complete Saga / The Skywalker Saga
-- Spider-Man 2 (GC/PS2 era ports)
+- Spider-Man 2 (GC/PS2 ports)
 - Harry Potter Franchise Games
 - GoldenEye 007
 - King Kong 
@@ -62,6 +63,19 @@ Titles below are grouped by platform **family**.
 - F-Zero X / GX
 - 1080° Avalanche
 - Wii Sports 
+
+### Handheld / Game Boy / DS odds and ends
+- Pokémon Stadium
+- Pokémon Snap
+- Super Mario Land / Wario Land
+- WarioWare
+- Nintendogs
+- Brain Age
+
+### GameCube / Wii staples
+- Metroid Prime 2: Echoes
+- Resident Evil 4
+- The Simpsons: Hit & Run
 
 ## Sony Systems (PlayStation family)
 
@@ -93,18 +107,33 @@ Titles below are grouped by platform **family**.
 ### Fighters, rhythm & racers
 
 - Tekken 3 / 4 
-- Street Fighter IV-onward arcs I touched
-- Mortal Kombat X stretch
-- SoulCalibur IV era
-- Guitar Hero / Rock Band catalogue
+- Street Fighter IV
+- Mortal Kombat X 
+- SoulCalibur IV
+- Guitar Heros / Rock Band 
 - LittleBigPlanet
-- Need for Speed (only a handful)
+- Need for Speed
+
+### PS2 / PS3 action and licensed staples
+- Ratchet & Clank series
+- Jak and Daxter series
+- Prince of Persia: The Sands of Time
+- Devil May Cry 1 / 3
+- Onimusha
+- Okami
+- Kingdom Hearts: Chain of Memories
+- Dragon Ball Z: Budokai
+- Naruto: Ultimate Ninja
+- Bully
+- Destroy All Humans!
+- TimeSplitters 2 / Future Perfect
+- Black
 
 ## Microsoft Systems (Xbox family)
 
-### First-party marquee
-
+### Xbox / Xbox 360 / Xbox One
 - Halo: CE / 2 / 3 / ODST / Reach / 4 / 5 / Infinite
+- Halo Wars
 - Gears of War 1–5
 - Fable / II / Anniversary
 - Microsoft Flight Simulator
@@ -113,6 +142,26 @@ Titles below are grouped by platform **family**.
 - State of Decay / 2
 - The Outer Worlds
 - Ori and the Blind Forest
+- Fable III
+- Perfect Dark Zero
+- Lost Odyssey
+- Viva Piñata
+- Banjo-Kazooie: Nuts & Bolts
+- Crackdown 2
+- Dead Rising / Dead Rising 2
+- Army of Two
+- Lost Planet / Lost Planet 2
+- Prototype / Prototype 2
+- Mirror's Edge
+- Prey (2006)
+- BioShock 2 / Infinite
+- Homefront
+- Medal of Honor
+- Spec Ops: The Line
+- L.A. Noire
+- Skate / Skate 2 / Skate 3
+- Burnout Paradise
+- Midnight Club: Los Angeles
 
 ### Bethesda & modern id shooters
 
@@ -128,10 +177,16 @@ Titles below are grouped by platform **family**.
 ### Souls-style / Monster
 
 - Dark Souls: Remastered / II / III
-- Elden Ring
+- Elden Ring / Nightreign
 - Sekiro: Shadows Die Twice
 - Nioh / Nioh 2
 - Monster Hunter: World
+- ARMORED CORE VI
+- Black Myth: Wukong
+- Blasphemous
+- Lords of the Fallen
+- No Rest for the Wicked
+- Tainted Grail: The Fall of Avalon
 
 ### Blockbuster · stealth  · remakes
 
@@ -140,26 +195,51 @@ Titles below are grouped by platform **family**.
 - Mass Effect trilogy / Andromeda / Legendary Edition
 - Quantum Break
 - Control
-- Resident Evil  5
+- Resident Evil 4 / 5 / 7: Biohazard / Village
 - Batman: Arkham Asylum
 - Hogwarts Legacy
 - Devil May Cry anthology
 - Star Wars Jedi: Fallen Order / Survivor
 - Grand Theft Auto III → GTA V, Online
 - Red Dead Redemption I, II, and Online
-- Assassin's Creed anthology
+- Assassin's Creed anthology (Unity / Odyssey / Valhalla / Mirage / Shadows)
 - Watch Dogs & Watch Dogs 2
 - Saints Row 2
 - Mafia staples (I · II)
 - Middle-earth: Shadow of Mordor / War
 - Far Cry arcs (III · IV · V)
+- Tomb Raider
+- Darksiders / Darksiders II
+- Lollipop Chainsaw
+- South Park: The Stick of Truth / The Fractured But Whole
+- Ancestors: The Humankind Odyssey
+- Dying Light 2
+- Final Fantasy VII Remake Intergrade
+- HITMAN World of Assassination
+- Kena: Bridge of Spirits
+- Like a Dragon Gaiden: The Man Who Erased His Name
+- Marvel Rivals
+- Metal Gear & Metal Gear 2: Solid Snake
+- Metal Gear Solid Master Collection
+- Metal Gear Solid Delta: Snake Eater
+- NieR:Automata
+- Shadow Man / Remastered
+- Sherlock Holmes Chapter One
+- SpongeBob SquarePants: Battle for Bikini Bottom / The Cosmic Shake
+- Star Wars Battlefront II
+- Star Wars Jedi Power Battles
+- Stubbs the Zombie in Rebel Without a Pulse
+- The Precinct
+- Warhammer 40K: Space Marine / Space Marine 2
 
 ### Tactical shooters · arena · extraction
-- Battlefield 1942 to now, including Bad Company 1, 2, Hardline, etc.
+- ARC Raiders
+- Battlefield 1942 to now, including Battlefield 1 / 4 / V / 2042 / 6, Bad Company 1 / 2, Hardline, etc.
 - The Call of Duty continuum
 - Destiny / Destiny 2
 - Titanfall / Titanfall 2
 - Apex Legends
+- Valorant
 - Overwatch / Overwatch 2
 - Rainbow Six Siege
 - Paladins
@@ -168,14 +248,41 @@ Titles below are grouped by platform **family**.
 - Borderlands
 - Crysis trilogy
 - Wolfenstein reboots
-- Metro continuity
+- Metro continuity, including Metro Exodus
 - Left 4 Dead / Left 4 Dead 2
 - Back 4 Blood
 - Helldivers 2
 - Outriders
 - Payday 2 / Payday 3
 - Escape from Tarkov & EFT Arena
-- Smite
+- BattleBit Remastered
+- Bodycam
+- Caliber
+- CULTIC
+- Deadlock
+- Deadside
+- Delta Force
+- DUSK
+- THE FINALS
+- FragPunk
+- GROUND BRANCH
+- Hired Ops
+- Operation: Harsh Doorstop
+- PlanetSide 2
+- Ring of Elysium
+- Rising Storm 2: Vietnam
+- SCP: 5K
+- SCP: Secret Laboratory
+- Shatterline
+- Six Days in Fallujah
+- Sniper Elite 5
+- Spectre Divide
+- Splitgate
+- STALCRAFT: X
+- S.T.A.L.K.E.R.: Shadow of Chernobyl / Clear Sky / Call of Pripyat / S.T.A.L.K.E.R. 2: Heart of Chornobyl
+- Trepang2
+- Warface
+- World War 3
 
 ### Co-op sandboxes · live service games 
 
@@ -183,11 +290,9 @@ Titles below are grouped by platform **family**.
 - Deep Rock Galactic
 - GTFO
 - Warhammer: Vermintide / Darktide
-- Satisfactory
 - Fortnite seasons
 - Among Us
 - Fall Guys
-- Multiversus
 - Phasmophobia
 - Lethal Company
 - Valheim
@@ -196,23 +301,71 @@ Titles below are grouped by platform **family**.
 - Sons of the Forest
 - DayZ
 - PUBG: Battlegrounds
+- The Culling
 - Project Zomboid
-- Rocket League
-- Forza Horizon
 - Elder Scrolls Online
 - Lost Ark
 - New World
-- Diablo II / Diablo IV
+- Diablo II / IV
+- Castle Crashers
+- Overcooked
+- Ultimate Chicken Horse
+- Worms
+- Boomerang Fu
+- Backrooms: Escape Together
+- Content Warning
+- Crab Game
+- Dark and Darker
+- Friday the 13th: The Game
+- Green Hell
+- It Takes Two
+- King of Crabs
+- Liar's Bar
+- Palworld
+- R.E.P.O.
+- RV There Yet?
+- Schedule I
+- SCUM
+- Totally Accurate Battlegrounds
+
+### Racing / sports / vehicle games
+- Forza Horizon
+- Rocket League
+- Skate / Skate 2 / Skate 3 / skate.
+
+### MOBAs / platform fighters
+- League of Legends / Dota 2
+- Multiversus
+- Smite
 
 ### Survival-horror cousins
 
 - Dead Space anthology & remake
 - Amnesia series
 - Outlast / Outlast II
+- No More Room in Hell 2
+- Dead Frontier 2
+- Detention
+- Dreadmyst
+- The Forever Winter
+- The Long Dark
+- SIGNALIS
+- The Sinking City
+- Transience
 
 ---
 
 ## PC (Windows & Mac / Linux)
+
+### MMOs / Online RPGs
+- World of Warcraft
+- RuneScape / Old School RuneScape
+- Star Wars: The Old Republic
+- Club Penguin / ToonTown Online
+- AdventureQuest
+- The Lord of the Rings Online
+- TERA
+- Realm of the Mad God Exalt
 
 ### Medieval Slashers & Action Combat
 
@@ -225,6 +378,14 @@ Titles below are grouped by platform **family**.
 - Half-Sword
 - Metal Gear Rising: Revengeance
 - Ryse: Son of Rome
+- Exanima
+- LIZARDS MUST DIE / 2
+- We Who Are About To Die
+- Warhaven
+
+### Classic PC platformers / shareware
+- Jazz Jackrabbit / Jazz Jackrabbit 2
+- Duke Nukem 
 
 ### Valve & classic PC FPS roots
 
@@ -234,12 +395,19 @@ Titles below are grouped by platform **family**.
 - Team Fortress 2
 - Black Mesa
 - Wolfenstein 3D
+- HROT
+- POSTAL 2
+- Severed Steel
+- Warhammer 40K: Boltgun
 
 ### Tactical sims, extraction & PC
 
+- Aim Labs
 - Insurgency / Sandstorm
+- KovaaK's
 - Squad
 - Hell Let Loose
+- Over The Top: WWI
 - Post Scriptum
 - Ghost Recon 
 - Splinter Cell
@@ -247,6 +415,8 @@ Titles below are grouped by platform **family**.
 - Marauders
 - Ready or Not
 - Killing Floor / Killing Floor 2
+- Holdfast: Nations At War
+- War of Rights
 
 ### CRPGs, immersive sims & western RPGs
 
@@ -260,14 +430,64 @@ Titles below are grouped by platform **family**.
 - Thief: Deadly Shadows
 - Vampire: The Masquerade – Bloodlines
 - Dark Messiah of Might and Magic
+- Chrono Trigger
+- Dungeon Siege 2
+- Endalor
+- For the King
+- The Forgotten City
+- Hell is Us
+
+### Browser / Flash / web games
+- Stick RPG
+- Fancy Pants Adventures
+- Line Rider
+- Bloons / Bloons Tower Defense
+- Motherload
+- Age of War
+- The Last Stand
+- Madness Interactive
+- QWOP
+- Cookie Clicker
+- Defend Your Castle
+- Donuts'n'Justice
+- LIGHT NITE
+- Stick RPG 2
+
+### Mobile / social / idle games
+- Clash of Clans
+- Angry Birds
+- Plants vs. Zombies
+- Fruit Ninja
+- Temple Run
+- Flappy Bird
+- Doodle Jump
+- Cut the Rope
+- Geometry Dash
+- Candy Crush Saga
+- Bejeweled
+- Words With Friends
+- Draw Something
+- 2048
+- Plague Inc. / Evolved
+- MineSweeper Rush
+- Prominence Poker
+- Zombieville USA 3D
 
 ### Walking sims & vignette games
 
 - The Stanley Parable
 - Outer Wilds
+- A Short Hike
+- The Low Road
+- Mad Experiments: Escape Room
+- Octodad
+- Pineapple on Pizza
+- The Pedestrian
 
 ### Strategy / 4X / RTS / builders / roguelites
 
+- Besiege
+- Brotato
 - Age of Empires II–IV / Mythology
 - StarCraft
 - Warcraft III
@@ -281,15 +501,32 @@ Titles below are grouped by platform **family**.
 - Dead Cells
 - Slay the Spire 2
 - Darkest Dungeon
-
-### Competitive & party
-
-- Valorant
-- League of Legends / Dota 2
-- Multiversus
-- Smash 64, Melee
-- Boomerang Fu
+- The Sims / The Sims 2 / The Sims 3
+- Spore
+- Diablo
+- Warcraft II
+- Empire Earth
+- FATE
+- Hotline Miami
+- Braid
+- Halls of Torment
+- Highguard
+- Knightfall
+- Knight's Path: The Tournament
+- Lost Potato
+- MannaRites
+- PowerWash Simulator
+- Procrastinaut
+- Ravenswatch
+- Space Gladiators
+- Star Birds
+- Super Motherload
+- Thronefall
+- Titan Quest II
+- UFO 50
 
 ---
 
-This isn’t a completion log, and there are definitely some titles missing, these are just the one's I could come up with to list, in this moment. It's supposed to be more like a behind the scenes look at where my design instincts and gameplay influences may come from.
+Some I only spent a few hours with, others took 50, 500, or even thousands of hours. I also spent some time in amateur / semi-pro FPS competition, in **Call of Duty** and **Apex Legends**—minor tournaments, but still a big part my competitive gaming experience. 
+
+There are definitely titles missing; this is just the library I could pull together for now. Each game here left enough of an impression to belong—and all of that player experience feeds back into how I think about making games.
