@@ -54,7 +54,7 @@ Titles below are grouped by platform **family**.
 - Lego Star Wars / Complete Saga / The Skywalker Saga
 - Spider-Man 2 (GC/PS2 era ports)
 - Harry Potter Franchise Games
-- GoldenEye 007 (N64 / future re-release)
+- GoldenEye 007
 - King Kong 
 - Avatar: The Last Airbender 
 - Tony Hawk's Pro Skater
@@ -79,25 +79,20 @@ Titles below are grouped by platform **family**.
 - Ghost of Tsushima / Director's Cut
 - Uncharted 1–4 / Lost Legacy / Collection
 - Sly Cooper trilogy
-- Metal Gear Solid (PS1–PS4 eras I touched)
-- Silent Hill anthology (hardware roots anchored here even when PC ports chased later)
-- Death Stranding / Director's Cut
-- Returnal
-- Astro's Playroom / Bot-class showcases
-- Ghostwire: Tokyo
+- Metal Gear Solid 
 - Days Gone
 - Detroit: Become Human
 
 ### Playstation Shooters
 
 - Killzone
-- Resistance: Fall of Man (plus sequels as sampled)
-- SOCOM-era campaigns that lived on discs here
+- Resistance: Fall of Man 
+- SOCOM
 - Tom Clancy's Splinter Cell / Rainbow Six / Ghost Recon
 
 ### Fighters, rhythm & racers
 
-- Tekken grooves (think 3 / 4 core era)
+- Tekken 3 / 4 
 - Street Fighter IV-onward arcs I touched
 - Mortal Kombat X stretch
 - SoulCalibur IV era
@@ -119,19 +114,18 @@ Titles below are grouped by platform **family**.
 - The Outer Worlds
 - Ori and the Blind Forest
 
-### Bethesda & modern id shooters (console home skew)
+### Bethesda & modern id shooters
 
 - Fallout 3 / New Vegas / 4 / 76
 - The Elder Scrolls III / IV / V / Online
 - Starfield
-- Doom / Doom Eternal
-- Wolfenstein (classic through neo-noir reboot eras)
+- Wolfenstein (classic and reboot)
 
 ---
 
 ## Cross-platform (PC · PlayStation · Xbox)
 
-### Souls-style hunts · monster ladders
+### Souls-style / Monster
 
 - Dark Souls: Remastered / II / III
 - Elden Ring
@@ -139,31 +133,30 @@ Titles below are grouped by platform **family**.
 - Nioh / Nioh 2
 - Monster Hunter: World
 
-### Blockbuster yarns · stealth playgrounds · remake sweeps
+### Blockbuster · stealth  · remakes
 
 - Cyberpunk 2077
 - The Witcher III: Wild Hunt
 - Mass Effect trilogy / Andromeda / Legendary Edition
 - Quantum Break
 - Control
-- Resident Evil continuum (numbered saga + remake wave as sampled)
-- Batman: Arkham Asylum · City · Knight · Origins
+- Resident Evil  5
+- Batman: Arkham Asylum
 - Hogwarts Legacy
-- Devil May Cry anthology (HD collections through Ninja Theory's DmC & Devil May Cry 5 eras)
+- Devil May Cry anthology
 - Star Wars Jedi: Fallen Order / Survivor
-- Grand Theft Auto III → GTA V eras (& grazed GTA Online eras)
-- Red Dead lineage (& Online arcs touched)
+- Grand Theft Auto III → GTA V, Online
+- Red Dead Redemption I, II, and Online
 - Assassin's Creed anthology
 - Watch Dogs & Watch Dogs 2
-- Saints Row veins (chiefly Saints Row 2-era personality)
-- Mafia staples (especially I · II pillars)
+- Saints Row 2
+- Mafia staples (I · II)
 - Middle-earth: Shadow of Mordor / War
-- Far Cry arcs (especially III · IV · V stretch)
+- Far Cry arcs (III · IV · V)
 
-### Tactical shooters · arena ladders · extraction nights
-
-- Battlefield anthology (spin-offs like Bad Company + sampled mains through BF6-era drops)
-- Call of Duty franchise continuum
+### Tactical shooters · arena · extraction
+- Battlefield 1942 to now, including Bad Company 1, 2, Hardline, etc.
+- The Call of Duty continuum
 - Destiny / Destiny 2
 - Titanfall / Titanfall 2
 - Apex Legends
@@ -172,27 +165,25 @@ Titles below are grouped by platform **family**.
 - Paladins
 - Warframe
 - The Division / The Division 2
-- Borderlands anthology
-- Crysis Remastered trilogy
-- Wolfenstein reboot arc (incl. Youngblood detours)
+- Borderlands
+- Crysis trilogy
+- Wolfenstein reboots
 - Metro continuity
 - Left 4 Dead / Left 4 Dead 2
 - Back 4 Blood
 - Helldivers 2
 - Outriders
 - Payday 2 / Payday 3
-- Escape from Tarkov *(installs hop platforms but PC aim tracks matter)*
-- Hunt: Showdown
-- Smite *(third-person arena MOBA spread across stores)*
+- Escape from Tarkov & EFT Arena
+- Smite
 
-### Co-op sandboxes · rotating live games · haunt crews
+### Co-op sandboxes · live service games 
 
 - Sea of Thieves
 - Deep Rock Galactic
 - GTFO
 - Warhammer: Vermintide / Darktide
-- It Takes Two / A Way Out
-- Satisfactory conveyor co-op runs
+- Satisfactory
 - Fortnite seasons
 - Among Us
 - Fall Guys
@@ -206,8 +197,8 @@ Titles below are grouped by platform **family**.
 - DayZ
 - PUBG: Battlegrounds
 - Project Zomboid
-- Rocket League *(free-to-play era)*
-- Forza Horizon on PC & console
+- Rocket League
+- Forza Horizon
 - Elder Scrolls Online
 - Lost Ark
 - New World
@@ -215,7 +206,7 @@ Titles below are grouped by platform **family**.
 
 ### Survival-horror cousins
 
-- Dead Space anthology & remake wave
+- Dead Space anthology & remake
 - Amnesia series
 - Outlast / Outlast II
 
@@ -223,7 +214,7 @@ Titles below are grouped by platform **family**.
 
 ## PC (Windows & Mac / Linux)
 
-### Character action & melee duels
+### Medieval Slashers & Action Combat
 
 - Chivalry: Medieval Warfare / Chivalry 2
 - Mordhau
@@ -235,7 +226,7 @@ Titles below are grouped by platform **family**.
 - Metal Gear Rising: Revengeance
 - Ryse: Son of Rome
 
-### Valve orbit & classic PC FPS roots
+### Valve & classic PC FPS roots
 
 - Half-Life / Half-Life 2
 - Portal / Portal 2
@@ -250,14 +241,11 @@ Titles below are grouped by platform **family**.
 - Squad
 - Hell Let Loose
 - Post Scriptum
-- ARMA 3
-- Operation Flashpoint / Dragon Rising
-- Ghost Recon (PC builds)
-- Splinter Cell (PC builds)
+- Ghost Recon 
+- Splinter Cell
 - The Cycle: Frontier
 - Marauders
 - Ready or Not
-- ULTRAKILL
 - Killing Floor / Killing Floor 2
 
 ### CRPGs, immersive sims & western RPGs
@@ -271,10 +259,6 @@ Titles below are grouped by platform **family**.
 - Dishonored / II / Death of the Outsider
 - Thief: Deadly Shadows
 - Vampire: The Masquerade – Bloodlines
-- ELEX
-- GreedFall
-- Outward
-- Two Worlds
 - Dark Messiah of Might and Magic
 
 ### Walking sims & vignette games
@@ -287,7 +271,7 @@ Titles below are grouped by platform **family**.
 - Age of Empires II–IV / Mythology
 - StarCraft
 - Warcraft III
-- Total War anthology
+- Total War
 - Cities: Skylines
 - SimCity 4
 - Satisfactory
@@ -295,14 +279,16 @@ Titles below are grouped by platform **family**.
 - Risk of Rain
 - The Binding of Isaac
 - Dead Cells
-- Slay the Spire
+- Slay the Spire 2
 - Darkest Dungeon
 
-### Competitive ladders & party staples (PC-primary)
+### Competitive & party
 
 - Valorant
 - League of Legends / Dota 2
 - Multiversus
+- Smash 64, Melee
+- Boomerang Fu
 
 ---
 
