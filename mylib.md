@@ -15,7 +15,7 @@ Here is a rough backlog of some games I've experienced—these may steer what I 
 
 ## Nintendo Systems (NES through Switch family handhelds)
 
-Titles below are grouped by platform **family**. Anything played on PC *and* a console sits under **Cross-platform** so it only appears once.
+Titles below are grouped by platform **family**.
 
 ### Action-Adventure / RPG
 - The Legend of Zelda: A Link to the Past
@@ -65,8 +65,6 @@ Titles below are grouped by platform **family**. Anything played on PC *and* a c
 
 ## Sony Systems (PlayStation family)
 
-First-party moods, mascot summers, & PS-first campaigns. Anything I played **just as much** on PC/Xbox is listed once under Cross-platform further down—not repeated here.
-
 ### Action-adventure, RPG & spectacle character games
 
 - God of War (2005) / II / (2018) / Ragnarök
@@ -90,12 +88,12 @@ First-party moods, mascot summers, & PS-first campaigns. Anything I played **jus
 - Days Gone
 - Detroit: Become Human
 
-### Shooters tethered to PlayStation libraries
+### Playstation Shooters
 
 - Killzone
 - Resistance: Fall of Man (plus sequels as sampled)
 - SOCOM-era campaigns that lived on discs here
-- Tom Clancy's Splinter Cell / Rainbow Six / Ghost Recon installments that leaned PlayStation-side installs
+- Tom Clancy's Splinter Cell / Rainbow Six / Ghost Recon
 
 ### Fighters, rhythm & racers
 
@@ -105,11 +103,9 @@ First-party moods, mascot summers, & PS-first campaigns. Anything I played **jus
 - SoulCalibur IV era
 - Guitar Hero / Rock Band catalogue
 - LittleBigPlanet
-- Need for Speed (only the handful worth calling out—not the whole freeway)
+- Need for Speed (only a handful)
 
 ## Microsoft Systems (Xbox family)
-
-Studios tethered to Xbox / Game Pass in my orbit. Bethesda & multiplayer catalogues funnel into Cross-platform underneath so Bethesda RPGs aren't copy-pasted.
 
 ### First-party marquee
 
@@ -121,7 +117,7 @@ Studios tethered to Xbox / Game Pass in my orbit. Bethesda & multiplayer catalog
 - Crackdown
 - State of Decay / 2
 - The Outer Worlds
-- Ori and the Blind Forest (+ Will of the Wisps as a tandem playthrough)
+- Ori and the Blind Forest
 
 ### Bethesda & modern id shooters (console home skew)
 
@@ -134,8 +130,6 @@ Studios tethered to Xbox / Game Pass in my orbit. Bethesda & multiplayer catalog
 ---
 
 ## Cross-platform (PC · PlayStation · Xbox)
-
-**One braid per franchise lineage**—if it lived on Steam *and* a couch console, it's filed here exactly once.
 
 ### Souls-style hunts · monster ladders
 
@@ -219,7 +213,7 @@ Studios tethered to Xbox / Game Pass in my orbit. Bethesda & multiplayer catalog
 - New World
 - Diablo II / Diablo IV
 
-### Survival-horror cousins (when the scary bit is the point)
+### Survival-horror cousins
 
 - Dead Space anthology & remake wave
 - Amnesia series
@@ -228,8 +222,6 @@ Studios tethered to Xbox / Game Pass in my orbit. Bethesda & multiplayer catalog
 ---
 
 ## PC (Windows & Mac / Linux)
-
-Desktop-native muscle: mods, logistics sandboxes, CRPG ladders, mil-sim servers, hero shooters that never left a mouse, etc. Anything already folded into Cross-platform stays there.
 
 ### Character action & melee duels
 
@@ -252,7 +244,7 @@ Desktop-native muscle: mods, logistics sandboxes, CRPG ladders, mil-sim servers,
 - Black Mesa
 - Wolfenstein 3D
 
-### Tactical sims, extraction & PC-spicy shooters
+### Tactical sims, extraction & PC
 
 - Insurgency / Sandstorm
 - Squad
@@ -268,7 +260,7 @@ Desktop-native muscle: mods, logistics sandboxes, CRPG ladders, mil-sim servers,
 - ULTRAKILL
 - Killing Floor / Killing Floor 2
 
-### CRPGs, immersive sims & western RPG oddities
+### CRPGs, immersive sims & western RPGs
 
 - Baldur's Gate III
 - Divinity: Original Sin
