@@ -57,7 +57,7 @@ body {
   margin-top: 0.25rem !important;
   margin-left: 0 !important;
   margin-right: auto !important;
-  max-width: min(65rem, 100%) !important;
+  max-width: calc(100% - 1.25rem) !important;
   width: 100% !important;
   box-sizing: border-box !important;
 }
@@ -256,14 +256,14 @@ body {
   margin-top: 0.5rem !important;
   margin-bottom: 1rem !important;
   color: #8efcff !important;
-  text-shadow: 0 0 12px rgba(0, 237, 214, 0.38), 0 0 24px rgba(0, 237, 214, 0.16) !important;
+  text-shadow: 0 0 10px rgba(0, 237, 214, 0.24) !important;
 }
 
 .main-content h1 {
   font-size: 1.4rem !important;
   font-weight: 600 !important;
   color: #8efcff !important;
-  text-shadow: 0 0 12px rgba(0, 237, 214, 0.32), 0 0 22px rgba(0, 237, 214, 0.14) !important;
+  text-shadow: 0 0 10px rgba(0, 237, 214, 0.22) !important;
 }
 
 .main-content h2 {
@@ -272,7 +272,7 @@ body {
   margin-top: 1.5rem !important;
   margin-bottom: 0.75rem !important;
   color: #64ff9a !important;
-  text-shadow: 0 0 10px rgba(0, 255, 128, 0.42), 0 0 20px rgba(0, 255, 128, 0.16) !important;
+  text-shadow: 0 0 10px rgba(0, 255, 128, 0.24) !important;
 }
 
 .main-content h3 {
@@ -281,14 +281,14 @@ body {
   margin-top: 1.25rem !important;
   margin-bottom: 0.5rem !important;
   color: #ffd166 !important;
-  text-shadow: 0 0 10px rgba(255, 209, 102, 0.34), 0 0 18px rgba(255, 166, 77, 0.12) !important;
+  text-shadow: 0 0 8px rgba(255, 209, 102, 0.2) !important;
 }
 
 .main-content h4,
 .main-content h5,
 .main-content h6 {
-  color: #ff8bd1 !important;
-  text-shadow: 0 0 10px rgba(255, 107, 203, 0.28) !important;
+  color: rgba(215, 245, 215, 0.95) !important;
+  text-shadow: none !important;
 }
 
 .main-content > *:first-child {
@@ -303,6 +303,38 @@ body {
 
 .main-content li {
   margin-bottom: 0.25rem !important;
+}
+
+/* Resume-style rows for history/education pages */
+.main-content .history-entry {
+  margin: 0.35rem 0 0.6rem !important;
+}
+
+.main-content .history-row {
+  display: flex !important;
+  align-items: baseline !important;
+  justify-content: space-between !important;
+  flex-wrap: wrap !important;
+  gap: 1rem !important;
+}
+
+.main-content .history-title {
+  color: #ffd166 !important;
+  flex: 1 1 auto !important;
+  font-weight: 600 !important;
+}
+
+.main-content .history-date {
+  color: rgba(215, 245, 215, 0.92) !important;
+  margin-left: auto !important;
+  white-space: nowrap !important;
+  font-weight: 500 !important;
+}
+
+.main-content .history-meta {
+  color: rgba(185, 210, 185, 0.78) !important;
+  font-size: 0.92em !important;
+  margin-top: 0.1rem !important;
 }
 
 /* --- Links: neon green --- */
@@ -401,17 +433,17 @@ body {
   border-radius: 0 4px 4px 0 !important;
 }
 
-/* --- Strong/bold: high-contrast accent terms --- */
+/* --- Strong/bold: subtle emphasis, not a second heading system --- */
 
 .main-content strong {
-  color: #ffe082 !important;
+  color: rgba(235, 255, 235, 0.96) !important;
   font-weight: 600 !important;
-  text-shadow: 0 0 8px rgba(255, 224, 130, 0.26) !important;
+  text-shadow: none !important;
 }
 
 .main-content li strong {
-  color: #8efcff !important;
-  text-shadow: 0 0 8px rgba(0, 237, 214, 0.28) !important;
+  color: inherit !important;
+  text-shadow: none !important;
 }
 
 .main-content h1 strong,

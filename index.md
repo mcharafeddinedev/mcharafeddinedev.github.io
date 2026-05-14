@@ -7,11 +7,11 @@ nav_order: 1
 
 # Gameplay Systems Engineer · Technical Designer
 
-Hey — I'm Marwan. I design and build **gameplay systems**: readable mechanics, replayable loops, tunable data, and feedback players can trust. I take projects **from concept to playable release**.
+Hey — I'm Marwan. I design and build gameplay systems & simulations: readable mechanics, replayable loops, tunable data, and feedback players can trust. I take projects from concept to playable release.
 
-**Unity (C#)** and **Unreal Engine (C++ & Blueprints)** are my strongest tools; I work as both a **technical designer and implementer**. I recently completed my **A.A.S. in Digital Gaming & Simulation (Programmers)**, I'm starting to learn **Godot**, and I keep learning new engines, tools, and workflows as the industry evolves.
+Unity (C#) and Unreal Engine (C++ & Blueprints) are my strongest tools; I work as both a technical designer and implementer. I recently completed my A.A.S. in Digital Gaming & Simulation (Programmers), I'm starting to learn Godot, and I keep learning new engines, tools, and workflows as the industry evolves.
 
-I also bring **QA** instincts to my systems building process—twenty-five years as a gamer trained me to notice friction, pacing, and edge cases early.
+I also bring QA instincts to my systems building process—twenty-five years as a gamer has trained me to notice friction, pacing, and edge cases early.
 
 ---
 
@@ -39,10 +39,10 @@ This was a solo project, shipped with Unity 6 for browser play. It's essentially
 </p>
 
 <p align="center" style="margin-top: 0.5rem; max-width: 52rem; margin-left: auto; margin-right: auto; font-size: 0.95rem;">
-<strong>Unreal 5</strong> endless runner—built for <strong>PC + school arcade</strong> (joystick + buttons). Lanes, jump/slide, ramping speed, overclock bursts, medals, local boards, adjustable visual themes—<strong>gamepad</strong> playable.</p>
+Unreal 5 endless runner built for PC + school arcade hardware. Lanes, jump/slide, ramping speed, overclock bursts, medals, local boards, adjustable visual themes, and gamepad play.</p>
 
 <p align="center">
-  <strong><a href="projects">View All Projects →</a></strong>
+  <a href="projects">View All Projects →</a>
 </p>
 
 ---
@@ -51,7 +51,7 @@ This was a solo project, shipped with Unity 6 for browser play. It's essentially
 
 **Systems & design** — Prototyping in-engine, tuning rules and pacing, building player-facing mechanics, and keeping project state maintainable.
 
-**Engines & tooling** — **Unity**, **Unreal**, WebGL when needed; **Godot** learning in progress. I use **AI-assisted workflows** where they help, while keeping ownership of intent, review, integration, and playtesting.
+**Engines & tooling** — Unity, Unreal, WebGL when needed; Godot learning in progress. I use AI-assisted workflows where they help, while keeping ownership of intent, review, integration, and playtesting.
 
 **Playtesting & collab** — Clear notes, reproducible bug reports, readable feedback, and coordination with artists, programmers, and designers.
 
@@ -65,4 +65,4 @@ This was a solo project, shipped with Unity 6 for browser play. It's essentially
 
 ---
 
-Shipped prototypes, jams, and coursework—organized around **systems design and engineering**. My public repos are on **GitHub**; builds and patch logs (**playable/downloadable**) on **itch**.
+Shipped prototypes, jams, and coursework organized around systems design and engineering. My public repos are on GitHub; builds and patch logs are on itch.
