@@ -1,12 +1,22 @@
 ---
 title: My Projects
-description: "Playable Unity and Unreal projects by Marwan Charafeddine, including Access Granted, Dread & Breakfast, BREATHE Arcade, OVERCLOCKED, and Trenchglow."
+description: "Playable Unity and Unreal projects by Marwan Charafeddine — Trenchglow, BREATHE Arcade, Access Granted, OVERCLOCKED, and more."
 nav_order: 2
 ---
 
 # Game Projects
 
 [Current Focus →](activedev)
+
+---
+
+## In development
+
+Active work right now — more context on [Current Focus](activedev).
+
+- **Trenchglow** — New trench levels and puzzle spaces in progress on top of the live WebGL tutorial slice. [Play in browser](https://goldleafinteractive.itch.io/trenchglow). Updated WebGL build will be posted with Patch Notes on itch.io when the next playable slice is ready. [Full project entry below.](#trenchglow)
+- **Original fantasy world chronicle (private IP)** — ~32 chronicle-style lore entries (~30+ pages), currently in revision: lived-in background lore as the foundation for a **future game concept**. This is mainly worldbuilding and design prep for a game I want to make—not a separate writing credential, and nothing is published as standalone narrative, yet.
+- **UE5 FPS prototype (early)** [Different Private IP] — First-pass Unreal Engine 5 prototype systems/features and graybox environment; no details or playable yet. 
 
 ---
 
@@ -54,7 +64,7 @@ Top-down ghost haunting simulator about scaring guests through escalating nights
 
 ---
 
-### Trenchglow
+### Trenchglow {#trenchglow}
 Unity (2D URP) · C# · In development · WebGL playable slice
 
 WebGL deep-sea exploration slice built around sonar pings, dark-water navigation, collectibles, puzzles, and curiosity-first traversal.
@@ -65,13 +75,13 @@ WebGL deep-sea exploration slice built around sonar pings, dark-water navigation
 
 - Built shader-driven sonar reveals with a toned-down fallback for WebGL and lower-end GPUs.
 - Layered local visibility, widening sonar rings, and timed SFX so audio and reveal feedback line up.
-- Shipped a tutorial slice and started expanding toward additional trench layouts and puzzle spaces.
+- Shipped a tutorial slice; actively building additional trench layouts and puzzle spaces, with another WebGL drop planned when the next milestone is ready.
 
 <div class="itch-embed-wrap" style="text-align: center; margin: 1.5rem 0;">
   <iframe id="itch-embed-trenchglow" title="Itch.io: Trenchglow" frameborder="0" loading="lazy" src="https://itch.io/embed/4513861?linkback=true&amp;bg_color=0a1628&amp;fg_color=cfe8ff&amp;link_color=f5a524&amp;border_color=1a3d5c" width="552" height="167" class="itch-embed"></iframe>
 </div>
 
-[Play In Browser](https://goldleafinteractive.itch.io/trenchglow) · Tutorial slice live; fuller trench roadmap.
+[Play In Browser](https://goldleafinteractive.itch.io/trenchglow) · Tutorial slice live; devlog updates when the trench expands.
 
 ---
 

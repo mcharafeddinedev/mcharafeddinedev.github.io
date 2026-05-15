@@ -22,6 +22,8 @@ I work as a Gameplay Engineer and Technical Designer: building mechanics, loops,
 
 **Input and feedback** — Breath hardware, serial input, mic/keyboard fallbacks, arcade/gamepad-first controls, CRT presentation, shader-driven feedback, and <span class="term">WebGL performance fallbacks</span>.
 
+**World & IP prep** — Long-form original world chronicle (~32 entries, ~30+ pages, in revision): chronicle-style background lore as groundwork for a future game concept—design-facing worldbuilding, not a separate writing portfolio.
+
 **How I work** — Prototype, playtest, revise, document, and ship on <span class="term">itch</span> / <span class="term">Steam</span> when appropriate. I keep notes, devlogs, and project documentation so intent and decisions stay traceable.
 
 ---
@@ -68,7 +70,9 @@ I work as a Gameplay Engineer and Technical Designer: building mechanics, loops,
 
 - Keeping this site, LinkedIn, and GitHub aligned with recent work.
 - Learning <span class="term">Godot</span> while continuing <span class="term">Unity</span>/<span class="term">Unreal</span> production habits.
-- Expanding Trenchglow and scoping a long-term fantasy action-adventure direction.
+- **Trenchglow** — Building new trench levels and puzzles; updated WebGL when the next slice is ready (see [Projects](projects)).
+- **Original world chronicle** — ~32 lore entries in revision (~30+ pages); foundation for a future game IP—worldbuilding for a game concept, not external narrative publishing.
+- **UE5 FPS prototype** — Early Unreal Engine 5 graybox and systems spike only; no public build yet.
 - Applying to studios while continuing to prototype, playtest, and document new work.
 
 ---

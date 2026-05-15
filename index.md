@@ -31,6 +31,19 @@ This was a solo project, shipped with Unity 6 for browser play. It's essentially
 ---
 
 <p align="center">
+  <a href="https://goldleafinteractive.itch.io/breathe-arcade">
+    <img src="/assets/images/breathe-arcade.png"
+         alt="BREATHE Arcade — breath-controlled micro-games capstone"
+         style="max-width: 560px; width: 100%; border-radius: 8px;">
+  </a>
+</p>
+
+<p align="center" style="margin-top: 0.5rem; max-width: 52rem; margin-left: auto; margin-right: auto; font-size: 0.95rem;">
+Unity capstone: five micro-games driven by one breath-input layer—custom fan hardware, USB mic, and keyboard fallback so demos always work.</p>
+
+---
+
+<p align="center">
   <a href="https://goldleafinteractive.itch.io/overclocked-ddm">
     <img src="/assets/images/overclocked-data-dash-max.png"
          alt="Overclocked: Data Dash MAX — menu"
@@ -57,6 +70,15 @@ Unreal 5 endless runner built for PC + school arcade hardware. Lanes, jump/slide
 
 ---
 
+## Hiring & playables
+
+I'm looking for entry-level, associate, or intern roles in gameplay engineering and technical design. I'm also open to generalist or production work, and to QA-adjacent teams where I can keep contributing while growing into gameplay mechanics and systems ownership.
+
+- **Resume (PDF):** [MC_1PageResume.pdf](/assets/MC_1PageResume.pdf)
+- **Start here (in browser):** [Access Granted](https://goldleafinteractive.itch.io/access-granted) · [Dread & Breakfast](https://goldleafinteractive.itch.io/dread-and-breakfast) · [BREATHE Arcade](https://goldleafinteractive.itch.io/breathe-arcade)
+
+---
+
 ## Connect
 
 - **Itch.io:** [goldleafinteractive.itch.io](https://goldleafinteractive.itch.io)
@@ -65,4 +87,4 @@ Unreal 5 endless runner built for PC + school arcade hardware. Lanes, jump/slide
 
 ---
 
-Shipped prototypes, jams, and coursework organized around systems design and engineering. My public repos are on GitHub; builds and patch logs are on itch.
+Shipped prototypes, jams, and coursework are organized around gameplay systems and technical design. Public code is on **GitHub**; playable builds and devlogs on **itch**.

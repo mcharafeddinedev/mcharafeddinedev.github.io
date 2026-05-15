@@ -23,6 +23,7 @@ nav_order: 3
 - Browser builds with patch history: [Access Granted](https://goldleafinteractive.itch.io/access-granted), [Dread & Breakfast](https://goldleafinteractive.itch.io/dread-and-breakfast), [Trenchglow](https://goldleafinteractive.itch.io/trenchglow), [BREATHE Arcade](https://goldleafinteractive.itch.io/breathe-arcade).
 - Overclocked: Data Dash MAX (UE5 C++): arcade + PC controls, procedural patterns, HUD flow, boards, and cabinet tuning.
 - Documentation through README files, design companions, devlogs, portfolio pages, and public project notes.
+- Amateur / semi-pro FPS competition background (Call of Duty, Apex Legends) — informs feel for action combat shooters, their environment/level design, readable combat mechanics + feedback, & more.
 
 ---
 

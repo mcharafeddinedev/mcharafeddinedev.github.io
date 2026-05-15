@@ -1,15 +1,16 @@
 ---
 title: My Library
+description: "Games that shaped Me — player experience, immersion, and systems thinking."
 nav_order: 4
 ---
 
 # Games That Shaped Me
 
-Games have been my favorite medium for almost as long as I can remember. As a kid, I read a lot of fantasy and fiction, but I also grew up watching huge franchises evolve in real time: **The Legend of Zelda**, and what I still think of as the golden age of **Call of Duty** — *CoD 2*, *Modern Warfare* (2007), *Modern Warfare 2* (2009), and *World at War*.
+Games have been my favorite medium for almost as long as I can remember. As a kid, I read a lot of fantasy and fiction, but I also grew up watching huge franchises evolve in real time—**The Legend of Zelda**, and what I still think of as the golden age of **Call of Duty**: *CoD 2*, *Modern Warfare* (2007), *Modern Warfare 2* (2009), and *World at War*.
 
-I couldn't get enough of game worlds like those in **Fable**, **Ocarina of Time**, and **TES IV: Oblivion**. Oblivion especially made me realize that a well-designed game — story, mechanics, visuals, audio, and all the details that make it feel alive — could offer an incredible amount of immersion and agency. With the right design directions and clean gameplay, playing could feel like diving into your favorite story, or even something entirely new, and steering your own exploration of that universe.
+I couldn't get enough of game worlds like those in **Fable**, **Ocarina of Time**, and **TES IV: Oblivion**. Oblivion especially, along with the later **Assassin's Creed** series, made me realize that a well-designed game—story, mechanics, visuals, audio, and all the details that make it feel alive—could offer incredible immersion and player agency. With the right design direction, careful craftsmanship, and clean gameplay, playing could feel like diving into your favorite story—or something entirely new—and steering your own exploration through that universe.
 
-My design philosophies and creative direction will probably always be shaped by games like these. Here is a rough library of some games I've played over the years:
+My design philosophy and creative direction will probably always be shaped by games like these. Here's a rough library of games I've played over the years:
 
 ---
 
