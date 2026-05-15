@@ -47,8 +47,7 @@ Titles below are grouped by platform **family**.
 - Super Smash Bros. 64 / Melee / Brawl / Ultimate
 - Rare Replay — Banjo-Kazooie / Banjo-Tooie
 - Spyro Franchise
-- Rayman Legends 
-- New Super Lucky's Tale / Super Lucky's Tale
+- Rayman Legends / Revolution
 - Conker's Bad Fur Day
 
 ### Licensed / Kids / Adaptations / Misc
@@ -162,6 +161,12 @@ Titles below are grouped by platform **family**.
 - Skate / Skate 2 / Skate 3
 - Burnout Paradise
 - Midnight Club: Los Angeles
+
+### Xbox Live Arcade & Xbox-era digital classics
+
+- Geometry Wars: Retro Evolved
+- Crimson Skies: High Road to Revenge
+- Toy Soldiers
 
 ### Bethesda & modern id shooters
 
@@ -332,6 +337,8 @@ Titles below are grouped by platform **family**.
 - Forza Horizon
 - Rocket League
 - Skate / Skate 2 / Skate 3 / skate.
+- FIFA (some)
+- Madden NFL (some)
 
 ### MOBAs / platform fighters
 - League of Legends / Dota 2
@@ -440,6 +447,7 @@ Titles below are grouped by platform **family**.
 ### Browser / Flash / web games
 - Stick RPG
 - Fancy Pants Adventures
+- The Powder Game / Powder Game 2 
 - Line Rider
 - Bloons / Bloons Tower Defense
 - Motherload
