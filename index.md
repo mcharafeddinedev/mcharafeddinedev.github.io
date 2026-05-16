@@ -1,6 +1,6 @@
 ---
 title: Home
-description: "Gameplay Systems Engineer and Technical Designer creating Unity and Unreal gameplay systems, playable prototypes, and shipped indie projects."
+description: "Gameplay Systems Engineer and Technical Designer — Unity and Unreal systems, shipped indie prototypes, and portfolio."
 layout: default
 nav_order: 1
 ---
@@ -12,6 +12,8 @@ Hey — I'm Marwan. I design and build gameplay systems & simulations: readable 
 <span class="term">Unity (C#)</span> and <span class="term">Unreal Engine (C++ & Blueprints)</span> are my strongest tools; I work as both a technical designer and implementer. I recently completed my A.A.S. in Digital Gaming & Simulation (Programmers), I'm starting to learn <span class="term">Godot</span>, and I keep learning new engines, tools, and workflows as the industry evolves.
 
 I also bring QA instincts to my systems building process—twenty-five years as a gamer has trained me to notice friction, pacing, and edge cases early.
+
+I'm passionate about software and computers. I'm relatively new (~2 years) to formal study in the field, but I've been serious from the start: shipping games, building this portfolio site, and maintaining public repos on GitHub.
 
 ---
 
@@ -64,15 +66,21 @@ Unreal 5 endless runner built for PC + school arcade hardware. Lanes, jump/slide
 
 **Systems & design** — Prototyping in-engine, tuning rules and pacing, building player-facing mechanics, and keeping project state maintainable.
 
-**Engines & tooling** — <span class="term">Unity</span>, <span class="term">Unreal</span>, <span class="term">WebGL</span> when needed; <span class="term">Godot</span> learning in progress. I use <span class="term">AI-assisted workflows</span> where they help, while keeping ownership of intent, review, integration, and playtesting.
+**Engines & tooling** — <span class="term">Unity</span>, <span class="term">Unreal</span>, <span class="term">WebGL</span> when needed; <span class="term">Godot</span> learning in progress.
 
 **Playtesting & collab** — Clear notes, reproducible bug reports, readable feedback, and coordination with artists, programmers, and designers.
+
+## How I build
+
+My primary focus is **gameplay engineering and technical design**—mechanics, loops, tuning data, and in-engine UI/session flow. Alongside that, I work in **Cursor** and modern assisted tooling (accelerators, not autopilot—I own intent, integration, review, and playtesting) plus **portfolio / web front-end** work: this site's custom theme, SCSS, and canvas animation; GitHub portfolio repos; and docs that keep releases legible for collaborators and hiring.
+
+I'm usually in an engine or in Cursor, turning intent into code, fixing integration issues, and iterating until playtests feel right. Regardless of the stack (C# & Unity vs C++ and/or Blueprints with UE, or something else entirely), that rhythm and pipeline is how I've shipped several small games, kept itch builds and devlogs current, and grown from my coursework into independent releases—see [Current Focus](activedev) for the fuller picture.
 
 ---
 
 ## Hiring & playables
 
-I'm looking for entry-level, associate, or intern roles in gameplay engineering and technical design. I'm also open to generalist or production work, and to QA-adjacent teams where I can keep contributing while growing into gameplay mechanics and systems ownership.
+I'm looking for entry-level, associate, or intern roles in gameplay engineering and technical design. I'm also open to generalist or production work and QA-adjacent roles where I can keep contributing to awesome projects while growing into gameplay mechanics and systems ownership.
 
 - **Resume (PDF):** [MC_1PageResume.pdf](/assets/MC_1PageResume.pdf)
 - **Start here (in browser):** [Access Granted](https://goldleafinteractive.itch.io/access-granted) · [Dread & Breakfast](https://goldleafinteractive.itch.io/dread-and-breakfast) · [BREATHE Arcade](https://goldleafinteractive.itch.io/breathe-arcade)

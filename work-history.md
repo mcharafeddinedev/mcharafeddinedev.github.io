@@ -19,6 +19,8 @@ nav_order: 3
 </div>
 
 - Gameplay systems end-to-end: mechanics, production, tuning data, pacing, onboarding, WebGL, and kiosk/arcade constraints.
+- Modern dev workflow: consistent use of Cursor and similar tooling for organizing, feature implementation, and iteration, with direct ownership of design intent, integration, debugging, review, and playtesting.
+- Portfolio & presentation: built and maintain [mcharafeddinedev.github.io](https://mcharafeddinedev.github.io) (Jekyll, custom SCSS, vanilla JS) and public [GameDev-Portfolio](https://github.com/mcharafeddinedev/GameDev-Portfolio) repos alongside shipped games.
 - Multi-engine work across Unity (Access Granted, Dread & Breakfast, Trenchglow, BREATHE) and Unreal (Overclocked: DDM, I AM INEVITABLE, jams, and class work).
 - Browser builds with patch history: [Access Granted](https://goldleafinteractive.itch.io/access-granted), [Dread & Breakfast](https://goldleafinteractive.itch.io/dread-and-breakfast), [Trenchglow](https://goldleafinteractive.itch.io/trenchglow), [BREATHE Arcade](https://goldleafinteractive.itch.io/breathe-arcade).
 - Overclocked: Data Dash MAX (UE5 C++): arcade + PC controls, procedural patterns, HUD flow, boards, and cabinet tuning.

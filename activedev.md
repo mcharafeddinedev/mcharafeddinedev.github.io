@@ -1,6 +1,6 @@
 ---
 title: Current Focus
-description: "Current development focus, skills, and active Unity/Unreal projects from Gameplay Engineer and Technical Designer Marwan Charafeddine."
+description: "Current focus, skills, workflow, and active Unity/Unreal projects from Gameplay Engineer and Technical Designer Marwan Charafeddine."
 nav_exclude: true
 ---
 
@@ -8,7 +8,20 @@ nav_exclude: true
 
 I recently completed my A.A.S. in Digital Gaming & Simulation (Programmers) and I'm focused on growing my game dev knowledge, turning my game ideas into playable, testable systems, and finding my place in the industry.
 
-I work as a Gameplay Engineer and Technical Designer: building mechanics, loops, UI/session flow, tuning data, and player-facing feedback in-engine. I use <span class="term">AI-assisted tooling</span> where it helps, with strict supervision, but design intent, integration, review, and playtesting stay under my control.
+I work as a Gameplay Engineer and Technical Designer: mechanics, loops, UI/session flow, tuning data, and player-facing feedback in-engine. I'm passionate about software and computers—relatively new to formal study (~2 years), but serious about shipping playable games, this portfolio site, and public GitHub work. I stay in the editor daily, own design direction and integration, and validate through playtesting.
+
+---
+
+## How I build & where I fit
+
+**Primarily Gameplay Engineering areas**  
+Mechanics, systems, tuning, in-engine UI flow, playtesting, and taking ideas to itch-ready builds in <span class="term">Unity</span> and <span class="term">Unreal</span>. 
+
+**Portfolio & site process**  
+I work daily in Cursor, game engines, and other creative tools—editing, debugging, and revising until systems run cleanly and tested behavior matches intent. Assisted tooling speeds exploration and boilerplate; I still own architecture choices, commits, edge cases, and what ships. That workflow built this GitHub Pages site (Jekyll, custom SCSS, custom JS canvas background), my [GameDev Portfolio](https://github.com/mcharafeddinedev/GameDev-Portfolio) repo, and supporting docs: portfolio building for me, and proof I can pick up new stacks and deliver polished surfaces around my projects.
+
+**Team fit**  
+I'm strongest where gameplay systems, technical design, and fast iteration matter. I'm also a good fit for teams that want someone comfortable with modern dev tooling, clear portfolio presentation, and wearing multiple hats early in a career.
 
 ---
 
@@ -24,7 +37,9 @@ I work as a Gameplay Engineer and Technical Designer: building mechanics, loops,
 
 **World & IP prep** — Long-form original world chronicle (~32 entries, ~30+ pages, in revision): chronicle-style background lore as groundwork for a future game concept—design-facing worldbuilding, not a separate writing portfolio.
 
-**How I work** — Prototype, playtest, revise, document, and ship on <span class="term">itch</span> / <span class="term">Steam</span> when appropriate. I keep notes, devlogs, and project documentation so intent and decisions stay traceable.
+**How I work** — Concepting, preproduction docs, prototype, playtest, revise, document, and ship on <span class="term">itch</span> / <span class="term">Steam</span> when appropriate. I keep notes, devlogs, and project documentation so my original intent and decisions stay traceable. Day to day: if not in preproduction, usually working in engine + Cursor, design direction stays in prepro docs or Milanote, code and data in the repo.
+
+**Portfolio & tooling** — Cursor and similar tools for acceleration, with personal review for integration, game feel, and release quality. Portfolio site: custom theme, layout, responsive SCSS, sidebar gallery, animated canvas background, and more.
 
 ---
 
