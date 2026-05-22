@@ -74,7 +74,9 @@ Unreal 5 endless runner built for PC + school arcade hardware. Lanes, jump/slide
 
 My primary focus is **gameplay engineering and technical design**—mechanics, loops, tuning data, and in-engine UI/session flow. Alongside that, I work in **Cursor** and modern assisted tooling (accelerators, not autopilot—I own intent, integration, review, and playtesting) plus **portfolio / web front-end** work: this site's custom theme, SCSS, and canvas animation; GitHub portfolio repos; and docs that keep releases legible for collaborators and hiring.
 
-I'm usually in an engine or in Cursor, turning intent into code, fixing integration issues, and iterating until playtests feel right. Regardless of the stack (C# & Unity vs C++ and/or Blueprints with UE, or something else entirely), that rhythm and pipeline is how I've shipped several small games, kept itch builds and devlogs current, and grown from my coursework into independent releases—see [Current Focus](activedev) for the fuller picture.
+I'm usually in an engine or in Cursor, turning intent into code, fixing integration issues, and iterating until playtests feel right. Regardless of the stack (C# & Unity vs C++ and/or Blueprints with UE, or something else entirely), that rhythm and pipeline is how I've shipped several small games, kept itch builds and devlogs current, and grown from my coursework into independent releases.
+
+Right now my heaviest workload is a **UE5.5 (C++) first-person wave-survival prototype** (private IP)—core combat systems built, in polish phase; full loop and public slice still ahead. See [Current Focus](activedev) and [Projects](projects) for what's shipping vs in progress.
 
 ---
 

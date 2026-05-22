@@ -14,9 +14,9 @@ nav_order: 2
 
 Active work right now — more context on [Current Focus](activedev).
 
+- **UE5 FPS survival prototype** (private IP) — Serious in-progress Unreal Engine 5.5 (C++) title: first-person wave survival. Data-driven gunplay and combat feedback systems are functional; currently working on minor visual polish before enemy/wave integration. No playable build or store page yet.
 - **Trenchglow** — New trench levels and puzzle spaces in progress on top of the live WebGL tutorial slice. [Play in browser](https://goldleafinteractive.itch.io/trenchglow). Updated WebGL build will be posted with Patch Notes on itch.io when the next playable slice is ready. [Full project entry below.](#trenchglow)
-- **Original fantasy world chronicle (private IP)** — ~32 chronicle-style lore entries (~30+ pages), currently in revision: lived-in background lore as the foundation for a **future game concept**. This is mainly worldbuilding and design prep for a game I want to make—not a separate writing credential, and nothing is published as standalone narrative, yet.
-- **UE5 FPS prototype (early)** [Different Private IP] — First-pass Unreal Engine 5 prototype systems/features and graybox environment; no details or playable yet. 
+- **Original fantasy world chronicle (private IP)** — ~32 chronicle-style lore entries (~30+ pages), currently in revision: lived-in background lore as the foundation for a **future game concept**. This is mainly worldbuilding and design prep for a game I want to make—not a separate writing credential, and nothing is published as standalone narrative, yet. 
 
 ---
 

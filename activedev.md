@@ -8,6 +8,8 @@ nav_exclude: true
 
 I recently completed my A.A.S. in Digital Gaming & Simulation (Programmers) and I'm focused on growing my game dev knowledge, turning my game ideas into playable, testable systems, and finding my place in the industry.
 
+My main pursuit right now, aside from finding a position at a studio, is a **UE5.5 first-person wave-survival prototype** (private IP)—the most serious game project I've undertaken. Core gunplay and combat feedback systems are built and being continuously developed alongside the rest of the prototype; now in art/anim polish for that milestone, before enemy AI and wave integration. Private development, no public build yet.
+
 I work as a Gameplay Engineer and Technical Designer: mechanics, loops, UI/session flow, tuning data, and player-facing feedback in-engine. I'm passionate about software and computers—relatively new to formal study (~2 years), but serious about shipping playable games, this portfolio site, and public GitHub work. I stay in the editor daily, own design direction and integration, and validate through playtesting.
 
 ---
@@ -83,11 +85,11 @@ I'm strongest where gameplay systems, technical design, and fast iteration matte
 
 ## Current focuses
 
-- Keeping this site, LinkedIn, and GitHub aligned with recent work.
-- Learning <span class="term">Godot</span> while continuing <span class="term">Unity</span>/<span class="term">Unreal</span> production habits.
+- **UE5 FPS survival prototype** (private IP) — Serious in-progress Unreal Engine 5.5 (C++) title: first-person wave survival. Data-driven gunplay and combat feedback systems are functional; now in visual polish before enemy/wave integration. My most invested project—no public build yet (see [Projects](projects)).
 - **Trenchglow** — Building new trench levels and puzzles; updated WebGL when the next slice is ready (see [Projects](projects)).
 - **Original world chronicle** — ~32 lore entries in revision (~30+ pages); foundation for a future game IP—worldbuilding for a game concept, not external narrative publishing.
-- **UE5 FPS prototype** — Early Unreal Engine 5 graybox and systems spike only; no public build yet.
+- Keeping this site, LinkedIn, and GitHub aligned with recent work.
+- Learning <span class="term">Godot</span> while continuing <span class="term">Unity</span>/<span class="term">Unreal</span> production habits.
 - Applying to studios while continuing to prototype, playtest, and document new work.
 
 ---
