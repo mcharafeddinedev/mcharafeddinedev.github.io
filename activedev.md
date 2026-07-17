@@ -29,7 +29,7 @@ I'm strongest where gameplay systems, technical design, and fast iteration matte
 
 ## Skills & Expertise
 
-**Engines & implementation** — <span class="term">Unity (C#)</span> and <span class="term">Unreal Engine (C++ / Blueprints)</span> for gameplay systems, UI/session flow, tuning data, <span class="term">WebGL</span>, and Windows builds. <span class="term">Godot</span> is next in my learning path.
+**Engines & implementation** — <span class="term">Unity (C#)</span> and <span class="term">Unreal Engine (C++ / Blueprints)</span> for gameplay systems, UI/session flow, tuning data, <span class="term">WebGL</span>, and Windows builds.
 
 **Gameplay & systems thinking** — Mechanics, fail states, escalation, progression, economies, central behavior controllers, weighted spawns, and <span class="term">data-first workflows</span> that keep iteration manageable.
 
@@ -89,8 +89,7 @@ I'm strongest where gameplay systems, technical design, and fast iteration matte
 - **UE5 co-op mall prototype** (private IP) — In-progress Unreal Engine 5 (C++) friendslop-style co-op set in a shopping mall: shared chaotic jobs, proximity voice, and escalating day-shift disasters. Core loop and multiplayer scaffolding are in active development—no public build yet (see [Projects](projects)).
 - **Original world chronicle** — ~32 lore entries in revision (~30+ pages); foundation for a future game IP—worldbuilding for a game concept, not external narrative publishing.
 - Keeping this site, LinkedIn, and GitHub aligned with recent work.
-- Learning <span class="term">Godot</span> while continuing <span class="term">Unity</span>/<span class="term">Unreal</span> production habits.
-- Applying to studios while continuing to prototype, playtest, and document new work.
+- Continuing <span class="term">Unity</span>/<span class="term">Unreal</span> production habits while applying to studios, prototyping, playtesting, and documenting new work.
 
 ---
 
