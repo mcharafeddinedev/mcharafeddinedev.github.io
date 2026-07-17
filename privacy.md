@@ -2,7 +2,7 @@
 title: Privacy Policy
 description: "Privacy policy for goldleafinteractive.com — personal portfolio and Gold Leaf Interactive self-publishing alias."
 permalink: /privacy/
-nav_order: 99
+nav_exclude: true
 ---
 
 # Privacy Policy
