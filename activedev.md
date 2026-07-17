@@ -8,7 +8,7 @@ nav_exclude: true
 
 I recently completed my A.A.S. in Digital Gaming & Simulation (Programmers) and I'm focused on growing my game dev knowledge, turning my game ideas into playable, testable systems, and finding my place in the industry.
 
-My main pursuit right now, aside from finding a position at a studio, is a **UE5.5 first-person wave-survival prototype** (private IP)—the most serious game project I've undertaken. Core gunplay and combat feedback systems are built and being continuously developed alongside the rest of the prototype; now in art/anim polish for that milestone, before enemy AI and wave integration. Private development, no public build yet.
+My main pursuits right now, aside from finding a position at a studio, are a **UE5.5 first-person wave-survival prototype** (private IP)—still the most serious single-player systems project I've undertaken—and a **UE5 friendslop-style co-op shopping mall prototype** (private IP) in parallel. On the FPS: combat, enemy AI, and escalating rounds are already in the playable loop; current work is hardening the facility vertical slice (progression spaces, AI/navigation reliability) toward a completable run. On the mall co-op: shared chaotic jobs, proximity voice, and escalating day-shift disasters are the focus, with core loop and multiplayer scaffolding in active development. Both are private development, no public builds yet.
 
 I work as a Gameplay Engineer and Technical Designer: mechanics, loops, UI/session flow, tuning data, and player-facing feedback in-engine. I'm passionate about software and computers—relatively new to formal study (~2 years), but serious about shipping playable games, this portfolio site, and public GitHub work. I stay in the editor daily, own design direction and integration, and validate through playtesting.
 
@@ -45,7 +45,7 @@ I'm strongest where gameplay systems, technical design, and fast iteration matte
 
 ---
 
-## Recent / Active Projects (past 6-12 months)
+## Recent / Active Projects (past 12 months)
 
 - <span class="project-title">ACCESS GRANTED</span> — Released Unity WebGL reflex game: block breaker + typed command challenges, dual fail tracks, slow-mo prompts, CRT presentation, and patch iteration.
 
@@ -55,9 +55,9 @@ I'm strongest where gameplay systems, technical design, and fast iteration matte
 
 [Play Dread & Breakfast In Browser](https://goldleafinteractive.itch.io/dread-and-breakfast) · [Projects](projects) · [Devlog](https://goldleafinteractive.itch.io/dread-and-breakfast/devlog)
 
-- <span class="project-title">Trenchglow</span> — WebGL deep-sea exploration slice with sonar reveals, layered visibility, audio-synced feedback, GPU fallbacks, and more trench layouts planned.
+- <span class="project-title">Trenchglow</span> — Released WebGL deep-sea exploration game with sonar reveals, layered visibility, audio-synced feedback, GPU fallbacks, and extra trench levels beyond the tutorial.
 
-[Play Trenchglow In Browser](https://goldleafinteractive.itch.io/trenchglow)
+[Play Trenchglow In Browser](https://goldleafinteractive.itch.io/trenchglow) · [Projects](projects)
 
 - <span class="project-title">BREATHE Arcade</span> — Unity capstone with five breath-controlled micro-games, custom fan hardware, serial ingest, mic/keyboard fallback, smoothing, and shared scoring/results flow.
 
@@ -85,8 +85,8 @@ I'm strongest where gameplay systems, technical design, and fast iteration matte
 
 ## Current focuses
 
-- **UE5 FPS survival prototype** (private IP) — Serious in-progress Unreal Engine 5.5 (C++) title: first-person wave survival. Data-driven gunplay and combat feedback systems are functional; now in visual polish before enemy/wave integration. My most invested project—no public build yet (see [Projects](projects)).
-- **Trenchglow** — Building new trench levels and puzzles; updated WebGL when the next slice is ready (see [Projects](projects)).
+- **UE5 FPS survival prototype** (private IP) — Serious in-progress Unreal Engine 5.5 (C++) title: first-person wave survival. Combat, enemy AI, and escalating rounds are in the playable loop; currently hardening the facility vertical slice. My most invested solo systems project—no public build yet (see [Projects](projects)).
+- **UE5 co-op mall prototype** (private IP) — In-progress Unreal Engine 5 (C++) friendslop-style co-op set in a shopping mall: shared chaotic jobs, proximity voice, and escalating day-shift disasters. Core loop and multiplayer scaffolding are in active development—no public build yet (see [Projects](projects)).
 - **Original world chronicle** — ~32 lore entries in revision (~30+ pages); foundation for a future game IP—worldbuilding for a game concept, not external narrative publishing.
 - Keeping this site, LinkedIn, and GitHub aligned with recent work.
 - Learning <span class="term">Godot</span> while continuing <span class="term">Unity</span>/<span class="term">Unreal</span> production habits.

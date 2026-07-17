@@ -14,8 +14,8 @@ nav_order: 2
 
 Active work right now — more context on [Current Focus](activedev).
 
-- **UE5 FPS survival prototype** (private IP) — Serious in-progress Unreal Engine 5.5 (C++) title: first-person wave survival. Data-driven gunplay and combat feedback systems are functional; currently working on minor visual polish before enemy/wave integration. No playable build or store page yet.
-- **Trenchglow** — New trench levels and puzzle spaces in progress on top of the live WebGL tutorial slice. [Play in browser](https://goldleafinteractive.itch.io/trenchglow). Updated WebGL build will be posted with Patch Notes on itch.io when the next playable slice is ready. [Full project entry below.](#trenchglow)
+- **UE5 FPS survival prototype** (private IP) — Serious in-progress Unreal Engine 5.5 (C++) title: first-person wave survival. Combat, enemy AI, and escalating rounds are in the playable loop, with facility progression systems under active hardening for a completable vertical slice. No playable build or store page yet.
+- **UE5 co-op mall prototype** (private IP) — In-progress Unreal Engine 5 (C++) friendslop-style co-op set in a shopping mall: shared chaotic jobs, proximity voice, and escalating day-shift disasters. Core loop and multiplayer scaffolding are in active development. No playable build or store page yet.
 - **Original fantasy world chronicle (private IP)** — ~32 chronicle-style lore entries (~30+ pages), currently in revision: lived-in background lore as the foundation for a **future game concept**. This is mainly worldbuilding and design prep for a game I want to make—not a separate writing credential, and nothing is published as standalone narrative, yet. 
 
 ---
@@ -65,9 +65,9 @@ Top-down ghost haunting simulator about scaring guests through escalating nights
 ---
 
 ### Trenchglow {#trenchglow}
-Unity (2D URP) · C# · In development · WebGL playable slice
+Unity (2D URP) · C# · Released · WebGL
 
-WebGL deep-sea exploration slice built around sonar pings, dark-water navigation, collectibles, puzzles, and curiosity-first traversal.
+WebGL deep-sea exploration game built around sonar pings, dark-water navigation, collectibles, puzzles, and curiosity-first traversal.
 
 <p align="center">
   <img src="/assets/images/trenchglow.png" alt="Trenchglow underwater key art" style="max-width: 600px; width: 100%;">
@@ -75,13 +75,13 @@ WebGL deep-sea exploration slice built around sonar pings, dark-water navigation
 
 - Built shader-driven sonar reveals with a toned-down fallback for WebGL and lower-end GPUs.
 - Layered local visibility, widening sonar rings, and timed SFX so audio and reveal feedback line up.
-- Shipped a tutorial slice; actively building additional trench layouts and puzzle spaces, with another WebGL drop planned when the next milestone is ready.
+- Finished beyond the tutorial with additional trench levels and puzzle spaces; playable WebGL build is live on itch.
 
 <div class="itch-embed-wrap" style="text-align: center; margin: 1.5rem 0;">
   <iframe id="itch-embed-trenchglow" title="Itch.io: Trenchglow" frameborder="0" loading="lazy" src="https://itch.io/embed/4513861?linkback=true&amp;bg_color=0a1628&amp;fg_color=cfe8ff&amp;link_color=f5a524&amp;border_color=1a3d5c" width="552" height="167" class="itch-embed"></iframe>
 </div>
 
-[Play In Browser](https://goldleafinteractive.itch.io/trenchglow) · Tutorial slice live; devlog updates when the trench expands.
+[Play In Browser](https://goldleafinteractive.itch.io/trenchglow) · Released with tutorial plus extra trench levels.
 
 ---
 
