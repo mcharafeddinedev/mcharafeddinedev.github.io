@@ -34,29 +34,35 @@
 {% if page.title == 'Home' %}
 <style id="home-page-layout">
   .main-content .home-page {
-    max-width: 58rem;
+    max-width: none;
     width: 100%;
-    margin-left: auto !important;
-    margin-right: auto !important;
-    text-align: center !important;
+    text-align: left !important;
   }
 
   .main-content .home-page h1,
   .main-content .home-page h2,
   .main-content .home-page h3,
-  .main-content .home-page p {
+  .main-content .home-page h4 {
+    text-align: center !important;
     text-wrap: balance;
+  }
+
+  .main-content .home-page p,
+  .main-content .home-page li,
+  .main-content .home-page ul,
+  .main-content .home-page ol {
+    text-align: left !important;
   }
 
   .main-content .home-page ul,
   .main-content .home-page ol {
-    display: table !important;
-    margin-left: auto !important;
-    margin-right: auto !important;
-    text-align: left !important;
+    display: block !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
   }
 
-  .main-content .home-page p[align="center"] {
+  .main-content .home-page p[align="center"],
+  .main-content .home-page .home-footer-link {
     text-align: center !important;
   }
 </style>

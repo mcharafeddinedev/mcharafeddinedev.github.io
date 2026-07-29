@@ -11,7 +11,7 @@ nav_order: 1
 
 Hey, I'm Marwan. I design and build gameplay systems: mechanics players can read, loops worth replaying, and feedback that holds up in playtests. I take projects from concept to playable release.
 
-<span class="term">Unity (C#)</span> and <span class="term">Unreal Engine (C++ & Blueprints)</span> are my main tools. I work as both a technical designer and implementer. I recently completed my A.A.S. in Digital Gaming & Simulation for Programmers, and have shipped several small games on [itch.io](https://goldleafinteractive.itch.io); I'm planning to ship a more serious project to Steam soon, fully solo developed. 
+<span class="term">Unreal Engine (C++ & Blueprints)</span> and <span class="term">Unity (C#)</span> are my main tools. I work as both a technical designer and implementer. I recently completed my A.A.S. in Digital Gaming & Simulation for Programmers, and have shipped several small games on [itch.io](https://goldleafinteractive.itch.io); I'm planning to ship a more serious project to Steam soon, fully solo developed. 
 
 26+ years as a gamer has trained me to notice friction, pacing, and edge cases early. That experience gives me a useful perspective when I playtest systems and mechanics, down to the details.
 

@@ -613,24 +613,36 @@ body.page-prose-lite .sidebar-screenshot-strip {
   text-align: left;
 }
 
-/* Home: centered column with a tighter measure so lines wrap cleanly */
+/* Home: full-width column, centered headers, left-aligned body */
 .main-content .home-page {
-  text-align: center !important;
-  max-width: 58rem;
+  max-width: none;
   width: 100%;
   margin-left: auto !important;
   margin-right: auto !important;
   box-sizing: border-box;
+  text-align: left !important;
 }
 
 .main-content .home-page h1,
 .main-content .home-page h2,
 .main-content .home-page h3,
-.main-content .home-page h4,
-.main-content .home-page p,
-.main-content .home-page hr {
+.main-content .home-page h4 {
   text-align: center !important;
   text-wrap: balance;
+}
+
+.main-content .home-page p,
+.main-content .home-page li,
+.main-content .home-page ul,
+.main-content .home-page ol {
+  text-align: left !important;
+}
+
+.main-content .home-page ul,
+.main-content .home-page ol {
+  display: block !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
 }
 
 /* Projects: full backplate width, centered content */
@@ -647,8 +659,6 @@ body.page-prose-lite .sidebar-screenshot-strip {
   text-align: center !important;
 }
 
-.main-content .home-page ul,
-.main-content .home-page ol,
 .main-content .projects-page ul,
 .main-content .projects-page ol {
   display: table !important;
@@ -669,7 +679,6 @@ body.page-prose-lite .sidebar-screenshot-strip {
 }
 
 /* Fallback if body class is applied via footer script */
-body.page-home .main-content,
 body.page-projects .main-content {
   text-align: center !important;
 }
