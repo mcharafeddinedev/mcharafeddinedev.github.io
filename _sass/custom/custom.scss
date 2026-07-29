@@ -74,7 +74,7 @@ body {
   padding: 1.5rem !important;
   padding-top: 0.75rem !important;
   margin-top: 0.25rem !important;
-  margin-left: 0 !important;
+  margin-left: auto !important;
   margin-right: auto !important;
   max-width: calc(100% - 1.25rem) !important;
   width: 100% !important;
@@ -623,32 +623,53 @@ body.page-home .main-content > .home-footer-link {
   margin-top: 0.5rem;
 }
 
-/* Projects: center all text content with centered media */
-body.page-projects .main-content {
-  text-align: center;
+/* Projects: center all page content (wrapper in projects.md — no JS required) */
+.main-content .projects-page {
+  text-align: center !important;
 }
 
-body.page-projects .main-content > h1,
-body.page-projects .main-content > h2,
-body.page-projects .main-content > h3,
-body.page-projects .main-content > p,
-body.page-projects .main-content > ul,
-body.page-projects .main-content > ol {
-  text-align: center;
+.main-content .projects-page h1,
+.main-content .projects-page h2,
+.main-content .projects-page h3,
+.main-content .projects-page h4,
+.main-content .projects-page p,
+.main-content .projects-page hr {
+  text-align: center !important;
 }
 
-body.page-projects .main-content > ul,
-body.page-projects .main-content > ol,
-body.page-projects .main-content ul,
-body.page-projects .main-content ol {
-  display: table;
+.main-content .projects-page ul,
+.main-content .projects-page ol {
+  display: table !important;
   margin-left: auto !important;
   margin-right: auto !important;
-  text-align: left;
+  text-align: left !important;
 }
 
-body.page-projects .main-content .itch-embed-wrap {
-  text-align: center;
+.main-content .projects-page .itch-embed-wrap,
+.main-content .projects-page p[align="center"] {
+  text-align: center !important;
+}
+
+/* Fallback if body class is applied via footer script */
+body.page-projects .main-content {
+  text-align: center !important;
+}
+
+body.page-projects .main-content .projects-page h1,
+body.page-projects .main-content .projects-page h2,
+body.page-projects .main-content .projects-page h3,
+body.page-projects .main-content .projects-page p,
+body.page-projects .main-content .projects-page ul,
+body.page-projects .main-content .projects-page ol {
+  text-align: center !important;
+}
+
+body.page-projects .main-content .projects-page ul,
+body.page-projects .main-content .projects-page ol {
+  display: table !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  text-align: left !important;
 }
 
 /* --- Itch.io embed --- */

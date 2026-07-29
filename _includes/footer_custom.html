@@ -23,7 +23,7 @@
   if (path === '/' || path === '/index' || path === '/index.html') {
     document.body.classList.add('page-home');
   }
-  if (/\/projects(\.html)?$/.test(path)) {
+  if (path === '/projects' || path === '/projects.html' || /\/projects\/?$/.test(path)) {
     document.body.classList.add('page-projects');
   }
 

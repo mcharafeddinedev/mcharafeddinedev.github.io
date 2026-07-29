@@ -4,6 +4,8 @@ description: "Playable Unity and Unreal projects by Marwan Charafeddine: Trenchg
 nav_order: 2
 ---
 
+<div class="projects-page" markdown="1">
+
 # Game Projects
 
 ---
@@ -239,3 +241,5 @@ Side-scrolling atmospheric horror. Worked on enemy/encounter logic, environment 
 - [Escape Control](https://goldleafinteractive.itch.io/) · Class prototype (see [itch profile](https://goldleafinteractive.itch.io/))
 
 ---
+
+</div>

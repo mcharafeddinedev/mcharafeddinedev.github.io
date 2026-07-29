@@ -31,6 +31,33 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
+{% if page.title == 'Projects' %}
+<style id="projects-page-center">
+  .main-content,
+  .main-content main,
+  .main-content .projects-page {
+    text-align: center !important;
+  }
+
+  .main-content ul,
+  .main-content ol,
+  .main-content main ul,
+  .main-content main ol,
+  .main-content .projects-page ul,
+  .main-content .projects-page ol {
+    display: table !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    text-align: left !important;
+  }
+
+  .main-content .itch-embed-wrap,
+  .main-content p[align="center"] {
+    text-align: center !important;
+  }
+</style>
+{% endif %}
+
 <!-- Terminal monospace font (Fira Code) — fallback for systems without Consolas -->
 <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;600&family=Source+Code+Pro:wght@400;500;600&display=swap" rel="stylesheet">
 
