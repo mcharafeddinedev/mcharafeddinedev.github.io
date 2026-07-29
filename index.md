@@ -5,13 +5,15 @@ layout: default
 nav_order: 1
 ---
 
+<div class="home-page" markdown="1">
+
 # Gameplay Systems Engineer · Technical Designer
 
-Hey. I'm Marwan. I design and build gameplay systems: mechanics players can read, loops worth replaying, and feedback that holds up in playtests. I take projects from concept to playable release.
+Hey, I'm Marwan. I design and build gameplay systems: mechanics players can read, loops worth replaying, and feedback that holds up in playtests. I take projects from concept to playable release.
 
-<span class="term">Unity (C#)</span> and <span class="term">Unreal Engine (C++ & Blueprints)</span> are my main tools. I work as both a technical designer and implementer. I recently completed my A.A.S. in Digital Gaming & Simulation for Programmers, have shipped several small games on itch, and I'm planning to ship a more serious project to Steam soon, fully solo developed.
+<span class="term">Unity (C#)</span> and <span class="term">Unreal Engine (C++ & Blueprints)</span> are my main tools. I work as both a technical designer and implementer. I recently completed my A.A.S. in Digital Gaming & Simulation for Programmers, and have shipped several small games on [itch.io](https://goldleafinteractive.itch.io); I'm planning to ship a more serious project to Steam soon, fully solo developed. 
 
-Twenty-five years as a gamer has trained me to notice friction, pacing, and edge cases early. That experience gives me a useful perspective when I playtest systems.
+26+ years as a gamer has trained me to notice friction, pacing, and edge cases early. That experience gives me a useful perspective when I playtest systems and mechanics, down to the details.
 
 ---
 
@@ -19,12 +21,12 @@ Twenty-five years as a gamer has trained me to notice friction, pacing, and edge
 
 I'm looking for entry-level, associate, or intern roles in gameplay engineering and technical design. Also open to generalist, production, and QA-adjacent work.
 
+While searching for such a position, ever since I graduated my recent degree program, I've been working on a project I've really wanted to make for a while — I plan to publish it on Steam under my usual solo studio name that I've used for a while now on itch.io, **Gold Leaf Interactive**. More details soon. 
+
 - **Resume (PDF):** [MC_1PageResume.pdf](/assets/MC_1PageResume.pdf)
 - **Play in browser:** [Access Granted](https://goldleafinteractive.itch.io/access-granted) · [Dread & Breakfast](https://goldleafinteractive.itch.io/dread-and-breakfast) · [BREATHE Arcade](https://goldleafinteractive.itch.io/breathe-arcade)
 
 ---
-
-<div class="section-center" markdown="1">
 
 ## Featured Work
 
@@ -72,8 +74,6 @@ Unity capstone. Five micro-games on one breath-input layer, with hardware and ke
   <a href="projects">View all projects →</a>
 </p>
 
-</div>
-
 ---
 
 ## What I Do
@@ -96,3 +96,5 @@ Currently preparing a **UE5.5 (C++) first-person wave-survival demo** for a publ
 ---
 
 <p class="home-footer-link"><a href="mylib">Games that shaped me →</a></p>
+
+</div>

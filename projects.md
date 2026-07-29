@@ -10,6 +10,12 @@ nav_order: 2
 
 ---
 
+## In Development
+
+- **WW2-era FPS wave-survival demo** (private IP). Built in Unreal Engine 5.5 (C++) Combat, enemy AI, and escalating rounds are in the playable loop. Current goal: finish a public playtest build, gather feedback, and iterate toward a stronger demo for a future showcase or festival submission. No public build yet.
+
+---
+
 ## Featured
 
 ### Access Granted
@@ -157,12 +163,6 @@ Solo developed, simple 2D adventure. Built everything except art assets: core sy
 </p>
 
 [Steam (free)](https://store.steampowered.com/app/3023100/Ginger_Shroom_Journey/) · [Trailer](https://www.youtube.com/watch?v=-LGDr3DaUB8)
-
----
-
-## In Development
-
-- **UE5 FPS wave-survival demo** (private IP). Unreal Engine 5.5 (C++), first-person wave survival. Combat, enemy AI, and escalating rounds are in the playable loop. Current goal: finish a public playtest build, gather feedback, and iterate toward a stronger demo for a future showcase or festival submission. No public build yet.
 
 ---
 

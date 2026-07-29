@@ -31,11 +31,12 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
-{% if page.title == 'Projects' %}
-<style id="projects-page-center">
+{% if page.title == 'Projects' or page.title == 'Home' %}
+<style id="centered-page-layout">
   .main-content,
   .main-content main,
-  .main-content .projects-page {
+  .main-content .projects-page,
+  .main-content .home-page {
     text-align: center !important;
   }
 
@@ -44,7 +45,9 @@
   .main-content main ul,
   .main-content main ol,
   .main-content .projects-page ul,
-  .main-content .projects-page ol {
+  .main-content .projects-page ol,
+  .main-content .home-page ul,
+  .main-content .home-page ol {
     display: table !important;
     margin-left: auto !important;
     margin-right: auto !important;

@@ -613,21 +613,18 @@ body.page-prose-lite .sidebar-screenshot-strip {
   text-align: left;
 }
 
-/* Home: hero title centered with the landing composition */
-body.page-home .main-content > h1:first-of-type {
-  text-align: center;
-}
-
-body.page-home .main-content > .home-footer-link {
-  text-align: center;
-  margin-top: 0.5rem;
-}
-
-/* Projects: center all page content (wrapper in projects.md — no JS required) */
+/* Home & Projects: center all page content (wrappers in index.md / projects.md) */
+.main-content .home-page,
 .main-content .projects-page {
   text-align: center !important;
 }
 
+.main-content .home-page h1,
+.main-content .home-page h2,
+.main-content .home-page h3,
+.main-content .home-page h4,
+.main-content .home-page p,
+.main-content .home-page hr,
 .main-content .projects-page h1,
 .main-content .projects-page h2,
 .main-content .projects-page h3,
@@ -637,6 +634,8 @@ body.page-home .main-content > .home-footer-link {
   text-align: center !important;
 }
 
+.main-content .home-page ul,
+.main-content .home-page ol,
 .main-content .projects-page ul,
 .main-content .projects-page ol {
   display: table !important;
@@ -645,31 +644,21 @@ body.page-home .main-content > .home-footer-link {
   text-align: left !important;
 }
 
+.main-content .home-page .home-footer-link,
+.main-content .home-page p[align="center"],
 .main-content .projects-page .itch-embed-wrap,
 .main-content .projects-page p[align="center"] {
   text-align: center !important;
 }
 
+.main-content .home-page .home-footer-link {
+  margin-top: 0.5rem;
+}
+
 /* Fallback if body class is applied via footer script */
+body.page-home .main-content,
 body.page-projects .main-content {
   text-align: center !important;
-}
-
-body.page-projects .main-content .projects-page h1,
-body.page-projects .main-content .projects-page h2,
-body.page-projects .main-content .projects-page h3,
-body.page-projects .main-content .projects-page p,
-body.page-projects .main-content .projects-page ul,
-body.page-projects .main-content .projects-page ol {
-  text-align: center !important;
-}
-
-body.page-projects .main-content .projects-page ul,
-body.page-projects .main-content .projects-page ol {
-  display: table !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
-  text-align: left !important;
 }
 
 /* --- Itch.io embed --- */
