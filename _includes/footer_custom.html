@@ -20,10 +20,10 @@
   if (prosePages.indexOf(path) !== -1) {
     document.body.classList.add('page-prose-lite');
   }
-  if (path === '/' || path === '/index') {
+  if (path === '/' || path === '/index' || path === '/index.html') {
     document.body.classList.add('page-home');
   }
-  if (path === '/projects') {
+  if (/\/projects(\.html)?$/.test(path)) {
     document.body.classList.add('page-projects');
   }
 
