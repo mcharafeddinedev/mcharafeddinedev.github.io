@@ -24,6 +24,8 @@ I'm looking for entry-level, associate, or intern roles in gameplay engineering 
 
 ---
 
+<div class="section-center" markdown="1">
+
 ## Featured work
 
 <p align="center">
@@ -70,6 +72,8 @@ Unity capstone. Five micro-games on one breath-input layer, with hardware and ke
   <a href="projects">View all projects →</a>
 </p>
 
+</div>
+
 ---
 
 ## What I do
@@ -91,4 +95,4 @@ Currently preparing a **UE5.5 (C++) first-person wave-survival demo** for a publ
 
 ---
 
-[Games that shaped me →](mylib)
+<p class="home-footer-link"><a href="mylib">Games that shaped me →</a></p>

@@ -60,12 +60,28 @@ body {
   }
 }
 
+/* Let the main column grow past the theme $content-width cap and fill to the right edge */
+.main {
+  max-width: none !important;
+  width: auto !important;
+  box-sizing: border-box !important;
+}
+
+@media (min-width: 50rem) {
+  .side-bar + .main {
+    max-width: none !important;
+    width: auto !important;
+    /* Keep theme margin-left for sidebar clearance; fill remaining space to a small gutter */
+    margin-right: 1.25rem !important;
+  }
+}
+
 /* Main content area: translucent panel */
 .main-content-wrap {
   padding-top: 0.5rem !important;
-  /* Stretch full usable width inside `.main` so the themed panel docks left (next to sidebar) */
   width: 100% !important;
-  max-width: 100% !important;
+  max-width: none !important;
+  box-sizing: border-box !important;
 }
 
 .main-content {
@@ -76,13 +92,31 @@ body {
   padding-top: 0.75rem !important;
   margin-top: 0.25rem !important;
   margin-left: 0 !important;
-  margin-right: auto !important;
-  max-width: calc(100% - 1.25rem) !important;
+  margin-right: 0 !important;
+  max-width: none !important;
   width: 100% !important;
   box-sizing: border-box !important;
 }
 
-/* Max width comes from $content-width in custom/setup.scss (keeps lg centering formulas consistent) */
+/* No prose measure: text uses the full backplate width */
+.main-content p,
+.main-content li,
+.main-content ul,
+.main-content ol,
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4,
+.main-content h5,
+.main-content h6,
+.main-content blockquote,
+.main-content table,
+.main-content pre,
+.main-content .history-entry,
+.main-content .history-row,
+.main-content .history-meta {
+  max-width: none !important;
+}
 
 /* --- Text Colors --- */
 
@@ -554,6 +588,7 @@ body {
   flex-wrap: wrap;
   gap: 0.35rem 1rem;
   align-items: center;
+  justify-content: center;
   margin-top: 2rem;
   padding-top: 1rem;
   border-top: 1px solid rgba(0, 200, 100, 0.12);
@@ -580,9 +615,60 @@ body.page-prose-lite .sidebar-screenshot-strip {
   display: none !important;
 }
 
+/* --- Centered media sections --- */
+/* When a section is image/embed-led, keep its heading, captions, lists, and CTAs on the same center axis */
+
+.main-content .section-center {
+  text-align: center;
+}
+
+.main-content .section-center > ul,
+.main-content .section-center > ol {
+  display: table;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  text-align: left;
+}
+
+/* Home: hero title centered with the landing composition */
+body.page-home .main-content > h1:first-of-type {
+  text-align: center;
+}
+
+body.page-home .main-content > .home-footer-link {
+  text-align: center;
+  margin-top: 0.5rem;
+}
+
+/* Projects: titles, pitches, bullets, and links align with centered media */
+body.page-projects .main-content > h1,
+body.page-projects .main-content > h2,
+body.page-projects .main-content > h3 {
+  text-align: center;
+}
+
+body.page-projects .main-content > p {
+  text-align: center;
+}
+
+body.page-projects .main-content > ul,
+body.page-projects .main-content > ol {
+  display: table;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  text-align: left;
+}
+
+body.page-projects .main-content > p a,
+body.page-projects .itch-embed-wrap {
+  text-align: center;
+}
+
 /* --- Itch.io embed --- */
 
 .itch-embed-wrap {
+  text-align: center;
+
   iframe.itch-embed {
     max-width: 100%;
     border-radius: 6px;

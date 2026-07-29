@@ -30,6 +30,10 @@ back_to_top: true
 back_to_top_text: "Back to top"
 gh_edit_link: false
 
+# Markdown: allow markdown inside HTML wrappers (e.g. centered sections)
+kramdown:
+  parse_block_html: true
+
 # Plugins
 plugins:
   - jekyll-remote-theme

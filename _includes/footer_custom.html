@@ -20,6 +20,12 @@
   if (prosePages.indexOf(path) !== -1) {
     document.body.classList.add('page-prose-lite');
   }
+  if (path === '/' || path === '/index') {
+    document.body.classList.add('page-home');
+  }
+  if (path === '/projects') {
+    document.body.classList.add('page-projects');
+  }
 
   var nav = document.querySelector('.site-nav');
   if (!nav || document.body.classList.contains('page-prose-lite')) return;
