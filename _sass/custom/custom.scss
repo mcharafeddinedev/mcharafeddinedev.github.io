@@ -366,25 +366,10 @@ body {
 .main-content p {
   margin-bottom: 1rem !important;
   line-height: 1.7 !important;
-  max-width: 72ch;
 }
 
 .main-content li {
   margin-bottom: 0.25rem !important;
-  max-width: 72ch;
-}
-
-.main-content > ul,
-.main-content > ol,
-.main-content blockquote {
-  max-width: 72ch;
-}
-
-/* Wider measure for project media and embeds */
-.main-content .itch-embed-wrap,
-.main-content p[align="center"],
-.main-content .history-entry {
-  max-width: none;
 }
 
 /* Resume-style rows for history/education pages */

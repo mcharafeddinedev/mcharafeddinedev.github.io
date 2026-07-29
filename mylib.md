@@ -1,14 +1,14 @@
 ---
 title: Games That Shaped Me
-description: "Games that shaped Marwan Charafeddine — player experience, immersion, and systems thinking."
-nav_order: 4
+description: "Games that shaped Marwan Charafeddine: player experience, immersion, and systems thinking."
+nav_exclude: true
 ---
 
 # Games That Shaped Me
 
-Games have been my favorite medium for almost as long as I can remember. As a kid, I read a lot of fantasy and fiction, but I also grew up watching huge franchises evolve in real time—**The Legend of Zelda**, and what I still think of as the golden age of **Call of Duty**: *CoD 2*, *Modern Warfare* (2007), *Modern Warfare 2* (2009), and *World at War*.
+Games have been my favorite medium for almost as long as I can remember. As a kid, I read a lot of fantasy and fiction, but I also grew up watching huge franchises evolve in real time: **The Legend of Zelda**, and what I still think of as the golden age of **Call of Duty** (*CoD 2*, *Modern Warfare* (2007), *Modern Warfare 2* (2009), and *World at War*).
 
-I couldn't get enough of game worlds like those in **Fable**, **Ocarina of Time**, and **TES IV: Oblivion**. Oblivion especially made me realize that story, mechanics, visuals, and audio together could offer real immersion—and that playing could feel like steering your own path through a universe.
+I couldn't get enough of game worlds like those in **Fable**, **Ocarina of Time**, and **TES IV: Oblivion**. Oblivion especially made me realize that story, mechanics, visuals, and audio together could offer real immersion, and that playing could feel like steering your own path through a universe.
 
 Below is a short list of anchor games grouped by what they taught me. The full catalog lives on a separate page.
 
@@ -60,8 +60,10 @@ Below is a short list of anchor games grouped by what they taught me. The full c
 
 ---
 
-Some I only spent a few hours with, others took 50, 500, or even thousands of hours. I also spent some time in amateur / semi-pro FPS competition in **Call of Duty** and **Apex Legends**—minor tournaments, but still a big part of my competitive gaming experience.
+Some I only spent a few hours with. Others took 50, 500, or even thousands of hours. I also spent some time in amateur / semi-pro FPS competition in **Call of Duty** and **Apex Legends**. Minor tournaments, but still a big part of my competitive gaming experience.
 
 There are titles missing from this short list. **[View the complete library →](mylib-full)**
 
 All of that player experience feeds back into how I think about making games.
+
+[← Home](index)

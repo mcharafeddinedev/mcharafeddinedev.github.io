@@ -1,6 +1,6 @@
 ---
 title: Privacy Policy
-description: "Privacy policy for goldleafinteractive.com — personal portfolio and Gold Leaf Interactive self-publishing alias."
+description: "Privacy policy for goldleafinteractive.com, personal portfolio and Gold Leaf Interactive self-publishing alias."
 permalink: /privacy/
 nav_exclude: true
 ---
@@ -10,7 +10,7 @@ nav_exclude: true
 **Last updated:** July 17, 2026  
 **Contact:** [mcharafeddinedev@gmail.com](mailto:mcharafeddinedev@gmail.com)
 
-This page covers **[goldleafinteractive.com](https://goldleafinteractive.com)** — my personal portfolio site and the public domain for my solo indie / self-publishing alias **Gold Leaf Interactive** — plus any games I publish that link here.
+This page covers **[goldleafinteractive.com](https://goldleafinteractive.com)**: my personal portfolio site and the public domain for my solo indie / self-publishing alias **Gold Leaf Interactive**, plus any games I publish that link here.
 
 ---
 

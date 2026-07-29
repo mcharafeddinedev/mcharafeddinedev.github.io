@@ -1,6 +1,6 @@
 ---
 title: Projects
-description: "Playable Unity and Unreal projects by Marwan Charafeddine — Trenchglow, BREATHE Arcade, Access Granted, OVERCLOCKED, and more."
+description: "Playable Unity and Unreal projects by Marwan Charafeddine: Trenchglow, BREATHE Arcade, Access Granted, OVERCLOCKED, and more."
 nav_order: 2
 ---
 
@@ -160,7 +160,7 @@ Solo developed, simple 2D adventure. Built everything except art assets: core sy
 
 ## In development
 
-- **UE5 FPS wave-survival demo** (private IP) — Unreal Engine 5.5 (C++), first-person wave survival. Combat, enemy AI, and escalating rounds are in the playable loop. Current goal: finish a public playtest build, gather feedback, and iterate toward a stronger demo for a future showcase or festival submission. No public build yet.
+- **UE5 FPS wave-survival demo** (private IP). Unreal Engine 5.5 (C++), first-person wave survival. Combat, enemy AI, and escalating rounds are in the playable loop. Current goal: finish a public playtest build, gather feedback, and iterate toward a stronger demo for a future showcase or festival submission. No public build yet.
 
 ---
 
@@ -195,7 +195,7 @@ ASCII console shop simulator with inventory, haggling, branching chat options, R
 ### Million Miles Deep
 Unreal Engine 5 · Blueprints · Class Prototype
 
-Oceanic 2D top-down bullet-hell/SHMUP — game design, enemy pattern authoring, projectile setup, playtesting, and QA.
+Oceanic 2D top-down bullet-hell/SHMUP. Contributions: game design, enemy pattern authoring, projectile setup, playtesting, and QA.
 
 <p align="center">
   <img src="/assets/images/million-miles-deep.png" alt="Million Miles Deep" style="max-width: 260px; width: 48%; display: inline-block;">
@@ -222,7 +222,7 @@ Made for Chillenium 2025 Game Jam. Experimental ragdoll-as-controller traversal 
 ### Crimson Eclipse
 Unreal Engine 5 · Blueprints · Class Prototype
 
-Side-scrolling atmospheric horror—enemy/encounter logic, environment beats, HUD comms. Did the engine work, level design & implementation/build. Team project from my coursework, with artist teammates.
+Side-scrolling atmospheric horror. Worked on enemy/encounter logic, environment beats, and HUD comms. Did the engine work, level design, and build. Team project from my coursework, with artist teammates.
 
 <p align="center">
   <img src="/assets/images/crimson-eclipse.png" alt="Crimson Eclipse" style="max-width: 600px; width: 100%;">
@@ -234,8 +234,8 @@ Side-scrolling atmospheric horror—enemy/encounter logic, environment beats, HU
 
 ## More
 
-- [I AM INEVITABLE](https://goldleafinteractive.itch.io/i-am-inevitable) (UE5 · Chillennium '26) — defeat-scaling stats, wall movement, dashing
+- [I AM INEVITABLE](https://goldleafinteractive.itch.io/i-am-inevitable) (UE5 · Chillennium '26): defeat-scaling stats, wall movement, dashing
 - [Doors n' Dice](https://goldleafinteractive.itch.io/doors-n-dice) · Class prototype
-- [Escape Control](https://goldleafinteractive.itch.io/) · Class prototype — see [itch profile](https://goldleafinteractive.itch.io/)
+- [Escape Control](https://goldleafinteractive.itch.io/) · Class prototype (see [itch profile](https://goldleafinteractive.itch.io/))
 
 ---

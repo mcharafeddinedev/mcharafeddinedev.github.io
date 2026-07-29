@@ -19,11 +19,11 @@ nav_order: 3
 </div>
 
 - Gameplay systems end-to-end: mechanics, tuning data, pacing, onboarding, WebGL, and kiosk/arcade constraints.
-- Shipped browser and PC titles on itch and Steam — see [Projects](projects).
+- Shipped browser and PC titles on itch and Steam. See [Projects](projects).
 - Multi-engine work across Unity and Unreal (jams, coursework, and independent releases).
 - QA and playtesting as part of the build loop: edge cases, feel, and reproducible notes.
 - Built and maintain this portfolio site and public [GameDev-Portfolio](https://github.com/mcharafeddinedev/GameDev-Portfolio) repos.
-- Preparing a UE5.5 (C++) first-person wave-survival demo for a public playtest — details on [Projects](projects).
+- Preparing a UE5.5 (C++) first-person wave-survival demo for a public playtest. Details on [Projects](projects).
 
 ---
 
@@ -65,7 +65,7 @@ Live streaming and gaming content creation for YouTube, Twitch, Mixer, TikTok, a
 
 <div class="history-entry">
   <div class="history-row">
-    <span class="history-title">A.A.S. — Digital Gaming & Simulation (Programmers)</span>
+    <span class="history-title">A.A.S. in Digital Gaming & Simulation (Programmers)</span>
     <span class="history-date">May 2026</span>
   </div>
   <div class="history-meta">Houston Community College · Houston, TX</div>
@@ -73,13 +73,13 @@ Live streaming and gaming content creation for YouTube, Twitch, Mixer, TikTok, a
 
 Code (C# / C++ / Blueprints-level), design pipelines, technical art, level design, project development, QA, production milestones, alt-controller experiments, degree capstones, and portfolio prep.
 
-- Playable portfolio work in Unity & Unreal — [Projects](projects).
-- BREATHE Arcade capstone: breath-controlled Unity game with MCU serial input — [Projects](projects#breathe-arcade).
-- OVERCLOCKED: Data Dash MAX capstone: UE5 game for arcade hardware and Windows — [Projects](projects).
+- Playable portfolio work in Unity & Unreal. See [Projects](projects).
+- BREATHE Arcade capstone: breath-controlled Unity game with MCU serial input. See [Projects](projects#breathe-arcade).
+- OVERCLOCKED: Data Dash MAX capstone: UE5 game for arcade hardware and Windows. See [Projects](projects).
 
 <div class="history-entry">
   <div class="history-row">
-    <span class="history-title">B.S. — University Studies of Veterinary Medicine</span>
+    <span class="history-title">B.S. in University Studies of Veterinary Medicine</span>
     <span class="history-date">May 2020</span>
   </div>
   <div class="history-meta">Concentration in Biomedical Sciences · Dual minors: Psychology & Public Health · Texas A&M University · College Station, TX</div>
