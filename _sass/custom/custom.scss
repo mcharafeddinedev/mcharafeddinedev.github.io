@@ -613,10 +613,14 @@ body.page-prose-lite .sidebar-screenshot-strip {
   text-align: left;
 }
 
-/* Home & Projects: center all page content (wrappers in index.md / projects.md) */
-.main-content .home-page,
-.main-content .projects-page {
+/* Home: centered column with a tighter measure so lines wrap cleanly */
+.main-content .home-page {
   text-align: center !important;
+  max-width: 44rem;
+  width: 100%;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  box-sizing: border-box;
 }
 
 .main-content .home-page h1,
@@ -624,7 +628,16 @@ body.page-prose-lite .sidebar-screenshot-strip {
 .main-content .home-page h3,
 .main-content .home-page h4,
 .main-content .home-page p,
-.main-content .home-page hr,
+.main-content .home-page hr {
+  text-align: center !important;
+  text-wrap: balance;
+}
+
+/* Projects: full backplate width, centered content */
+.main-content .projects-page {
+  text-align: center !important;
+}
+
 .main-content .projects-page h1,
 .main-content .projects-page h2,
 .main-content .projects-page h3,

@@ -31,12 +31,40 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
-{% if page.title == 'Projects' or page.title == 'Home' %}
-<style id="centered-page-layout">
+{% if page.title == 'Home' %}
+<style id="home-page-layout">
+  .main-content .home-page {
+    max-width: 44rem;
+    width: 100%;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    text-align: center !important;
+  }
+
+  .main-content .home-page h1,
+  .main-content .home-page h2,
+  .main-content .home-page h3,
+  .main-content .home-page p {
+    text-wrap: balance;
+  }
+
+  .main-content .home-page ul,
+  .main-content .home-page ol {
+    display: table !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    text-align: left !important;
+  }
+
+  .main-content .home-page p[align="center"] {
+    text-align: center !important;
+  }
+</style>
+{% elsif page.title == 'Projects' %}
+<style id="projects-page-layout">
   .main-content,
   .main-content main,
-  .main-content .projects-page,
-  .main-content .home-page {
+  .main-content .projects-page {
     text-align: center !important;
   }
 
@@ -45,9 +73,7 @@
   .main-content main ul,
   .main-content main ol,
   .main-content .projects-page ul,
-  .main-content .projects-page ol,
-  .main-content .home-page ul,
-  .main-content .home-page ol {
+  .main-content .projects-page ol {
     display: table !important;
     margin-left: auto !important;
     margin-right: auto !important;
