@@ -12,7 +12,7 @@ nav_order: 2
 
 ## In Development
 
-- **WW2-era FPS wave-survival demo** (private IP). Built in Unreal Engine 5.5 (C++) Combat, enemy AI, and escalating rounds are in the playable loop. Current goal: finish a public playtest build, gather feedback, and iterate toward a stronger demo for a future showcase or festival submission. No public build yet.
+- **WW2-era FPS wave-survival demo** (private IP). Built in Unreal Engine 5.5 (C++). Combat, enemy AI, VFX feedback systems,UI, escalating rounds and most other in-game features are in the playable loop. My current goal is to finish a public playtest build, gather feedback, and iterate toward a stronger demo for a future showcase or festival submission. No public build yet.
 
 ---
 
