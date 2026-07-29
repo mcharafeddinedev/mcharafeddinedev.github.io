@@ -158,13 +158,13 @@ Solo developed, simple 2D adventure. Built everything except art assets: core sy
 
 ---
 
-## In development
+## In Development
 
 - **UE5 FPS wave-survival demo** (private IP). Unreal Engine 5.5 (C++), first-person wave survival. Combat, enemy AI, and escalating rounds are in the playable loop. Current goal: finish a public playtest build, gather feedback, and iterate toward a stronger demo for a future showcase or festival submission. No public build yet.
 
 ---
 
-## Earlier prototypes & jams
+## Earlier Prototypes & Jams
 
 ### Void Knights
 Unreal Engine 5 · Blueprints · Class Prototype

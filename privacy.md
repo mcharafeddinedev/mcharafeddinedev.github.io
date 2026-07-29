@@ -14,13 +14,13 @@ This page covers **[goldleafinteractive.com](https://goldleafinteractive.com)**:
 
 ---
 
-## This website
+## This Website
 
 The site is a static portfolio hosted on GitHub Pages. There is no account system and no forms that store your data on my servers. The host may see ordinary request data (such as IP address and browser info) under GitHub’s own policies. I do not sell personal data.
 
 ---
 
-## Games and online features
+## Games and Online Features
 
 Some games may include optional online features through platforms like **Epic Online Services** (login, multiplayer, voice chat) or storefronts like **itch.io** / **Steam**.
 

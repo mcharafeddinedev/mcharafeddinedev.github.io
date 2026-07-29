@@ -14,7 +14,7 @@ Below is a short list of anchor games grouped by what they taught me. The full c
 
 ---
 
-## Immersive worlds & exploration
+## Immersive Worlds & Exploration
 
 - The Legend of Zelda: Ocarina of Time / Majora's Mask / Breath of the Wild
 - TES IV: Oblivion / Skyrim
@@ -23,7 +23,7 @@ Below is a short list of anchor games grouped by what they taught me. The full c
 - Metroid Prime
 - Shadow of the Colossus
 
-## Systems, RPGs & progression
+## Systems, RPGs & Progression
 
 - Pokémon Gold / Silver
 - Final Fantasy VII / X
@@ -32,7 +32,7 @@ Below is a short list of anchor games grouped by what they taught me. The full c
 - Stardew Valley
 - The Binding of Isaac
 
-## Competitive shooters & feel
+## Competitive Shooters & Feel
 
 - Call of Duty (Modern Warfare era through current)
 - Halo 2 / 3
@@ -41,7 +41,7 @@ Below is a short list of anchor games grouped by what they taught me. The full c
 - Titanfall 2
 - Rainbow Six Siege
 
-## Co-op, chaos & social play
+## Co-op, Chaos & Social Play
 
 - Left 4 Dead 2
 - Deep Rock Galactic
@@ -50,7 +50,7 @@ Below is a short list of anchor games grouped by what they taught me. The full c
 - Phasmophobia
 - It Takes Two
 
-## Smaller games that stuck
+## Smaller Games That Stuck
 
 - Outer Wilds
 - Portal / Portal 2

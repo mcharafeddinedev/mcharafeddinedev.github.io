@@ -26,7 +26,7 @@ I'm looking for entry-level, associate, or intern roles in gameplay engineering 
 
 <div class="section-center" markdown="1">
 
-## Featured work
+## Featured Work
 
 <p align="center">
   <a href="https://goldleafinteractive.itch.io/access-granted">
@@ -76,7 +76,7 @@ Unity capstone. Five micro-games on one breath-input layer, with hardware and ke
 
 ---
 
-## What I do
+## What I Do
 
 - **Systems & design:** Prototype in-engine, tune rules and pacing, build player-facing mechanics.
 - **Engines:** <span class="term">Unity</span>, <span class="term">Unreal</span>, and <span class="term">WebGL</span> when the project needs it.

@@ -8,7 +8,7 @@ nav_order: 3
 
 ---
 
-## Independent development
+## Independent Development
 
 <div class="history-entry">
   <div class="history-row">
@@ -27,7 +27,7 @@ nav_order: 3
 
 ---
 
-## Other work
+## Other Work
 
 <div class="history-entry">
   <div class="history-row">

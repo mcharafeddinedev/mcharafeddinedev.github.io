@@ -60,28 +60,11 @@ body {
   }
 }
 
-/* Let the main column grow past the theme $content-width cap and fill to the right edge */
-.main {
-  max-width: none !important;
-  width: auto !important;
-  box-sizing: border-box !important;
-}
-
-@media (min-width: 50rem) {
-  .side-bar + .main {
-    max-width: none !important;
-    width: auto !important;
-    /* Keep theme margin-left for sidebar clearance; fill remaining space to a small gutter */
-    margin-right: 1.25rem !important;
-  }
-}
-
-/* Main content area: translucent panel */
+/* Main content area: translucent panel (theme .main keeps margin:auto + $content-width centering) */
 .main-content-wrap {
   padding-top: 0.5rem !important;
   width: 100% !important;
-  max-width: none !important;
-  box-sizing: border-box !important;
+  max-width: 100% !important;
 }
 
 .main-content {
@@ -92,8 +75,8 @@ body {
   padding-top: 0.75rem !important;
   margin-top: 0.25rem !important;
   margin-left: 0 !important;
-  margin-right: 0 !important;
-  max-width: none !important;
+  margin-right: auto !important;
+  max-width: calc(100% - 1.25rem) !important;
   width: 100% !important;
   box-sizing: border-box !important;
 }
