@@ -308,6 +308,11 @@
 
   function init() {
     resize();
+    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+      ctx.fillStyle = '#030503';
+      ctx.fillRect(0, 0, W, H);
+      return;
+    }
     initStreamLines(15);
     initShards(25);
     initEmbers(15);

@@ -1,6 +1,6 @@
 ---
-title: My History
-description: "Experience and education for Gameplay Engineer and Technical Designer Marwan Charafeddine, including independent game development and formal game programming education."
+title: Experience
+description: "Experience and education for Gameplay Engineer and Technical Designer Marwan Charafeddine."
 nav_order: 3
 ---
 
@@ -18,15 +18,12 @@ nav_order: 3
   <div class="history-meta">Gold Leaf Interactive · Houston, TX</div>
 </div>
 
-- Gameplay systems end-to-end: mechanics, production, tuning data, pacing, onboarding, WebGL, and kiosk/arcade constraints.
-- Modern dev workflow: consistent use of Cursor and similar tooling for organizing, feature implementation, and iteration, with direct ownership of design intent, integration, debugging, review, and playtesting.
-- Portfolio & presentation: built and maintain [mcharafeddinedev.github.io](https://mcharafeddinedev.github.io) (Jekyll, custom SCSS, vanilla JS) and public [GameDev-Portfolio](https://github.com/mcharafeddinedev/GameDev-Portfolio) repos alongside shipped games.
-- Multi-engine work across Unity (Access Granted, Dread & Breakfast, Trenchglow, BREATHE) and Unreal (Overclocked: DDM, I AM INEVITABLE, jams, and class work).
-- **In development:** UE5.5 (C++) first-person shooter wave-survival prototype (private IP)—combat, enemy AI, and escalating rounds in the playable loop; facility vertical slice under active hardening; no public build yet. Also in development: UE5 (C++) friendslop-style co-op shopping mall prototype (private IP)—shared chaotic jobs, proximity voice, and escalating day-shift disasters; core loop and multiplayer scaffolding in progress.
-- Browser builds with patch history: [Access Granted](https://goldleafinteractive.itch.io/access-granted), [Dread & Breakfast](https://goldleafinteractive.itch.io/dread-and-breakfast), [Trenchglow](https://goldleafinteractive.itch.io/trenchglow), [BREATHE Arcade](https://goldleafinteractive.itch.io/breathe-arcade).
-- Overclocked: Data Dash MAX (UE5 C++): arcade + PC controls, procedural patterns, HUD flow, boards, and cabinet tuning.
-- Documentation through README files, design companions, devlogs, portfolio pages, and public project notes.
-- Amateur / semi-pro FPS competition background (Call of Duty, Apex Legends) — informs feel for action combat shooters, their environment/level design, readable combat mechanics + feedback, & more.
+- Gameplay systems end-to-end: mechanics, tuning data, pacing, onboarding, WebGL, and kiosk/arcade constraints.
+- Shipped browser and PC titles on itch and Steam — see [Projects](projects).
+- Multi-engine work across Unity and Unreal (jams, coursework, and independent releases).
+- QA and playtesting as part of the build loop: edge cases, feel, and reproducible notes.
+- Built and maintain this portfolio site and public [GameDev-Portfolio](https://github.com/mcharafeddinedev/GameDev-Portfolio) repos.
+- Preparing a UE5.5 (C++) first-person wave-survival demo for a public playtest — details on [Projects](projects).
 
 ---
 
@@ -74,11 +71,11 @@ Live streaming and gaming content creation for YouTube, Twitch, Mixer, TikTok, a
   <div class="history-meta">Houston Community College · Houston, TX</div>
 </div>
 
-Code (C# / C++ / Blueprints-level), design pipelines, technical art, level design, project development, QA, production milestones, alt-controller / analog hardware experiments, degree capstones, portfolio prep, and more.
+Code (C# / C++ / Blueprints-level), design pipelines, technical art, level design, project development, QA, production milestones, alt-controller experiments, degree capstones, and portfolio prep.
 
-- Playable portfolio work in Unity & Unreal (jams, classes, prototypes).
-- BREATHE Arcade capstone: analog controlled game, MCU serial into Unity, Arduino-to-PC connection for reading breath input.
-- OVERCLOCKED: DDM capstone: complete 3D Unreal Engine 5 game built for arcade hardware and Windows.
+- Playable portfolio work in Unity & Unreal — [Projects](projects).
+- BREATHE Arcade capstone: breath-controlled Unity game with MCU serial input — [Projects](projects#breathe-arcade).
+- OVERCLOCKED: Data Dash MAX capstone: UE5 game for arcade hardware and Windows — [Projects](projects).
 
 <div class="history-entry">
   <div class="history-row">
@@ -87,7 +84,6 @@ Code (C# / C++ / Blueprints-level), design pipelines, technical art, level desig
   </div>
   <div class="history-meta">Concentration in Biomedical Sciences · Dual minors: Psychology & Public Health · Texas A&M University · College Station, TX</div>
 </div>
-
 
 ## Leadership (_Kappa Sigma_ · College Station)
 

@@ -1,10 +1,28 @@
 <canvas id="matrix-bg" style="position:fixed;top:0;left:0;width:100vw;height:100vh;z-index:-1;pointer-events:none;will-change:transform;"></canvas>
 <script src="{{ '/assets/js/matrix-background.js' | relative_url }}"></script>
 
+<nav class="site-footer-custom" aria-label="Site links">
+  <a href="/assets/MC_1PageResume.pdf">Resume</a>
+  <span class="footer-sep" aria-hidden="true">·</span>
+  <a href="https://goldleafinteractive.itch.io" target="_blank" rel="noopener noreferrer">itch.io</a>
+  <span class="footer-sep" aria-hidden="true">·</span>
+  <a href="https://www.linkedin.com/in/marwan-charafeddine-213065155" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+  <span class="footer-sep" aria-hidden="true">·</span>
+  <a href="https://github.com/mcharafeddinedev/GameDev-Portfolio" target="_blank" rel="noopener noreferrer">GitHub</a>
+  <span class="footer-sep" aria-hidden="true">·</span>
+  <a href="/privacy/">Privacy</a>
+</nav>
+
 <script>
 (function() {
+  var path = (window.location.pathname || '/').replace(/\/+$/, '') || '/';
+  var prosePages = ['/work-history', '/mylib', '/mylib-full', '/privacy'];
+  if (prosePages.indexOf(path) !== -1) {
+    document.body.classList.add('page-prose-lite');
+  }
+
   var nav = document.querySelector('.site-nav');
-  if (!nav) return;
+  if (!nav || document.body.classList.contains('page-prose-lite')) return;
 
   var strip = document.createElement('div');
   strip.className = 'sidebar-screenshot-strip';

@@ -2,9 +2,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;600&family=Source+Code+Pro:wght@400;500;600&display=swap');
 
 $body-font: 'Fira Code', 'Source Code Pro', 'Consolas', 'Courier New', monospace;
+$prose-font: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
 
 // Must stay within sane viewport totals (theme derives lg gutters from nav + content).
-// 88rem + nav overflowed laptops; combined with flex-start on the sidebar it orphaned the nav strip.
+// 88rem content + 16rem nav ≈ 104rem total — reclaims ~2/3 of side gutters on desktop.
+// Sidebar uses align-items: flex-end in custom.scss so nav doesn't orphan on laptops.
 $nav-width: 16rem;
-$content-width: 58rem;
+$content-width: 88rem;
 

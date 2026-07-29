@@ -11,11 +11,31 @@ html {
 }
 
 body {
-  font-family: 'Fira Code', 'Source Code Pro', 'Consolas', 'Courier New', monospace !important;
+  font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif !important;
   -webkit-font-smoothing: antialiased;
   background: transparent !important;
   min-height: 100vh !important;
   color: rgba(220, 235, 220, 0.95) !important;
+}
+
+/* Terminal stack for nav, code, and headings */
+.site-title,
+.site-nav,
+.search-input,
+.main-content code,
+.main-content pre,
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4,
+.main-content h5,
+.main-content h6,
+.main-content .term,
+.main-content .project-title,
+.main-content .history-title,
+.main-content .history-date,
+.site-footer-custom {
+  font-family: 'Fira Code', 'Source Code Pro', 'Consolas', 'Courier New', monospace !important;
 }
 
 /* All structural containers transparent so the canvas shows through */
@@ -298,37 +318,37 @@ body {
 /* --- Typography sizing (preserved from original) --- */
 
 .main-content h1:first-of-type {
-  font-size: 1.4rem !important;
+  font-size: 1.85rem !important;
   font-weight: 600 !important;
   margin-top: 0.5rem !important;
   margin-bottom: 1rem !important;
   color: #8efcff !important;
-  text-shadow: 0 0 10px rgba(0, 237, 214, 0.24) !important;
+  text-shadow: 0 0 8px rgba(0, 237, 214, 0.18) !important;
 }
 
 .main-content h1 {
-  font-size: 1.4rem !important;
+  font-size: 1.85rem !important;
   font-weight: 600 !important;
   color: #8efcff !important;
-  text-shadow: 0 0 10px rgba(0, 237, 214, 0.22) !important;
+  text-shadow: 0 0 8px rgba(0, 237, 214, 0.16) !important;
 }
 
 .main-content h2 {
-  font-size: 1.2rem !important;
+  font-size: 1.25rem !important;
   font-weight: 600 !important;
   margin-top: 1.5rem !important;
   margin-bottom: 0.75rem !important;
   color: #64ff9a !important;
-  text-shadow: 0 0 10px rgba(0, 255, 128, 0.24) !important;
+  text-shadow: 0 0 6px rgba(0, 255, 128, 0.14) !important;
 }
 
 .main-content h3 {
-  font-size: 1.05rem !important;
+  font-size: 1.08rem !important;
   font-weight: 600 !important;
   margin-top: 1.25rem !important;
   margin-bottom: 0.5rem !important;
   color: #ffd166 !important;
-  text-shadow: 0 0 8px rgba(255, 209, 102, 0.2) !important;
+  text-shadow: none !important;
 }
 
 .main-content h4,
@@ -345,11 +365,26 @@ body {
 
 .main-content p {
   margin-bottom: 1rem !important;
-  line-height: 1.65 !important;
+  line-height: 1.7 !important;
+  max-width: 72ch;
 }
 
 .main-content li {
   margin-bottom: 0.25rem !important;
+  max-width: 72ch;
+}
+
+.main-content > ul,
+.main-content > ol,
+.main-content blockquote {
+  max-width: 72ch;
+}
+
+/* Wider measure for project media and embeds */
+.main-content .itch-embed-wrap,
+.main-content p[align="center"],
+.main-content .history-entry {
+  max-width: none;
 }
 
 /* Resume-style rows for history/education pages */
@@ -397,6 +432,14 @@ body {
 .main-content a:hover {
   color: #33ff99 !important;
   text-shadow: 0 0 12px rgba(0, 255, 128, 0.6), 0 0 20px rgba(0, 255, 128, 0.35) !important;
+}
+
+.main-content a:focus-visible,
+.site-footer-custom a:focus-visible,
+.site-nav .nav-list-link:focus-visible,
+.sidebar-screenshot-card:focus-visible {
+  outline: 2px solid rgba(0, 255, 160, 0.85) !important;
+  outline-offset: 2px;
 }
 
 /* Sidebar links inherit the green palette */
@@ -515,9 +558,40 @@ body {
   text-shadow: inherit !important;
 }
 
-/* --- Hide footer --- */
+/* --- Site footer (custom links in footer_custom.html) --- */
 
 .site-footer {
+  display: none !important;
+}
+
+.site-footer-custom {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 1rem;
+  align-items: center;
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid rgba(0, 200, 100, 0.12);
+  font-size: 0.82rem;
+  color: rgba(180, 210, 180, 0.85) !important;
+}
+
+.site-footer-custom a {
+  color: #00cc66 !important;
+  text-decoration: none;
+}
+
+.site-footer-custom a:hover {
+  color: #33ff99 !important;
+  text-shadow: 0 0 8px rgba(0, 255, 128, 0.35);
+}
+
+.site-footer-custom .footer-sep {
+  color: rgba(120, 160, 120, 0.5);
+}
+
+/* Hide playable strip on prose-heavy pages */
+body.page-prose-lite .sidebar-screenshot-strip {
   display: none !important;
 }
 
@@ -598,7 +672,7 @@ body {
   }
 
   .main-content h1 {
-    font-size: 1.3rem !important;
+    font-size: 1.55rem !important;
   }
   .main-content h2 {
     font-size: 1.1rem !important;

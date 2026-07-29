@@ -1,28 +1,16 @@
 ---
-title: My Projects
+title: Projects
 description: "Playable Unity and Unreal projects by Marwan Charafeddine — Trenchglow, BREATHE Arcade, Access Granted, OVERCLOCKED, and more."
 nav_order: 2
 ---
 
 # Game Projects
 
-[Current Focus →](activedev)
-
----
-
-## In development
-
-Active work right now — more context on [Current Focus](activedev).
-
-- **UE5 FPS survival prototype** (private IP) — Serious in-progress Unreal Engine 5.5 (C++) title: first-person wave survival. Combat, enemy AI, and escalating rounds are in the playable loop, with facility progression systems under active hardening for a completable vertical slice. No playable build or store page yet.
-- **UE5 co-op mall prototype** (private IP) — In-progress Unreal Engine 5 (C++) friendslop-style co-op set in a shopping mall: shared chaotic jobs, proximity voice, and escalating day-shift disasters. Core loop and multiplayer scaffolding are in active development. No playable build or store page yet.
-- **Original fantasy world chronicle (private IP)** — ~32 chronicle-style lore entries (~30+ pages), currently in revision: lived-in background lore as the foundation for a **future game concept**. This is mainly worldbuilding and design prep for a game I want to make—not a separate writing credential, and nothing is published as standalone narrative, yet. 
-
 ---
 
 ## Featured
 
-### ACCESS GRANTED
+### Access Granted
 Unity 6 · C# · URP · Released · WebGL + Windows
 
 Released solo project that blends brick-breaker play with reactive typing challenges inside a CRT-terminal aesthetic.
@@ -85,7 +73,7 @@ WebGL deep-sea exploration game built around sonar pings, dark-water navigation,
 
 ---
 
-### BREATHE Arcade
+### BREATHE Arcade {#breathe-arcade}
 Unity 6 · C# · 2D URP · Capstone Project · WebGL + Windows
 
 Five breath-controlled micro-games built around a shared input layer for custom hardware, USB mic input, and keyboard simulation.
@@ -170,7 +158,13 @@ Solo developed, simple 2D adventure. Built everything except art assets: core sy
 
 ---
 
-## Other Work
+## In development
+
+- **UE5 FPS wave-survival demo** (private IP) — Unreal Engine 5.5 (C++), first-person wave survival. Combat, enemy AI, and escalating rounds are in the playable loop. Current goal: finish a public playtest build, gather feedback, and iterate toward a stronger demo for a future showcase or festival submission. No public build yet.
+
+---
+
+## Earlier prototypes & jams
 
 ### Void Knights
 Unreal Engine 5 · Blueprints · Class Prototype
@@ -240,11 +234,8 @@ Side-scrolling atmospheric horror—enemy/encounter logic, environment beats, HU
 
 ## More
 
-~16 jam/class loops if you count everything:
-
-- I AM INEVITABLE (UE5 · Chillennium '26) — defeats raise stats; platformer movement with wall interplay + dashing · [Windows](https://goldleafinteractive.itch.io/i-am-inevitable)
-- Doors n' Dice · Class Prototype · Old coursework prototype/test project - [itch](https://goldleafinteractive.itch.io/doors-n-dice)
-- Escape Control · Class Prototype · Old coursework prototype/test project - see [profile](https://goldleafinteractive.itch.io/)
-- Misc mechanics labs · old capture exports for class submissions maybe later for archive
+- [I AM INEVITABLE](https://goldleafinteractive.itch.io/i-am-inevitable) (UE5 · Chillennium '26) — defeat-scaling stats, wall movement, dashing
+- [Doors n' Dice](https://goldleafinteractive.itch.io/doors-n-dice) · Class prototype
+- [Escape Control](https://goldleafinteractive.itch.io/) · Class prototype — see [itch profile](https://goldleafinteractive.itch.io/)
 
 ---
