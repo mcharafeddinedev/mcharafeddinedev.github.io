@@ -21,7 +21,7 @@ Hey, I'm Marwan. I design and build gameplay systems: mechanics players can read
 
 I'm looking for entry-level, associate, or intern roles in gameplay engineering and technical design. Also open to generalist, production, and QA-adjacent work.
 
-While searching for such a position, ever since I graduated my recent degree program, I've been working on a project I've really wanted to make for a while — I plan to publish it on Steam under my usual solo studio name that I've used for a while now on itch.io, **Gold Leaf Interactive**. More details soon. 
+Since graduating, I've been working on a game I've wanted to make for a long time. I plan to publish it on Steam under my solo studio, **Gold Leaf Interactive**, which I've been using on itch.io. More details soon.
 
 - **Resume (PDF):** [MC_1PageResume.pdf](/assets/MC_1PageResume.pdf)
 - **Play in browser:** [Access Granted](https://goldleafinteractive.itch.io/access-granted) · [Dread & Breakfast](https://goldleafinteractive.itch.io/dread-and-breakfast) · [BREATHE Arcade](https://goldleafinteractive.itch.io/breathe-arcade)
