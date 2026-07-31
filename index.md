@@ -1,6 +1,6 @@
 ---
 title: Home
-description: "Gameplay Systems Engineer and Technical Designer. Unity and Unreal systems, shipped indie prototypes, and portfolio."
+description: "Gameplay Systems Engineer and Technical Designer. Unreal and Unity systems, shipped indie prototypes, and portfolio."
 layout: default
 nav_order: 1
 ---
@@ -79,7 +79,7 @@ Unity capstone. Five micro-games on one breath-input layer, with hardware and ke
 ## What I Do
 
 - **Systems & design:** Prototype in-engine, tune rules and pacing, build player-facing mechanics.
-- **Engines:** <span class="term">Unity</span>, <span class="term">Unreal</span>, and <span class="term">WebGL</span> when the project needs it.
+- **Engines:** <span class="term">Unreal</span> and <span class="term">Unity</span>.
 - **QA & playtesting:** Reproducible notes, edge-case checks, and player-facing feel: controls, feedback, readability.
 - **Ship rhythm:** Iterate until playtests feel right; patch notes and devlogs on itch.
 

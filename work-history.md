@@ -18,9 +18,9 @@ nav_order: 3
   <div class="history-meta">Gold Leaf Interactive · Houston, TX</div>
 </div>
 
-- Gameplay systems end-to-end: mechanics, tuning data, pacing, onboarding, WebGL, and kiosk/arcade constraints.
+- Gameplay systems end-to-end: mechanics, tuning data, pacing, onboarding, browser playables, and kiosk/arcade constraints.
 - Shipped browser and PC titles on itch and Steam. See [Projects](projects).
-- Multi-engine work across Unity and Unreal (jams, coursework, and independent releases).
+- Multi-engine work across Unreal and Unity (jams, coursework, and independent releases).
 - QA and playtesting as part of the build loop: edge cases, feel, and reproducible notes.
 - Built and maintain this portfolio site and public [GameDev-Portfolio](https://github.com/mcharafeddinedev/GameDev-Portfolio) repos.
 - Preparing a UE5.5 (C++) first-person wave-survival demo for a public playtest. Details on [Projects](projects).
@@ -73,7 +73,7 @@ Live streaming and gaming content creation for YouTube, Twitch, Mixer, TikTok, a
 
 Code (C# / C++ / Blueprints-level), design pipelines, technical art, level design, project development, QA, production milestones, alt-controller experiments, degree capstones, and portfolio prep.
 
-- Playable portfolio work in Unity & Unreal. See [Projects](projects).
+- Playable portfolio work in Unreal & Unity. See [Projects](projects).
 - BREATHE Arcade capstone: breath-controlled Unity game with MCU serial input. See [Projects](projects#breathe-arcade).
 - OVERCLOCKED: Data Dash MAX capstone: UE5 game for arcade hardware and Windows. See [Projects](projects).
 

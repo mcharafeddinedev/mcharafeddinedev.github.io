@@ -1,6 +1,6 @@
 ---
 title: Projects
-description: "Playable Unity and Unreal projects by Marwan Charafeddine: Trenchglow, BREATHE Arcade, Access Granted, OVERCLOCKED, and more."
+description: "Playable Unreal and Unity projects by Marwan Charafeddine: Trenchglow, BREATHE Arcade, Access Granted, OVERCLOCKED, and more."
 nav_order: 2
 ---
 
@@ -19,7 +19,7 @@ nav_order: 2
 ## Featured
 
 ### Access Granted
-Unity 6 · C# · URP · Released · WebGL + Windows
+Unity 6 · C# · URP · Released · Browser & Windows
 
 Released solo project that blends brick-breaker play with reactive typing challenges inside a CRT-terminal aesthetic.
 
@@ -27,7 +27,7 @@ Released solo project that blends brick-breaker play with reactive typing challe
   <img src="/assets/images/access-granted.png" alt="Access Granted CRT-style gameplay" style="max-width: 600px; width: 100%;">
 </p>
 
-- Built the paddle/ball loop, command-brick slow motion, typed prompt resolution, menus, and WebGL/Windows release flow.
+- Built the paddle/ball loop, command-brick slow motion, typed prompt resolution, menus, and browser/Windows release flow.
 - Tuned separate failure tracks for ball drops and mistyped commands, with three difficulty tiers across levels 1-15.
 - Used barrel distortion, scanlines, UI styling, and patch iteration to keep the CRT identity readable during play.
 
@@ -40,7 +40,7 @@ Released solo project that blends brick-breaker play with reactive typing challe
 ---
 
 ### Dread & Breakfast
-Unity 6 · C# · Beta / Post-jam · WebGL & Windows
+Unity 6 · C# · Beta / Post-jam · Browser & Windows
 
 Top-down ghost haunting simulator about scaring guests through escalating nights, shuffled rooms, haunt abilities, and a replayable fright economy.
 
@@ -61,17 +61,17 @@ Top-down ghost haunting simulator about scaring guests through escalating nights
 ---
 
 ### Trenchglow {#trenchglow}
-Unity (2D URP) · C# · Released · WebGL
+Unity (2D URP) · C# · Released · Browser
 
-WebGL deep-sea exploration game built around sonar pings, dark-water navigation, collectibles, puzzles, and curiosity-first traversal.
+Deep-sea exploration game built around sonar pings, dark-water navigation, collectibles, puzzles, and curiosity-first traversal.
 
 <p align="center">
   <img src="/assets/images/trenchglow.png" alt="Trenchglow underwater key art" style="max-width: 600px; width: 100%;">
 </p>
 
-- Built shader-driven sonar reveals with a toned-down fallback for WebGL and lower-end GPUs.
+- Built shader-driven sonar reveals with a toned-down fallback for browser builds and lower-end GPUs.
 - Layered local visibility, widening sonar rings, and timed SFX so audio and reveal feedback line up.
-- Finished beyond the tutorial with additional trench levels and puzzle spaces; playable WebGL build is live on itch.
+- Finished beyond the tutorial with additional trench levels and puzzle spaces; playable browser build is live on itch.
 
 <div class="itch-embed-wrap" style="text-align: center; margin: 1.5rem 0;">
   <iframe id="itch-embed-trenchglow" title="Itch.io: Trenchglow" frameborder="0" loading="lazy" src="https://itch.io/embed/4513861?linkback=true&amp;bg_color=0a1628&amp;fg_color=cfe8ff&amp;link_color=f5a524&amp;border_color=1a3d5c" width="552" height="167" class="itch-embed"></iframe>
@@ -82,7 +82,7 @@ WebGL deep-sea exploration game built around sonar pings, dark-water navigation,
 ---
 
 ### BREATHE Arcade {#breathe-arcade}
-Unity 6 · C# · 2D URP · Capstone Project · WebGL + Windows
+Unity 6 · C# · 2D URP · Capstone Project · Browser & Windows
 
 Five breath-controlled micro-games built around a shared input layer for custom hardware, USB mic input, and keyboard simulation.
 
