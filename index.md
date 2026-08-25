@@ -9,11 +9,11 @@ nav_order: 1
 
 # Gameplay Systems Engineer · Technical Designer
 
-Hey, I'm Marwan. I design and build gameplay systems: mechanics players can read, loops worth replaying, and feedback that holds up in playtests. I take projects from concept to playable release.
+Hey there! I'm Marwan. I design and build interactive game systems, with a focus on mechanics players can read at a glance, loops worth replaying, and feedback that holds up once real players get their hands on it. I'm flexible across gameplay programming, technical design, and engine work, and comfortable picking up new tools or dropping into new teams. Like a lot of game devs, I also spend a good chunk of my free time on solo personal projects, which keep pushing me to learn something new with nearly every one.
 
-<span class="term">Unreal Engine (C++ & Blueprints)</span> and <span class="term">Unity (C#)</span> are my main tools. I work as both a technical designer and implementer. I recently completed my A.A.S. in Digital Gaming & Simulation for Programmers, and have shipped several small games on [itch.io](https://goldleafinteractive.itch.io); I'm planning to ship a more serious project to Steam soon, fully solo developed. 
+<span class="term">Unreal Engine 5 (C++ & Blueprints)</span> and <span class="term">Unity 6 (C#)</span> are my main tools. I typically work as a technical designer, gameplay programmer, and overall implementer, from preproduction through post-mortem. I recently completed my A.A.S. in Digital Gaming & Simulation for Programmers, have shipped several small games on [itch.io](https://goldleafinteractive.itch.io), and I'm currently deep into a larger solo project I'm aiming to bring to Steam.
 
-26+ years as a gamer has trained me to notice friction, pacing, and edge cases early. That experience gives me a useful perspective when I playtest systems and mechanics, down to the details.
+27+ years of gaming has also trained me to notice friction, pacing issues, and edge cases early. That instinct carries directly into how I playtest my own systems and mechanics, catching the small stuff before it becomes a bigger problem. It also helps me read a wider range of player types: what a competitive or semi-pro player wants out of a system versus what a more casual player prefers. I aim for the middle ground between the two, building in enough depth and resources for one and enough guidance and clarity for the other, tactfully, so both can enjoy the loop.
 
 ---
 
@@ -83,7 +83,7 @@ Unity capstone. Five micro-games on one breath-input layer, with hardware and ke
 - **QA & playtesting:** Reproducible notes, edge-case checks, and player-facing feel: controls, feedback, readability.
 - **Ship rhythm:** Iterate until playtests feel right; patch notes and devlogs on itch.
 
-Currently preparing a **UE5.5 (C++) first-person wave-survival demo** for a public playtest. See [Projects](projects) for status.
+Currently building a **UE5.5 (C++) first-person wave-survival game** solo. Core loop and systems are playable; iterating toward a public playtest. See [Projects](projects) for status.
 
 ---
 

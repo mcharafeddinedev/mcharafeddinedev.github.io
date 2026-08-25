@@ -23,7 +23,7 @@ nav_order: 3
 - Multi-engine work across Unreal and Unity (jams, coursework, and independent releases).
 - QA and playtesting as part of the build loop: edge cases, feel, and reproducible notes.
 - Built and maintain this portfolio site and public [GameDev-Portfolio](https://github.com/mcharafeddinedev/GameDev-Portfolio) repos.
-- Preparing a UE5.5 (C++) first-person wave-survival demo for a public playtest. Details on [Projects](projects).
+- Building a UE5.5 (C++) first-person wave-survival game solo; core loop and systems are playable, iterating toward a public playtest. Details on [Projects](projects).
 
 ---
 
