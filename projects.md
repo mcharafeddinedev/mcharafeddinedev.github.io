@@ -29,9 +29,9 @@ One case is live now (~15–20 minutes), with a catalog ready for more later.
   <img src="/assets/images/unsub.png" alt="UNSUB main menu: rain on glass and the case title" style="max-width: 600px; width: 100%;">
 </p>
 
-- Built a data-driven case loop: inspect evidence, interrogate suspects on a shared question budget, present contradictions, and accuse once.
-- Authored a ScriptableObject case catalog so later cases can drop in; the Blue Lantern file is live, with a pending-folder placeholder for the next case.
-- Shared present/verdict resolvers grade hits, leftover budgets, and the single accusation instead of baking the puzzle into UI.
+- Built the desk flow: evidence files, suspect interrogations, showing proof when a story doesn't match, and a one-shot accusation.
+- Packed case content into ScriptableObjects (suspects, evidence, claims, conflicts) so extra cases can be added later; only Blue Lantern is playable so far.
+- Question and show tries are shared across the whole case (10 and 5), and leftover tries plus hits feed the verdict after you accuse.
 
 <div class="itch-embed-wrap" style="text-align: center; margin: 1.5rem 0;">
   <iframe id="itch-embed-unsub-projects" title="Itch.io: UNSUB" frameborder="0" loading="lazy" src="https://itch.io/embed/4951501?linkback=true&amp;border_width=2&amp;bg_color=120c08&amp;fg_color=e8d9c0&amp;link_color=d4c4a0&amp;border_color=3a2a1c" width="552" height="167" class="itch-embed"></iframe>
