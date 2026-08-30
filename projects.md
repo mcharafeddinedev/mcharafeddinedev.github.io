@@ -1,6 +1,6 @@
 ---
 title: Projects
-description: "Playable Unreal and Unity projects by Marwan Charafeddine: Trenchglow, BREATHE Arcade, Access Granted, OVERCLOCKED, and more."
+description: "Playable Unreal and Unity projects by Marwan Charafeddine: UNSUB, Access Granted, Trenchglow, BREATHE Arcade, OVERCLOCKED, and more."
 nav_order: 2
 ---
 
@@ -17,6 +17,27 @@ nav_order: 2
 ---
 
 ## Featured
+
+### UNSUB {#unsub}
+Unity 6 · C# · URP · Game jam / In development · Browser
+
+Noir detective game built for Brackeys Game Jam 2026.2 (theme: TRUST NO ONE). Harlan Voss was found dead behind the Blue Lantern Nightclub; you are a new detective at the precinct. One case is live now (~15–20 minutes), with a catalog ready for more later.
+
+<p align="center">
+  <img src="/assets/images/unsub.png" alt="UNSUB main menu: rain on glass and the case title" style="max-width: 600px; width: 100%;">
+</p>
+
+- Built a data-driven case loop: inspect evidence, interrogate suspects on a shared question budget, present contradictions, and accuse once.
+- Authored a ScriptableObject case catalog so later cases can drop in; the Blue Lantern file is live, with a pending-folder placeholder for the next case.
+- Shared present/verdict resolvers grade hits, leftover budgets, and the single accusation instead of baking the puzzle into UI.
+
+<div class="itch-embed-wrap" style="text-align: center; margin: 1.5rem 0;">
+  <iframe id="itch-embed-unsub-projects" title="Itch.io: UNSUB" frameborder="0" loading="lazy" src="https://itch.io/embed/4951501?linkback=true&amp;border_width=2&amp;bg_color=120c08&amp;fg_color=e8d9c0&amp;link_color=d4c4a0&amp;border_color=3a2a1c" width="552" height="167" class="itch-embed"></iframe>
+</div>
+
+[Play In Browser](https://goldleafinteractive.itch.io/unsub) · *Brackeys Game Jam 2026.2* (theme: TRUST NO ONE)
+
+---
 
 ### Access Granted
 Unity 6 · C# · URP · Released · Browser & Windows

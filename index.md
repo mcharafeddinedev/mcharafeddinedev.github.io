@@ -21,14 +21,28 @@ Hey there! I'm Marwan. I design and build interactive game systems, with a focus
 
 I'm looking for entry-level, associate, or intern roles in gameplay engineering and technical design. Also open to generalist, production, and QA-adjacent work.
 
-Since graduating, I've been working on a game I've wanted to make for a long time. I plan to publish it on Steam under my solo studio, **Gold Leaf Interactive**, which I've been using on itch.io. More details soon.
+Since graduating, I've been working on a game I've wanted to make for a long time. I plan to publish it on Steam under my solo studio, **Gold Leaf Interactive**, which I've been using on itch.io. More details soon. Between sessions on that, I shipped [UNSUB](https://goldleafinteractive.itch.io/unsub) for Brackeys Game Jam 2026.2; one case is live, and I may add more.
 
 - **Resume (PDF):** [MC_1PageResume.pdf](/assets/MC_1PageResume.pdf)
-- **Play in browser:** [Access Granted](https://goldleafinteractive.itch.io/access-granted) · [Dread & Breakfast](https://goldleafinteractive.itch.io/dread-and-breakfast) · [BREATHE Arcade](https://goldleafinteractive.itch.io/breathe-arcade)
+- **Play in browser:** [UNSUB](https://goldleafinteractive.itch.io/unsub) · [Access Granted](https://goldleafinteractive.itch.io/access-granted) · [Dread & Breakfast](https://goldleafinteractive.itch.io/dread-and-breakfast) · [BREATHE Arcade](https://goldleafinteractive.itch.io/breathe-arcade)
 
 ---
 
 ## Featured Work
+
+<p align="center">
+  <a href="https://goldleafinteractive.itch.io/unsub">
+    <img src="/assets/images/unsub.png"
+         alt="UNSUB: noir detective case on a rain-slicked desk"
+         style="max-width: 560px; width: 100%; border-radius: 8px;">
+  </a>
+</p>
+
+<p align="center" style="margin-top: 0.5rem; font-size: 0.95rem;">
+Solo Unity 6 jam game. Noir detective: inspect evidence, catch contradictions, accuse once.
+</p>
+
+---
 
 <p align="center">
   <a href="https://goldleafinteractive.itch.io/access-granted">
@@ -40,20 +54,6 @@ Since graduating, I've been working on a game I've wanted to make for a long tim
 
 <p align="center" style="margin-top: 0.5rem; font-size: 0.95rem;">
 Solo Unity 6 browser game. Brick-breaker plus reactive typing challenges.
-</p>
-
----
-
-<p align="center">
-  <a href="https://goldleafinteractive.itch.io/dread-and-breakfast">
-    <img src="/assets/images/dread-and-breakfast.png"
-         alt="Dread & Breakfast: top-down ghost haunting"
-         style="max-width: 560px; width: 100%; border-radius: 8px;">
-  </a>
-</p>
-
-<p align="center" style="margin-top: 0.5rem; font-size: 0.95rem;">
-Top-down ghost sim. Scare guests through escalating nights and a replayable fright economy.
 </p>
 
 ---
