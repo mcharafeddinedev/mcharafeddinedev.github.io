@@ -21,7 +21,9 @@ nav_order: 2
 ### UNSUB {#unsub}
 Unity 6 · C# · URP · Game jam / In development · Browser
 
-Noir detective game built for Brackeys Game Jam 2026.2 (theme: TRUST NO ONE). Harlan Voss was found dead behind the Blue Lantern Nightclub; you are a new detective at the precinct. One case is live now (~15–20 minutes), with a catalog ready for more later.
+Noir detective game built for Brackeys Game Jam 2026.2 (theme: TRUST NO ONE).<br>
+Harlan Voss was found dead behind the Blue Lantern Nightclub; you are a new detective at the precinct.<br>
+One case is live now (~15–20 minutes), with a catalog ready for more later.
 
 <p align="center">
   <img src="/assets/images/unsub.png" alt="UNSUB main menu: rain on glass and the case title" style="max-width: 600px; width: 100%;">
