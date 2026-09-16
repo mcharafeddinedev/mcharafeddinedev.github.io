@@ -131,15 +131,16 @@ body {
   color: rgba(120, 160, 120, 0.7) !important;
 }
 
-/* Hide logo, show name */
+/* Hide logo, show studio title */
 .site-logo {
   display: none !important;
 }
 
-/* Sidebar title with green glow */
+/* Sidebar title with green glow — slightly smaller for longer studio name */
 .site-title {
-  font-size: 1.2rem !important;
+  font-size: 1.05rem !important;
   font-weight: 600 !important;
+  line-height: 1.25 !important;
   margin-bottom: 0.75rem !important;
   margin-top: 0.75rem !important;
   padding-top: 0.25rem !important;

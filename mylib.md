@@ -1,6 +1,6 @@
 ---
 title: Games That Shaped Me
-description: "Games that shaped Marwan Charafeddine: player experience, immersion, and systems thinking."
+description: "Games that shaped Gold Leaf Interactive's design instincts: player experience, immersion, and systems thinking."
 nav_exclude: true
 ---
 

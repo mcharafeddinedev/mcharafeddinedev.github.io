@@ -1,13 +1,17 @@
 ﻿---
 title: Complete Game Library
-description: "Full archive of games that shaped Marwan Charafeddine."
+description: "Full archive of games that have shaped my design instincts."
 nav_exclude: true
 permalink: /mylib-full/
 ---
 
 # Complete Game Library
 
-This is the full title list. For a shorter curated view, see [Games That Shaped Me](mylib).
+For a shorter curated view, see [Games That Shaped Me](mylib).
+
+Some I only spent a few hours with, others took 50, 500, or even thousands of hours. I also spent some time in amateur / semi-pro FPS competition, in **Call of Duty** and **Apex Legends**ΓÇöminor tournaments, but still a big part my competitive gaming experience. 
+
+There are definitely titles missing; this is just the library I could pull together for now. Each game here left enough of an impression to belongΓÇöand all of that player experience feeds back into how I think about making games.
 
 ---
 
@@ -530,9 +534,3 @@ Titles below are grouped by platform **family**.
 - Thronefall
 - Titan Quest II
 - UFO 50
-
----
-
-Some I only spent a few hours with, others took 50, 500, or even thousands of hours. I also spent some time in amateur / semi-pro FPS competition, in **Call of Duty** and **Apex Legends**ΓÇöminor tournaments, but still a big part my competitive gaming experience. 
-
-There are definitely titles missing; this is just the library I could pull together for now. Each game here left enough of an impression to belongΓÇöand all of that player experience feeds back into how I think about making games.

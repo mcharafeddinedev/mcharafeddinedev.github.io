@@ -1,8 +1,8 @@
-# Marwan Charafeddine — Developer Portfolio
+# Gold Leaf Interactive — Developer Portfolio
 
-This repository contains the source for my personal website and game development portfolio, hosted on **GitHub Pages**.
+This repository contains the source for the Gold Leaf Interactive website and game development portfolio, hosted on **GitHub Pages**.
 
-🌐 **Live Site:** https://mcharafeddinedev.github.io
+🌐 **Live Site:** https://goldleafinteractive.com
 
 ---
 
@@ -33,4 +33,4 @@ For deeper technical documentation and design breakdowns, see my GitHub portfoli
 
 ---
 
-© 2026 Marwan Charafeddine | Gold Leaf Interactive
+© 2026 Gold Leaf Interactive | Marwan Charafeddine

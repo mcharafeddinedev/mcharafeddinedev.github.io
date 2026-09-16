@@ -1,6 +1,6 @@
 ---
 title: Projects
-description: "Playable Unreal and Unity projects by Marwan Charafeddine: UNSUB, Access Granted, Trenchglow, BREATHE Arcade, OVERCLOCKED, and more."
+description: "Playable Unreal and Unity projects from Gold Leaf Interactive: UNSUB, Access Granted, Trenchglow, BREATHE Arcade, OVERCLOCKED, and more."
 nav_order: 2
 ---
 
@@ -29,7 +29,7 @@ One case is live now (~15–20 minutes), with a catalog ready for more later.
   <img src="/assets/images/unsub.png" alt="UNSUB main menu: rain on glass and the case title" style="max-width: 600px; width: 100%;">
 </p>
 
-- Built the desk flow: evidence files, suspect interrogations, showing proof when a story doesn't match, and a one-shot accusation.
+- Built a desk mechanics flow: evidence files, suspect interrogations, showing proof when a story doesn't match, and a one-shot accusation.
 - Packed case content into ScriptableObjects (suspects, evidence, claims, conflicts) so extra cases can be added later; only Blue Lantern is playable so far.
 - Question and show tries are shared across the whole case (10 and 5), and leftover tries plus hits feed the verdict after you accuse.
 

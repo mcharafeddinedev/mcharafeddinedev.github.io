@@ -1,6 +1,6 @@
 ---
 title: Experience
-description: "Experience and education for Gameplay Engineer and Technical Designer Marwan Charafeddine."
+description: "Experience and education — Gameplay Engineer and Technical Designer at Gold Leaf Interactive."
 nav_order: 3
 ---
 
