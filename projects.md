@@ -125,7 +125,7 @@ An endless runner for PC and an arcade cabinet. Change lanes, grab pickups, and 
 ### Quantum Tether
 Unity · C# · Released · Texas Game Jam 2025 (EGaDs, UT Austin)
 
-Endless roguelike sidescroller made in a weekend: swing on stars and asteroids with the mouse, unlock a second rope, shorten the rope, and dash toward the cursor to recover bad swings. Red corrupted anchors are traps, one touch ends the run, and time crystals feed upgrades and score progression. Inspired by the old flash game *Spider-Man: City Raid*.
+Endless roguelike sidescroller made in a weekend: swing on stars and asteroids with the mouse, unlock a second rope, contract the rope to pull yourself along, and dash toward the cursor to recover from bad swings. Red corrupted anchors are traps, one touch ends the run, and time crystals feed upgrades and score progression. Inspired by the old flash game *Spider-Man: City Raid*.
 
 <p align="center">
   <img src="/assets/images/quantum-tether.png" alt="Quantum Tether" style="max-width: 600px; width: 100%;">

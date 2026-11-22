@@ -9,11 +9,11 @@ nav_order: 1
 
 # Gameplay Systems Engineer · Technical Designer
 
-Hey there! I'm Marwan. **Gold Leaf Interactive** is my studio. I design and build games with mechanics you can read quickly, loops worth another run, and feedback that still makes sense after someone else plays.
+Hey there! I'm Marwan. I'm currently a solo developer, **Gold Leaf Interactive** is my studio. I design and build games with readable mechanics, replayable loops, and intentional design.
 
 <span class="term">Unreal Engine 5 (C++ & Blueprints)</span> and <span class="term">Unity 6 (C#)</span> are what I use. Several smaller games are up on [itch.io](https://goldleafinteractive.itch.io), and a larger one is on the way to Steam.
 
-I've played games for a long time. That mostly shows up when I playtest, when something feels off before I can explain why.
+I've played games for a long time. That experience mostly factors in when I'm playtesting on my own, when something feels off but not necessarily wrong. This helps me polish and refine features and systems in a specific way, having experienced and understood games as a player over many years.
 
 ---
 
@@ -48,9 +48,9 @@ A Unity 6 browser game. Brick-breaker plus reactive typing challenges.
 
 ## How I Work
 
-- I build the mechanics in the engine, then tune them until a run feels right.
 - <span class="term">Unreal</span> and <span class="term">Unity</span>.
-- Playtests decide what stays. Notes and patches come after someone else has played.
+- I design gameplay systems & more, build out their features and mechanics in code, then tune parameters in-engine---while playtesting---until the mechanic feels right.
+- Playtests help me decide what stays and what could be built upon. Playtesters provide notes and bug reports for me to intake, and I try to accomodate players as best as I can, while also maintaining my vision and direction for the game(s).
 
 ---
 
