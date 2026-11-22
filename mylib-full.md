@@ -1,4 +1,4 @@
-﻿---
+---
 title: Complete Game Library
 description: "Full archive of games that have shaped my design instincts."
 nav_exclude: true
@@ -9,9 +9,9 @@ permalink: /mylib-full/
 
 For a shorter curated view, see [Games That Shaped Me](mylib).
 
-Some I only spent a few hours with, others took 50, 500, or even thousands of hours. I also spent some time in amateur / semi-pro FPS competition, in **Call of Duty** and **Apex Legends**ΓÇöminor tournaments, but still a big part my competitive gaming experience. 
+Some I only spent a few hours with, others took 50, 500, or even thousands of hours. I also spent some time in amateur / semi-pro FPS tournaments.
 
-There are definitely titles missing; this is just the library I could pull together for now. Each game here left enough of an impression to belongΓÇöand all of that player experience feeds back into how I think about making games.
+This is just the library I could pull together for now. Each game here left enough of an impression to belong and all of that player experience feeds back into how I think about making games.
 
 ---
 
@@ -29,8 +29,8 @@ Titles below are grouped by platform **family**.
 - Metroid Fusion
 - Metroid Prime
 - Castlevania: Symphony of the Night
-- Pok├⌐mon Red / Blue / Yellow / Gold / Silver / Crystal
-- Pok├⌐mon Ruby / Sapphire / Emerald / FireRed / LeafGreen
+- Pokémon Red / Blue / Yellow / Gold / Silver / Crystal
+- Pokémon Ruby / Sapphire / Emerald / FireRed / LeafGreen
 - Luigi's Mansion 
 - Animal Crossing
 - Stardew Valley
@@ -47,7 +47,7 @@ Titles below are grouped by platform **family**.
 - Mario Kart 64 / Double Dash 
 - Mario Party 
 - Super Smash Bros. 64 / Melee / Brawl / Ultimate
-- Rare Replay ΓÇö Banjo-Kazooie / Banjo-Tooie
+- Rare Replay Banjo-Kazooie / Banjo-Tooie
 - Spyro Franchise
 - Rayman Legends / Revolution
 - Conker's Bad Fur Day
@@ -62,12 +62,12 @@ Titles below are grouped by platform **family**.
 - Tony Hawk's Pro Skater
 - Tony Hawk's Underground
 - F-Zero X / GX
-- 1080┬░ Avalanche
+- 1080° Avalanche
 - Wii Sports 
 
 ### Handheld / Game Boy / DS odds and ends
-- Pok├⌐mon Stadium
-- Pok├⌐mon Snap
+- Pokémon Stadium
+- Pokémon Snap
 - Super Mario Land / Wario Land
 - WarioWare
 - Nintendogs
@@ -82,7 +82,7 @@ Titles below are grouped by platform **family**.
 
 ### Action-adventure, RPG & spectacle character games
 
-- God of War (2005) / II / (2018) / Ragnar├╢k
+- God of War (2005) / II / (2018) / Ragnarök
 - Shadow of the Colossus
 - MediEvil: Resurrection
 - Spider-Man / 2 / 3 / Shattered Dimensions
@@ -92,7 +92,7 @@ Titles below are grouped by platform **family**.
 - Kingdom Hearts / II / III
 - Horizon Zero Dawn / Forbidden West
 - Ghost of Tsushima / Director's Cut
-- Uncharted 1ΓÇô4 / Lost Legacy / Collection
+- Uncharted 1–4 / Lost Legacy / Collection
 - Sly Cooper trilogy
 - Metal Gear Solid 
 - Days Gone
@@ -135,7 +135,7 @@ Titles below are grouped by platform **family**.
 ### Xbox / Xbox 360 / Xbox One
 - Halo: CE / 2 / 3 / ODST / Reach / 4 / 5 / Infinite
 - Halo Wars
-- Gears of War 1ΓÇô5
+- Gears of War 1–5
 - Fable / II / Anniversary
 - Microsoft Flight Simulator
 - Sunset Overdrive
@@ -146,7 +146,7 @@ Titles below are grouped by platform **family**.
 - Fable III
 - Perfect Dark Zero
 - Lost Odyssey
-- Viva Pi├▒ata
+- Viva Piñata
 - Banjo-Kazooie: Nuts & Bolts
 - Crackdown 2
 - Dead Rising / Dead Rising 2
@@ -179,7 +179,7 @@ Titles below are grouped by platform **family**.
 
 ---
 
-## Cross-platform (PC ┬╖ PlayStation ┬╖ Xbox)
+## Cross-platform (PC · PlayStation · Xbox)
 
 ### Souls-style / Monster
 
@@ -195,7 +195,7 @@ Titles below are grouped by platform **family**.
 - No Rest for the Wicked
 - Tainted Grail: The Fall of Avalon
 
-### Blockbuster ┬╖ stealth  ┬╖ remakes
+### Blockbuster · stealth  · remakes
 
 - Cyberpunk 2077
 - The Witcher III: Wild Hunt
@@ -207,14 +207,14 @@ Titles below are grouped by platform **family**.
 - Hogwarts Legacy
 - Devil May Cry anthology
 - Star Wars Jedi: Fallen Order / Survivor
-- Grand Theft Auto III ΓåÆ GTA V, Online
+- Grand Theft Auto III → GTA V, Online
 - Red Dead Redemption I, II, and Online
 - Assassin's Creed anthology (Unity / Odyssey / Valhalla / Mirage / Shadows)
 - Watch Dogs & Watch Dogs 2
 - Saints Row 2
-- Mafia staples (I ┬╖ II)
+- Mafia staples (I · II)
 - Middle-earth: Shadow of Mordor / War
-- Far Cry arcs (III ┬╖ IV ┬╖ V)
+- Far Cry arcs (III · IV · V)
 - Tomb Raider
 - Darksiders / Darksiders II
 - Lollipop Chainsaw
@@ -239,7 +239,7 @@ Titles below are grouped by platform **family**.
 - The Precinct
 - Warhammer 40K: Space Marine / Space Marine 2
 
-### Tactical shooters ┬╖ arena ┬╖ extraction
+### Tactical shooters · arena · extraction
 - ARC Raiders
 - Battlefield 1942 to now, including Battlefield 1 / 4 / V / 2042 / 6, Bad Company 1 / 2, Hardline, etc.
 - The Call of Duty continuum
@@ -291,7 +291,7 @@ Titles below are grouped by platform **family**.
 - Warface
 - World War 3
 
-### Co-op sandboxes ┬╖ live service games 
+### Co-op sandboxes · live service games 
 
 - Sea of Thieves
 - Deep Rock Galactic
@@ -437,7 +437,7 @@ Titles below are grouped by platform **family**.
 - BioShock
 - Dishonored / II / Death of the Outsider
 - Thief: Deadly Shadows
-- Vampire: The Masquerade ΓÇô Bloodlines
+- Vampire: The Masquerade – Bloodlines
 - Dark Messiah of Might and Magic
 - Chrono Trigger
 - Dungeon Siege 2
@@ -498,7 +498,7 @@ Titles below are grouped by platform **family**.
 
 - Besiege
 - Brotato
-- Age of Empires IIΓÇôIV / Mythology
+- Age of Empires II–IV / Mythology
 - StarCraft
 - Warcraft III
 - Total War

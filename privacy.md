@@ -1,6 +1,6 @@
 ---
 title: Privacy Policy
-description: "Privacy policy for goldleafinteractive.com, personal portfolio and Gold Leaf Interactive self-publishing alias."
+description: "Privacy policy for goldleafinteractive.com, the Gold Leaf Interactive site."
 permalink: /privacy/
 nav_exclude: true
 ---
@@ -10,13 +10,13 @@ nav_exclude: true
 **Last updated:** July 17, 2026  
 **Contact:** [mcharafeddinedev@gmail.com](mailto:mcharafeddinedev@gmail.com)
 
-This page covers **[goldleafinteractive.com](https://goldleafinteractive.com)**: my personal portfolio site and the public domain for my solo indie / self-publishing alias **Gold Leaf Interactive**, plus any games I publish that link here.
+This page covers **[goldleafinteractive.com](https://goldleafinteractive.com)**, the site for my studio, **Gold Leaf Interactive**, and for me, Marwan Charafeddine. It also covers games I publish that link here.
 
 ---
 
 ## This Website
 
-The site is a static portfolio hosted on GitHub Pages. There is no account system and no forms that store your data on my servers. The host may see ordinary request data (such as IP address and browser info) under GitHub’s own policies. I do not sell personal data.
+The site is a static site hosted on GitHub Pages. There is no account system and no forms that store your data on my servers. The host may see ordinary request data (such as IP address and browser info) under GitHub’s own policies. I do not sell personal data.
 
 ---
 

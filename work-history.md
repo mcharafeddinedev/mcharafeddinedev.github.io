@@ -6,6 +6,8 @@ nav_order: 3
 
 # Experience
 
+Open to gameplay engineering and technical design work, including generalist, production, and QA-adjacent roles.
+
 ---
 
 ## Independent Development
@@ -18,12 +20,11 @@ nav_order: 3
   <div class="history-meta">Gold Leaf Interactive · Houston, TX</div>
 </div>
 
-- Gameplay systems end-to-end: mechanics, tuning data, pacing, onboarding, browser playables, and kiosk/arcade constraints.
-- Shipped browser and PC titles on itch and Steam. See [Projects](projects).
-- Multi-engine work across Unreal and Unity (jams, coursework, and independent releases).
-- QA and playtesting as part of the build loop: edge cases, feel, and reproducible notes.
-- Built and maintain this portfolio site and public [GameDev-Portfolio](https://github.com/mcharafeddinedev/GameDev-Portfolio) repos.
-- Building a UE5.5 (C++) first-person wave-survival game solo; core loop and systems are playable, iterating toward a public playtest. Details on [Projects](projects).
+- Games on itch and Steam, in Unreal and Unity. See [Projects](projects).
+- Mechanics, tuning, pacing, and the parts of a build a player actually touches, including browser games and an arcade cabinet.
+- Playtesting as part of making the game: feel, edge cases, and notes I can act on.
+- This site, and the public [GameDev-Portfolio](https://github.com/mcharafeddinedev/GameDev-Portfolio) repos.
+- An unannounced wave survival FPS in UE 5.5 (C++), in private beta. Details on [Projects](projects).
 
 ---
 
@@ -68,7 +69,7 @@ Live streaming and gaming content creation for YouTube, Twitch, Mixer, TikTok, a
     <span class="history-title">A.A.S. in Digital Gaming & Simulation (Programmers)</span>
     <span class="history-date">May 2026</span>
   </div>
-  <div class="history-meta">Houston Community College · Houston, TX</div>
+  <div class="history-meta">Houston City College · Houston, TX</div>
 </div>
 
 Code (C# / C++ / Blueprints-level), design pipelines, technical art, level design, project development, QA, production milestones, alt-controller experiments, degree capstones, and portfolio prep.

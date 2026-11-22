@@ -1,6 +1,6 @@
 ---
 title: Projects
-description: "Playable Unreal and Unity projects from Gold Leaf Interactive: UNSUB, Access Granted, Trenchglow, BREATHE Arcade, OVERCLOCKED, and more."
+description: "Playable Unreal and Unity projects from Gold Leaf Interactive: Access Granted, UNSUB, Dread & Breakfast, Trenchglow, BREATHE Arcade, OVERCLOCKED, and more."
 nav_order: 2
 ---
 
@@ -12,47 +12,20 @@ nav_order: 2
 
 ## In Development
 
-- **Solo wave-survival FPS** (private IP). Built in Unreal Engine 5.5 (C++). The core loop and its supporting systems are playable end-to-end; current focus is polishing first-run onboarding, or new player guidance, ahead of a playtest build. From there, the plan is to gather feedback and iterate toward a stronger demo for a future showcase or festival submission. No public build yet.
+**Unannounced wave survival FPS.** Unreal Engine 5.5 (C++), in private beta. No public build yet. It will be announced when there's something to play.
 
 ---
 
 ## Featured
 
-### UNSUB {#unsub}
-Unity 6 · C# · URP · Game jam / In development · Browser
-
-Noir detective game built for Brackeys Game Jam 2026.2 (theme: TRUST NO ONE).<br>
-Harlan Voss was found dead behind the Blue Lantern Nightclub; you are a new detective at the precinct.<br>
-One case is live now (~15–20 minutes), with a catalog ready for more later.
-
-<p align="center">
-  <img src="/assets/images/unsub.png" alt="UNSUB main menu: rain on glass and the case title" style="max-width: 600px; width: 100%;">
-</p>
-
-- Built a desk mechanics flow: evidence files, suspect interrogations, showing proof when a story doesn't match, and a one-shot accusation.
-- Packed case content into ScriptableObjects (suspects, evidence, claims, conflicts) so extra cases can be added later; only Blue Lantern is playable so far.
-- Question and show tries are shared across the whole case (10 and 5), and leftover tries plus hits feed the verdict after you accuse.
-
-<div class="itch-embed-wrap" style="text-align: center; margin: 1.5rem 0;">
-  <iframe id="itch-embed-unsub-projects" title="Itch.io: UNSUB" frameborder="0" loading="lazy" src="https://itch.io/embed/4951501?linkback=true&amp;border_width=2&amp;bg_color=120c08&amp;fg_color=e8d9c0&amp;link_color=d4c4a0&amp;border_color=3a2a1c" width="552" height="167" class="itch-embed"></iframe>
-</div>
-
-[Play In Browser](https://goldleafinteractive.itch.io/unsub) · *Brackeys Game Jam 2026.2* (theme: TRUST NO ONE)
-
----
-
 ### Access Granted
 Unity 6 · C# · URP · Released · Browser & Windows
 
-Released solo project that blends brick-breaker play with reactive typing challenges inside a CRT-terminal aesthetic.
+A brick-breaker that stops you to type commands, inside a CRT terminal. Dropping the ball and mistyping are different failures, and the scanlines stay readable while you play.
 
 <p align="center">
   <img src="/assets/images/access-granted.png" alt="Access Granted CRT-style gameplay" style="max-width: 600px; width: 100%;">
 </p>
-
-- Built the paddle/ball loop, command-brick slow motion, typed prompt resolution, menus, and browser/Windows release flow.
-- Tuned separate failure tracks for ball drops and mistyped commands, with three difficulty tiers across levels 1-15.
-- Used barrel distortion, scanlines, UI styling, and patch iteration to keep the CRT identity readable during play.
 
 <div class="itch-embed-wrap" style="text-align: center; margin: 1.5rem 0;">
   <iframe id="itch-embed-access-granted-projects" title="Itch.io: Access Granted" frameborder="0" loading="lazy" src="https://itch.io/embed/4475328?linkback=true&amp;border_width=2&amp;bg_color=060d06&amp;fg_color=b9c6e4&amp;link_color=00edd6&amp;border_color=084808" width="552" height="167" class="itch-embed"></iframe>
@@ -62,18 +35,33 @@ Released solo project that blends brick-breaker play with reactive typing challe
 
 ---
 
+### UNSUB {#unsub}
+Unity 6 · C# · URP · Game jam / Released · Browser
+
+Noir detective game built for Brackeys Game Jam 2026.2 (theme: TRUST NO ONE).<br>
+Harlan Voss was found dead behind the Blue Lantern Nightclub; you are a new detective at the precinct.<br>
+One full case, about 15–20 minutes. You inspect the evidence, catch contradictions, and only get one accusation.
+
+<p align="center">
+  <img src="/assets/images/unsub.png" alt="UNSUB main menu: rain on glass and the case title" style="max-width: 600px; width: 100%;">
+</p>
+
+<div class="itch-embed-wrap" style="text-align: center; margin: 1.5rem 0;">
+  <iframe id="itch-embed-unsub-projects" title="Itch.io: UNSUB" frameborder="0" loading="lazy" src="https://itch.io/embed/4951501?linkback=true&amp;border_width=2&amp;bg_color=120c08&amp;fg_color=e8d9c0&amp;link_color=d4c4a0&amp;border_color=3a2a1c" width="552" height="167" class="itch-embed"></iframe>
+</div>
+
+[Play In Browser](https://goldleafinteractive.itch.io/unsub) · *Brackeys Game Jam 2026.2* (theme: TRUST NO ONE)
+
+---
+
 ### Dread & Breakfast
 Unity 6 · C# · Beta / Post-jam · Browser & Windows
 
-Top-down ghost haunting simulator about scaring guests through escalating nights, shuffled rooms, haunt abilities, and a replayable fright economy.
+A top-down haunting game. Nights get harder, the house reshuffles, and a fright shop carries your progress between runs.
 
 <p align="center">
   <img src="/assets/images/dread-and-breakfast.png" alt="Dread & Breakfast floor plan gameplay" style="max-width: 600px; width: 100%;">
 </p>
-
-- Built PCG-style house layout support with readable room templates, props, and guest setups for night-to-night variety.
-- Centralized guest behavior so visitors can wander, chatter, escalate fear, and trigger panic chains.
-- Authored 17 reusable haunt abilities, persistent meta-shop progress, and event-driven feedback for browser play.
 
 <div class="itch-embed-wrap" style="text-align: center; margin: 1.5rem 0;">
   <iframe id="itch-embed-dread-breakfast" title="Itch.io: Dread & Breakfast" frameborder="0" loading="lazy" src="https://itch.io/embed/4471600?linkback=true&amp;bg_color=000000&amp;fg_color=e6d699&amp;link_color=fa5c5c&amp;border_color=282828" width="552" height="167" class="itch-embed"></iframe>
@@ -86,57 +74,45 @@ Top-down ghost haunting simulator about scaring guests through escalating nights
 ### Trenchglow {#trenchglow}
 Unity (2D URP) · C# · Released · Browser
 
-Deep-sea exploration game built around sonar pings, dark-water navigation, collectibles, puzzles, and curiosity-first traversal.
+Deep-sea exploration where sonar is how you see. Playable in the browser, past the tutorial, with more trenches and puzzles.
 
 <p align="center">
   <img src="/assets/images/trenchglow.png" alt="Trenchglow underwater key art" style="max-width: 600px; width: 100%;">
 </p>
 
-- Built shader-driven sonar reveals with a toned-down fallback for browser builds and lower-end GPUs.
-- Layered local visibility, widening sonar rings, and timed SFX so audio and reveal feedback line up.
-- Finished beyond the tutorial with additional trench levels and puzzle spaces; playable browser build is live on itch.
-
 <div class="itch-embed-wrap" style="text-align: center; margin: 1.5rem 0;">
   <iframe id="itch-embed-trenchglow" title="Itch.io: Trenchglow" frameborder="0" loading="lazy" src="https://itch.io/embed/4513861?linkback=true&amp;bg_color=0a1628&amp;fg_color=cfe8ff&amp;link_color=f5a524&amp;border_color=1a3d5c" width="552" height="167" class="itch-embed"></iframe>
 </div>
 
-[Play In Browser](https://goldleafinteractive.itch.io/trenchglow) · Released with tutorial plus extra trench levels.
+[Play In Browser](https://goldleafinteractive.itch.io/trenchglow)
 
 ---
 
 ### BREATHE Arcade {#breathe-arcade}
 Unity 6 · C# · 2D URP · Capstone Project · Browser & Windows
 
-Five breath-controlled micro-games built around a shared input layer for custom hardware, USB mic input, and keyboard simulation.
+Five small games you play with your breath. A custom fan, a USB mic, or the keyboard all drive the same games, so it can be shown without the hardware.
 
 <p align="center">
   <img src="/assets/images/breathe-arcade.png" alt="BREATHE Arcade promo art" style="max-width: 600px; width: 100%;">
 </p>
 
-- Designed one normalized breath-input path so fan hardware, USB mic, and keyboard fallback feed the same mini-game logic.
-- Handled MCU/serial input on a worker thread with COM discovery, smoothing, and spike rejection for reliable demos.
-- Shared scoring/results UX and per-mode tuning structs across all five games instead of duplicating flow per activity.
-
 <div class="itch-embed-wrap" style="text-align: center; margin: 1.5rem 0;">
   <iframe id="itch-embed-breathe-arcade" title="Itch.io: BREATHE Arcade" frameborder="0" loading="lazy" src="https://itch.io/embed/4475446?linkback=true&amp;bg_color=d6f5ff&amp;fg_color=0b2d3f&amp;link_color=ff4f6e&amp;border_color=93cdea" width="552" height="167" class="itch-embed"></iframe>
 </div>
 
-[Play In Browser](https://goldleafinteractive.itch.io/breathe-arcade) · README / HOW_IT_WORKS cover the Unity project publicly.
+[Play In Browser](https://goldleafinteractive.itch.io/breathe-arcade)
 
 ---
 
 ### OVERCLOCKED: Data Dash MAX
 Unreal Engine 5 · C++ & Blueprints · Capstone Project · Released (PC & Arcade Cabinet)
 
-Released Unreal endless runner built for desktop and arcade cabinet play, with lane movement, speed escalation, pickups, medals, themes, and offline leaderboards.
+An endless runner for PC and an arcade cabinet. Change lanes, grab pickups, and watch the run speed up across six visual themes. The feel was tuned on both the desktop and the cabinet.
 
 <p align="center">
   <img src="/assets/images/overclocked-data-dash-max.png" alt="OVERCLOCKED: Data Dash MAX" style="max-width: 600px; width: 100%;">
 </p>
-
-- Built C++ gameplay systems for lane swap, jump/slide, spawning, pickups, HUD, menu flow, and gamepad-first control.
-- Authored 40+ obstacle pattern chunks with difficulty tiers and weighted escalation so pressure rises without unreadable RNG spikes.
-- Tuned pacing, HUD clarity, six visual themes, and arcade-cabinet input feel through PC and hardware playtesting.
 
 <div class="itch-embed-wrap" style="text-align: center; margin: 1.5rem 0;">
   <iframe id="itch-embed-overclocked-projects" title="Itch.io: Overclocked DDM" frameborder="0" loading="lazy" src="https://itch.io/embed/4278897?linkback=true&amp;border_width=5&amp;bg_color=000000&amp;fg_color=fffcbc&amp;link_color=46ffd4&amp;border_color=979797" width="552" height="167" class="itch-embed"></iframe>
@@ -155,18 +131,14 @@ Endless roguelike sidescroller made in a weekend: swing on stars and asteroids w
   <img src="/assets/images/quantum-tether.png" alt="Quantum Tether" style="max-width: 600px; width: 100%;">
 </p>
 
-- Grapple feel: cursor-based anchors, tuned damping, rope length control, and dash recovery keep the swing readable.
-- Procedural levels: hand-authored anchor/pickup/hazard chunks enter the run through weighted rules as speed increases.
-- Roguelike wrap-up: 10+ upgrades, normal vs. corrupted anchors, HUD/score flow, and fresh-run structure.
-
 [View on Itch.io](https://goldleafinteractive.itch.io/quantum-tether) · [Trailer](https://www.youtube.com/watch?v=RNs4yKPhfGM)
 
 ---
 
 ### Mysteries of Tupni
-Unreal Engine 5 · Blueprints · Class Prototype
+Unreal Engine 5 · Blueprints · Prototype
 
-Third-person fantasy "souls-like" action adventure. I worked on early concept/design, documentation, and scope management, then built a Data Table driven inventory system, interactables, and quest/NPC hooks. This was one of my first game projects, built with another student and market assets for art.
+A third-person fantasy action adventure, and one of my first games. I did the early design, then inventory, interactables, and quests, with another student and purchased art.
 
 <p align="center">
   <img src="/assets/images/mysteries-of-tupni.png" alt="Mysteries of Tupni" style="max-width: 600px; width: 100%;">
@@ -177,9 +149,9 @@ Third-person fantasy "souls-like" action adventure. I worked on early concept/de
 ---
 
 ### Ginger Shroom Journey
-Unity · C# · Steam · Class Prototype
+Unity · C# · Steam · Prototype
 
-Solo developed, simple 2D adventure. Built everything except art assets: core systems, UI, SFX, 10 tilemap-painted levels, and Steamworks shipping.
+A small 2D adventure, free on Steam. I built the game around purchased art: the systems, UI, sound, and ten hand-painted levels.
 
 <p align="center">
   <img src="/assets/images/ginger-shroom-journey.png" alt="Ginger Shroom Journey" style="max-width: 600px; width: 100%;">
@@ -192,9 +164,9 @@ Solo developed, simple 2D adventure. Built everything except art assets: core sy
 ## Earlier Prototypes & Jams
 
 ### Void Knights
-Unreal Engine 5 · Blueprints · Class Prototype
+Unreal Engine 5 · Blueprints · Prototype
 
-*Persona*-inspired dual-world JRPG prototype. I authored exploration mechanics including Reality/Void realm swap, telekinesis, patrol AI, interactive props, save/load hooks, and related traversal features while collaborating with the lead designer and lead programmer.
+A *Persona*-inspired prototype with two realms. I built the exploration: swapping between them, telekinesis, and the props and patrols in the spaces. Made with a lead designer and a lead programmer.
 
 <p align="center">
   <img src="/assets/images/void-knights.png" alt="Void Knights" style="max-width: 600px; width: 100%;">
@@ -205,9 +177,9 @@ Unreal Engine 5 · Blueprints · Class Prototype
 ---
 
 ### Medieval Shop Game
-C++ · Windows · Class Prototype
+C++ · Windows · Prototype
 
-ASCII console shop simulator with inventory, haggling, branching chat options, RAII/smart pointers, CMake, packed assets, installer work, and signed .exe experiments. Built solo for a class project.
+An ASCII shop: stock the shelves, haggle, and talk your way through branching conversations. A class project.
 
 <p align="center">
   <img src="/assets/images/medieval-shop-game.png" alt="Medieval Shop Game" style="max-width: 600px; width: 100%;">
@@ -218,9 +190,9 @@ ASCII console shop simulator with inventory, haggling, branching chat options, R
 ---
 
 ### Million Miles Deep
-Unreal Engine 5 · Blueprints · Class Prototype
+Unreal Engine 5 · Blueprints · Prototype
 
-Oceanic 2D top-down bullet-hell/SHMUP. Contributions: game design, enemy pattern authoring, projectile setup, playtesting, and QA.
+A top-down oceanic shooter. I designed enemy patterns, set up projectiles, and playtested.
 
 <p align="center">
   <img src="/assets/images/million-miles-deep.png" alt="Million Miles Deep" style="max-width: 260px; width: 48%; display: inline-block;">
@@ -232,9 +204,9 @@ Oceanic 2D top-down bullet-hell/SHMUP. Contributions: game design, enemy pattern
 ---
 
 ### Ragdoll Plainly Perilous
-Unreal Engine 5 · Blueprints · Class Prototype
+Unreal Engine 5 · Blueprints · Jam
 
-Made for Chillenium 2025 Game Jam. Experimental ragdoll-as-controller traversal with stable collision tuning. Modeled after and inspired by an old flash game (Ragdoll Avalanche 2).
+You play as a ragdoll. Made for Chillenium 2025, after the old flash game *Ragdoll Avalanche 2*.
 
 <p align="center">
   <img src="/assets/images/ragdoll-plainly-perilous.png" alt="Ragdoll Plainly Perilous" style="max-width: 600px; width: 100%;">
@@ -245,9 +217,9 @@ Made for Chillenium 2025 Game Jam. Experimental ragdoll-as-controller traversal 
 ---
 
 ### Crimson Eclipse
-Unreal Engine 5 · Blueprints · Class Prototype
+Unreal Engine 5 · Blueprints · Prototype
 
-Side-scrolling atmospheric horror. Worked on enemy/encounter logic, environment beats, and HUD comms. Did the engine work, level design, and build. Team project from my coursework, with artist teammates.
+Side-scrolling horror. I did the engine work, the levels, and the build, with artist teammates from class.
 
 <p align="center">
   <img src="/assets/images/crimson-eclipse.png" alt="Crimson Eclipse" style="max-width: 600px; width: 100%;">
@@ -259,9 +231,9 @@ Side-scrolling atmospheric horror. Worked on enemy/encounter logic, environment 
 
 ## More
 
-- [I AM INEVITABLE](https://goldleafinteractive.itch.io/i-am-inevitable) (UE5 · Chillennium '26): defeat-scaling stats, wall movement, dashing
-- [Doors n' Dice](https://goldleafinteractive.itch.io/doors-n-dice) · Class prototype
-- [Escape Control](https://goldleafinteractive.itch.io/) · Class prototype (see [itch profile](https://goldleafinteractive.itch.io/))
+- [I AM INEVITABLE](https://goldleafinteractive.itch.io/i-am-inevitable) (UE5 · Chillennium '26): you get stronger as you fail, and you can run on walls and dash
+- [Doors n' Dice](https://goldleafinteractive.itch.io/doors-n-dice)
+- [Escape Control](https://goldleafinteractive.itch.io/)
 
 ---
 

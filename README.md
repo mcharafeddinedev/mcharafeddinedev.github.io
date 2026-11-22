@@ -1,6 +1,6 @@
-# Gold Leaf Interactive — Developer Portfolio
+# Gold Leaf Interactive
 
-This repository contains the source for the Gold Leaf Interactive website and game development portfolio, hosted on **GitHub Pages**.
+This repository is the source for **[goldleafinteractive.com](https://goldleafinteractive.com)**, the Gold Leaf Interactive site, hosted on **GitHub Pages**.
 
 🌐 **Live Site:** https://goldleafinteractive.com
 
@@ -8,7 +8,7 @@ This repository contains the source for the Gold Leaf Interactive website and ga
 
 ## Purpose
 
-This site serves as a curated, up-to-date showcase of my work as a gameplay programmer—highlighting my projects, technical focus areas, and current development efforts.
+The public site for the studio: the games, and a short note on what's in progress.
 
 ---
 
