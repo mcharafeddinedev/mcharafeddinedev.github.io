@@ -136,52 +136,48 @@ body {
   display: none !important;
 }
 
-/* Sidebar title with green glow — slightly smaller for longer studio name.
-   Padding leaves the gap between the name and the search for the studio mark. */
-.site-header {
-  position: relative;
-  width: 100%;
-}
-
+/* Name and mark stay together. The mark is in the title row, not pinned
+   to the sidebar edge, so an ultrawide layout cannot shove it into the search. */
 .site-title {
-  position: relative;
+  display: inline-flex !important;
+  align-items: center;
+  gap: 0.45rem;
+  width: auto;
+  max-width: 100%;
   font-size: 1.05rem !important;
   font-weight: 600 !important;
   line-height: 1.25 !important;
   margin-bottom: 0.75rem !important;
   margin-top: 0.75rem !important;
   padding-top: 0.25rem !important;
-  padding-right: 6.5rem !important;
+  padding-right: 0.35rem !important;
   box-sizing: border-box;
   color: rgba(220, 235, 220, 0.95) !important;
   text-shadow: 0 0 10px rgba(0, 200, 100, 0.35) !important;
 }
 
+.site-title-text {
+  display: block;
+  max-width: 7.6rem;
+}
+
 .studio-mark {
-  position: absolute;
-  right: 0;
-  top: 50%;
+  position: static;
+  flex: 0 0 auto;
   width: auto;
-  height: 2.8rem;
-  max-width: 5.6rem;
-  transform: translateY(-50%);
+  height: 2.65rem;
+  max-width: 4.6rem;
+  transform: none;
   object-fit: contain;
-  object-position: center;
   pointer-events: none;
-  z-index: 2;
   border-radius: 0 !important;
   box-shadow: none !important;
   filter: none !important;
 }
 
 @media (max-width: 50rem) {
-  .site-title {
-    padding-right: 6.4rem !important;
-  }
-
   .studio-mark {
-    right: 2.5rem;
-    height: 2.2rem;
+    height: 2.15rem;
     max-width: 3.6rem;
   }
 }

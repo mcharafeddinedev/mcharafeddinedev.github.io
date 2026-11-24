@@ -19,7 +19,7 @@ I've played games for a long time. That experience mostly factors in when I'm pl
 
 ## What I'm Building
 
-Since graduating, most of my time has gone into a wave survival FPS in Unreal Engine 5.5 (C++). It's in **private beta**. It will come to Steam under Gold Leaf Interactive when there's something public to show.
+Since graduating, most of my time has gone into a wave survival FPS in Unreal Engine 5.5 (C++). It's in private beta. It will come to Steam under **Gold Leaf Interactive** when there's something public to show.
 
 - **Play in browser:** [Access Granted](https://goldleafinteractive.itch.io/access-granted) · [Dread & Breakfast](https://goldleafinteractive.itch.io/dread-and-breakfast) · [Trenchglow](https://goldleafinteractive.itch.io/trenchglow) · [UNSUB](https://goldleafinteractive.itch.io/unsub) · [BREATHE Arcade](https://goldleafinteractive.itch.io/breathe-arcade)
 
