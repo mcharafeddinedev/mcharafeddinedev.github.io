@@ -229,13 +229,21 @@ body {
 }
 
 .sidebar-screenshot-heading {
-  margin: 0 0 0.5rem;
+  margin: 0 0 0.25rem;
   text-align: left;
   color: rgba(180, 220, 180, 0.72);
   font-size: 0.7rem;
   font-weight: 600;
   letter-spacing: 0.06em;
   text-transform: uppercase;
+}
+
+.sidebar-screenshot-note {
+  margin: 0 0 0.5rem;
+  color: rgba(180, 220, 180, 0.62);
+  font-size: 0.72rem;
+  line-height: 1.35;
+  text-align: left;
 }
 
 .sidebar-screenshot-scroll {
@@ -555,6 +563,17 @@ body {
 .main-content .studio-logo-hero:hover {
   transform: none !important;
   box-shadow: none !important;
+}
+
+.main-content .studio-logo-block a,
+.main-content .home-page p[align="center"] a:has(img) {
+  text-decoration: none !important;
+  text-shadow: none !important;
+}
+
+.main-content .studio-logo-note {
+  margin-top: 0.35rem;
+  font-size: 0.95rem;
 }
 
 /* --- Code blocks & inline code --- */

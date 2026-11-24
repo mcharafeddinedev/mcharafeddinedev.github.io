@@ -23,29 +23,33 @@ Since graduating, most of my time has gone into a wave survival FPS in Unreal En
 
 - **Play in browser:** [Access Granted](https://goldleafinteractive.itch.io/access-granted) · [Dread & Breakfast](https://goldleafinteractive.itch.io/dread-and-breakfast) · [Trenchglow](https://goldleafinteractive.itch.io/trenchglow) · [UNSUB](https://goldleafinteractive.itch.io/unsub) · [BREATHE Arcade](https://goldleafinteractive.itch.io/breathe-arcade)
 
-<p align="center" class="studio-logo-block">
-  <img class="studio-logo-hero" src="/assets/images/gli-neon-logo.png" alt="Gold Leaf Interactive">
-</p>
-
 ---
 
 ## Featured Work
 
 <p align="center">
-  <a href="https://goldleafinteractive.itch.io/access-granted">
+  <a href="https://goldleafinteractive.itch.io/access-granted" target="_blank" rel="noopener noreferrer">
     <img src="/assets/images/access-granted.png"
-         alt="Access Granted: brick-breaker with typing prompts"
+         alt="Access Granted. Clicking this image opens the game on itch.io."
          style="max-width: 560px; width: 100%; border-radius: 8px;">
   </a>
 </p>
 
 <p align="center" style="margin-top: 0.5rem; font-size: 0.95rem;">
-A Unity 6 browser game. Brick-breaker plus reactive typing challenges.
+A Unity 6 browser game. Brick-breaker plus reactive typing challenges. The image opens the game on itch.io.
 </p>
 
 <p align="center">
   <a href="projects">View all projects →</a>
 </p>
+
+<p align="center" class="studio-logo-block">
+  <a href="https://goldleafinteractive.itch.io" target="_blank" rel="noopener noreferrer">
+    <img class="studio-logo-hero" src="/assets/images/gli-neon-logo.png" alt="Gold Leaf Interactive. Clicking this logo opens the studio page on itch.io.">
+  </a>
+</p>
+
+<p align="center" class="studio-logo-note">The logo opens the studio page on itch.io.</p>
 
 ---
 
