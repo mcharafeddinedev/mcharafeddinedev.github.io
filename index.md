@@ -30,13 +30,13 @@ Since graduating, most of my time has gone into a wave survival FPS in Unreal En
 <p align="center">
   <a href="https://goldleafinteractive.itch.io/access-granted" target="_blank" rel="noopener noreferrer">
     <img src="/assets/images/access-granted.png"
-         alt="Access Granted. Clicking this image opens the game on itch.io."
+         alt="Access Granted. Click the image to play it on itch.io."
          style="max-width: 560px; width: 100%; border-radius: 8px;">
   </a>
 </p>
 
 <p align="center" style="margin-top: 0.5rem; font-size: 0.95rem;">
-A Unity 6 browser game. Brick-breaker plus reactive typing challenges. The image opens the game on itch.io.
+A Unity 6 browser game. Brick-breaker plus reactive typing challenges. Click the image to play it on itch.io.
 </p>
 
 <p align="center">
@@ -45,11 +45,11 @@ A Unity 6 browser game. Brick-breaker plus reactive typing challenges. The image
 
 <p align="center" class="studio-logo-block">
   <a href="https://goldleafinteractive.itch.io" target="_blank" rel="noopener noreferrer">
-    <img class="studio-logo-hero" src="/assets/images/gli-neon-logo.png" alt="Gold Leaf Interactive. Clicking this logo opens the studio page on itch.io.">
+    <img class="studio-logo-hero" src="/assets/images/gli-neon-logo.png" alt="Gold Leaf Interactive. Click the logo to open Gold Leaf Interactive on itch.io.">
   </a>
 </p>
 
-<p align="center" class="studio-logo-note">The logo opens the studio page on itch.io.</p>
+<p align="center" class="studio-logo-note">Click the logo to open Gold Leaf Interactive on itch.io.</p>
 
 ---
 

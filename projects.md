@@ -38,7 +38,7 @@ A brick-breaker that stops you to type commands, inside a CRT terminal. Dropping
 ### UNSUB {#unsub}
 Unity 6 · C# · URP · Game jam / Released · Browser
 
-Noir detective game built for Brackeys Game Jam 2026.2 (theme: TRUST NO ONE).<br>
+Noir detective game built for Brackeys Game Jam 2026.2.<br>
 Harlan Voss was found dead behind the Blue Lantern Nightclub; you are a new detective at the precinct.<br>
 One full case, about 15–20 minutes. You inspect the evidence, catch contradictions, and only get one accusation.
 
@@ -50,7 +50,7 @@ One full case, about 15–20 minutes. You inspect the evidence, catch contradict
   <iframe id="itch-embed-unsub-projects" title="Itch.io: UNSUB" frameborder="0" loading="lazy" src="https://itch.io/embed/4951501?linkback=true&amp;border_width=2&amp;bg_color=120c08&amp;fg_color=e8d9c0&amp;link_color=d4c4a0&amp;border_color=3a2a1c" width="552" height="167" class="itch-embed"></iframe>
 </div>
 
-[Play In Browser](https://goldleafinteractive.itch.io/unsub) · *Brackeys Game Jam 2026.2* (theme: TRUST NO ONE)
+[Play In Browser](https://goldleafinteractive.itch.io/unsub) · *Brackeys Game Jam 2026.2*
 
 ---
 
