@@ -136,21 +136,35 @@ body {
   display: none !important;
 }
 
-/* Name and mark stay together. The mark is in the title row, not pinned
-   to the sidebar edge, so an ultrawide layout cannot shove it into the search. */
+/* The theme widens the sidebar on large screens and grows .site-title to fill it.
+   Keep the name and mark as one shrink-wrapped row so the mark cannot
+   travel to the search bar. */
+.site-header {
+  width: 100% !important;
+  height: auto !important;
+  max-height: none !important;
+  justify-content: flex-start !important;
+  align-items: center !important;
+}
+
 .site-title {
   display: inline-flex !important;
-  align-items: center;
-  gap: 0.45rem;
-  width: auto;
+  flex: 0 0 auto !important;
+  flex-grow: 0 !important;
+  align-items: center !important;
+  justify-content: flex-start !important;
+  gap: 0.5rem;
+  width: auto !important;
+  height: auto !important;
   max-width: 100%;
   font-size: 1.05rem !important;
   font-weight: 600 !important;
   line-height: 1.25 !important;
-  margin-bottom: 0.75rem !important;
-  margin-top: 0.75rem !important;
-  padding-top: 0.25rem !important;
-  padding-right: 0.35rem !important;
+  margin-top: 0.65rem !important;
+  margin-bottom: 0.65rem !important;
+  padding-top: 0.15rem !important;
+  padding-bottom: 0.15rem !important;
+  padding-right: 0.4rem !important;
   box-sizing: border-box;
   color: rgba(220, 235, 220, 0.95) !important;
   text-shadow: 0 0 10px rgba(0, 200, 100, 0.35) !important;
@@ -158,16 +172,20 @@ body {
 
 .site-title-text {
   display: block;
+  flex: 0 1 auto;
   max-width: 7.6rem;
 }
 
 .studio-mark {
-  position: static;
+  position: static !important;
+  right: auto !important;
+  top: auto !important;
   flex: 0 0 auto;
   width: auto;
-  height: 2.65rem;
-  max-width: 4.6rem;
-  transform: none;
+  height: 2.7rem;
+  max-width: 4.5rem;
+  margin: 0 !important;
+  transform: none !important;
   object-fit: contain;
   pointer-events: none;
   border-radius: 0 !important;
@@ -178,7 +196,7 @@ body {
 @media (max-width: 50rem) {
   .studio-mark {
     height: 2.15rem;
-    max-width: 3.6rem;
+    max-width: 3.5rem;
   }
 }
 
