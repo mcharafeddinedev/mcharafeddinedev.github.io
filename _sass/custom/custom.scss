@@ -139,12 +139,22 @@ body {
 /* The theme widens the sidebar on large screens and grows .site-title to fill it.
    Keep the name and mark as one shrink-wrapped row so the mark cannot
    travel to the search bar. */
+/* On a wide screen the sidebar grows, but the nav stays a fixed column
+   against the search. The name and mark belong in that same column. */
 .site-header {
-  width: 100% !important;
   height: auto !important;
   max-height: none !important;
   justify-content: flex-start !important;
   align-items: center !important;
+  width: 100% !important;
+}
+
+@media (min-width: 104rem) {
+  .site-header {
+    width: 16rem !important;
+    max-width: 16rem !important;
+    align-self: flex-end !important;
+  }
 }
 
 .site-title {
