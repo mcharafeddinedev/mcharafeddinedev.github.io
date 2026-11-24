@@ -7,9 +7,9 @@ nav_order: 1
 
 <div class="home-page" markdown="1">
 
-# Gameplay Systems Engineer · Technical Designer
+# Gameplay Engineering · Technical Design · Tooling
 
-Hey there! I'm Marwan. I'm currently a solo developer, **Gold Leaf Interactive** is my studio. I design and build games with readable mechanics, replayable loops, and intentional design.
+Hey there! I'm Marwan. I'm currently a solo developer, **Gold Leaf Interactive** is my studio. I design and build games with readable mechanics, replayable loops, and intentional design. I've worked across many different aspects of game development, mostly focused on gameplay programming, level scripting, and in-editor production pipelines.
 
 <span class="term">Unreal Engine 5 (C++ & Blueprints)</span> and <span class="term">Unity 6 (C#)</span> are what I use. Several smaller games are up on [itch.io](https://goldleafinteractive.itch.io), and a larger one is on the way to Steam.
 
@@ -17,12 +17,15 @@ I've played games for a long time. That experience mostly factors in when I'm pl
 
 ---
 
-## Now
+## What I'm Building
 
 Since graduating, most of my time has gone into a wave survival FPS in Unreal Engine 5.5 (C++). It's in **private beta**. It will come to Steam under Gold Leaf Interactive when there's something public to show.
 
-- **Resume (PDF):** [MC_1PageResume.pdf](/assets/MC_1PageResume.pdf)
 - **Play in browser:** [Access Granted](https://goldleafinteractive.itch.io/access-granted) · [Dread & Breakfast](https://goldleafinteractive.itch.io/dread-and-breakfast) · [Trenchglow](https://goldleafinteractive.itch.io/trenchglow) · [UNSUB](https://goldleafinteractive.itch.io/unsub) · [BREATHE Arcade](https://goldleafinteractive.itch.io/breathe-arcade)
+
+<p align="center" class="studio-logo-block">
+  <img class="studio-logo-hero" src="/assets/images/gli-neon-logo.png" alt="Gold Leaf Interactive">
+</p>
 
 ---
 

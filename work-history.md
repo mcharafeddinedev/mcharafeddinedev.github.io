@@ -8,6 +8,8 @@ nav_order: 3
 
 Open to gameplay engineering and technical design work, including generalist, production, and QA-adjacent roles.
 
+**Resume (PDF):** [MC_1PageResume.pdf](/assets/MC_1PageResume.pdf)
+
 ---
 
 ## Independent Development

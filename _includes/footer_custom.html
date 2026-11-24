@@ -23,6 +23,16 @@
   if (path === '/' || path === '/index' || path === '/index.html') {
     document.body.classList.add('page-home');
   }
+
+  var siteTitle = document.querySelector('.site-header .site-title');
+  if (siteTitle && !siteTitle.querySelector('.studio-mark')) {
+    var mark = document.createElement('img');
+    mark.className = 'studio-mark';
+    mark.src = '{{ '/assets/images/gli-neon-logo.png' | relative_url }}';
+    mark.alt = '';
+    mark.setAttribute('aria-hidden', 'true');
+    siteTitle.appendChild(mark);
+  }
   if (path === '/projects' || path === '/projects.html' || /\/projects\/?$/.test(path)) {
     document.body.classList.add('page-projects');
   }
